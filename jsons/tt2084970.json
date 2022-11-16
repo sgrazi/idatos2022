@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt2084970",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00R7FRTWI/ref=atv_sr_def_c_unkc_7_1_7?sr=1-7&pageTypeIdSource=ASIN&pageTypeId=B00VFTA70I&qid=1656037500&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-imitation-game/id1217935395?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Imitation_Game?gl=US&hl=en&id=FUE0Ip9FicY.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Netflix",
+            "id": "5d81fe2fd51bef0f42268f0f",
+            "url": "https://www.netflix.com/title/70295172",
+            "name": "NetflixIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/NetflixIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt2084970",
+            "id": "tt2084970"
+         }
+      },
+      "id": "5d97da999a76a40056de4951",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/df9f819a96dab5341444df5cfba847a1/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Imitation Game"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt1821549",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/nebraska/umc.cmc.720hw4m74cpapl8p8bvhb196l?playableId=tvs.sbd.9001%3a741312762",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Nebraska?gl=US&hl=en&id=xFjGZ1bAR9E",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.02a9f740-c854-fa0b-2ca6-af485653542b&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.02a9f740-c854-fa0b-2ca6-af485653542b&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt1821549",
+            "id": "tt1821549"
+         }
+      },
+      "id": "5d97d9f19a76a40056de0b50",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/e020909c615c2a5dc23545ed79c30fb1/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Nebraska"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

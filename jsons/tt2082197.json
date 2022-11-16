@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt2082197",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Netflix",
+            "id": "5d81fe2fd51bef0f42268f0f",
+            "url": "https://www.netflix.com/title/70219525",
+            "name": "NetflixIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/NetflixIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt2082197",
+            "id": "tt2082197"
+         }
+      },
+      "id": "5e28ebebe847f9277fa0408f",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/6f5b9afb149819b3f1c505ff70823358/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Barfi!"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

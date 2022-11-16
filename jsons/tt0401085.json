@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0401085",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/crazy/umc.cmc.4x0yysrb2dvade6y19sjghlxv?playableId=tvs.sbd.9001%3a1610410780",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/C_R_A_Z_Y?gl=US&hl=en&id=FaFkaWRtYa4.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.80af9695-b0fe-4202-a9f8-244f8674366a&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0401085",
+            "id": "tt0401085"
+         }
+      },
+      "id": "61870afba72a55a8816ef18e",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/05b3c8bbcb7dd84c5df5461ea9b79624/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "C.R.A.Z.Y."
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

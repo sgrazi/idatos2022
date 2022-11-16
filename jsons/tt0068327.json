@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0068327",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/cabaret/umc.cmc.16i9hwok5xqdwtwq7hayrxu9a?playableId=tvs.sbd.9001%3a278873289",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Cabaret_1972?gl=US&hl=en&id=eSIdGAqz4D4",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.2ab372ad-4810-8aaf-e9cc-859f845086d8&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0068327",
+            "id": "tt0068327"
+         }
+      },
+      "id": "5e28ec20e847f9277fa05584",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/0124694ec2f1c77eb5160b76b8601cc0/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Cabaret"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

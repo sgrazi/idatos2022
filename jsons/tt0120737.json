@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0120737",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/the-lord-of-the-rings-the-fellowship-of-the-ring/umc.cmc.29au6l8rcr4g5zhuwcx0euri1?playableId=tvs.sbd.9001%3a291360661",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring?gl=US&hl=en&id=ycXTHX07SlU.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.d2a9f720-8640-d943-1417-d0ad5e3a82fb&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.d2a9f720-8640-d943-1417-d0ad5e3a82fb&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0120737",
+            "id": "tt0120737"
+         }
+      },
+      "id": "5d97daf99a76a40056de7398",
+      "weight": 9893,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/5a34b4bbf494b7f675aba4f842086128/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Lord of the Rings: The Fellowship of the Ring"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

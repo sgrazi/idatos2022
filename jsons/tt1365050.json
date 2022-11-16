@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt1365050",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Netflix",
+            "id": "5d81fe2fd51bef0f42268f0f",
+            "url": "https://www.netflix.com/title/80044545",
+            "name": "NetflixIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/NetflixIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt1365050",
+            "id": "tt1365050"
+         }
+      },
+      "id": "5e28ebece847f9277fa041cf",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/f6f42cbada30c4585b88fe283bfa61ad/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Beasts of No Nation"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

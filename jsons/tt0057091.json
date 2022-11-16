@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0057091",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-leopard/id273058482?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Leopard?gl=US&hl=en&id=pz7fMcJSEh4",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.82a9f76e-6fe0-aaf4-f8be-53e20ca22e3c&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0057091",
+            "id": "tt0057091"
+         }
+      },
+      "id": "5e2ce0be90c0e033a4880e55",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/b697f3ab242b2a3bad7c5a2859dae105/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Leopard"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

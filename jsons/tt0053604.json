@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0053604",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/the-apartment/umc.cmc.1720r16d0p7cvx2aciwwxotnj?playableId=tvs.sbd.9001%3a303904676",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Apartment?gl=US&hl=en&id=rk_W5wGe4nE.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.66b36375-b263-2eb1-df60-7509a1021e8d&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0053604",
+            "id": "tt0053604"
+         }
+      },
+      "id": "5d97daa69a76a40056de5b5e",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/560db76fc82a50fb0bac086c9f2ddf3f/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Apartment"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

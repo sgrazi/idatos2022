@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt2377938",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Special_26?id=2Tx7pJrmBBs&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Netflix",
+            "id": "5d81fe2fd51bef0f42268f0f",
+            "url": "https://www.netflix.com/title/70273637",
+            "name": "NetflixIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/NetflixIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/special-26/umc.cmc.63al9hn89j5pw94h3gblrioh2?playableId=tvs.sbd.9001%3a1086312470",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.30a9f7b3-f30d-8816-8092-fdb2e52b5561&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt2377938",
+            "id": "tt2377938"
+         }
+      },
+      "id": "5d97daae9a76a40056de634b",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/6b844a6e4d56a292469d2d6d9dfbed1b/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Special Chabbis"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

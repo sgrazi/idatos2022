@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0073486",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/One_Flew_Over_The_Cuckoo_s_Nest?id=yBtH8armKe0.P&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B000LY5AN2/ref=atv_sr_def_c_unkc_13_1_13?sr=1-13&pageTypeIdSource=ASIN&pageTypeId=B008Q0BXUM&qid=1656038966&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/one-flew-over-the-cuckoos-nest/id278291787?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0073486",
+            "id": "tt0073486"
+         }
+      },
+      "id": "5d97da069a76a40056de20df",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/73ecfa93780424350b60f71e4558748e/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "One Flew Over the Cuckoo's Nest"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

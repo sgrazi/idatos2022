@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt5074352",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Netflix",
+            "id": "5d81fe2fd51bef0f42268f0f",
+            "url": "https://www.netflix.com/title/80166185",
+            "name": "NetflixIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/NetflixIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt5074352",
+            "id": "tt5074352"
+         }
+      },
+      "id": "5e2ce07190c0e033a487d759",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/e8ab1ea66f4b01877f2a21d000bf08f6/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Dangal"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0091763",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://www.amazon.com/gp/video/detail/B000ZLPRJ8/ref=atv_dp&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Platoon?id=dZmTqcXOtgE&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/platoon/id268171320?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.a0a9f74e-f23b-5132-745b-ebcd65d664d4&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0091763",
+            "id": "tt0091763"
+         }
+      },
+      "id": "5d97da4a9a76a40056de32dc",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/3a3fe0ae00ebb1103e0b33da6f7e18e0/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Platoon"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0167260",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/the-lord-of-the-rings-return-of-the-king/umc.cmc.57s6i23z9ry0zsgwwc2mxjqi6?playableId=tvs.sbd.9001%3a297709333",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Lord_of_the_Rings_The_The_Return_of_the_King?gl=US&hl=en&id=akdt_p3CoFY.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.46a9f72d-bdca-4d8b-f07f-07cb50b29b35&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.78a9f711-7801-7140-c0c5-f15ee0d83a33&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0167260",
+            "id": "tt0167260"
+         }
+      },
+      "id": "5d97daff9a76a40056de7cdb",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/f7054723bf8e9e9e2ba1fe8074946cfe/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Lord of the Rings: The Return of the King"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

@@ -1,0 +1,55 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt1045658",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/silver-linings-playbook/id1217954443?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Silver_Linings_Playbook?id=4J1NDW_Bwcw.P&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00BYKIKJS/ref=atv_sr_def_c_unkc_14_1_14?sr=1-14&pageTypeIdSource=ASIN&pageTypeId=B00CL68BK2&qid=1656037831&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "AppleTV+",
+            "id": "5e237da036f2f6c40ea51fe7",
+            "url": "https://tv.apple.com/us/movie/silver-linings-playbook/umc.cmc.oilatjsell3m04qlizl86xn0",
+            "name": "AppleTvPlusIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AppleTvPlusIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Netflix",
+            "id": "5d81fe2fd51bef0f42268f0f",
+            "url": "https://www.netflix.com/title/70244164",
+            "name": "NetflixIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/NetflixIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt1045658",
+            "id": "tt1045658"
+         }
+      },
+      "id": "5d97da3e9a76a40056de2446",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/1b2dd14ec4f8c8212268fed567c92e01/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Silver Linings Playbook"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

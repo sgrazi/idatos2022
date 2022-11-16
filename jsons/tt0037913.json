@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0037913",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Mildred_Pierce?id=1wGKyOy6Bp4&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/mildred-pierce/umc.cmc.488zh4wuhd5cjweomrt4lyg7g?playableId=tvs.sbd.9001%3a426170840",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.fca9f734-e060-c239-0e38-51fa8f5ec2c7&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0037913",
+            "id": "tt0037913"
+         }
+      },
+      "id": "5d97d9eb9a76a40056de0560",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/3cb37b59160972db607cb31a2b14af98/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Mildred Pierce"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

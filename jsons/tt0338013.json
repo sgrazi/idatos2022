@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0338013",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/eternal-sunshine-of-the-spotless-mind/umc.cmc.4sao10xsyfeqf1t185lhrvo65?playableId=tvs.sbd.9001%3a303440550",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Eternal_Sunshine_of_the_Spotless_Mind?gl=US&hl=en&id=NnqPCBAp2fM",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.6ea9f799-61a1-0498-97e6-0aecca75d7e8&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0338013",
+            "id": "tt0338013"
+         }
+      },
+      "id": "62c099c507f227c0014d8d4e",
+      "weight": 0,
+      "picture": "https://utellyassets9-2.imgix.net/api/Images/d550058e6a960a127b732df2a18c3b3e/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Eternal Sunshine of the Spotless Mind"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

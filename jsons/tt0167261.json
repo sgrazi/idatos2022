@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0167261",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/the-lord-of-the-rings-the-two-towers/umc.cmc.6vre5k3uptb2mrfml73kd9veg?playableId=tvs.sbd.9001%3a297473704",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Lord_of_The_Rings_The_Two_Towers_Extended_Edit?gl=US&hl=en&id=0vKE6y1TgT4.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.5ea9f763-c51d-5ea0-d40c-6fe4cd576b22&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.5ea9f763-c51d-5ea0-d40c-6fe4cd576b22&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0167261",
+            "id": "tt0167261"
+         }
+      },
+      "id": "5d97db039a76a40056de8256",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/456815e4f0e2184180a4f31f5c8c8ce7/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Lord of the Rings: The Two Towers"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

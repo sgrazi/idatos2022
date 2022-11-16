@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0347048",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B004I6G6VE/ref=atv_sr_def_c_unkc_2_1_2?sr=1-2&pageTypeIdSource=ASIN&pageTypeId=B004I6G6VE&qid=1646007210&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0347048",
+            "id": "tt0347048"
+         }
+      },
+      "id": "5e2ce0b190c0e033a487f994",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/fef225f67b41784acb866c89af15debd/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Head-On"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

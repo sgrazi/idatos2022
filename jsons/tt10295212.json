@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt10295212",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://www.amazon.com/gp/video/detail/B09C38LX3P/ref=atv_dp&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt10295212",
+            "id": "tt10295212"
+         }
+      },
+      "id": "61217c8d6e7a9d3bb0287cf8",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/d23f3ec74e775e6431be39449ea56c11/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Shershaah"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

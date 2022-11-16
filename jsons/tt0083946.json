@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0083946",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00MY38KS0/ref=atv_sr_def_c_unkc_19_1_19?sr=1-19&pageTypeIdSource=ASIN&pageTypeId=B00N5PF0Q6&qid=1656037490&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/fitzcarraldo/id1514730239?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Werner_Herzog_film_collection_Fitzcarraldo?gl=US&hl=en&id=rgYgaJ40mc0",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0083946",
+            "id": "tt0083946"
+         }
+      },
+      "id": "5e2ce08190c0e033a487f28b",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/6c681bf85e6c01deccc76f1c39188039/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Fitzcarraldo"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

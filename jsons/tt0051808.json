@@ -1,0 +1,34 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0051808",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B004CXGZSW/ref=atv_sr_def_c_unkc_4_1_4?sr=1-4&pageTypeIdSource=ASIN&pageTypeId=B00J2PDPOC&qid=1645998807&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-hidden-fortress/id805020408?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0051808",
+            "id": "tt0051808"
+         }
+      },
+      "id": "5d992d7d302b840050536557",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/04a6782e6c3060e6cab887d96a22c10b/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Hidden Fortress"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

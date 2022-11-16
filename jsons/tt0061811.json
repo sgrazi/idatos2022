@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0061811",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/in-the-heat-of-the-night/umc.cmc.46tu2s4dbr4ps2eyclw3oujaw?playableId=tvs.sbd.9001%3a293958486",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/In_the_Heat_of_the_Night?gl=US&hl=en&id=OhspksNG1U0",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.78a9f716-64ad-d65a-851f-3db45c949c24&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0061811",
+            "id": "tt0061811"
+         }
+      },
+      "id": "5e2ce0bf90c0e033a4880fee",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/ba01fa53ae8ddc68457321bf96426ec0/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "In the Heat of the Night"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

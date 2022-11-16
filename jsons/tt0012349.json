@@ -1,0 +1,34 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0012349",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-kid/id614992889?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00C9V0Z8K/ref=atv_sr_def_c_unkc_17_1_17?sr=1-17&pageTypeIdSource=ASIN&pageTypeId=B00C9V2PBU&qid=1656047774&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0012349",
+            "id": "tt0012349"
+         }
+      },
+      "id": "5d97da9e9a76a40056de5004",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/3e0b20875a6da239a9319a1044c6c695/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Kid"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

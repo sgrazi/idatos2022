@@ -1,0 +1,34 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0015648",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B002Q7DF66/ref=atv_sr_def_c_unkc_6_1_6?sr=1-6&pageTypeIdSource=ASIN&pageTypeId=B002Q7DF66&qid=1646001040&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/battleship-potemkin/id1355539037?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0015648",
+            "id": "tt0015648"
+         }
+      },
+      "id": "5e28ec1ee847f9277fa0518b",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/55e431f7a81c007b57991527c3794d8a/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Battleship Potemkin"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

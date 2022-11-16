@@ -1,0 +1,34 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0027977",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/modern-times/id481548902?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B004DARF6A/ref=atv_sr_def_c_unkc_8_1_8?sr=1-8&pageTypeIdSource=ASIN&pageTypeId=B004DAT01I&qid=1645998262&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0027977",
+            "id": "tt0027977"
+         }
+      },
+      "id": "5d97d9ed9a76a40056de067b",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/93cbca0e88ae81fd585482091e70a4cc/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Modern Times"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

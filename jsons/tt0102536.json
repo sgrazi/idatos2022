@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0102536",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00A5IXH4I/ref=atv_sr_def_c_unkc_9_1_9?sr=1-9&pageTypeIdSource=ASIN&pageTypeId=B00A5IXH4I&qid=1646001809&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0102536",
+            "id": "tt0102536"
+         }
+      },
+      "id": "5d97d9fa9a76a40056de1414",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/5ab5cb7ae66e317e9c59eab3ad5cb85d/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Night on Earth"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

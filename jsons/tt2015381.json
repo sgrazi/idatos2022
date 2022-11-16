@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt2015381",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/guardians-of-the-galaxy/umc.cmc.71igdwen6ko2dlhwaw12vbdh?playableId=tvs.sbd.9001%3a899347364",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Marvel_Studios_Guardians_of_the_Galaxy?gl=US&hl=en&id=-FWBAhCQYOQ.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.cea9f7ad-a767-ef1d-c9c3-85add3cb98e5&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Disney+",
+            "id": "5e220e9036f2f6c40e974ed6",
+            "url": "https://www.disneyplus.com/video/04667710-5866-4a77-be5d-a9f7265bdb5c",
+            "name": "DisneyPlusIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/DisneyPlusIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt2015381",
+            "id": "tt2015381"
+         }
+      },
+      "id": "5e2ce0b490c0e033a487ff90",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/e30af0096da737bbad30631441433cc9/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Guardians of the Galaxy"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

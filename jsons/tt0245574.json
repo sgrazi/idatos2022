@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0245574",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/y-tu-mama-tambien/umc.cmc.4ixngsy28yq7lebhchh27dnty?playableId=tvs.sbd.9001%3a571312202",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Y_Tu_Mam%C3%A1_Tambi%C3%A9n?gl=US&hl=en&id=BHUgptzl_gk.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.3ca9f787-8b8a-70f0-d450-f177e7114473&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0245574",
+            "id": "tt0245574"
+         }
+      },
+      "id": "5d992d78302b840050535f5f",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/7e8b9155ebff76755ddb2a9619229a02/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Y tu mamá también"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

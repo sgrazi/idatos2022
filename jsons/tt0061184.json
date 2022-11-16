@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0061184",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/whos-afraid-of-virginia-woolf/umc.cmc.5gji9t0zaki9q68s7ssjkjmwl?playableId=tvs.sbd.9001%3a279598517",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Who_s_Afraid_Of_Virginia_Woolf?gl=US&hl=en&id=2gzVL7k8rL4.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ea9f79d-81dc-da96-b55c-ee7cbe9d4752&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0061184",
+            "id": "tt0061184"
+         }
+      },
+      "id": "5d992d77302b840050535e67",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/d7b41672e954e9cbb71bce7bc3cda761/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Who's Afraid of Virginia Woolf?"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

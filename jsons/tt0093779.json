@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0093779",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-princess-bride/id263952053?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Princess_Bride?gl=US&hl=en&id=54G7445LL-0.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.8ca9f722-d9a1-ff0a-3c9b-dc5a1de58264&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Disney+",
+            "id": "5e220e9036f2f6c40e974ed6",
+            "url": "https://www.disneyplus.com/video/f464a427-f39b-4c20-bd29-be0cc2f17e88",
+            "name": "DisneyPlusIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/DisneyPlusIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0093779",
+            "id": "tt0093779"
+         }
+      },
+      "id": "5d97dafb9a76a40056de7754",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/d48b3648159ad32219a4c2fbb9722a92/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Princess Bride"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

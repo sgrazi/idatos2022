@@ -1,0 +1,34 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0057565",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/high-and-low/umc.cmc.237ylizkxs3cmigiif1704icu?playableId=tvs.sbd.9001%3a897733078",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.d2a9f752-ff6d-6d0b-10ea-ff3fa2a055b5&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0057565",
+            "id": "tt0057565"
+         }
+      },
+      "id": "5d992d7b302b8400505362dd",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/c2c68dee9f9e96c7bfdd808d288ee54e/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "High and Low"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

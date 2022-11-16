@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt2278388",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00JB3AOEY/ref=atv_sr_def_c_unkc_20_1_20?sr=1-20&pageTypeIdSource=ASIN&pageTypeId=B00JB3O6H0&qid=1656039089&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-grand-budapest-hotel/id828777452?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Grand_Budapest_Hotel?gl=US&hl=en&id=uC4n3_EK_kA",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt2278388",
+            "id": "tt2278388"
+         }
+      },
+      "id": "5d97daa39a76a40056de580b",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/665e62042d3ef6deec378ed3208d20f1/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Grand Budapest Hotel"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

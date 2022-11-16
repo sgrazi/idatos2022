@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0880502",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.06a9f74e-d88e-1040-a8b4-535c09949140&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0880502",
+            "id": "tt0880502"
+         }
+      },
+      "id": "5e28ebe9e847f9277fa03cb5",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/4789b9bee468a688e22974cc2232a63b/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Edge of Heaven"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

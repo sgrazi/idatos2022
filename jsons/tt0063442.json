@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0063442",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B0053EZWOW/ref=atv_sr_def_c_unkc_15_1_15?sr=1-15&pageTypeIdSource=ASIN&pageTypeId=B009EEM0S8&qid=1656037996&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/planet-of-the-apes-1968/id435011890?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Planet_of_the_Apes_68?gl=US&hl=en&id=3KOQPNELMY4",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0063442",
+            "id": "tt0063442"
+         }
+      },
+      "id": "5d97da4e9a76a40056de36f6",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/f1f36bbd3d2fcde14e4979bf4dec7dec/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Planet of the Apes"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

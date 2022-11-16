@@ -1,0 +1,34 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt9477520",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Asuran?gl=US&hl=en&id=gaA-Wta90NQ.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://www.amazon.com/gp/video/detail/B08KWMM5T6/ref=atv_dp&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt9477520",
+            "id": "tt9477520"
+         }
+      },
+      "id": "5d992d75302b840050535b47",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/f1e84b00d5845389bf89e080c0ab1ed2/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Asuran"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

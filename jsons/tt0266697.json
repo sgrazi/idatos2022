@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0266697",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/kill-bill-vol-1/umc.cmc.4wuzuc41xoivfyy271n49lcaq?playableId=tvs.sbd.9001%3a1520274566",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Kill_Bill_Volume_1?gl=US&hl=en&id=1LPyLVqB9EU.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.50a9f74e-9c59-acd9-89c8-1329cef5df99&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0266697",
+            "id": "tt0266697"
+         }
+      },
+      "id": "5e2ce0ef90c0e033a4881c78",
+      "weight": 0,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/e02c84d1d42275f560b6401f3c012041/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Kill Bill: Vol. 1"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

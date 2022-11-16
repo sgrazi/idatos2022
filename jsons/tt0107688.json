@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0107688",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/the-nightmare-before-christmas/umc.cmc.15sv1obrzlxhuf2xhjftbr6ab?playableId=tvs.sbd.9001%3a281660706",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Nightmare_Before_Christmas?gl=US&hl=en&id=o9KE6n3x6O8",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://watch.amazon.com/watch?gti=amzn1.dv.gti.42a9f7ab-1870-4858-b27f-56d5b2f5a83c&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Disney+",
+            "id": "5e220e9036f2f6c40e974ed6",
+            "url": "https://www.disneyplus.com/video/4cba979b-f9dd-41bd-84d5-f5c90e4ef809",
+            "name": "DisneyPlusIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/DisneyPlusIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0107688",
+            "id": "tt0107688"
+         }
+      },
+      "id": "5d97db049a76a40056de8348",
+      "weight": 9900,
+      "picture": "https://utellyassets9-3.imgix.net/api/Images/106ed1ee7a613e22024590594c29907a/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Nightmare Before Christmas"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

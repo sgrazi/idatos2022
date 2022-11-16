@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt10280296",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://www.amazon.com/gp/video/detail/B09J21ZP88/ref=atv_dp&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt10280296",
+            "id": "tt10280296"
+         }
+      },
+      "id": "617dad136a0f55addcab4b27",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/75102929cf1b27d30b6d152c8056b27b/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Sardar Udham"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

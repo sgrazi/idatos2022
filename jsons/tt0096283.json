@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0096283",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/My_Neighbor_Totoro_Original_Japanese_Version?id=BywZfxjmdzc.P&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B08123SMCH/ref=atv_sr_def_c_unkc_13_1_13?sr=1-13&pageTypeIdSource=ASIN&pageTypeId=B08123SMCH&qid=1656046502&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://tv.apple.com/us/movie/my-neighbor-totoro/umc.cmc.4j11jg8g8n6tei5d7cupfy40k?playableId=tvs.sbd.9001%3a1485324750",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0096283",
+            "id": "tt0096283"
+         }
+      },
+      "id": "5e2dc2628d2a55563504bd5d",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/611f31f1be4f4c4afe2e8781d4fd17f3/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "My Neighbour Totoro"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

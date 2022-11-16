@@ -1,0 +1,27 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt15097216",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Prime Video",
+            "id": "5d8257243ed3f000513540ec",
+            "url": "https://www.amazon.com/gp/video/detail/B09KNZL3SF/ref=atv_dp&tag=utellycom00-21",
+            "name": "AmazonPrimeVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonPrimeVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt15097216",
+            "id": "tt15097216"
+         }
+      },
+      "id": "61882d59deaad762873b9984",
+      "weight": 0,
+      "picture": "https://utellyassets9-4.imgix.net/api/Images/43844317f8ae5798e3214b382ba5802f/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Jai Bhim"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

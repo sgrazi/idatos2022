@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0044081",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B00124LYHQ/ref=atv_sr_def_c_unkc_6_1_6?sr=1-6&pageTypeIdSource=ASIN&pageTypeId=B008Q07HT8&qid=1646002487&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/a-streetcar-named-desire/id272825830?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/A_Streetcar_Named_Desire?gl=US&hl=en&id=sTou4DCGjHQ.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0044081",
+            "id": "tt0044081"
+         }
+      },
+      "id": "5e28ebe1e847f9277fa02e09",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/97a92a6d5fcd3ded9e94c878e5ee0c8a/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "A Streetcar Named Desire"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

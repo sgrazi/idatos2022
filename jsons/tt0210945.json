@@ -1,0 +1,48 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0210945",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Disney+",
+            "id": "5e220e9036f2f6c40e974ed6",
+            "url": "https://www.disneyplus.com/movies/remember-the-titans/6itmwJfRJIfd",
+            "name": "DisneyPlusIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/DisneyPlusIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B08NY4GR5H/ref=atv_sr_def_c_unkc_5_1_5?sr=1-5&pageTypeIdSource=ASIN&pageTypeId=B08NY4JJ2Y&qid=1645996851&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/Remember_the_Titans?id=xnto5LyEdIU.P&hl=en&gl=US",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/remember-the-titans/id188765164?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0210945",
+            "id": "tt0210945"
+         }
+      },
+      "id": "5d97da5c9a76a40056de4895",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/54a5c988fce4bb6b08756c4e73ae0e33/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "Remember the Titans"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}

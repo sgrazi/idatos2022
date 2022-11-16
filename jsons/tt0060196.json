@@ -1,0 +1,41 @@
+{
+   "variant": "rapidapi_basic",
+   "id": "tt0060196",
+   "collection": {
+      "locations": [
+         {
+            "display_name": "Amazon Instant Video",
+            "id": "5d82609332ac2f0051962fe6",
+            "url": "https://www.amazon.com/gp/video/detail/B0011XBLUS/ref=atv_sr_def_c_unkc_14_1_14?sr=1-14&pageTypeIdSource=ASIN&pageTypeId=B00AQB6YDA&qid=1656038905&tag=utellycom00-21",
+            "name": "AmazonInstantVideoIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/AmazonInstantVideoIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "iTunes",
+            "id": "5d80a9a5d51bef861d3740d3",
+            "url": "https://itunes.apple.com/us/movie/the-good-the-bad-and-the-ugly/id270778212?uo=4",
+            "name": "iTunesIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/iTunesIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         },
+         {
+            "display_name": "Google Play",
+            "id": "5d8260b128fbcd0052aed197",
+            "url": "https://play.google.com/store/movies/details/The_Good_The_Bad_And_The_Ugly?gl=US&hl=en&id=TxRix2pJPnM.P",
+            "name": "GooglePlayIVAUS",
+            "icon": "https://utellyassets7.imgix.net/locations_icons/utelly/black_new/GooglePlayIVAUS.png?w=92&auto=compress&app_version=4b332051-9795-4332-8447-e80ba4f0bb9c_1e1210o12022-11-15"
+         }
+      ],
+      "source_ids": {
+         "imdb": {
+            "url": "https://www.imdb.com/title/tt0060196",
+            "id": "tt0060196"
+         }
+      },
+      "id": "5e2ce0bd90c0e033a4880e2e",
+      "weight": 0,
+      "picture": "https://utellyassets9-1.imgix.net/api/Images/62a49bc61779ce9e3ce13bb99b1d46d8/Redirect?fit=crop&auto=compress&crop=faces,top",
+      "name": "The Good, the Bad and the Ugly"
+   },
+   "status_code": 200,
+   "type": "imdb"
+}
