@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lrLIy9OFRQg4VkhrCyolfNXJEUH.jpg",
+         "id": 666,
+         "title": "Central Station",
+         "original_language": "pt",
+         "original_title": "Central do Brasil",
+         "overview": "An emotive journey of a former school teacher, who writes letters for illiterate people, and a young boy, whose mother has just died, as they search for the father he never knew.",
+         "poster_path": "/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.575,
+         "release_date": "1998-11-20",
+         "video": false,
+         "vote_average": 8.143,
+         "vote_count": 700
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

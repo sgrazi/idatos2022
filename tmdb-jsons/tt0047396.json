@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+         "id": 567,
+         "title": "Rear Window",
+         "original_language": "en",
+         "original_title": "Rear Window",
+         "overview": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+         "poster_path": "/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            9648
+         ],
+         "popularity": 20.443,
+         "release_date": "1954-08-01",
+         "video": false,
+         "vote_average": 8.4,
+         "vote_count": 5434
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

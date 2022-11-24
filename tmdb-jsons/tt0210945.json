@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+         "id": 10637,
+         "title": "Remember the Titans",
+         "original_language": "en",
+         "original_title": "Remember the Titans",
+         "overview": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone – tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+         "poster_path": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 21.185,
+         "release_date": "2000-09-29",
+         "video": false,
+         "vote_average": 7.601,
+         "vote_count": 2222
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

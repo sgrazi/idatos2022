@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg",
+         "id": 776,
+         "title": "The Rules of the Game",
+         "original_language": "fr",
+         "original_title": "La Règle du jeu",
+         "overview": "A weekend at a marquis’ country château lays bare some ugly truths about a group of haut bourgeois acquaintances.",
+         "poster_path": "/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35,
+            10749
+         ],
+         "popularity": 9.32,
+         "release_date": "1939-07-09",
+         "video": false,
+         "vote_average": 7.637,
+         "vote_count": 443
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

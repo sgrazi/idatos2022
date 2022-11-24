@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+         "id": 19542,
+         "title": "The Red Shoes",
+         "original_language": "en",
+         "original_title": "The Red Shoes",
+         "overview": "In this classic drama, Vicky Page is an aspiring ballerina torn between her dedication to dance and her desire to love. While her imperious instructor, Boris Lermontov, urges to her to forget anything but ballet, Vicky begins to fall for the charming young composer Julian Craster. Eventually Vicky, under great emotional stress, must choose to pursue either her art or her romance, a decision that carries serious consequences.",
+         "poster_path": "/vPvpBWFWDvEXuQBkoYgA6A89GVp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 9.969,
+         "release_date": "1948-09-06",
+         "video": false,
+         "vote_average": 8.053,
+         "vote_count": 482
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

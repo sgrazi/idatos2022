@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3ekis9Ry3lNwRzfh5rRhkLqfeVm.jpg",
+         "id": 1600,
+         "title": "The Double Life of Véronique",
+         "original_language": "fr",
+         "original_title": "La Double Vie de Véronique",
+         "overview": "Véronique is a beautiful young French woman who aspires to be a renowned singer; Weronika lives in Poland, has a similar career goal and looks identical to Véronique, though the two are not related. The film follows both women as they contend with the ups and downs of their individual lives, with Véronique embarking on an unusual romance with Alexandre Fabbri, a puppeteer who may be able to help her with her existential issues.",
+         "poster_path": "/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            9648,
+            14
+         ],
+         "popularity": 12.919,
+         "release_date": "1991-05-15",
+         "video": false,
+         "vote_average": 7.541,
+         "vote_count": 593
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

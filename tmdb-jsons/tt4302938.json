@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2nGKhDksmoDdkllXm5D5gy2urCg.jpg",
+         "id": 313297,
+         "title": "Kubo and the Two Strings",
+         "original_language": "en",
+         "original_title": "Kubo and the Two Strings",
+         "overview": "Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.",
+         "poster_path": "/aZJ6KK1Wt7YB4dgZ0qlpaX3PwNV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            12,
+            10751
+         ],
+         "popularity": 41.904,
+         "release_date": "2016-08-18",
+         "video": false,
+         "vote_average": 7.657,
+         "vote_count": 3168
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

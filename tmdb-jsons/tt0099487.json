@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+         "id": 162,
+         "title": "Edward Scissorhands",
+         "original_language": "en",
+         "original_title": "Edward Scissorhands",
+         "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+         "poster_path": "/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            18,
+            10749
+         ],
+         "popularity": 57.648,
+         "release_date": "1990-12-05",
+         "video": false,
+         "vote_average": 7.711,
+         "vote_count": 11332
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

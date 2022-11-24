@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+         "id": 8342,
+         "title": "No Man's Land",
+         "original_language": "bs",
+         "original_title": "No Man's Land",
+         "overview": "Two soldiers from opposite sites get stuck between the front lines in the same trench. The UN is asked to free them and both sides agree on a ceasefire, but will they stick to it?",
+         "poster_path": "/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            28,
+            36
+         ],
+         "popularity": 10.443,
+         "release_date": "2001-09-08",
+         "video": false,
+         "vote_average": 7.487,
+         "vote_count": 359
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/aoL6L4PCn89MHTVyMnmjwBFLmWX.jpg",
+         "id": 1954,
+         "title": "The Butterfly Effect",
+         "original_language": "en",
+         "original_title": "The Butterfly Effect",
+         "overview": "A young man struggles to access sublimated childhood memories. He finds a technique that allows him to travel back into the past, to occupy his childhood body and change history. However, he soon finds that every change he makes has unexpected consequences.",
+         "poster_path": "/l3ad5yv0Nn91zYPgeCjTvut2Nqg.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            878,
+            53
+         ],
+         "popularity": 36.157,
+         "release_date": "2004-01-17",
+         "video": false,
+         "vote_average": 7.54,
+         "vote_count": 6391
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

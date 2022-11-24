@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7PcDKhXxbYDQLfecOp2ywgNBmNB.jpg",
+         "id": 25364,
+         "title": "Ace in the Hole",
+         "original_language": "en",
+         "original_title": "Ace in the Hole",
+         "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+         "poster_path": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.804,
+         "release_date": "1951-06-29",
+         "video": false,
+         "vote_average": 7.9,
+         "vote_count": 519
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

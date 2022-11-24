@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uFZdPBbtJOJfuowufvpdVzhfyIw.jpg",
+         "id": 521,
+         "title": "Dial M for Murder",
+         "original_language": "en",
+         "original_title": "Dial M for Murder",
+         "overview": "An ex-tennis pro carries out a plot to have his wife murdered after discovering she is having an affair, and assumes she will soon leave him for the other man anyway. When things go wrong, he improvises a new plan—to frame her for murder instead.",
+         "poster_path": "/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            53
+         ],
+         "popularity": 12.919,
+         "release_date": "1954-05-29",
+         "video": false,
+         "vote_average": 8.025,
+         "vote_count": 2105
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

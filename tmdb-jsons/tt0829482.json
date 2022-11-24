@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bwYhIvGPh81gLRTx3gWnU0Ho6nc.jpg",
+         "id": 8363,
+         "title": "Superbad",
+         "original_language": "en",
+         "original_title": "Superbad",
+         "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+         "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 100.272,
+         "release_date": "2007-03-20",
+         "video": false,
+         "vote_average": 7.2,
+         "vote_count": 6065
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+         "id": 152742,
+         "title": "The Best Offer",
+         "original_language": "en",
+         "original_title": "La migliore offerta",
+         "overview": "Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family’s priceless art collection, Virgil allows himself to form an attachment to her – and soon he is engulfed by a passion which will rock his bland existence to the core.",
+         "poster_path": "/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749,
+            80
+         ],
+         "popularity": 14.385,
+         "release_date": "2013-01-01",
+         "video": false,
+         "vote_average": 7.835,
+         "vote_count": 2508
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

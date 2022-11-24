@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+         "id": 50014,
+         "title": "The Help",
+         "original_language": "en",
+         "original_title": "The Help",
+         "overview": "Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia \"Skeeter\" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around \"the help\"; yet they are always kept at a certain distance because of racial lines.",
+         "poster_path": "/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 70.386,
+         "release_date": "2011-08-09",
+         "video": false,
+         "vote_average": 8.198,
+         "vote_count": 6804
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

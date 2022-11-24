@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ziTptDmkMLIC50LB0to2OU3hwOy.jpg",
+         "id": 11602,
+         "title": "Through a Glass Darkly",
+         "original_language": "sv",
+         "original_title": "Såsom i en spegel",
+         "overview": "Karin hopes to recover from her recent stay at a mental hospital by spending the summer at her family's cottage on a tiny island. Her husband, Martin, cares for her but is frustrated by her physical withdrawal. Her younger brother, Minus, is confused by Karin's vulnerability and his own budding sexuality. Their father, David, cannot overcome his haughty remoteness. Beset by visions, Karin descends further into madness.",
+         "poster_path": "/rYD30Fm4vAcBqk1kTsxHw1s8P29.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 8.517,
+         "release_date": "1961-06-06",
+         "video": false,
+         "vote_average": 7.822,
+         "vote_count": 394
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

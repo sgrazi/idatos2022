@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+         "id": 983,
+         "title": "The Man Who Would Be King",
+         "original_language": "en",
+         "original_title": "The Man Who Would Be King",
+         "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
+         "poster_path": "/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            18
+         ],
+         "popularity": 11.632,
+         "release_date": "1975-12-03",
+         "video": false,
+         "vote_average": 7.507,
+         "vote_count": 495
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

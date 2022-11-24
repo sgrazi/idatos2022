@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hsDyfAk2ml82IrpPC4AHvxvuTsn.jpg",
+         "id": 8741,
+         "title": "The Thin Red Line",
+         "original_language": "en",
+         "original_title": "The Thin Red Line",
+         "overview": "The story of a group of men, an Army Rifle company called C-for-Charlie, who change, suffer, and ultimately make essential discoveries about themselves during the fierce World War II battle of Guadalcanal. It follows their journey, from the surprise of an unopposed landing, through the bloody and exhausting battles that follow, to the ultimate departure of those who survived.",
+         "poster_path": "/tMmX3tOOZDNlHY2AvUnQPyVsxXn.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 18.063,
+         "release_date": "1998-12-25",
+         "video": false,
+         "vote_average": 7.445,
+         "vote_count": 2489
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

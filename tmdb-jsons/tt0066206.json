@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kOPYCJJVodXk76DutR217BkundU.jpg",
+         "id": 11202,
+         "title": "Patton",
+         "original_language": "en",
+         "original_title": "Patton",
+         "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+         "poster_path": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10752,
+            18,
+            36
+         ],
+         "popularity": 15.089,
+         "release_date": "1970-01-25",
+         "video": false,
+         "vote_average": 7.502,
+         "vote_count": 872
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg",
+         "id": 57892,
+         "title": "Vizontele",
+         "original_language": "tr",
+         "original_title": "Vizontele",
+         "overview": "The story takes place in a small town (called Hakkari) in Turkey at the beginning of the 70's. The time has come to bring technology into that small town. The first Television (or called Visiontele by the citizens) arrives and the chaos begins.",
+         "poster_path": "/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 7.364,
+         "release_date": "2001-02-02",
+         "video": false,
+         "vote_average": 7.179,
+         "vote_count": 126
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

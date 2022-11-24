@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
+         "id": 5511,
+         "title": "Le Samouraï",
+         "original_language": "fr",
+         "original_title": "Le Samouraï",
+         "overview": "After carrying out a flawlessly planned hit, Jef Costello, a contract killer with samurai instincts, finds himself caught between a persistent police investigator and a ruthless employer, and not even his armor of fedora and trench coat can protect him.",
+         "poster_path": "/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            53
+         ],
+         "popularity": 12.238,
+         "release_date": "1967-10-25",
+         "video": false,
+         "vote_average": 7.865,
+         "vote_count": 800
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/o53YZOxru84Z9wgZwbwqF25bdOl.jpg",
+         "id": 261,
+         "title": "Cat on a Hot Tin Roof",
+         "original_language": "en",
+         "original_title": "Cat on a Hot Tin Roof",
+         "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son.",
+         "poster_path": "/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 10.891,
+         "release_date": "1958-08-29",
+         "video": false,
+         "vote_average": 7.701,
+         "vote_count": 620
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

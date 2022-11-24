@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+         "id": 840,
+         "title": "Close Encounters of the Third Kind",
+         "original_language": "en",
+         "original_title": "Close Encounters of the Third Kind",
+         "overview": "After an encounter with UFOs, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+         "poster_path": "/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            878,
+            18
+         ],
+         "popularity": 23.415,
+         "release_date": "1977-11-18",
+         "video": false,
+         "vote_average": 7.367,
+         "vote_count": 3538
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

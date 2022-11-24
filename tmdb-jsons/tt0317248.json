@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5p3aTxtUtZHCHwYsuycutmxIhND.jpg",
+         "id": 598,
+         "title": "City of God",
+         "original_language": "pt",
+         "original_title": "Cidade de Deus",
+         "overview": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+         "poster_path": "/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 36.436,
+         "release_date": "2002-02-05",
+         "video": false,
+         "vote_average": 8.416,
+         "vote_count": 6104
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

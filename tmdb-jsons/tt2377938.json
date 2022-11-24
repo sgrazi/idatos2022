@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg",
+         "id": 165904,
+         "title": "Special 26",
+         "original_language": "hi",
+         "original_title": "स्पेशल 26",
+         "overview": "In the early 1980s in India, a group of con artists rob well-known businessmen and politicians by posing as officers of the Central Bureau of Intelligence or income tax officials. The gang stages fake raids during which they steal great amounts of money from their targets.",
+         "poster_path": "/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 7.038,
+         "release_date": "2013-02-07",
+         "video": false,
+         "vote_average": 7.315,
+         "vote_count": 157
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

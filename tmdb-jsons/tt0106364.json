@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9BtUWZhigispqSUYhrS6cJHpvwx.jpg",
+         "id": 14919,
+         "title": "Batman: Mask of the Phantasm",
+         "original_language": "en",
+         "original_title": "Batman: Mask of the Phantasm",
+         "overview": "When a powerful criminal, who is connected to Bruce Wayne's ex-girlfriend, blames the Dark Knight for killing a crime lord, Batman decides to fight against him.",
+         "poster_path": "/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            16,
+            80,
+            9648
+         ],
+         "popularity": 17.954,
+         "release_date": "1993-12-25",
+         "video": false,
+         "vote_average": 7.516,
+         "vote_count": 867
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

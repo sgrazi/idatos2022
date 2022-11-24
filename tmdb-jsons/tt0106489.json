@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+         "id": 1607,
+         "title": "A Bronx Tale",
+         "original_language": "en",
+         "original_title": "A Bronx Tale",
+         "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+         "poster_path": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 23.427,
+         "release_date": "1993-09-14",
+         "video": false,
+         "vote_average": 7.779,
+         "vote_count": 1768
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

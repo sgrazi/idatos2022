@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7XmDhCTkce5GH8KCdbMoTZdxn1p.jpg",
+         "id": 1913,
+         "title": "The Sea Inside",
+         "original_language": "es",
+         "original_title": "Mar adentro",
+         "overview": "The Sea Inside is about Spaniard Ramón Sampedro, who fought a 30-year campaign to win the right to end his life with dignity. It is the story of Ramón’s relationships with two women: Julia a lawyer who supports his cause, and Rosa, a local woman who wants to convince him that life is worth living.",
+         "poster_path": "/mQW1JJKCUg02cmWBzr9JFu9vM1V.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 8.581,
+         "release_date": "2004-09-03",
+         "video": false,
+         "vote_average": 7.571,
+         "vote_count": 756
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

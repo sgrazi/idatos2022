@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wPApsZx55cmLpd7lEeV29PmjiYl.jpg",
+         "id": 527,
+         "title": "Once Were Warriors",
+         "original_language": "en",
+         "original_title": "Once Were Warriors",
+         "overview": "A drama about a Maori family living in Auckland, New Zealand. Lee Tamahori tells the story of Beth Heke’s strong will to keep her family together during times of unemployment and abuse from her violent and alcoholic husband.",
+         "poster_path": "/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 11.239,
+         "release_date": "1994-09-02",
+         "video": false,
+         "vote_average": 7.387,
+         "vote_count": 323
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

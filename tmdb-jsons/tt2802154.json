@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+         "id": 265180,
+         "title": "Leviathan",
+         "original_language": "ru",
+         "original_title": "Левиафан",
+         "overview": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.",
+         "poster_path": "/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 7.723,
+         "release_date": "2014-09-24",
+         "video": false,
+         "vote_average": 7.441,
+         "vote_count": 713
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

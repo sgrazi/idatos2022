@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/m3BXK5y41kNap7uBHQjjmHf2W40.jpg",
+         "id": 381341,
+         "title": "Perfect Strangers",
+         "original_language": "it",
+         "original_title": "Perfetti sconosciuti",
+         "overview": "During a dinner, a group of friends decide to share whatever message or phone call they will receive during the evening, with unforeseen consequences.",
+         "poster_path": "/3wknM629Vryofb1HNo2YnLQnQyn.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 13.515,
+         "release_date": "2016-02-11",
+         "video": false,
+         "vote_average": 7.873,
+         "vote_count": 3969
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

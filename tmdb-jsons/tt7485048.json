@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sEACj18R38zDPhyU7xWmLByDcwq.jpg",
+         "id": 534075,
+         "title": "Super 30",
+         "original_language": "hi",
+         "original_title": "सुपर 30",
+         "overview": "Based on life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+         "poster_path": "/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 4.793,
+         "release_date": "2019-07-12",
+         "video": false,
+         "vote_average": 7.582,
+         "vote_count": 73
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

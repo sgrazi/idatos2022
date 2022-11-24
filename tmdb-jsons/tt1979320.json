@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+         "id": 96721,
+         "title": "Rush",
+         "original_language": "en",
+         "original_title": "Rush",
+         "overview": "A biographical drama centered on the rivalry between Formula 1 drivers James Hunt and Niki Lauda during the 1976 Formula One motor-racing season.",
+         "poster_path": "/5akKFgS7eeXUw9rKTEujryKrH17.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            28
+         ],
+         "popularity": 26.933,
+         "release_date": "2013-09-02",
+         "video": false,
+         "vote_average": 7.704,
+         "vote_count": 6149
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

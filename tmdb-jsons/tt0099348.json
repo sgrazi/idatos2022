@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/aXKUodFZfaMMm2nM4rdekrNgvE2.jpg",
+         "id": 581,
+         "title": "Dances with Wolves",
+         "original_language": "en",
+         "original_title": "Dances with Wolves",
+         "overview": "Wounded Civil War soldier, John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+         "poster_path": "/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            18,
+            37
+         ],
+         "popularity": 26.028,
+         "release_date": "1990-03-30",
+         "video": false,
+         "vote_average": 7.859,
+         "vote_count": 3521
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

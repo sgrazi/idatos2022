@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+         "id": 5801,
+         "title": "Pather Panchali",
+         "original_language": "bn",
+         "original_title": "পথের পাঁচালী",
+         "overview": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+         "poster_path": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 7.515,
+         "release_date": "1955-08-26",
+         "video": false,
+         "vote_average": 8.063,
+         "vote_count": 295
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sWn488xLGp9SrPjZYuaIAaZE0dF.jpg",
+         "id": 334,
+         "title": "Magnolia",
+         "original_language": "en",
+         "original_title": "Magnolia",
+         "overview": "An epic mosaic of many interrelated characters in search of happiness, forgiveness, and meaning in the San Fernando Valley.",
+         "poster_path": "/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 16.845,
+         "release_date": "1999-12-10",
+         "video": false,
+         "vote_average": 7.725,
+         "vote_count": 2950
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

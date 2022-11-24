@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bGksau9GGu0uJ8DJQ8DYc9JW5LM.jpg",
+         "id": 77338,
+         "title": "The Intouchables",
+         "original_language": "fr",
+         "original_title": "Intouchables",
+         "overview": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
+         "poster_path": "/323BP0itpxTsO0skTwdnVmf7YC9.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 98.526,
+         "release_date": "2011-11-02",
+         "video": false,
+         "vote_average": 8.27,
+         "vote_count": 15166
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

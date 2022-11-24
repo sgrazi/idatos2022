@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+         "id": 3090,
+         "title": "The Treasure of the Sierra Madre",
+         "original_language": "en",
+         "original_title": "The Treasure of the Sierra Madre",
+         "overview": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+         "poster_path": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            18,
+            37
+         ],
+         "popularity": 9.571,
+         "release_date": "1948-01-15",
+         "video": false,
+         "vote_average": 8.02,
+         "vote_count": 942
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

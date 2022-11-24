@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+         "id": 1391,
+         "title": "Y Tu Mamá También",
+         "original_language": "es",
+         "original_title": "Y tu mamá también",
+         "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+         "poster_path": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 30.456,
+         "release_date": "2001-06-08",
+         "video": false,
+         "vote_average": 7.414,
+         "vote_count": 1213
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

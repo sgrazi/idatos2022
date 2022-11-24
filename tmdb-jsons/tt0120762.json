@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/rFxWhQB3JmmwCU5kcQQFrnpzGtF.jpg",
+         "id": 10674,
+         "title": "Mulan",
+         "original_language": "en",
+         "original_title": "Mulan",
+         "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+         "poster_path": "/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            10751,
+            12
+         ],
+         "popularity": 150.62,
+         "release_date": "1998-06-18",
+         "video": false,
+         "vote_average": 7.922,
+         "vote_count": 8354
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

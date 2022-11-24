@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/8kxhwABuQhoybGr6TPdrV8w5FLm.jpg",
+         "id": 2034,
+         "title": "Training Day",
+         "original_language": "en",
+         "original_title": "Training Day",
+         "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+         "poster_path": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            80,
+            18
+         ],
+         "popularity": 28.347,
+         "release_date": "2001-10-05",
+         "video": false,
+         "vote_average": 7.462,
+         "vote_count": 4924
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

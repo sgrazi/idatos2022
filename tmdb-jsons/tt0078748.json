@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hdHIjZxq3SWFqpAz4NFhdbud0iz.jpg",
+         "id": 348,
+         "title": "Alien",
+         "original_language": "en",
+         "original_title": "Alien",
+         "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+         "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            878
+         ],
+         "popularity": 54.143,
+         "release_date": "1979-05-25",
+         "video": false,
+         "vote_average": 8.136,
+         "vote_count": 12225
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg",
+         "id": 10377,
+         "title": "My Cousin Vinny",
+         "original_language": "en",
+         "original_title": "My Cousin Vinny",
+         "overview": "Two carefree pals traveling through Alabama are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
+         "poster_path": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 11.753,
+         "release_date": "1992-03-13",
+         "video": false,
+         "vote_average": 7.464,
+         "vote_count": 1209
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

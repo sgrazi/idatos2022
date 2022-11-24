@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/g6fLqVjQTuhHk0hpMIMHNJNyk2i.jpg",
+         "id": 1632,
+         "title": "Mississippi Burning",
+         "original_language": "en",
+         "original_title": "Mississippi Burning",
+         "overview": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his partner, a former sheriff.",
+         "poster_path": "/lKkuDmMNp88y5KsA2lB00g0MoWz.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53,
+            80,
+            36,
+            9648
+         ],
+         "popularity": 13.682,
+         "release_date": "1988-12-08",
+         "video": false,
+         "vote_average": 7.67,
+         "vote_count": 1338
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

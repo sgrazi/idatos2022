@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+         "id": 11481,
+         "title": "Repulsion",
+         "original_language": "en",
+         "original_title": "Repulsion",
+         "overview": "Beautiful young manicurist Carole suffers from androphobia (the pathological fear of interaction with men). When her sister and roommate, Helen, leaves their London flat to go on an Italian holiday with her married boyfriend, Carole withdraws into her apartment. She begins to experience frightful hallucinations, her fear gradually mutating into madness.",
+         "poster_path": "/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53,
+            27
+         ],
+         "popularity": 13.154,
+         "release_date": "1965-06-01",
+         "video": false,
+         "vote_average": 7.498,
+         "vote_count": 798
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

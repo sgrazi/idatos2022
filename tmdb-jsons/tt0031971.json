@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg",
+         "id": 995,
+         "title": "Stagecoach",
+         "original_language": "en",
+         "original_title": "Stagecoach",
+         "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+         "poster_path": "/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37,
+            12,
+            28,
+            18,
+            10749
+         ],
+         "popularity": 12.68,
+         "release_date": "1939-03-03",
+         "video": false,
+         "vote_average": 7.7,
+         "vote_count": 886
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

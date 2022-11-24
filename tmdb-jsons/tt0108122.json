@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+         "id": 695,
+         "title": "Short Cuts",
+         "original_language": "en",
+         "original_title": "Short Cuts",
+         "overview": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+         "poster_path": "/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 9.338,
+         "release_date": "1993-09-05",
+         "video": false,
+         "vote_average": 7.183,
+         "vote_count": 471
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

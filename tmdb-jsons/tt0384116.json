@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+         "id": 27275,
+         "title": "G.O.R.A.",
+         "original_language": "tr",
+         "original_title": "G.O.R.A.",
+         "overview": "Carpet dealer and UFO photo forger Arif is abducted by aliens and must outwit the evil commander-in-chief of G.O.R.A., the planet where he is being held.",
+         "poster_path": "/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            35,
+            878
+         ],
+         "popularity": 10.029,
+         "release_date": "2004-11-12",
+         "video": false,
+         "vote_average": 7.237,
+         "vote_count": 230
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

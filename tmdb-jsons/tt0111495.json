@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg",
+         "id": 110,
+         "title": "Three Colors: Red",
+         "original_language": "fr",
+         "original_title": "Trois couleurs : Rouge",
+         "overview": "Valentine, a student model in Geneva, struggles with a possessive boyfriend and a troubled family. When she runs over a dog, she discovers that its owner, a retired judge, is illegally wiretapping and eavesdropping on his neighbors' phone calls. Although Valentine is outraged, she develops a strange bond with the judge – and as the two become closer, she finds herself caught in the middle of events that could change her life.",
+         "poster_path": "/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            9648,
+            10749
+         ],
+         "popularity": 13.318,
+         "release_date": "1994-05-12",
+         "video": false,
+         "vote_average": 7.953,
+         "vote_count": 1092
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

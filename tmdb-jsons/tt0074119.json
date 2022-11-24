@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg",
+         "id": 891,
+         "title": "All the President's Men",
+         "original_language": "en",
+         "original_title": "All the President's Men",
+         "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+         "poster_path": "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            9648,
+            53
+         ],
+         "popularity": 15.823,
+         "release_date": "1976-01-18",
+         "video": false,
+         "vote_average": 7.693,
+         "vote_count": 1478
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

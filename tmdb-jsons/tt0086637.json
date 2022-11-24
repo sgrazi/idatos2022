@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+         "id": 11030,
+         "title": "Zelig",
+         "original_language": "en",
+         "original_title": "Zelig",
+         "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+         "poster_path": "/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 7.62,
+         "release_date": "1983-07-15",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 724
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+         "id": 330459,
+         "title": "Rogue One: A Star Wars Story",
+         "original_language": "en",
+         "original_title": "Rogue One: A Star Wars Story",
+         "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+         "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            878
+         ],
+         "popularity": 37.476,
+         "release_date": "2016-12-14",
+         "video": false,
+         "vote_average": 7.481,
+         "vote_count": 13586
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

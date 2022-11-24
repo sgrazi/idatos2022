@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+         "id": 100,
+         "title": "Lock, Stock and Two Smoking Barrels",
+         "original_language": "en",
+         "original_title": "Lock, Stock and Two Smoking Barrels",
+         "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+         "poster_path": "/8kSerJrhrJWKLk1LViesGcnrUPE.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 10.041,
+         "release_date": "1998-08-28",
+         "video": false,
+         "vote_average": 8.146,
+         "vote_count": 5681
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

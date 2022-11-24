@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+         "id": 975,
+         "title": "Paths of Glory",
+         "original_language": "en",
+         "original_title": "Paths of Glory",
+         "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+         "poster_path": "/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752
+         ],
+         "popularity": 19.058,
+         "release_date": "1957-10-25",
+         "video": false,
+         "vote_average": 8.296,
+         "vote_count": 2319
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

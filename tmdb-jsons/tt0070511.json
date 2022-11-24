@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1xTUtI25j3TpKtJ7dyFvqCP2qaO.jpg",
+         "id": 5924,
+         "title": "Papillon",
+         "original_language": "en",
+         "original_title": "Papillon",
+         "overview": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+         "poster_path": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18
+         ],
+         "popularity": 15.764,
+         "release_date": "1973-12-13",
+         "video": false,
+         "vote_average": 7.8,
+         "vote_count": 1569
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

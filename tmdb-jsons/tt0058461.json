@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cx5aDCc76lfuAKjEf4G4cN3oOl2.jpg",
+         "id": 391,
+         "title": "A Fistful of Dollars",
+         "original_language": "it",
+         "original_title": "Per un pugno di dollari",
+         "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+         "poster_path": "/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37
+         ],
+         "popularity": 24.333,
+         "release_date": "1964-01-18",
+         "video": false,
+         "vote_average": 7.878,
+         "vote_count": 3477
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

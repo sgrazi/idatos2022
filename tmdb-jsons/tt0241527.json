@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+         "id": 671,
+         "title": "Harry Potter and the Philosopher's Stone",
+         "original_language": "en",
+         "original_title": "Harry Potter and the Philosopher's Stone",
+         "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+         "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            14
+         ],
+         "popularity": 341.557,
+         "release_date": "2001-11-16",
+         "video": false,
+         "vote_average": 7.917,
+         "vote_count": 23584
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+         "id": 13528,
+         "title": "Gaslight",
+         "original_language": "en",
+         "original_title": "Gaslight",
+         "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+         "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            18,
+            9648,
+            80
+         ],
+         "popularity": 11.408,
+         "release_date": "1944-05-04",
+         "video": false,
+         "vote_average": 7.525,
+         "vote_count": 363
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

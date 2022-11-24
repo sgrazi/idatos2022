@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg",
+         "id": 26900,
+         "title": "The Bandit",
+         "original_language": "tr",
+         "original_title": "Eşkıya",
+         "overview": "Baran the Bandit, released from prison after serving 35 years, searches for vengeance against his former best friend who betrayed him and stole his lover, teaming up with a young punk with his own demons along the way.",
+         "poster_path": "/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 11.577,
+         "release_date": "1996-11-29",
+         "video": false,
+         "vote_average": 7.389,
+         "vote_count": 244
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

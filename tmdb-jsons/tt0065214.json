@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg",
+         "id": 576,
+         "title": "The Wild Bunch",
+         "original_language": "en",
+         "original_title": "The Wild Bunch",
+         "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+         "poster_path": "/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            37
+         ],
+         "popularity": 11.648,
+         "release_date": "1969-06-17",
+         "video": false,
+         "vote_average": 7.651,
+         "vote_count": 955
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

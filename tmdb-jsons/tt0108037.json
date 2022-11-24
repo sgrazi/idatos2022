@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg",
+         "id": 11528,
+         "title": "The Sandlot",
+         "original_language": "en",
+         "original_title": "The Sandlot",
+         "overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+         "poster_path": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10751,
+            35
+         ],
+         "popularity": 20.15,
+         "release_date": "1993-04-07",
+         "video": false,
+         "vote_average": 7.502,
+         "vote_count": 947
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

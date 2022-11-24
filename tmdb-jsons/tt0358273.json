@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/pMBKzEotLUzk3NuQiyVjZEDlH70.jpg",
+         "id": 69,
+         "title": "Walk the Line",
+         "original_language": "en",
+         "original_title": "Walk the Line",
+         "overview": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis and Carl Perkins.",
+         "poster_path": "/iIXy2T3fIxfKCBCJqkAnVBFPO8o.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10402,
+            10749
+         ],
+         "popularity": 17.806,
+         "release_date": "2005-09-13",
+         "video": false,
+         "vote_average": 7.494,
+         "vote_count": 2441
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

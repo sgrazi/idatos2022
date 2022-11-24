@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg",
+         "id": 4254,
+         "title": "Kal Ho Naa Ho",
+         "original_language": "hi",
+         "original_title": "कल हो ना हो",
+         "overview": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.",
+         "poster_path": "/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 10.977,
+         "release_date": "2003-11-27",
+         "video": false,
+         "vote_average": 7.456,
+         "vote_count": 310
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

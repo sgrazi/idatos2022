@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+         "id": 280,
+         "title": "Terminator 2: Judgment Day",
+         "original_language": "en",
+         "original_title": "Terminator 2: Judgment Day",
+         "overview": "Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.",
+         "poster_path": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53,
+            878
+         ],
+         "popularity": 76.925,
+         "release_date": "1991-07-03",
+         "video": false,
+         "vote_average": 8.083,
+         "vote_count": 10831
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

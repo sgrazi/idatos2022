@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+         "id": 1653,
+         "title": "The Motorcycle Diaries",
+         "original_language": "es",
+         "original_title": "Diarios de motocicleta",
+         "overview": "Based on the journals of Che Guevara, leader of the Cuban Revolution. In his memoirs, Guevara recounts adventures he and best friend Alberto Granado had while crossing South America by motorcycle in the early 1950s.",
+         "poster_path": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.539,
+         "release_date": "2004-02-06",
+         "video": false,
+         "vote_average": 7.421,
+         "vote_count": 1086
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg",
+         "id": 797,
+         "title": "Persona",
+         "original_language": "sv",
+         "original_title": "Persona",
+         "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer. The time they spend together only strengthens the crushing realization that one does not exist.",
+         "poster_path": "/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 15.402,
+         "release_date": "1966-10-18",
+         "video": false,
+         "vote_average": 8.256,
+         "vote_count": 1716
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

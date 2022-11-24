@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg",
+         "id": 2898,
+         "title": "As Good as It Gets",
+         "original_language": "en",
+         "original_title": "As Good as It Gets",
+         "overview": "New York City. Melvin Udall, a cranky, bigoted, obsessive-compulsive writer, finds his life turned upside down when neighboring gay artist Simon is hospitalized and his dog is entrusted to Melvin. In addition, Carol, the only waitress who will tolerate him, must leave work to care for her sick son, making it impossible for Melvin to eat breakfast.",
+         "poster_path": "/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749
+         ],
+         "popularity": 22.299,
+         "release_date": "1997-12-19",
+         "video": false,
+         "vote_average": 7.402,
+         "vote_count": 3163
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

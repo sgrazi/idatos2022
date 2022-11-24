@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+         "id": 119450,
+         "title": "Dawn of the Planet of the Apes",
+         "original_language": "en",
+         "original_title": "Dawn of the Planet of the Apes",
+         "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+         "poster_path": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            878,
+            28,
+            18,
+            53
+         ],
+         "popularity": 89.852,
+         "release_date": "2014-06-26",
+         "video": false,
+         "vote_average": 7.3,
+         "vote_count": 9792
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

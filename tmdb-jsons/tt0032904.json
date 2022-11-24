@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cItyRXbbuu5KTVeb9GLaovIRfb8.jpg",
+         "id": 981,
+         "title": "The Philadelphia Story",
+         "original_language": "en",
+         "original_title": "The Philadelphia Story",
+         "overview": "When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.",
+         "poster_path": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749
+         ],
+         "popularity": 8.598,
+         "release_date": "1940-12-05",
+         "video": false,
+         "vote_average": 7.662,
+         "vote_count": 694
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

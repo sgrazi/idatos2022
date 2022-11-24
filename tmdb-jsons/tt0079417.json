@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+         "id": 12102,
+         "title": "Kramer vs. Kramer",
+         "original_language": "en",
+         "original_title": "Kramer vs. Kramer",
+         "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+         "poster_path": "/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.756,
+         "release_date": "1979-12-07",
+         "video": false,
+         "vote_average": 7.57,
+         "vote_count": 1863
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

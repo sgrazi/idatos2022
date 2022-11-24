@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+         "id": 271110,
+         "title": "Captain America: Civil War",
+         "original_language": "en",
+         "original_title": "Captain America: Civil War",
+         "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+         "poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            28,
+            878
+         ],
+         "popularity": 113.948,
+         "release_date": "2016-04-27",
+         "video": false,
+         "vote_average": 7.437,
+         "vote_count": 20470
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

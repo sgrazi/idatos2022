@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+         "id": 996,
+         "title": "Double Indemnity",
+         "original_language": "en",
+         "original_title": "Double Indemnity",
+         "overview": "A rich woman and a calculating insurance agent plot to kill her unsuspecting husband after he signs a double indemnity policy. Against a backdrop of distinctly Californian settings, the partners in crime plan the perfect murder to collect the insurance, which pays double if the death is accidental.",
+         "poster_path": "/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+         ],
+         "popularity": 15.024,
+         "release_date": "1944-06-14",
+         "video": false,
+         "vote_average": 8.137,
+         "vote_count": 1442
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

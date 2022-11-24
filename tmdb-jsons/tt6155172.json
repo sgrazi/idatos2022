@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+         "id": 426426,
+         "title": "Roma",
+         "original_language": "es",
+         "original_title": "Roma",
+         "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
+         "poster_path": "/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 19.841,
+         "release_date": "2018-08-25",
+         "video": false,
+         "vote_average": 7.669,
+         "vote_count": 3517
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

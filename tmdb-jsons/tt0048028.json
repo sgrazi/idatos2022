@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/pDegV5zrrav1wVqhqcjuYlnlFjW.jpg",
+         "id": 220,
+         "title": "East of Eden",
+         "original_language": "en",
+         "original_title": "East of Eden",
+         "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+         "poster_path": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 10.423,
+         "release_date": "1955-04-10",
+         "video": false,
+         "vote_average": 7.608,
+         "vote_count": 599
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

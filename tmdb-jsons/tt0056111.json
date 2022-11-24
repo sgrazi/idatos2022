@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/h81gVvHitMCp5ZmLyFUjHX4zjd6.jpg",
+         "id": 31442,
+         "title": "Ivan's Childhood",
+         "original_language": "ru",
+         "original_title": "Иваново детство",
+         "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
+         "poster_path": "/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752
+         ],
+         "popularity": 8.844,
+         "release_date": "1962-05-09",
+         "video": false,
+         "vote_average": 7.894,
+         "vote_count": 549
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3YzVtvNERQOIJXnrcWv3xhj5EMT.jpg",
+         "id": 55,
+         "title": "Amores Perros",
+         "original_language": "es",
+         "original_title": "Amores perros",
+         "overview": "Sending shock waves through the Mexican film industry and the world, this blistering feature debut from Alejandro G. Iñárritu brought the director’s electrifying visual style and bravura multistrand storytelling to the screen with the heart-stopping impact of a primal scream. In Mexico City, the lives of three strangers—a young man mixed up in the gritty underworld of dogfighting, a glamorous woman who seems to have it all, and a mysterious assassin who is desperate to reconnect with his estranged daughter—collide in a tragic twist of fate that forever alters their personal journeys. A tour de force of violence and emotion captured in a rush of kinetic handheld camera work, Amores perros is an unforgettable plunge into a world of brutality and aching, interconnected humanity.",
+         "poster_path": "/vV4vlD4ool5JSsS1rB82qjCF6z8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 28.46,
+         "release_date": "2000-06-16",
+         "video": false,
+         "vote_average": 7.6,
+         "vote_count": 2134
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

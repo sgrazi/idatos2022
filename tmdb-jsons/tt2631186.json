@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xpu8enBAtOHo8KS5eGNONsC6GaS.jpg",
+         "id": 256040,
+         "title": "Bāhubali: The Beginning",
+         "original_language": "te",
+         "original_title": "బాహుబలి:ద బిగినింగ్",
+         "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+         "poster_path": "/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18
+         ],
+         "popularity": 46.427,
+         "release_date": "2015-07-10",
+         "video": false,
+         "vote_average": 7.559,
+         "vote_count": 613
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ljIF1JjdUUJtVW55x77vWSJxizQ.jpg",
+         "id": 235,
+         "title": "Stand by Me",
+         "original_language": "en",
+         "original_title": "Stand by Me",
+         "overview": "Gordie, Chris, Teddy and Vern are four friends who decide to hike to find the corpse of Ray Brower, a local teenager, who was hit by a train while plucking blueberries in the wild.",
+         "poster_path": "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18
+         ],
+         "popularity": 22.754,
+         "release_date": "1986-08-08",
+         "video": false,
+         "vote_average": 7.868,
+         "vote_count": 4798
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

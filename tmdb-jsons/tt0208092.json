@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ysKahAEPP8h6MInuLjr0xuZOTjh.jpg",
+         "id": 107,
+         "title": "Snatch",
+         "original_language": "en",
+         "original_title": "Snatch",
+         "overview": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+         "poster_path": "/56mOJth6DJ6JhgoE2jtpilVqJO.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            35
+         ],
+         "popularity": 27.074,
+         "release_date": "2000-09-01",
+         "video": false,
+         "vote_average": 7.796,
+         "vote_count": 7674
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

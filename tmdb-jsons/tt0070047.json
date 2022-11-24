@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+         "id": 9552,
+         "title": "The Exorcist",
+         "original_language": "en",
+         "original_title": "The Exorcist",
+         "overview": "12-year-old Regan MacNeil begins to adapt an explicit new personality as strange events befall the local area of Georgetown. Her mother becomes torn between science and superstition in a desperate bid to save her daughter, and ultimately turns to her last hope: Father Damien Karras, a troubled priest who is struggling with his own faith.",
+         "poster_path": "/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27
+         ],
+         "popularity": 88.001,
+         "release_date": "1973-12-26",
+         "video": false,
+         "vote_average": 7.725,
+         "vote_count": 6662
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2WZLSN9cdHCkJFbkj0oMfOfVHn8.jpg",
+         "id": 792,
+         "title": "Platoon",
+         "original_language": "en",
+         "original_title": "Platoon",
+         "overview": "As a young and naive recruit in Vietnam, Chris Taylor faces a moral crisis when confronted with the horrors of war and the duality of man.",
+         "poster_path": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752,
+            28
+         ],
+         "popularity": 32.305,
+         "release_date": "1986-12-19",
+         "video": false,
+         "vote_average": 7.749,
+         "vote_count": 3746
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

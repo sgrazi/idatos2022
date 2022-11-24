@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2BHjCq5fonp5r16qxGZ9VS3pHtw.jpg",
+         "id": 374473,
+         "title": "I, Daniel Blake",
+         "original_language": "en",
+         "original_title": "I, Daniel Blake",
+         "overview": "A middle aged carpenter, who requires state welfare after injuring himself, is joined by a single mother in a similar scenario.",
+         "poster_path": "/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.531,
+         "release_date": "2016-10-21",
+         "video": false,
+         "vote_average": 7.742,
+         "vote_count": 1186
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

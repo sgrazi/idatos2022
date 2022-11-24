@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3Ks9mqYpReb69av3RaHFJq4yhZ9.jpg",
+         "id": 37719,
+         "title": "A Night at the Opera",
+         "original_language": "en",
+         "original_title": "A Night at the Opera",
+         "overview": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+         "poster_path": "/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10402
+         ],
+         "popularity": 8.025,
+         "release_date": "1935-11-15",
+         "video": false,
+         "vote_average": 7.48,
+         "vote_count": 381
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

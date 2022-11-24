@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sIQHwBWIeTEJlZjOzUQylNFVYaR.jpg",
+         "id": 728118,
+         "title": "Quo Vadis, Aida?",
+         "original_language": "sr",
+         "original_title": "Quo Vadis, Aida?",
+         "overview": "Bosnia, July 1995. Aida is a translator for the UN in the small town of Srebrenica. When the Serbian army takes over the town, her family is among the thousands of citizens looking for shelter in the UN camp. As an insider to the negotiations Aida has access to crucial information that she needs to interpret. What is at the horizon for her family and people – rescue or death? Which move should she take?",
+         "poster_path": "/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10752,
+            18,
+            36
+         ],
+         "popularity": 11.92,
+         "release_date": "2021-02-26",
+         "video": false,
+         "vote_average": 7.626,
+         "vote_count": 234
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

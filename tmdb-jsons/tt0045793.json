@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+         "id": 11426,
+         "title": "From Here to Eternity",
+         "original_language": "en",
+         "original_title": "From Here to Eternity",
+         "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+         "poster_path": "/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10752,
+            10749,
+            18
+         ],
+         "popularity": 12.956,
+         "release_date": "1953-08-28",
+         "video": false,
+         "vote_average": 7.34,
+         "vote_count": 504
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

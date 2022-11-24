@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+         "id": 12761,
+         "title": "Autumn Sonata",
+         "original_language": "sv",
+         "original_title": "Höstsonaten",
+         "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
+         "poster_path": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 9.589,
+         "release_date": "1978-10-08",
+         "video": false,
+         "vote_average": 8.009,
+         "vote_count": 444
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

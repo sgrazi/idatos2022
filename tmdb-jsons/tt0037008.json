@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kgwKcBMrRcb9k0ixmtnZ4c30Qbk.jpg",
+         "id": 1939,
+         "title": "Laura",
+         "original_language": "en",
+         "original_title": "Laura",
+         "overview": "A police detective falls in love with the woman whose murder he's investigating.",
+         "poster_path": "/AtZFZSLN3rSMxTQYN9LRpQzDOgh.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            9648
+         ],
+         "popularity": 9.528,
+         "release_date": "1944-10-11",
+         "video": false,
+         "vote_average": 7.654,
+         "vote_count": 627
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

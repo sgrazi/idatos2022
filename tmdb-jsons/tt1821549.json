@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg",
+         "id": 129670,
+         "title": "Nebraska",
+         "original_language": "en",
+         "original_title": "Nebraska",
+         "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+         "poster_path": "/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            12
+         ],
+         "popularity": 8.704,
+         "release_date": "2013-09-21",
+         "video": false,
+         "vote_average": 7.439,
+         "vote_count": 1512
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

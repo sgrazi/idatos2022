@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+         "id": 600,
+         "title": "Full Metal Jacket",
+         "original_language": "en",
+         "original_title": "Full Metal Jacket",
+         "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+         "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752
+         ],
+         "popularity": 38.731,
+         "release_date": "1987-06-26",
+         "video": false,
+         "vote_average": 8.144,
+         "vote_count": 8922
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

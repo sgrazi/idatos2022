@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/prVH6SyQ6yDmzVxxkcr57zhLM5C.jpg",
+         "id": 433,
+         "title": "Mary Poppins",
+         "original_language": "en",
+         "original_title": "Mary Poppins",
+         "overview": "A magical nanny employs music and adventure to help two neglected children become closer to their father.",
+         "poster_path": "/9cC1X2uv2yXRl5l3NMDakINSGKW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10751,
+            14
+         ],
+         "popularity": 34.787,
+         "release_date": "1964-12-17",
+         "video": false,
+         "vote_average": 7.564,
+         "vote_count": 4094
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

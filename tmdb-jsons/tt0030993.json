@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/evKZkXjWbg9Nv623DXz9MZXFxr7.jpg",
+         "id": 34106,
+         "title": "You Can't Take It with You",
+         "original_language": "en",
+         "original_title": "You Can't Take It with You",
+         "overview": "Alice, the only relatively normal member of the eccentric Sycamore family, falls in love with Tony Kirby, but his wealthy banker father and snobbish mother strongly disapprove of the match. When the Kirbys are invited to dinner to become better acquainted with their future in-laws, things don't turn out the way Alice had hoped.",
+         "poster_path": "/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 14.113,
+         "release_date": "1938-09-01",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 303
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

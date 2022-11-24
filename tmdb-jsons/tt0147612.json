@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gYEabrXgYcGkSUXCbYMgIXJEsEs.jpg",
+         "id": 10683,
+         "title": "Happiness",
+         "original_language": "en",
+         "original_title": "Happiness",
+         "overview": "The lives of many individuals connected by the desire for happiness, often from sources usually considered dark or evil.",
+         "poster_path": "/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 9.588,
+         "release_date": "1998-10-16",
+         "video": false,
+         "vote_average": 7.503,
+         "vote_count": 639
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+         "id": 601,
+         "title": "E.T. the Extra-Terrestrial",
+         "original_language": "en",
+         "original_title": "E.T. the Extra-Terrestrial",
+         "overview": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie, and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.",
+         "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            878,
+            12,
+            10751,
+            14
+         ],
+         "popularity": 37.26,
+         "release_date": "1982-06-11",
+         "video": false,
+         "vote_average": 7.508,
+         "vote_count": 9828
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

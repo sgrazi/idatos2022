@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xSN7sVwIC6ExQZVMIUMjm4Tl2TN.jpg",
+         "id": 10178,
+         "title": "The Caine Mutiny",
+         "original_language": "en",
+         "original_title": "The Caine Mutiny",
+         "overview": "When a US Naval captain shows signs of mental instability that jeopardize his ship, the first officer relieves him of command and faces court martial for mutiny.",
+         "poster_path": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.341,
+         "release_date": "1954-06-23",
+         "video": false,
+         "vote_average": 7.188,
+         "vote_count": 258
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+         "id": 665,
+         "title": "Ben-Hur",
+         "original_language": "en",
+         "original_title": "Ben-Hur",
+         "overview": "In 25 AD,Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.  Three years later and freed by a grateful Roman galley commander whom he has rescued from drowning, he becomes an expert charioteer for Rome, all the while plotting to return to Judea, find and rescue his family, and avenge himself on his former friend.  All the while, the form and work of Jesus move in the background of his life...",
+         "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18,
+            36
+         ],
+         "popularity": 50.231,
+         "release_date": "1959-11-18",
+         "video": false,
+         "vote_average": 7.843,
+         "vote_count": 2216
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

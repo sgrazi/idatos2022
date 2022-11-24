@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5VGmkeXybclhOqBaLprigVG9Ucz.jpg",
+         "id": 269,
+         "title": "Breathless",
+         "original_language": "fr",
+         "original_title": "À bout de souffle",
+         "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him.",
+         "poster_path": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 14.375,
+         "release_date": "1960-03-16",
+         "video": false,
+         "vote_average": 7.621,
+         "vote_count": 1473
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

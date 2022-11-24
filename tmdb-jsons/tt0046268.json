@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg",
+         "id": 204,
+         "title": "The Wages of Fear",
+         "original_language": "fr",
+         "original_title": "Le Salaire de la peur",
+         "overview": "In the South American jungle, supplies of nitroglycerine are needed at a remote oil field. The oil company pays four men to deliver the supplies in two trucks. A tense rivalry develops between the two sets of drivers on the rough remote roads where the slightest jolt can result in death.",
+         "poster_path": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53,
+            12
+         ],
+         "popularity": 12.005,
+         "release_date": "1953-04-22",
+         "video": false,
+         "vote_average": 8.03,
+         "vote_count": 692
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

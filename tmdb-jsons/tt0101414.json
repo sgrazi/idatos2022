@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jsgRkhPxYtzAhDFCUyNbvlX63tY.jpg",
+         "id": 10020,
+         "title": "Beauty and the Beast",
+         "original_language": "en",
+         "original_title": "Beauty and the Beast",
+         "overview": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.",
+         "poster_path": "/6DDJ8o2d6T4fpGWECLF4xBGTyAM.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            10751,
+            16,
+            14
+         ],
+         "popularity": 105.95,
+         "release_date": "1991-10-22",
+         "video": false,
+         "vote_average": 7.735,
+         "vote_count": 8709
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

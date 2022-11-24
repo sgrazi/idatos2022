@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg",
+         "id": 11036,
+         "title": "The Notebook",
+         "original_language": "en",
+         "original_title": "The Notebook",
+         "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+         "poster_path": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            18
+         ],
+         "popularity": 63.647,
+         "release_date": "2004-06-25",
+         "video": false,
+         "vote_average": 7.879,
+         "vote_count": 9929
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

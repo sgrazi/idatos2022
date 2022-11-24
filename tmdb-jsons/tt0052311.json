@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vZBHQfRbBZNsFbqw3B6MQPOa8S6.jpg",
+         "id": 1480,
+         "title": "Touch of Evil",
+         "original_language": "en",
+         "original_title": "Touch of Evil",
+         "overview": "When a car bomb explodes on the American side of the U.S./Mexico border, Mexican drug enforcement agent Miguel Vargas begins his investigation, along with American police captain Hank Quinlan. When Vargas begins to suspect that Quinlan and his shady partner, Menzies, are planting evidence to frame an innocent man, his investigations into their possible corruption quickly put himself and his new bride, Susie, in jeopardy.",
+         "poster_path": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            53
+         ],
+         "popularity": 11.789,
+         "release_date": "1958-03-30",
+         "video": false,
+         "vote_average": 7.778,
+         "vote_count": 1167
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

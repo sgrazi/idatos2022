@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+         "id": 873,
+         "title": "The Color Purple",
+         "original_language": "en",
+         "original_title": "The Color Purple",
+         "overview": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
+         "poster_path": "/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 15.529,
+         "release_date": "1985-12-18",
+         "video": false,
+         "vote_average": 7.768,
+         "vote_count": 1394
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

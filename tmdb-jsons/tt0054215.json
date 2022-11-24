@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+         "id": 539,
+         "title": "Psycho",
+         "original_language": "en",
+         "original_title": "Psycho",
+         "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+         "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            18,
+            53
+         ],
+         "popularity": 38.909,
+         "release_date": "1960-06-22",
+         "video": false,
+         "vote_average": 8.444,
+         "vote_count": 8579
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

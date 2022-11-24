@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yBq4jWZLaEJIssuVx2fAysEwJnt.jpg",
+         "id": 4348,
+         "title": "Pride & Prejudice",
+         "original_language": "en",
+         "original_title": "Pride & Prejudice",
+         "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+         "poster_path": "/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 47.528,
+         "release_date": "2005-09-16",
+         "video": false,
+         "vote_average": 8.092,
+         "vote_count": 6828
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

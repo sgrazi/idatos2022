@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bXwFZjOkc1IbwTT4Y9lGCyiKUix.jpg",
+         "id": 11421,
+         "title": "C.R.A.Z.Y.",
+         "original_language": "fr",
+         "original_title": "C.R.A.Z.Y.",
+         "overview": "A story of two love affairs. A father's love for his five sons. And one son's love for his father, a love so strong it compels him to live a lie. That son is Zac Beaulieu, born on the 25th of December 1960, different from all his brothers, but desperate to fit in. During the next 20 years, life takes Zac on a surprising and unexpected journey that ultimately leads him to accept his true nature and, even more importantly, leads his father to love him for who he really is.",
+         "poster_path": "/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 7.316,
+         "release_date": "2005-05-27",
+         "video": false,
+         "vote_average": 7.455,
+         "vote_count": 375
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

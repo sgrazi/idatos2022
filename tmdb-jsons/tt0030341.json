@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2hBZqaKs1NmkH86n50puUt9IoUE.jpg",
+         "id": 940,
+         "title": "The Lady Vanishes",
+         "original_language": "en",
+         "original_title": "The Lady Vanishes",
+         "overview": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
+         "poster_path": "/c1t9LB76LvEARPanfEzXmkm7fwY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            9648,
+            53,
+            35
+         ],
+         "popularity": 9.563,
+         "release_date": "1938-10-07",
+         "video": false,
+         "vote_average": 7.51,
+         "vote_count": 715
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

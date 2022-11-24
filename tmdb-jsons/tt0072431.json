@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/4PILpf6iCTyHgFFhPrHqbvqimkR.jpg",
+         "id": 3034,
+         "title": "Young Frankenstein",
+         "original_language": "en",
+         "original_title": "Young Frankenstein",
+         "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+         "poster_path": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 16.434,
+         "release_date": "1974-12-15",
+         "video": false,
+         "vote_average": 7.928,
+         "vote_count": 2674
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

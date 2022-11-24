@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+         "id": 127585,
+         "title": "X-Men: Days of Future Past",
+         "original_language": "en",
+         "original_title": "X-Men: Days of Future Past",
+         "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+         "poster_path": "/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            878
+         ],
+         "popularity": 64.155,
+         "release_date": "2014-05-15",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 13771
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uiXmFezM5Xg1RWEIRxX8gjIUiWW.jpg",
+         "id": 2440,
+         "title": "Joint Security Area",
+         "original_language": "ko",
+         "original_title": "공동경비구역 JSA",
+         "overview": "Two North Korean soldiers are killed in the border area between North and South Korea, prompting an investigation by a neutral body. The sergeant is the shooter, but the lead investigator, a Swiss-Korean woman, receives differing accounts from the two sides.",
+         "poster_path": "/etoPOj0bXzfw0LBNslCxqO7MHuv.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10752,
+            18,
+            53,
+            28
+         ],
+         "popularity": 13.652,
+         "release_date": "2000-09-09",
+         "video": false,
+         "vote_average": 7.841,
+         "vote_count": 504
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

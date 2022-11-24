@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+         "id": 383498,
+         "title": "Deadpool 2",
+         "original_language": "en",
+         "original_title": "Deadpool 2",
+         "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+         "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            35,
+            12
+         ],
+         "popularity": 126.1,
+         "release_date": "2018-05-10",
+         "video": false,
+         "vote_average": 7.496,
+         "vote_count": 15269
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+         "id": 21450,
+         "title": "Naked",
+         "original_language": "en",
+         "original_title": "Naked",
+         "overview": "An unemployed Brit vents his rage on unsuspecting strangers as he embarks on a nocturnal London odyssey.",
+         "poster_path": "/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 14.432,
+         "release_date": "1993-09-14",
+         "video": false,
+         "vote_average": 7.405,
+         "vote_count": 411
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

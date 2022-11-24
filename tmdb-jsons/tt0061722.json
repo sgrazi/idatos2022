@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kKktbfc437lKmOazPYKTTEGhkBh.jpg",
+         "id": 37247,
+         "title": "The Graduate",
+         "original_language": "en",
+         "original_title": "The Graduate",
+         "overview": "Benjamin, a recent college graduate very worried about his future, finds himself in a love triangle with an older woman and her daughter.",
+         "poster_path": "/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 16.501,
+         "release_date": "1967-12-21",
+         "video": false,
+         "vote_average": 7.657,
+         "vote_count": 2754
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

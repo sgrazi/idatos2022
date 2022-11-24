@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+         "id": 808,
+         "title": "Shrek",
+         "original_language": "en",
+         "original_title": "Shrek",
+         "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+         "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            35,
+            14,
+            12,
+            10751
+         ],
+         "popularity": 257.678,
+         "release_date": "2001-05-18",
+         "video": false,
+         "vote_average": 7.704,
+         "vote_count": 14493
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg",
+         "id": 12104,
+         "title": "Pink Floyd: The Wall",
+         "original_language": "en",
+         "original_title": "Pink Floyd: The Wall",
+         "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+         "poster_path": "/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10402,
+            18
+         ],
+         "popularity": 12.328,
+         "release_date": "1982-07-14",
+         "video": false,
+         "vote_average": 8,
+         "vote_count": 1234
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg",
+         "id": 108,
+         "title": "Three Colors: Blue",
+         "original_language": "fr",
+         "original_title": "Trois couleurs : Bleu",
+         "overview": "Julie is haunted by her grief after living through a tragic auto wreck that claimed the life of her composer husband and young daughter. Her initial reaction is to withdraw from her relationships, lock herself in her apartment and suppress her pain. But avoiding human interactions on the bustling streets of Paris proves impossible, and she eventually meets up with Olivier, an old friend who harbors a secret love for her, and who could draw her back to reality.",
+         "poster_path": "/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 11.315,
+         "release_date": "1993-08-01",
+         "video": false,
+         "vote_average": 7.675,
+         "vote_count": 1334
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

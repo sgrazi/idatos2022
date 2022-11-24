@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+         "id": 283587,
+         "title": "Beasts of No Nation",
+         "original_language": "en",
+         "original_title": "Beasts of No Nation",
+         "overview": "Based on the experiences of Agu, a child fighting in the civil war of an unnamed, fictional West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+         "poster_path": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752
+         ],
+         "popularity": 11.089,
+         "release_date": "2015-09-11",
+         "video": false,
+         "vote_average": 7.6,
+         "vote_count": 1469
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

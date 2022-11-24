@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+         "id": 948,
+         "title": "Halloween",
+         "original_language": "en",
+         "original_title": "Halloween",
+         "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+         "poster_path": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            53
+         ],
+         "popularity": 54.311,
+         "release_date": "1978-10-24",
+         "video": false,
+         "vote_average": 7.573,
+         "vote_count": 4550
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

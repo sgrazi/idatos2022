@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+         "id": 360814,
+         "title": "Dangal",
+         "original_language": "hi",
+         "original_title": "दंगल",
+         "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+         "poster_path": "/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10751,
+            35,
+            28
+         ],
+         "popularity": 15.313,
+         "release_date": "2016-12-21",
+         "video": false,
+         "vote_average": 7.968,
+         "vote_count": 757
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

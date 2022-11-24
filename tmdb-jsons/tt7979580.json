@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+         "id": 501929,
+         "title": "The Mitchells vs. the Machines",
+         "original_language": "en",
+         "original_title": "The Mitchells vs. the Machines",
+         "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+         "poster_path": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            12,
+            35
+         ],
+         "popularity": 26.326,
+         "release_date": "2021-04-22",
+         "video": false,
+         "vote_average": 7.984,
+         "vote_count": 2201
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bkL2f7KgePtzMXWHBm4oGK7NIs7.jpg",
+         "id": 24657,
+         "title": "The Sacrifice",
+         "original_language": "sv",
+         "original_title": "Offret",
+         "overview": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
+         "poster_path": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 7.18,
+         "release_date": "1986-05-09",
+         "video": false,
+         "vote_average": 7.664,
+         "vote_count": 414
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

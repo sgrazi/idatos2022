@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+         "id": 856,
+         "title": "Who Framed Roger Rabbit",
+         "original_language": "en",
+         "original_title": "Who Framed Roger Rabbit",
+         "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+         "poster_path": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            16,
+            35,
+            80
+         ],
+         "popularity": 27.167,
+         "release_date": "1988-06-21",
+         "video": false,
+         "vote_average": 7.509,
+         "vote_count": 4853
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

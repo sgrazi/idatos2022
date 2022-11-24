@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nKOQiWjhv6LXXSR3PiIab3LrKtU.jpg",
+         "id": 1402,
+         "title": "The Pursuit of Happyness",
+         "original_language": "en",
+         "original_title": "The Pursuit of Happyness",
+         "overview": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+         "poster_path": "/f6l9rghSHORkWLurUGJhaKAiyjY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 60.773,
+         "release_date": "2006-12-14",
+         "video": false,
+         "vote_average": 7.902,
+         "vote_count": 8580
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+         "id": 587412,
+         "title": "K.G.F: Chapter 2",
+         "original_language": "kn",
+         "original_title": "ಕೆ.ಜಿ.ಎಫ್: Chapter 2",
+         "overview": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+         "poster_path": "/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            80,
+            18
+         ],
+         "popularity": 11.055,
+         "release_date": "2022-04-14",
+         "video": false,
+         "vote_average": 7.717,
+         "vote_count": 83
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

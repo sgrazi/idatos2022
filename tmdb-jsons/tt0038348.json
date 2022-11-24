@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2Ae0iV2HR3Raoras8G40MjBtJnn.jpg",
+         "id": 648,
+         "title": "Beauty and the Beast",
+         "original_language": "fr",
+         "original_title": "La Belle et la Bête",
+         "overview": "The story of a gentle-hearted beast in love with a simple and beautiful girl. She is drawn to the repellent but strangely fascinating Beast, who tests her fidelity by giving her a key, telling her that if she doesn't return it to him by a specific time, he will die of grief. She is unable to return the key on time, but it is revealed that the Beast is the genuinely handsome one. A simple tale of tragic love that turns into a surreal vision of death, desire, and beauty.",
+         "poster_path": "/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            14,
+            10749
+         ],
+         "popularity": 9.216,
+         "release_date": "1946-10-29",
+         "video": false,
+         "vote_average": 7.486,
+         "vote_count": 480
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

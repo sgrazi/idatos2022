@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+         "id": 580175,
+         "title": "Another Round",
+         "original_language": "da",
+         "original_title": "Druk",
+         "overview": "Four high school teachers launch a drinking experiment: upholding a constant low level of intoxication.",
+         "poster_path": "/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 22.563,
+         "release_date": "2020-09-24",
+         "video": false,
+         "vote_average": 7.702,
+         "vote_count": 2241
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

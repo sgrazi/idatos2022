@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mYI1VlxvuSnHoK6GYwkFzAgcJXh.jpg",
+         "id": 1092,
+         "title": "The Third Man",
+         "original_language": "en",
+         "original_title": "The Third Man",
+         "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+         "poster_path": "/oIF3l7Dxp7Eyye10BNyM611wtKa.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            9648
+         ],
+         "popularity": 12.774,
+         "release_date": "1949-08-31",
+         "video": false,
+         "vote_average": 7.978,
+         "vote_count": 1457
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

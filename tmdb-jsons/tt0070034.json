@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6uChT8jRjTwcVo4X5pIUctsl1qN.jpg",
+         "id": 9461,
+         "title": "Enter the Dragon",
+         "original_language": "en",
+         "original_title": "Enter the Dragon",
+         "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+         "poster_path": "/zN7OOSARMLVzl9xJqkW2CcZ3xhY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28
+         ],
+         "popularity": 26.708,
+         "release_date": "1973-08-17",
+         "video": false,
+         "vote_average": 7.419,
+         "vote_count": 1498
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

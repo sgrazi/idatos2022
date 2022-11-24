@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qqkQ4tA3n7zWNnKx8CUczdVNTTc.jpg",
+         "id": 1626,
+         "title": "Vivre Sa Vie",
+         "original_language": "fr",
+         "original_title": "Vivre sa vie: film en douze tableaux",
+         "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
+         "poster_path": "/rNjXvdHnhXyZDbOBA6KhzWch8bb.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.573,
+         "release_date": "1962-08-28",
+         "video": false,
+         "vote_average": 7.824,
+         "vote_count": 511
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

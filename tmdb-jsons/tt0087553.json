@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kjEgZzhigOU6dZKGfw1oVOnmVId.jpg",
+         "id": 625,
+         "title": "The Killing Fields",
+         "original_language": "en",
+         "original_title": "The Killing Fields",
+         "overview": "The real-life story of a friendship between two journalists, an American and a Cambodian, during the bloody Khmer Rouge takeover of Cambodia in 1975, which led to the death of 2-3 million Cambodians during the next four years, until Pol Pot's regime was toppled by the intervening Vietnamese in 1979.",
+         "poster_path": "/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 11.064,
+         "release_date": "1984-11-23",
+         "video": false,
+         "vote_average": 7.508,
+         "vote_count": 589
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+         "id": 252,
+         "title": "Willy Wonka & the Chocolate Factory",
+         "original_language": "en",
+         "original_title": "Willy Wonka & the Chocolate Factory",
+         "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+         "poster_path": "/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10751,
+            14,
+            35
+         ],
+         "popularity": 48.752,
+         "release_date": "1971-06-29",
+         "video": false,
+         "vote_average": 7.478,
+         "vote_count": 2830
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

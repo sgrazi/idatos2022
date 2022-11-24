@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+         "id": 962,
+         "title": "The Gold Rush",
+         "original_language": "en",
+         "original_title": "The Gold Rush",
+         "overview": "A lone prospector ventures into Alaska looking for gold. He soon gets mixed up with some burly characters, falls in love with the beautiful Georgia, and tries to win her heart with his singular charm.",
+         "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            35,
+            18
+         ],
+         "popularity": 9.666,
+         "release_date": "1925-07-12",
+         "video": false,
+         "vote_average": 8.03,
+         "vote_count": 1265
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

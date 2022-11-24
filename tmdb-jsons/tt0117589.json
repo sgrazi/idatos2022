@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jwooOYB5zcpoWTFwLYXK4nxFH2E.jpg",
+         "id": 11159,
+         "title": "Secrets & Lies",
+         "original_language": "en",
+         "original_title": "Secrets & Lies",
+         "overview": "With both her adoptive parents now dead, a black optometrist decides to make contact with her birth mother, but is shocked to find out that she is white.",
+         "poster_path": "/mfWfW6DfD4oBTFmGAndaTkuPUO5.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 8.495,
+         "release_date": "1996-05-24",
+         "video": false,
+         "vote_average": 7.57,
+         "vote_count": 486
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

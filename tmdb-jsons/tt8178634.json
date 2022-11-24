@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+         "id": 579974,
+         "title": "RRR",
+         "original_language": "te",
+         "original_title": "రౌద్రం రణం రుధిరం",
+         "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+         "poster_path": "/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18
+         ],
+         "popularity": 345.555,
+         "release_date": "2022-03-24",
+         "video": false,
+         "vote_average": 7.758,
+         "vote_count": 511
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

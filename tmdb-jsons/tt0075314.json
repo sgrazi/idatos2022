@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+         "id": 103,
+         "title": "Taxi Driver",
+         "original_language": "en",
+         "original_title": "Taxi Driver",
+         "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+         "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18
+         ],
+         "popularity": 49.67,
+         "release_date": "1976-02-09",
+         "video": false,
+         "vote_average": 8.171,
+         "vote_count": 9996
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

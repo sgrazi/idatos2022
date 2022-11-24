@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg",
+         "id": 9470,
+         "title": "Kung Fu Hustle",
+         "original_language": "cn",
+         "original_title": "功夫",
+         "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+         "poster_path": "/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            35,
+            80,
+            14
+         ],
+         "popularity": 34.643,
+         "release_date": "2004-02-10",
+         "video": false,
+         "vote_average": 7.382,
+         "vote_count": 2259
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

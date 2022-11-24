@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yMCHeGA9OU2JS8s3P1JDdozYAAM.jpg",
+         "id": 348678,
+         "title": "A Man Called Ove",
+         "original_language": "sv",
+         "original_title": "En man som heter Ove",
+         "overview": "Despite being deposed as president of his condominium association, grumpy 59-year-old Ove continues to watch over his neighbourhood with an iron fist. When pregnant Parvaneh and her family move into the terraced house opposite Ove and she accidentally back into Ove’s mailbox, it sets off a series of unexpected changes in his life.",
+         "poster_path": "/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 13.319,
+         "release_date": "2015-12-25",
+         "video": false,
+         "vote_average": 7.587,
+         "vote_count": 875
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

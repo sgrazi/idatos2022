@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
+         "id": 1398,
+         "title": "Stalker",
+         "original_language": "ru",
+         "original_title": "Сталкер",
+         "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+         "poster_path": "/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            878,
+            18
+         ],
+         "popularity": 18.297,
+         "release_date": "1979-05-25",
+         "video": false,
+         "vote_average": 8.223,
+         "vote_count": 1671
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

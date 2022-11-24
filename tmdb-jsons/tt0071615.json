@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/oUceCsSe255ZKXCMsHhqXM1xuUp.jpg",
+         "id": 8327,
+         "title": "The Holy Mountain",
+         "original_language": "es",
+         "original_title": "La montaña sagrada",
+         "overview": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+         "poster_path": "/gBV84hRcUUyoQD39KTNoJo2A6DY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.432,
+         "release_date": "1973-11-29",
+         "video": false,
+         "vote_average": 7.614,
+         "vote_count": 722
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

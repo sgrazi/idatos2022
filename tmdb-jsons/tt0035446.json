@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+         "id": 198,
+         "title": "To Be or Not to Be",
+         "original_language": "en",
+         "original_title": "To Be or Not to Be",
+         "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+         "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10752
+         ],
+         "popularity": 8.235,
+         "release_date": "1942-03-05",
+         "video": false,
+         "vote_average": 7.912,
+         "vote_count": 536
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

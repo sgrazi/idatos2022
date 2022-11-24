@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gKvbO1OcIHrSW9XmABjgxHgqBF3.jpg",
+         "id": 177945,
+         "title": "Like Father, Like Son",
+         "original_language": "ja",
+         "original_title": "そして父になる",
+         "overview": "Ryota Nonomiya is a successful businessman driven by money. He learns that his biological son was switched with another child after birth. He must make a life-changing decision and choose his true son or the boy he raised as his own.",
+         "poster_path": "/fzSDVHdDL6Oqv7NWAUikoRxSHmp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 11.318,
+         "release_date": "2013-09-28",
+         "video": false,
+         "vote_average": 7.613,
+         "vote_count": 533
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

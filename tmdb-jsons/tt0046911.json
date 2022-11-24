@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/oMpX8thZFDVZNS4j240HYSMMvyg.jpg",
+         "id": 827,
+         "title": "Diabolique",
+         "original_language": "fr",
+         "original_title": "Les Diaboliques",
+         "overview": "The cruel and abusive headmaster of a boarding school, Michel Delassalle, is murdered by an unlikely duo -- his meek wife and the mistress he brazenly flaunts. The women become increasingly unhinged by a series of odd occurrences after Delassalle's corpse mysteriously disappears.",
+         "poster_path": "/pNcwhz3Eyfn3KQ2XykTozbARMpr.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            27,
+            53
+         ],
+         "popularity": 11.569,
+         "release_date": "1955-01-29",
+         "video": false,
+         "vote_average": 7.875,
+         "vote_count": 751
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/dVanL4a1kx0mXeZSOhVWSiJ27Pa.jpg",
+         "id": 10494,
+         "title": "Perfect Blue",
+         "original_language": "ja",
+         "original_title": "PERFECT BLUE",
+         "overview": "A retired pop singer turned actress' sense of reality is shaken when she is stalked by an obsessed fan and seemingly a ghost of her past.",
+         "poster_path": "/xZMK0UekAF6yIpbHMzsmkZL5yiL.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            53
+         ],
+         "popularity": 34.572,
+         "release_date": "1997-07-25",
+         "video": false,
+         "vote_average": 8.287,
+         "vote_count": 1862
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

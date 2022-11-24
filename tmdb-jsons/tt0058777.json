@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vIOqw0OBXpSeAxBVYwWqCMrcda8.jpg",
+         "id": 14433,
+         "title": "Zulu",
+         "original_language": "en",
+         "original_title": "Zulu",
+         "overview": "In 1879, during the Anglo-Zulu War, man-of-the-people Lt. Chard and snooty Lt. Bromhead are in charge of defending the isolated and vastly outnumbered Natal outpost of Rorke's Drift from tribal hordes.",
+         "poster_path": "/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18,
+            36,
+            10752
+         ],
+         "popularity": 10.73,
+         "release_date": "1964-01-22",
+         "video": false,
+         "vote_average": 7.4,
+         "vote_count": 410
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

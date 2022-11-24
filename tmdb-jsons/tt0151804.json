@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vNnRMxksen1cJNl3e0C9Zig4cUf.jpg",
+         "id": 1542,
+         "title": "Office Space",
+         "original_language": "en",
+         "original_title": "Office Space",
+         "overview": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+         "poster_path": "/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 19.909,
+         "release_date": "1999-02-19",
+         "video": false,
+         "vote_average": 7.375,
+         "vote_count": 2437
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

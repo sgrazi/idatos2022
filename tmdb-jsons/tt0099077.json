@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+         "id": 11005,
+         "title": "Awakenings",
+         "original_language": "en",
+         "original_title": "Awakenings",
+         "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \"awaken\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
+         "poster_path": "/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 25.725,
+         "release_date": "1990-12-04",
+         "video": false,
+         "vote_average": 7.758,
+         "vote_count": 2028
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/z5LhR3cqKIL0atMcNd16s4IP2kQ.jpg",
+         "id": 1830,
+         "title": "Lord of War",
+         "original_language": "en",
+         "original_title": "Lord of War",
+         "overview": "Yuri Orlov is a globetrotting arms dealer and, through some of the deadliest war zones, he struggles to stay one step ahead of a relentless Interpol agent, his business rivals and even some of his customers who include many of the world's most notorious dictators. Finally, he must also face his own conscience.",
+         "poster_path": "/xEdwdFZRwrNAvTDx0fAV3MAInaA.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 23.158,
+         "release_date": "2005-09-16",
+         "video": false,
+         "vote_average": 7.264,
+         "vote_count": 3921
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

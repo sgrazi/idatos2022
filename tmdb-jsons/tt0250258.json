@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+         "id": 575,
+         "title": "The Experiment",
+         "original_language": "de",
+         "original_title": "Das Experiment",
+         "overview": "Das Experiment is a shocking psycho thriller about the potential for brutality that humans hide. Even more shocking is the fact that it’s based on an actual occurrence — a 1971 psychological experiment at Stanford University that was aborted prematurely when the experimenters lost control.",
+         "poster_path": "/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 10.582,
+         "release_date": "2001-03-07",
+         "video": false,
+         "vote_average": 7.414,
+         "vote_count": 904
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

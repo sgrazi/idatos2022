@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hgbRDIwSiQ7reWwzFtWFy0v02xo.jpg",
+         "id": 1633,
+         "title": "Fried Green Tomatoes",
+         "original_language": "en",
+         "original_title": "Fried Green Tomatoes",
+         "overview": "Amidst her own personality crisis, southern housewife Evelyn Couch meets Ninny, an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in Whistle Stop, Alabama in the 1920s.",
+         "poster_path": "/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 17.871,
+         "release_date": "1991-12-27",
+         "video": false,
+         "vote_average": 7.678,
+         "vote_count": 1105
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fLrGQzvfhTwn9m7AqlJh65FMFfG.jpg",
+         "id": 109424,
+         "title": "Captain Phillips",
+         "original_language": "en",
+         "original_title": "Captain Phillips",
+         "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+         "poster_path": "/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18,
+            53
+         ],
+         "popularity": 22.526,
+         "release_date": "2013-10-10",
+         "video": false,
+         "vote_average": 7.559,
+         "vote_count": 6024
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

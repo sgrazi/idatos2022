@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+         "id": 19666,
+         "title": "Lagaan: Once Upon a Time in India",
+         "original_language": "hi",
+         "original_title": "लगान",
+         "overview": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+         "poster_path": "/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            10749,
+            18
+         ],
+         "popularity": 8.354,
+         "release_date": "2001-06-15",
+         "video": false,
+         "vote_average": 7.293,
+         "vote_count": 450
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

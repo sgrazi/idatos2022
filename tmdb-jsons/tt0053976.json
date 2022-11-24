@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nc6uHR9QRzhAUIB6q8tDGzBAsx4.jpg",
+         "id": 11656,
+         "title": "The Virgin Spring",
+         "original_language": "sv",
+         "original_title": "Jungfrukällan",
+         "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+         "poster_path": "/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 8.818,
+         "release_date": "1960-02-08",
+         "video": false,
+         "vote_average": 7.792,
+         "vote_count": 481
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

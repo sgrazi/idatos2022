@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/8xkPWMyIsxwikJuyMTr08KldKzR.jpg",
+         "id": 598826,
+         "title": "Sardar Udham",
+         "original_language": "hi",
+         "original_title": "सरदार उधम",
+         "overview": "A young Sardar Udham Singh left deeply scarred by the Jallianwala Bagh massacre, escaped into the mountains of Afghanistan, reaching London in 1933-34. Carrying an unhealed wound for 21 years, the revolutionary assassinated Michael O’Dwyer on 13th March, 1940, the man at the helm of affairs in Punjab, April 1919 to avenge the lost lives of his beloved brethren.",
+         "poster_path": "/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            36
+         ],
+         "popularity": 5.752,
+         "release_date": "2021-10-16",
+         "video": false,
+         "vote_average": 7.146,
+         "vote_count": 41
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

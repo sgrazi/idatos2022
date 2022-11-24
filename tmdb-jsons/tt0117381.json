@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xO5RwB4o8wJrsqDrEDjDqBD4HaA.jpg",
+         "id": 1592,
+         "title": "Primal Fear",
+         "original_language": "en",
+         "original_title": "Primal Fear",
+         "overview": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+         "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+         ],
+         "popularity": 22.118,
+         "release_date": "1996-03-06",
+         "video": false,
+         "vote_average": 7.641,
+         "vote_count": 2680
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

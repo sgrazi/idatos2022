@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/58FLqhrAOYGLoEBGP0Xrzd6a3Mt.jpg",
+         "id": 13403,
+         "title": "Hedwig and the Angry Inch",
+         "original_language": "en",
+         "original_title": "Hedwig and the Angry Inch",
+         "overview": "Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an “internationally ignored” but divinely talented rock diva, inhabiting a “beautiful gender of one.”",
+         "poster_path": "/jafIFAW8sHQkzWPGoMDR4892dFI.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10402,
+            18
+         ],
+         "popularity": 8.463,
+         "release_date": "2001-07-20",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 304
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6MCVqErhPC0p6RkzZsLuIb6LZ1L.jpg",
+         "id": 68718,
+         "title": "Django Unchained",
+         "original_language": "en",
+         "original_title": "Django Unchained",
+         "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+         "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            37
+         ],
+         "popularity": 58.96,
+         "release_date": "2012-12-25",
+         "video": false,
+         "vote_average": 8.155,
+         "vote_count": 23267
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

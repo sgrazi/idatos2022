@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+         "id": 475557,
+         "title": "Joker",
+         "original_language": "en",
+         "original_title": "Joker",
+         "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+         "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            53,
+            18
+         ],
+         "popularity": 114.966,
+         "release_date": "2019-10-01",
+         "video": false,
+         "vote_average": 8.172,
+         "vote_count": 21594
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

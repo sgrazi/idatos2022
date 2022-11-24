@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+         "id": 649,
+         "title": "Belle de Jour",
+         "original_language": "fr",
+         "original_title": "Belle de jour",
+         "overview": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+         "poster_path": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 12.23,
+         "release_date": "1967-05-24",
+         "video": false,
+         "vote_average": 7.416,
+         "vote_count": 684
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

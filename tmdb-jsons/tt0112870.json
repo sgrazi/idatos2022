@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/90ez6ArvpO8bvpyIngBuwXOqJm5.jpg",
+         "id": 19404,
+         "title": "Dilwale Dulhania Le Jayenge",
+         "original_language": "hi",
+         "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+         "overview": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+         "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 24.569,
+         "release_date": "1995-10-19",
+         "video": false,
+         "vote_average": 8.566,
+         "vote_count": 3951
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

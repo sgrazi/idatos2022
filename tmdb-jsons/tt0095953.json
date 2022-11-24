@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+         "id": 380,
+         "title": "Rain Man",
+         "original_language": "en",
+         "original_title": "Rain Man",
+         "overview": "Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.",
+         "poster_path": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 20.698,
+         "release_date": "1988-12-11",
+         "video": false,
+         "vote_average": 7.758,
+         "vote_count": 5341
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

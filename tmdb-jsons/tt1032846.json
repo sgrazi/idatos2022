@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/c59jI0WaKoIffuoLG8iB8L4Z9xM.jpg",
+         "id": 2009,
+         "title": "4 Months, 3 Weeks and 2 Days",
+         "original_language": "ro",
+         "original_title": "4 luni, 3 săptămîni și 2 zile",
+         "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
+         "poster_path": "/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.004,
+         "release_date": "2007-08-24",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 591
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

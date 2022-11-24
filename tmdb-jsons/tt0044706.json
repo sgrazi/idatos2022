@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+         "id": 288,
+         "title": "High Noon",
+         "original_language": "en",
+         "original_title": "High Noon",
+         "overview": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+         "poster_path": "/bc1x6kIO9oF30y3IMFuKMJV2uOj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37
+         ],
+         "popularity": 12.446,
+         "release_date": "1952-06-09",
+         "video": false,
+         "vote_average": 7.693,
+         "vote_count": 1157
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

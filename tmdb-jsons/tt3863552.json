@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+         "id": 348892,
+         "title": "Bajrangi Bhaijaan",
+         "original_language": "hi",
+         "original_title": "बजरंगी भाईजान",
+         "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+         "poster_path": "/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            35,
+            18
+         ],
+         "popularity": 11.499,
+         "release_date": "2015-07-17",
+         "video": false,
+         "vote_average": 7.9,
+         "vote_count": 380
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+         "id": 422,
+         "title": "8½",
+         "original_language": "it",
+         "original_title": "8½",
+         "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+         "poster_path": "/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            18
+         ],
+         "popularity": 15.604,
+         "release_date": "1963-02-14",
+         "video": false,
+         "vote_average": 8.22,
+         "vote_count": 1884
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

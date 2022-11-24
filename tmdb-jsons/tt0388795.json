@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg",
+         "id": 142,
+         "title": "Brokeback Mountain",
+         "original_language": "en",
+         "original_title": "Brokeback Mountain",
+         "overview": "Two modern-day cowboys meet on a shepherding job in the summer of '63, the two share a raw and powerful summer together that turns into a lifelong relationship conflict",
+         "poster_path": "/fsbzfe9eLOEl5rJX04nPEr1eoAi.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 32.25,
+         "release_date": "2005-09-10",
+         "video": false,
+         "vote_average": 7.806,
+         "vote_count": 5979
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

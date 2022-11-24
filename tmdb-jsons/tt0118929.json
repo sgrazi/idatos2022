@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+         "id": 2666,
+         "title": "Dark City",
+         "original_language": "en",
+         "original_title": "Dark City",
+         "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+         "poster_path": "/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            9648,
+            878
+         ],
+         "popularity": 20.484,
+         "release_date": "1998-02-27",
+         "video": false,
+         "vote_average": 7.34,
+         "vote_count": 2304
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

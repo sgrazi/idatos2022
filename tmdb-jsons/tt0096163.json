@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/pTKFWLYVuS1vlWq9pLgLj22OOWw.jpg",
+         "id": 8740,
+         "title": "The Vanishing",
+         "original_language": "nl",
+         "original_title": "Spoorloos",
+         "overview": "A man embarks on an increasingly obsessive search for his girlfriend after she disappears without a trace during a romantic summer getaway to France.",
+         "poster_path": "/eE5bbuRJluooG2MjEAsLEYyuJoa.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            9648
+         ],
+         "popularity": 8.915,
+         "release_date": "1988-10-27",
+         "video": false,
+         "vote_average": 7.479,
+         "vote_count": 479
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

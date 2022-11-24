@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+         "id": 115,
+         "title": "The Big Lebowski",
+         "original_language": "en",
+         "original_title": "The Big Lebowski",
+         "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+         "poster_path": "/gocqX3Y5biEC9SezdqhTXVV2KeT.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 21.896,
+         "release_date": "1998-03-06",
+         "video": false,
+         "vote_average": 7.844,
+         "vote_count": 9701
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

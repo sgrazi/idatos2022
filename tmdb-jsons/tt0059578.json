@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/f61COvOzOOIwx7whPl5Yj78s9gY.jpg",
+         "id": 938,
+         "title": "For a Few Dollars More",
+         "original_language": "it",
+         "original_title": "Per qualche dollaro in più",
+         "overview": "Two bounty hunters are in pursuit of \"El Indio,\" one of the most wanted fugitives in the western territories, and his gang.",
+         "poster_path": "/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37
+         ],
+         "popularity": 20.373,
+         "release_date": "1965-12-18",
+         "video": false,
+         "vote_average": 8.037,
+         "vote_count": 3267
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

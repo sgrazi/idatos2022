@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cbzpBT9hAFcBfArUIinaRau93UP.jpg",
+         "id": 415358,
+         "title": "Pink",
+         "original_language": "hi",
+         "original_title": "पिंक",
+         "overview": "A sexual assault victim, unjustly tried for the attempted murder of her attacker, is defended by a retired lawyer who challenges India's rape culture.",
+         "poster_path": "/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 7.66,
+         "release_date": "2016-09-16",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 172
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

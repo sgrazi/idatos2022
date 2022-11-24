@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg",
+         "id": 301,
+         "title": "Rio Bravo",
+         "original_language": "en",
+         "original_title": "Rio Bravo",
+         "overview": "The sheriff of a small town in southwest Texas must keep custody of a murderer whose brother, a powerful rancher, is trying to help him escape. After a friend is killed trying to muster support for him, he and his deputies - a disgraced drunk and a cantankerous old cripple - must find a way to hold out against the rancher's hired guns until the marshal arrives. In the meantime, matters are complicated by the presence of a young gunslinger - and a mysterious beauty who just came in on the last stagecoach.",
+         "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37
+         ],
+         "popularity": 24.909,
+         "release_date": "1959-03-17",
+         "video": false,
+         "vote_average": 7.874,
+         "vote_count": 907
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

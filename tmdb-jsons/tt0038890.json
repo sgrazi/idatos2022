@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+         "id": 307,
+         "title": "Rome, Open City",
+         "original_language": "it",
+         "original_title": "Roma città aperta",
+         "overview": "During the Nazi occupation of Rome in 1944, the leader of the Resistance is chased by the Nazis as he seeks refuge and a way to escape.",
+         "poster_path": "/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 10.152,
+         "release_date": "1945-10-08",
+         "video": false,
+         "vote_average": 8.008,
+         "vote_count": 704
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

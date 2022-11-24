@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1J9ml5m02FeZkjycbEIxTy9MEiZ.jpg",
+         "id": 596650,
+         "title": "Chhichhore",
+         "original_language": "hi",
+         "original_title": "छिछोरे",
+         "overview": "Following a group of friends from university as they progress into middle-age life and go their own separate ways.",
+         "poster_path": "/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            35,
+            18
+         ],
+         "popularity": 7.317,
+         "release_date": "2019-09-05",
+         "video": false,
+         "vote_average": 7.734,
+         "vote_count": 94
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7E4b9mXU9psvGbqCbI0aGEGI1oO.jpg",
+         "id": 16305,
+         "title": "Sullivan's Travels",
+         "original_language": "en",
+         "original_title": "Sullivan's Travels",
+         "overview": "Successful movie director John L. Sullivan, convinced he won't be able to film his ambitious masterpiece until he has suffered, dons a hobo disguise and sets off on a journey, aiming to \"know trouble\" first-hand. When all he finds is a train ride back to Hollywood and a beautiful blonde companion, he redoubles his efforts, managing to land himself in more trouble than he bargained for when he loses his memory and ends up a prisoner on a chain gang.",
+         "poster_path": "/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            35,
+            10749
+         ],
+         "popularity": 7.99,
+         "release_date": "1941-11-30",
+         "video": false,
+         "vote_average": 7.514,
+         "vote_count": 358
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

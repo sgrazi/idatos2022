@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg",
+         "id": 17057,
+         "title": "In a Lonely Place",
+         "original_language": "en",
+         "original_title": "In a Lonely Place",
+         "overview": "An aspiring actress begins to suspect that her temperamental and mentally impaired boyfriend is a murderer.",
+         "poster_path": "/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            9648,
+            18,
+            10749
+         ],
+         "popularity": 8.654,
+         "release_date": "1950-05-17",
+         "video": false,
+         "vote_average": 7.589,
+         "vote_count": 435
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

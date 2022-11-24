@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg",
+         "id": 84892,
+         "title": "The Perks of Being a Wallflower",
+         "original_language": "en",
+         "original_title": "The Perks of Being a Wallflower",
+         "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+         "poster_path": "/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 34.156,
+         "release_date": "2012-09-20",
+         "video": false,
+         "vote_average": 7.774,
+         "vote_count": 9282
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5SV2p8jI3kGH3jzyX5p1C6PjPqt.jpg",
+         "id": 363,
+         "title": "Head-On",
+         "original_language": "de",
+         "original_title": "Gegen die Wand",
+         "overview": "With the intention to break free from the strict familial restrictions, a suicidal young woman sets up a marriage of convenience with a forty-year-old addict, an act that will lead to an outburst of envious love.",
+         "poster_path": "/qcWWH76OYTOdk5JHzHba6eindu3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 8.847,
+         "release_date": "2004-03-11",
+         "video": false,
+         "vote_average": 7.424,
+         "vote_count": 447
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

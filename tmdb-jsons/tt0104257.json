@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/H40nWdJngUc6gtytMAbElm9HOu.jpg",
+         "id": 881,
+         "title": "A Few Good Men",
+         "original_language": "en",
+         "original_title": "A Few Good Men",
+         "overview": "When cocky military lawyer Lt. Daniel Kaffee and his co-counsel, Lt. Cmdr. JoAnne Galloway, are assigned to a murder case, they uncover a hazing ritual that could implicate high-ranking officials such as shady Col. Nathan Jessep.",
+         "poster_path": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 22.484,
+         "release_date": "1992-12-11",
+         "video": false,
+         "vote_average": 7.505,
+         "vote_count": 2907
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

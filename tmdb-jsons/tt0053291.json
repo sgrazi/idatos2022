@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+         "id": 239,
+         "title": "Some Like It Hot",
+         "original_language": "en",
+         "original_title": "Some Like It Hot",
+         "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
+         "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10402,
+            10749,
+            80
+         ],
+         "popularity": 27.554,
+         "release_date": "1959-03-19",
+         "video": false,
+         "vote_average": 8.127,
+         "vote_count": 2873
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

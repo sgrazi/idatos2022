@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/AaIRBsx4hpa2fVQzeCfFyOdzCEM.jpg",
+         "id": 110416,
+         "title": "Song of the Sea",
+         "original_language": "en",
+         "original_title": "Song of the Sea",
+         "overview": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+         "poster_path": "/3DBX7QOEzWPNcDhqXInk6GBEvhK.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10751,
+            16,
+            14
+         ],
+         "popularity": 12.362,
+         "release_date": "2014-09-06",
+         "video": false,
+         "vote_average": 8.027,
+         "vote_count": 1174
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

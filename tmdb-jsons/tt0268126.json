@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/frjuhOoXR1QFcNjeNGITD7FIOOt.jpg",
+         "id": 2757,
+         "title": "Adaptation.",
+         "original_language": "en",
+         "original_title": "Adaptation.",
+         "overview": "Nicolas Cage is Charlie Kaufman, a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+         "poster_path": "/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80,
+            18
+         ],
+         "popularity": 11.849,
+         "release_date": "2002-12-06",
+         "video": false,
+         "vote_average": 7.393,
+         "vote_count": 2061
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

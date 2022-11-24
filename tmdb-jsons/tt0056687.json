@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+         "id": 10242,
+         "title": "What Ever Happened to Baby Jane?",
+         "original_language": "en",
+         "original_title": "What Ever Happened to Baby Jane?",
+         "overview": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
+         "poster_path": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            27,
+            53
+         ],
+         "popularity": 10.921,
+         "release_date": "1962-10-12",
+         "video": false,
+         "vote_average": 7.936,
+         "vote_count": 849
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

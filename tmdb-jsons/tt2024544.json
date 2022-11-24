@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/umUyVxJ4HeNebLMAcScdhF0QB3h.jpg",
+         "id": 76203,
+         "title": "12 Years a Slave",
+         "original_language": "en",
+         "original_title": "12 Years a Slave",
+         "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+         "poster_path": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 27.414,
+         "release_date": "2013-10-18",
+         "video": false,
+         "vote_average": 7.954,
+         "vote_count": 10004
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

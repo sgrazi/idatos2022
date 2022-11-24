@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2MBkAe0Ce3XcS8PxDW3OOXnIsxF.jpg",
+         "id": 14163,
+         "title": "Chak De! India",
+         "original_language": "hi",
+         "original_title": "चकदे! इंडिया",
+         "overview": "A team of rag-tag girls with their own agenda form Team India competing for international fame in field hockey. Their coach, the ex-men's Indian National team captain, returns from a life of shame after being unjustly accused of match fixing in his last match. Can he give the girls the motivation required to win, while dealing with the shadows of his own past?",
+         "poster_path": "/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 9.06,
+         "release_date": "2007-08-10",
+         "video": false,
+         "vote_average": 7.26,
+         "vote_count": 255
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

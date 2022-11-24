@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jx6jUMCLhRWB05ngVjaGxPpLq5x.jpg",
+         "id": 5143,
+         "title": "Hannah and Her Sisters",
+         "original_language": "en",
+         "original_title": "Hannah and Her Sisters",
+         "overview": "Between two Thanksgivings, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+         "poster_path": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 9.829,
+         "release_date": "1986-02-07",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 825
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

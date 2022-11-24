@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+         "id": 19995,
+         "title": "Avatar",
+         "original_language": "en",
+         "original_title": "Avatar",
+         "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+         "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            14,
+            878
+         ],
+         "popularity": 695.922,
+         "release_date": "2009-12-15",
+         "video": false,
+         "vote_average": 7.531,
+         "vote_count": 26590
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

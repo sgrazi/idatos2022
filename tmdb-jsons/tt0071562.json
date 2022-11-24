@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+         "id": 240,
+         "title": "The Godfather Part II",
+         "original_language": "en",
+         "original_title": "The Godfather Part II",
+         "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+         "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 46.115,
+         "release_date": "1974-12-20",
+         "video": false,
+         "vote_average": 8.606,
+         "vote_count": 10271
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg",
+         "id": 387,
+         "title": "Das Boot",
+         "original_language": "de",
+         "original_title": "Das Boot",
+         "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+         "poster_path": "/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 20.138,
+         "release_date": "1981-09-17",
+         "video": false,
+         "vote_average": 8.079,
+         "vote_count": 1777
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

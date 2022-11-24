@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7i3EPQ6ug0ip9OPqQXHEzaEs4An.jpg",
+         "id": 37136,
+         "title": "The Naked Gun: From the Files of Police Squad!",
+         "original_language": "en",
+         "original_title": "The Naked Gun: From the Files of Police Squad!",
+         "overview": "When the incompetent Lieutenant Frank Drebin seeks the ruthless killer of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+         "poster_path": "/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 27.343,
+         "release_date": "1988-12-02",
+         "video": false,
+         "vote_average": 7.2,
+         "vote_count": 3006
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}
