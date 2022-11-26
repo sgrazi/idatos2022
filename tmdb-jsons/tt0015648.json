@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ivSUjtWDxXjJy07LTdJPX3whdt.jpg",
+         "id": 643,
+         "title": "Battleship Potemkin",
+         "original_language": "ru",
+         "original_title": "Броненосец Потёмкин",
+         "overview": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.",
+         "poster_path": "/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 11.219,
+         "release_date": "1925-12-24",
+         "video": false,
+         "vote_average": 7.638,
+         "vote_count": 933
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

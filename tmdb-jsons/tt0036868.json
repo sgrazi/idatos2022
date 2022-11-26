@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nCl5KzxUs4rVVlAdixDf4r5AbbZ.jpg",
+         "id": 887,
+         "title": "The Best Years of Our Lives",
+         "original_language": "en",
+         "original_title": "The Best Years of Our Lives",
+         "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+         "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749,
+            10752
+         ],
+         "popularity": 10.603,
+         "release_date": "1946-12-25",
+         "video": false,
+         "vote_average": 7.826,
+         "vote_count": 493
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+         "id": 3782,
+         "title": "Ikiru",
+         "original_language": "ja",
+         "original_title": "生きる",
+         "overview": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
+         "poster_path": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.262,
+         "release_date": "1952-10-09",
+         "video": false,
+         "vote_average": 8.363,
+         "vote_count": 852
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

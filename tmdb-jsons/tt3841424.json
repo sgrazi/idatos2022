@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+         "id": 335578,
+         "title": "Land of Mine",
+         "original_language": "da",
+         "original_title": "Under sandet",
+         "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war is handed over to the Danish authorities and subsequently sent to the West Coast, where they are ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys are forced to perform the dangerous work under the leadership of a Danish sergeant.",
+         "poster_path": "/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10752,
+            18,
+            36
+         ],
+         "popularity": 18.619,
+         "release_date": "2015-12-03",
+         "video": false,
+         "vote_average": 7.819,
+         "vote_count": 1218
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

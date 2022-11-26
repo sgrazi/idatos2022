@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg",
+         "id": 805,
+         "title": "Rosemary's Baby",
+         "original_language": "en",
+         "original_title": "Rosemary's Baby",
+         "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+         "poster_path": "/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            27,
+            53
+         ],
+         "popularity": 18.779,
+         "release_date": "1968-06-12",
+         "video": false,
+         "vote_average": 7.815,
+         "vote_count": 3258
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

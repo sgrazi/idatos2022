@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg",
+         "id": 967,
+         "title": "Spartacus",
+         "original_language": "en",
+         "original_title": "Spartacus",
+         "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+         "poster_path": "/prdCmV8GkDLpguwoxBQczFAwvci.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            36,
+            10752,
+            18,
+            12
+         ],
+         "popularity": 35.367,
+         "release_date": "1960-10-13",
+         "video": false,
+         "vote_average": 7.6,
+         "vote_count": 1751
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

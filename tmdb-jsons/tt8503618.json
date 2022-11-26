@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+         "id": 556574,
+         "title": "Hamilton",
+         "original_language": "en",
+         "original_title": "Hamilton",
+         "overview": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+         "poster_path": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            36,
+            18
+         ],
+         "popularity": 14.23,
+         "release_date": "2020-07-03",
+         "video": false,
+         "vote_average": 8.298,
+         "vote_count": 1041
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

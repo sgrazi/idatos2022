@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/VJii5LyyoP7EaUyTWx4h0QQr86.jpg",
+         "id": 81549,
+         "title": "Everything's Gonna Be Great",
+         "original_language": "tr",
+         "original_title": "Her Şey Çok Güzel Olacak",
+         "overview": "When Altan swipes prescription drugs from his brother Nuri's pharmacy, they soon find themselves on a dangerous but funny road trip to get rid of the stuff and escape the mafiosi Altan tried to double-cross. Along the way, the brother who are compete opposites finally bond.",
+         "poster_path": "/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10751,
+            18,
+            35,
+            12
+         ],
+         "popularity": 4.914,
+         "release_date": "1998-11-27",
+         "video": false,
+         "vote_average": 7.376,
+         "vote_count": 101
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

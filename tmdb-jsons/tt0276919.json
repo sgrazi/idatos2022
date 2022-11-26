@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+         "id": 553,
+         "title": "Dogville",
+         "original_language": "en",
+         "original_title": "Dogville",
+         "overview": "A barren soundstage is stylishly utilized to create a minimalist small-town setting in which a mysterious woman named Grace hides from the criminals who pursue her. The town is two-faced and offers to harbor Grace as long as she can make it worth their effort, so Grace works hard under the employ of various townspeople to win their favor. Tensions flare, however, and Grace's status as a helpless outsider provokes vicious contempt and abuse from the citizens of Dogville.",
+         "poster_path": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 15.182,
+         "release_date": "2003-05-19",
+         "video": false,
+         "vote_average": 7.794,
+         "vote_count": 2031
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

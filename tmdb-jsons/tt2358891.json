@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/caGv0jxkJUP8eVFMDca6B4pTB0e.jpg",
+         "id": 179144,
+         "title": "The Great Beauty",
+         "original_language": "it",
+         "original_title": "La grande bellezza",
+         "overview": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.",
+         "poster_path": "/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 13.163,
+         "release_date": "2013-05-21",
+         "video": false,
+         "vote_average": 7.527,
+         "vote_count": 2748
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

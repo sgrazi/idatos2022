@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg",
+         "id": 11545,
+         "title": "Rushmore",
+         "original_language": "en",
+         "original_title": "Rushmore",
+         "overview": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+         "poster_path": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 10.122,
+         "release_date": "1998-12-11",
+         "video": false,
+         "vote_average": 7.431,
+         "vote_count": 2067
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

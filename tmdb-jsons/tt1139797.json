@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/AdR5kqBpmB4lPpRLcBFKAhBKeqD.jpg",
+         "id": 13310,
+         "title": "Let the Right One In",
+         "original_language": "sv",
+         "original_title": "Låt den rätte komma in",
+         "overview": "Set in 1982 in the suburb of Blackeberg, Stockholm, twelve-year-old Oskar is a lonely outsider, bullied at school by his classmates; at home, Oskar dreams of revenge against a trio of bullies. He befriends his twelve-year-old, next-door neighbor Eli, who only appears at night in the snow-covered playground outside their building.",
+         "poster_path": "/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            18
+         ],
+         "popularity": 14.767,
+         "release_date": "2008-10-24",
+         "video": false,
+         "vote_average": 7.528,
+         "vote_count": 2490
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -4,3 +4,25 @@ node_modules/*
 .venv/
 *.pyc
 .DS_Store
+
+# dependencies
+/application/node_modules
+/application/.pnp
+/application.pnp.js
+
+# testing
+/application/coverage
+
+# production
+/application/build
+
+# misc
+/application/.DS_Store
+/application/.env.local
+/application/.env.development.local
+/application/.env.test.local
+/application/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

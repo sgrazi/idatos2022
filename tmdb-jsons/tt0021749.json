@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/n0Cju2Eu3VyrUFl32thblHFWznA.jpg",
+         "id": 901,
+         "title": "City Lights",
+         "original_language": "en",
+         "original_title": "City Lights",
+         "overview": "In this sound-era silent film, a tramp falls in love with a beautiful blind flower seller.",
+         "poster_path": "/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 12.622,
+         "release_date": "1931-02-01",
+         "video": false,
+         "vote_average": 8.346,
+         "vote_count": 1739
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

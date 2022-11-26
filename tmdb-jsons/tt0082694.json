@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+         "id": 8810,
+         "title": "Mad Max 2",
+         "original_language": "en",
+         "original_title": "Mad Max 2",
+         "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+         "poster_path": "/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            28,
+            53,
+            878
+         ],
+         "popularity": 26.837,
+         "release_date": "1981-12-24",
+         "video": false,
+         "vote_average": 7.395,
+         "vote_count": 3018
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

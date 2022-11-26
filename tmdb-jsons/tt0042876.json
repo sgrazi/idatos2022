@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+         "id": 548,
+         "title": "Rashomon",
+         "original_language": "ja",
+         "original_title": "羅生門",
+         "overview": "Brimming with action while incisively examining the nature of truth, \"Rashomon\" is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.",
+         "poster_path": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            9648
+         ],
+         "popularity": 18.194,
+         "release_date": "1950-08-26",
+         "video": false,
+         "vote_average": 8.144,
+         "vote_count": 1752
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

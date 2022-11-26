@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vHPCpnpOVnbH1Shpq8TQKwo6zJB.jpg",
+         "id": 11969,
+         "title": "Tombstone",
+         "original_language": "en",
+         "original_title": "Tombstone",
+         "overview": "Legendary marshal Wyatt Earp, now a weary gunfighter, joins his brothers Morgan and Virgil to pursue their collective fortune in the thriving mining town of Tombstone. But Earp is forced to don a badge again and get help from his notorious pal Doc Holliday when a gang of renegade brigands and rustlers begins terrorizing the town.",
+         "poster_path": "/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37,
+            28
+         ],
+         "popularity": 32.22,
+         "release_date": "1993-12-25",
+         "video": false,
+         "vote_average": 7.605,
+         "vote_count": 1665
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

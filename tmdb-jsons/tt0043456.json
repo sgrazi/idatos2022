@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3cxXe9mLoMiIeBxvjRh4lcC2TuK.jpg",
+         "id": 828,
+         "title": "The Day the Earth Stood Still",
+         "original_language": "en",
+         "original_title": "The Day the Earth Stood Still",
+         "overview": "An alien and a robot land on Earth after World War II and tell mankind to be peaceful or face destruction.",
+         "poster_path": "/6vTXNdtfKhOp4WAgupknW9yig3V.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            878
+         ],
+         "popularity": 14.792,
+         "release_date": "1951-09-28",
+         "video": false,
+         "vote_average": 7.522,
+         "vote_count": 870
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

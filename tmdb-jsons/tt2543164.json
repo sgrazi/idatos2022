@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/8CEvm3uIm11foF9t91F5fCkXFGW.jpg",
+         "id": 329865,
+         "title": "Arrival",
+         "original_language": "en",
+         "original_title": "Arrival",
+         "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+         "poster_path": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            878,
+            9648
+         ],
+         "popularity": 55.461,
+         "release_date": "2016-11-10",
+         "video": false,
+         "vote_average": 7.574,
+         "vote_count": 15611
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

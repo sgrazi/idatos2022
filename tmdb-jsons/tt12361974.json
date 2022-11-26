@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+         "id": 791373,
+         "title": "Zack Snyder's Justice League",
+         "original_language": "en",
+         "original_title": "Zack Snyder's Justice League",
+         "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+         "poster_path": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            14,
+            878
+         ],
+         "popularity": 250.593,
+         "release_date": "2021-03-18",
+         "video": false,
+         "vote_average": 8.241,
+         "vote_count": 8335
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

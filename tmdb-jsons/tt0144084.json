@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+         "id": 1359,
+         "title": "American Psycho",
+         "original_language": "en",
+         "original_title": "American Psycho",
+         "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+         "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            18,
+            80
+         ],
+         "popularity": 66.193,
+         "release_date": "2000-04-13",
+         "video": false,
+         "vote_average": 7.385,
+         "vote_count": 8622
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

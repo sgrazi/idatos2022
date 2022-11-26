@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg",
+         "id": 522627,
+         "title": "The Gentlemen",
+         "original_language": "en",
+         "original_title": "The Gentlemen",
+         "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+         "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 41.249,
+         "release_date": "2019-11-14",
+         "video": false,
+         "vote_average": 7.677,
+         "vote_count": 4505
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

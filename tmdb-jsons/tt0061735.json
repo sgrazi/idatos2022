@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iSxiA5ZwJcLtnpBwB74fdGU2CBW.jpg",
+         "id": 1879,
+         "title": "Guess Who's Coming to Dinner",
+         "original_language": "en",
+         "original_title": "Guess Who's Coming to Dinner",
+         "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
+         "poster_path": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.277,
+         "release_date": "1967-12-11",
+         "video": false,
+         "vote_average": 7.635,
+         "vote_count": 672
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

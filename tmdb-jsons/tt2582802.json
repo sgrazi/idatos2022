@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5h8VtV4oh2qkO8Iqz7gypIYJPAr.jpg",
+         "id": 244786,
+         "title": "Whiplash",
+         "original_language": "en",
+         "original_title": "Whiplash",
+         "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+         "poster_path": "/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10402
+         ],
+         "popularity": 54.647,
+         "release_date": "2014-10-10",
+         "video": false,
+         "vote_average": 8.372,
+         "vote_count": 12752
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

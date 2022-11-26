@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg",
+         "id": 26022,
+         "title": "My Name Is Khan",
+         "original_language": "hi",
+         "original_title": "My Name Is Khan",
+         "overview": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
+         "poster_path": "/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 30.968,
+         "release_date": "2010-02-10",
+         "video": false,
+         "vote_average": 8.037,
+         "vote_count": 1077
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

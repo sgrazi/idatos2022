@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+         "id": 284,
+         "title": "The Apartment",
+         "original_language": "en",
+         "original_title": "The Apartment",
+         "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+         "poster_path": "/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 18.148,
+         "release_date": "1960-06-21",
+         "video": false,
+         "vote_average": 8.2,
+         "vote_count": 1815
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

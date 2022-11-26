@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg",
+         "id": 11349,
+         "title": "Cape Fear",
+         "original_language": "en",
+         "original_title": "Cape Fear",
+         "overview": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+         "poster_path": "/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 12.716,
+         "release_date": "1962-04-12",
+         "video": false,
+         "vote_average": 7.469,
+         "vote_count": 459
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

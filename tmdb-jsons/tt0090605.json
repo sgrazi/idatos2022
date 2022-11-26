@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+         "id": 679,
+         "title": "Aliens",
+         "original_language": "en",
+         "original_title": "Aliens",
+         "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story—all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
+         "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53,
+            878
+         ],
+         "popularity": 45.097,
+         "release_date": "1986-07-18",
+         "video": false,
+         "vote_average": 7.912,
+         "vote_count": 8044
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

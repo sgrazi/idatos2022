@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7lHxbtHThosMRZdp9646K4zygVh.jpg",
+         "id": 10849,
+         "title": "The Purple Rose of Cairo",
+         "original_language": "en",
+         "original_title": "The Purple Rose of Cairo",
+         "overview": "Cecilia is a waitress in New Jersey, living a dreary life during the Great Depression. Her only escape from her mundane reality is the movie theatre. After losing her job, Cecilia goes to see 'The Purple Rose of Cairo' in hopes of raising her spirits, where she watches dashing archaeologist Tom Baxter time and again.",
+         "poster_path": "/ccsint43E44B7NGceEhVimD93Yt.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            35,
+            10749
+         ],
+         "popularity": 7.616,
+         "release_date": "1985-03-01",
+         "video": false,
+         "vote_average": 7.4,
+         "vote_count": 838
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

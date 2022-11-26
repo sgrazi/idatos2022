@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+         "id": 135718,
+         "title": "OMG: Oh My God!",
+         "original_language": "hi",
+         "original_title": "ओएमजी - ओ माय गॉड!",
+         "overview": "A shopkeeper takes God to court when his shop is destroyed by an earthquake.",
+         "poster_path": "/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            14
+         ],
+         "popularity": 6.128,
+         "release_date": "2012-09-28",
+         "video": false,
+         "vote_average": 7.254,
+         "vote_count": 171
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

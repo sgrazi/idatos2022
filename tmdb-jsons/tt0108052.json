@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+         "id": 424,
+         "title": "Schindler's List",
+         "original_language": "en",
+         "original_title": "Schindler's List",
+         "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+         "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 49.35,
+         "release_date": "1993-12-15",
+         "video": false,
+         "vote_average": 8.566,
+         "vote_count": 13462
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

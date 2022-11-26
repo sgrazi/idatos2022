@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lQ30w6INbc94Hpc0BiizpOq9QbH.jpg",
+         "id": 3063,
+         "title": "Duck Soup",
+         "original_language": "en",
+         "original_title": "Duck Soup",
+         "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+         "poster_path": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10752
+         ],
+         "popularity": 9.086,
+         "release_date": "1933-11-12",
+         "video": false,
+         "vote_average": 7.384,
+         "vote_count": 622
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

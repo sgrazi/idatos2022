@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kgGPbt4NBoEhm1QxYS23XMYDyqr.jpg",
+         "id": 16619,
+         "title": "Ordinary People",
+         "original_language": "en",
+         "original_title": "Ordinary People",
+         "overview": "Beth, Calvin, and their son Conrad are living in the aftermath of the death of the other son. Conrad is overcome by grief and misplaced guilt to the extent of a suicide attempt. He is in therapy. Beth had always preferred his brother and is having difficulty being supportive to Conrad. Calvin is trapped between the two trying to hold the family together.",
+         "poster_path": "/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 11.653,
+         "release_date": "1980-09-19",
+         "video": false,
+         "vote_average": 7.449,
+         "vote_count": 501
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

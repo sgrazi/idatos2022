@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gDm9ADGilDFpoWdlQ3Z1ujJ7Rd1.jpg",
+         "id": 16306,
+         "title": "Fantastic Planet",
+         "original_language": "fr",
+         "original_title": "La Planète sauvage",
+         "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
+         "poster_path": "/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            878
+         ],
+         "popularity": 23.707,
+         "release_date": "1973-12-01",
+         "video": false,
+         "vote_average": 7.675,
+         "vote_count": 720
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

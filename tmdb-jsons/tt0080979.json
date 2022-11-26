@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+         "id": 11953,
+         "title": "Kagemusha",
+         "original_language": "ja",
+         "original_title": "影武者",
+         "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+         "poster_path": "/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18,
+            36,
+            10752
+         ],
+         "popularity": 14.469,
+         "release_date": "1980-04-26",
+         "video": false,
+         "vote_average": 7.815,
+         "vote_count": 512
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

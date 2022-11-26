@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+         "id": 17295,
+         "title": "The Battle of Algiers",
+         "original_language": "it",
+         "original_title": "La battaglia di Algeri",
+         "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
+         "poster_path": "/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752,
+            36
+         ],
+         "popularity": 9.386,
+         "release_date": "1966-09-08",
+         "video": false,
+         "vote_average": 7.928,
+         "vote_count": 564
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

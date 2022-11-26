@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg",
+         "id": 3116,
+         "title": "Midnight Cowboy",
+         "original_language": "en",
+         "original_title": "Midnight Cowboy",
+         "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+         "poster_path": "/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 13.177,
+         "release_date": "1969-05-25",
+         "video": false,
+         "vote_average": 7.521,
+         "vote_count": 1063
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

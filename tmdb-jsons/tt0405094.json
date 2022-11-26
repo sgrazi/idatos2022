@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3mxteiwtcCPjbYKlyC0WxY1G9J3.jpg",
+         "id": 582,
+         "title": "The Lives of Others",
+         "original_language": "de",
+         "original_title": "Das Leben der Anderen",
+         "overview": "A tragic love story set in East Berlin with the backdrop of an undercover Stasi controlled culture. Stasi captain Wieler is ordered to follow author Dreyman and plunges deeper and deeper into his life until he reaches the threshold of doubting the system.",
+         "poster_path": "/bCywq0RkrdI2qzhPNuuJ9PvGuzd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 13.72,
+         "release_date": "2006-03-15",
+         "video": false,
+         "vote_average": 8.043,
+         "vote_count": 3073
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

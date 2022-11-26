@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+         "id": 186,
+         "title": "Lucky Number Slevin",
+         "original_language": "en",
+         "original_title": "Lucky Number Slevin",
+         "overview": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+         "poster_path": "/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53,
+            80,
+            9648
+         ],
+         "popularity": 18.255,
+         "release_date": "2006-02-24",
+         "video": false,
+         "vote_average": 7.485,
+         "vote_count": 3491
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

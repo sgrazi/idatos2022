@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/32zua2oKjn2EaRk7am3qK8zAlEj.jpg",
+         "id": 568,
+         "title": "Apollo 13",
+         "original_language": "en",
+         "original_title": "Apollo 13",
+         "overview": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+         "poster_path": "/oYUZHYMwNKnE1ef4WE5Hw2a9OAY.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            36,
+            18,
+            12
+         ],
+         "popularity": 22.182,
+         "release_date": "1995-06-30",
+         "video": false,
+         "vote_average": 7.433,
+         "vote_count": 4688
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

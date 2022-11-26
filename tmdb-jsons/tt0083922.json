@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+         "id": 5961,
+         "title": "Fanny and Alexander",
+         "original_language": "sv",
+         "original_title": "Fanny och Alexander",
+         "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+         "poster_path": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            18,
+            9648
+         ],
+         "popularity": 8.787,
+         "release_date": "1982-12-17",
+         "video": false,
+         "vote_average": 7.796,
+         "vote_count": 623
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg",
+         "id": 14752,
+         "title": "Dil Chahta Hai",
+         "original_language": "hi",
+         "original_title": "दिल चाहता है",
+         "overview": "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
+         "poster_path": "/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 8.611,
+         "release_date": "2001-07-24",
+         "video": false,
+         "vote_average": 7,
+         "vote_count": 226
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

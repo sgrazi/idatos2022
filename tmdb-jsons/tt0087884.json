@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg",
+         "id": 655,
+         "title": "Paris, Texas",
+         "original_language": "en",
+         "original_title": "Paris, Texas",
+         "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+         "poster_path": "/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 17.329,
+         "release_date": "1984-08-23",
+         "video": false,
+         "vote_average": 8.11,
+         "vote_count": 1361
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+         "id": 546554,
+         "title": "Knives Out",
+         "original_language": "en",
+         "original_title": "Knives Out",
+         "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+         "poster_path": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80,
+            9648
+         ],
+         "popularity": 46.844,
+         "release_date": "2019-11-27",
+         "video": false,
+         "vote_average": 7.857,
+         "vote_count": 9530
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

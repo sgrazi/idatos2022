@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+         "id": 12498,
+         "title": "Sling Blade",
+         "original_language": "en",
+         "original_title": "Sling Blade",
+         "overview": "Karl Childers is a mentally disabled man who has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, Karl is deemed fit to be released into the outside world.",
+         "poster_path": "/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 14.802,
+         "release_date": "1996-08-30",
+         "video": false,
+         "vote_average": 7.554,
+         "vote_count": 627
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+         "id": 14282,
+         "title": "Ninja Scroll",
+         "original_language": "ja",
+         "original_title": "獣兵衛忍風帖",
+         "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+         "poster_path": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            12,
+            16
+         ],
+         "popularity": 17.197,
+         "release_date": "1993-06-05",
+         "video": false,
+         "vote_average": 7.777,
+         "vote_count": 470
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+         "id": 331482,
+         "title": "Little Women",
+         "original_language": "en",
+         "original_title": "Little Women",
+         "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+         "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749,
+            36
+         ],
+         "popularity": 44.357,
+         "release_date": "2019-12-25",
+         "video": false,
+         "vote_average": 7.911,
+         "vote_count": 5144
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

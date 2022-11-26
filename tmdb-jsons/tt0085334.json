@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg",
+         "id": 850,
+         "title": "A Christmas Story",
+         "original_language": "en",
+         "original_title": "A Christmas Story",
+         "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+         "poster_path": "/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10751
+         ],
+         "popularity": 20.703,
+         "release_date": "1983-11-18",
+         "video": false,
+         "vote_average": 7.3,
+         "vote_count": 1006
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

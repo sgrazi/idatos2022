@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xiRjvpk7UhEqoKlzeCak56YkEmD.jpg",
+         "id": 265169,
+         "title": "Winter Sleep",
+         "original_language": "tr",
+         "original_title": "Kış Uykusu",
+         "overview": "Aydin, a retired actor, owns a small hotel in central Anatolia with his young wife Nihal and his sister Necla, who is coping with her recent divorce. During the winter, snow covers the ground and boredom brings the return of old memories, pushing Aydin to flee…",
+         "poster_path": "/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.516,
+         "release_date": "2014-06-13",
+         "video": false,
+         "vote_average": 7.676,
+         "vote_count": 440
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

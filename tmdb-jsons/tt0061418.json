@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+         "id": 475,
+         "title": "Bonnie and Clyde",
+         "original_language": "en",
+         "original_title": "Bonnie and Clyde",
+         "overview": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+         "poster_path": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18
+         ],
+         "popularity": 17.376,
+         "release_date": "1967-07-18",
+         "video": false,
+         "vote_average": 7.497,
+         "vote_count": 1299
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

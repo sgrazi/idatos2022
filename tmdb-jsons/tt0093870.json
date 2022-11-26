@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+         "id": 5548,
+         "title": "RoboCop",
+         "original_language": "en",
+         "original_title": "RoboCop",
+         "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+         "poster_path": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53,
+            878
+         ],
+         "popularity": 29.217,
+         "release_date": "1987-07-17",
+         "video": false,
+         "vote_average": 7.274,
+         "vote_count": 4165
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

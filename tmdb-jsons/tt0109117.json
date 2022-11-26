@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/8YboYnoujBeWv4Galqnb7I0h9jf.jpg",
+         "id": 58128,
+         "title": "Andaz Apna Apna",
+         "original_language": "hi",
+         "original_title": "अंदाज़ अपना अपना",
+         "overview": "Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal.",
+         "poster_path": "/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749,
+            10751
+         ],
+         "popularity": 6.203,
+         "release_date": "1994-04-11",
+         "video": false,
+         "vote_average": 7.066,
+         "vote_count": 173
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

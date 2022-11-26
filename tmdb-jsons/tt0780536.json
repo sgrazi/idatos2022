@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/88atstNUnf3AHnnCn4DW2rNJnfW.jpg",
+         "id": 8321,
+         "title": "In Bruges",
+         "original_language": "en",
+         "original_title": "In Bruges",
+         "overview": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+         "poster_path": "/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            80
+         ],
+         "popularity": 18.062,
+         "release_date": "2008-02-08",
+         "video": false,
+         "vote_average": 7.463,
+         "vote_count": 4216
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

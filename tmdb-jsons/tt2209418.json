@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lv9UT4VyoyGFTKNBboMTeZ5ZcD3.jpg",
+         "id": 132344,
+         "title": "Before Midnight",
+         "original_language": "en",
+         "original_title": "Before Midnight",
+         "overview": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. Now, live in Paris with twin daughters, but have spent a summer in Greece on the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+         "poster_path": "/3kKz77vTXEezBiyBsi5jZ9cUc1I.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            18
+         ],
+         "popularity": 13.23,
+         "release_date": "2013-04-05",
+         "video": false,
+         "vote_average": 7.495,
+         "vote_count": 1951
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

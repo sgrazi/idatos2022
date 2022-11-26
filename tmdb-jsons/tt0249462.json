@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+         "id": 71,
+         "title": "Billy Elliot",
+         "original_language": "en",
+         "original_title": "Billy Elliot",
+         "overview": "County Durham England 1984 the miners strike has started and the police have started coming up from Bethnal Green starting a class war with the lower classes suffering caught in the middle of the conflict is 11-year old Billy Elliot who after leaving his boxing club for the day stubbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs Wilkinson for an upcoming audition in Newcastle-upon Tyne the audition is for the royal Ballet school in London.",
+         "poster_path": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35,
+            10402
+         ],
+         "popularity": 22.318,
+         "release_date": "2000-09-28",
+         "video": false,
+         "vote_average": 7.6,
+         "vote_count": 3337
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

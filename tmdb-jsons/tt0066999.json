@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ezrb56YdkoG59fZj50IxE9OnADx.jpg",
+         "id": 984,
+         "title": "Dirty Harry",
+         "original_language": "en",
+         "original_title": "Dirty Harry",
+         "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath. Harry eventually collars Scorpio in the process of rescuing a kidnap victim, only to see him walk on technicalities. Now, the maverick detective is determined to nail the maniac himself.",
+         "poster_path": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            80,
+            53
+         ],
+         "popularity": 15.162,
+         "release_date": "1971-12-23",
+         "video": false,
+         "vote_average": 7.495,
+         "vote_count": 1968
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

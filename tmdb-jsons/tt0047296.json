@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+         "id": 654,
+         "title": "On the Waterfront",
+         "original_language": "en",
+         "original_title": "On the Waterfront",
+         "overview": "Terry Malloy dreams about being a prize fighter, while tending his pigeons and running errands at the docks for Johnny Friendly, the corrupt boss of the dockers union. Terry witnesses a murder by two of Johnny's thugs, and later meets the dead man's sister and feels responsible for his death. She introduces him to Father Barry, who tries to force him to provide information for the courts that will smash the dock racketeers.",
+         "poster_path": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18
+         ],
+         "popularity": 10.031,
+         "release_date": "1954-06-22",
+         "video": false,
+         "vote_average": 7.995,
+         "vote_count": 1252
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

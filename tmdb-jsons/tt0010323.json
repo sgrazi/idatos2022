@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/m0N89MIIu6qYZcujCRzBHrkZbns.jpg",
+         "id": 234,
+         "title": "The Cabinet of Dr. Caligari",
+         "original_language": "de",
+         "original_title": "Das Cabinet des Dr. Caligari",
+         "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+         "poster_path": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            27,
+            53,
+            80
+         ],
+         "popularity": 12.868,
+         "release_date": "1920-02-27",
+         "video": false,
+         "vote_average": 7.965,
+         "vote_count": 1202
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

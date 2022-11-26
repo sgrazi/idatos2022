@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg",
+         "id": 1572,
+         "title": "Die Hard: With a Vengeance",
+         "original_language": "en",
+         "original_title": "Die Hard: With a Vengeance",
+         "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+         "poster_path": "/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53
+         ],
+         "popularity": 33.368,
+         "release_date": "1995-05-19",
+         "video": false,
+         "vote_average": 7.235,
+         "vote_count": 5223
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

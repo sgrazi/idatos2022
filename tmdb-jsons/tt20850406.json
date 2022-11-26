@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+         "id": 894803,
+         "title": "Sita Ramam",
+         "original_language": "te",
+         "original_title": "సీతా రామం",
+         "overview": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
+         "poster_path": "/z4aaTHL75q66F7VejVpkefQNJ9k.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            18
+         ],
+         "popularity": 9.852,
+         "release_date": "2022-08-05",
+         "video": false,
+         "vote_average": 7.609,
+         "vote_count": 23
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

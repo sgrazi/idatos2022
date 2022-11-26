@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+         "id": 963,
+         "title": "The Maltese Falcon",
+         "original_language": "en",
+         "original_title": "The Maltese Falcon",
+         "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+         "poster_path": "/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            9648,
+            80,
+            53
+         ],
+         "popularity": 14.732,
+         "release_date": "1941-10-18",
+         "video": false,
+         "vote_average": 7.761,
+         "vote_count": 1327
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

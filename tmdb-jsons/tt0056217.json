@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/afH7n1HMvzHaOkxM3h5XXvErK0j.jpg",
+         "id": 11697,
+         "title": "The Man Who Shot Liberty Valance",
+         "original_language": "en",
+         "original_title": "The Man Who Shot Liberty Valance",
+         "overview": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
+         "poster_path": "/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37
+         ],
+         "popularity": 16.362,
+         "release_date": "1962-04-15",
+         "video": false,
+         "vote_average": 7.782,
+         "vote_count": 884
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

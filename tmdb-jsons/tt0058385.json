@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+         "id": 11113,
+         "title": "My Fair Lady",
+         "original_language": "en",
+         "original_title": "My Fair Lady",
+         "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+         "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            18,
+            10402
+         ],
+         "popularity": 14.201,
+         "release_date": "1964-10-21",
+         "video": false,
+         "vote_average": 7.576,
+         "vote_count": 1058
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

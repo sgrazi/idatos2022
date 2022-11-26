@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg",
+         "id": 313369,
+         "title": "La La Land",
+         "original_language": "en",
+         "original_title": "La La Land",
+         "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+         "poster_path": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749,
+            10402
+         ],
+         "popularity": 30.808,
+         "release_date": "2016-11-29",
+         "video": false,
+         "vote_average": 7.883,
+         "vote_count": 14678
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

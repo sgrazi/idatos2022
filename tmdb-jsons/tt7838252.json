@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+         "id": 564147,
+         "title": "K.G.F: Chapter 1",
+         "original_language": "kn",
+         "original_title": "ಕೆಜಿಎಫ್ ಅಧ್ಯಾಯ ೧",
+         "overview": "A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.",
+         "poster_path": "/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            80,
+            18
+         ],
+         "popularity": 11.212,
+         "release_date": "2018-12-20",
+         "video": false,
+         "vote_average": 7.483,
+         "vote_count": 145
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

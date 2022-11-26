@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+         "id": 11878,
+         "title": "Yojimbo",
+         "original_language": "ja",
+         "original_title": "用心棒",
+         "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+         "poster_path": "/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 13.985,
+         "release_date": "1961-04-25",
+         "video": false,
+         "vote_average": 8.145,
+         "vote_count": 1128
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

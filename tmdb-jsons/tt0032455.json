@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yRDU00odN8kHIFJQobkoCKcL6Le.jpg",
+         "id": 756,
+         "title": "Fantasia",
+         "original_language": "en",
+         "original_title": "Fantasia",
+         "overview": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+         "poster_path": "/yB5y31WZp2vArNK9a2iGNtSpEZ6.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            10751
+         ],
+         "popularity": 52.132,
+         "release_date": "1940-11-13",
+         "video": false,
+         "vote_average": 7.393,
+         "vote_count": 2598
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

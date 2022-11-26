@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg",
+         "id": 743563,
+         "title": "Vikram",
+         "original_language": "ta",
+         "original_title": "விக்ரம்",
+         "overview": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+         "poster_path": "/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53
+         ],
+         "popularity": 5.362,
+         "release_date": "2022-06-02",
+         "video": false,
+         "vote_average": 7.1,
+         "vote_count": 47
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

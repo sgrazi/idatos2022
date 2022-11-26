@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+         "id": 205,
+         "title": "Hotel Rwanda",
+         "original_language": "en",
+         "original_title": "Hotel Rwanda",
+         "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+         "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 17.592,
+         "release_date": "2004-03-04",
+         "video": false,
+         "vote_average": 7.7,
+         "vote_count": 2403
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

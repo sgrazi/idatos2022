@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+         "id": 3529,
+         "title": "The Thin Man",
+         "original_language": "en",
+         "original_title": "The Thin Man",
+         "overview": "A husband and wife detective team takes on the search for a missing inventor and almost get killed for their efforts.",
+         "poster_path": "/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80,
+            9648
+         ],
+         "popularity": 9.01,
+         "release_date": "1934-05-25",
+         "video": false,
+         "vote_average": 7.548,
+         "vote_count": 354
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

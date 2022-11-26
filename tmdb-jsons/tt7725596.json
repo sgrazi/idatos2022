@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wFOgP3PX907fhfVpeP3YItmPQtS.jpg",
+         "id": 547654,
+         "title": "Badhaai Ho",
+         "original_language": "hi",
+         "original_title": "बधाई हो",
+         "overview": "A 25-year-old man tries to suppress his embarrassment when his mother announces that she is pregnant.",
+         "poster_path": "/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749,
+            18
+         ],
+         "popularity": 5.826,
+         "release_date": "2018-10-19",
+         "video": false,
+         "vote_average": 7.372,
+         "vote_count": 109
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

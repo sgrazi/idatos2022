@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+         "id": 424694,
+         "title": "Bohemian Rhapsody",
+         "original_language": "en",
+         "original_title": "Bohemian Rhapsody",
+         "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+         "poster_path": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10402,
+            18,
+            36
+         ],
+         "popularity": 57.35,
+         "release_date": "2018-10-24",
+         "video": false,
+         "vote_average": 8.013,
+         "vote_count": 15191
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

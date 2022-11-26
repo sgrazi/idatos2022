@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+         "id": 3082,
+         "title": "Modern Times",
+         "original_language": "en",
+         "original_title": "Modern Times",
+         "overview": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+         "poster_path": "/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 14.528,
+         "release_date": "1936-02-05",
+         "video": false,
+         "vote_average": 8.322,
+         "vote_count": 3102
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

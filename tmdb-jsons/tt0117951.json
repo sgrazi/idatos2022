@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+         "id": 627,
+         "title": "Trainspotting",
+         "original_language": "en",
+         "original_title": "Trainspotting",
+         "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends -- Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind when Begbie shows up at his front door on the lam, and a scheming Sick Boy follows.",
+         "poster_path": "/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 23.348,
+         "release_date": "1996-02-23",
+         "video": false,
+         "vote_average": 7.969,
+         "vote_count": 8475
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

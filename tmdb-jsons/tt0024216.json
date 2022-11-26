@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7hDdW3C17pi4MdSeYXs8bwIVA78.jpg",
+         "id": 244,
+         "title": "King Kong",
+         "original_language": "en",
+         "original_title": "King Kong",
+         "overview": "Adventurous filmmaker, Carl Denham, sets out to produce a motion picture unlike anything the world has seen before. Alongside his leading lady Ann Darrow and his first mate Jack Driscoll, they arrive on an island and discover a legendary creature said to be neither beast nor man. Denham captures the monster to displayed on Broadway as Kong, the eighth wonder of the world.",
+         "poster_path": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            14,
+            27
+         ],
+         "popularity": 19.934,
+         "release_date": "1933-03-15",
+         "video": false,
+         "vote_average": 7.626,
+         "vote_count": 1184
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

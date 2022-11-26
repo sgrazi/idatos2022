@@ -1,0 +1,32 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+         "id": 9361,
+         "title": "The Last of the Mohicans",
+         "original_language": "en",
+         "original_title": "The Last of the Mohicans",
+         "overview": "In war-torn colonial America, in the midst of a bloody battle between British, the French and Native American allies, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers comes to their rescue.",
+         "poster_path": "/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            18,
+            36,
+            10749,
+            10752
+         ],
+         "popularity": 18.222,
+         "release_date": "1992-08-26",
+         "video": false,
+         "vote_average": 7.39,
+         "vote_count": 2549
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

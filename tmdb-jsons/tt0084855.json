@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
+         "id": 24226,
+         "title": "The Verdict",
+         "original_language": "en",
+         "original_title": "The Verdict",
+         "overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter—all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court—to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+         "poster_path": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 12.088,
+         "release_date": "1982-12-08",
+         "video": false,
+         "vote_average": 7.422,
+         "vote_count": 479
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

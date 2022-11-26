@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gA4LhayobDkew8pQExPrmdYljxP.jpg",
+         "id": 158,
+         "title": "Knockin' on Heaven's Door",
+         "original_language": "de",
+         "original_title": "Knockin' on Heaven's Door",
+         "overview": "Two young men, Martin and Rudi, both suffering from terminal cancer, get to know each other in a hospital room. They drown their desperation in tequila and decide to take one last trip to the sea. Drunk and still in pajamas they steal the first fancy car they find, a 60's Mercedes convertible. The car happens to belong to a bunch of gangsters, which immediately start to chase it, since it contains more than the pistol Martin finds in the glove box.",
+         "poster_path": "/dsY09zCxKDFjfV1oqXFJJpVrHdP.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 9.649,
+         "release_date": "1997-02-20",
+         "video": false,
+         "vote_average": 7.63,
+         "vote_count": 397
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

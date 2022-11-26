@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lRcC2O9djP40wRSICs1PGF5T7l2.jpg",
+         "id": 871,
+         "title": "Planet of the Apes",
+         "original_language": "en",
+         "original_title": "Planet of the Apes",
+         "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+         "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            878,
+            12,
+            18,
+            28
+         ],
+         "popularity": 41.107,
+         "release_date": "1968-02-07",
+         "video": false,
+         "vote_average": 7.644,
+         "vote_count": 2790
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

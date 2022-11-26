@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+         "id": 105,
+         "title": "Back to the Future",
+         "original_language": "en",
+         "original_title": "Back to the Future",
+         "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+         "poster_path": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            35,
+            878
+         ],
+         "popularity": 69.131,
+         "release_date": "1985-07-03",
+         "video": false,
+         "vote_average": 8.307,
+         "vote_count": 17186
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

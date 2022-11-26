@@ -1,0 +1,32 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg",
+         "id": 82702,
+         "title": "How to Train Your Dragon 2",
+         "original_language": "en",
+         "original_title": "How to Train Your Dragon 2",
+         "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's mother, Valka. Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago.",
+         "poster_path": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            14,
+            28,
+            12,
+            16,
+            35,
+            10751
+         ],
+         "popularity": 96.522,
+         "release_date": "2014-06-05",
+         "video": false,
+         "vote_average": 7.671,
+         "vote_count": 8410
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

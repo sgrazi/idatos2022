@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9Upbup1xrQuTDbspIh9aytEH5xA.jpg",
+         "id": 16642,
+         "title": "Days of Heaven",
+         "original_language": "en",
+         "original_title": "Days of Heaven",
+         "overview": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+         "poster_path": "/dUug5qbctb2ruuClpdQitzkIxbc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 11.914,
+         "release_date": "1978-09-13",
+         "video": false,
+         "vote_average": 7.513,
+         "vote_count": 806
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

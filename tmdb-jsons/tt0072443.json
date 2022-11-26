@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg",
+         "id": 1396,
+         "title": "Mirror",
+         "original_language": "ru",
+         "original_title": "Зеркало",
+         "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+         "poster_path": "/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 11.952,
+         "release_date": "1975-03-07",
+         "video": false,
+         "vote_average": 8.044,
+         "vote_count": 723
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

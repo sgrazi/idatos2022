@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg",
+         "id": 11072,
+         "title": "Blazing Saddles",
+         "original_language": "en",
+         "original_title": "Blazing Saddles",
+         "overview": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lemar sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+         "poster_path": "/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37,
+            35
+         ],
+         "popularity": 18.672,
+         "release_date": "1974-02-07",
+         "video": false,
+         "vote_average": 7.3,
+         "vote_count": 1528
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

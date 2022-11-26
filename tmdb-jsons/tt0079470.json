@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hudKBabOC0PSuAd2TCQQxinU4kn.jpg",
+         "id": 583,
+         "title": "Life of Brian",
+         "original_language": "en",
+         "original_title": "Life of Brian",
+         "overview": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+         "poster_path": "/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 15.376,
+         "release_date": "1979-08-17",
+         "video": false,
+         "vote_average": 7.8,
+         "vote_count": 3671
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

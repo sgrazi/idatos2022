@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9LkOiz3fPTEhZbXr5IvdFbm01cj.jpg",
+         "id": 705,
+         "title": "All About Eve",
+         "original_language": "en",
+         "original_title": "All About Eve",
+         "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+         "poster_path": "/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 14.892,
+         "release_date": "1950-10-06",
+         "video": false,
+         "vote_average": 8.16,
+         "vote_count": 1265
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

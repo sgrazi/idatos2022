@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uZvkEU7X0JWYZJEEdEKQrdevyiw.jpg",
+         "id": 19703,
+         "title": "A Wednesday!",
+         "original_language": "hi",
+         "original_title": "A Wednesday!",
+         "overview": "A retired police commissioner recounts the most memorable case of his career, wherein he was informed about a bomb scare in Mumbai.",
+         "poster_path": "/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53
+         ],
+         "popularity": 7.344,
+         "release_date": "2008-09-05",
+         "video": false,
+         "vote_average": 7.07,
+         "vote_count": 244
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

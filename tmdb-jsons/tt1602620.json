@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+         "id": 86837,
+         "title": "Amour",
+         "original_language": "fr",
+         "original_title": "Amour",
+         "overview": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+         "poster_path": "/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 13.45,
+         "release_date": "2012-09-20",
+         "video": false,
+         "vote_average": 7.762,
+         "vote_count": 1371
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

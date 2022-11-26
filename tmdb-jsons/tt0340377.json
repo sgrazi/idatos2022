@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bX5UVSVDOcuFMJh2zWN6gXbKswM.jpg",
+         "id": 2056,
+         "title": "The Station Agent",
+         "original_language": "en",
+         "original_title": "The Station Agent",
+         "overview": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+         "poster_path": "/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 9.045,
+         "release_date": "2003-01-26",
+         "video": false,
+         "vote_average": 7.418,
+         "vote_count": 541
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

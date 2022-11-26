@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg",
+         "id": 93,
+         "title": "Anatomy of a Murder",
+         "original_language": "en",
+         "original_title": "Anatomy of a Murder",
+         "overview": "A virtuoso James Stewart plays a small-town Michigan lawyer who takes on a difficult case: the defense of a young army lieutenant (Ben Gazzara) accused of murdering a local tavern owner who he believes raped his wife (Lee Remick). This gripping envelope-pusher, the most popular film by Hollywood provocateur Otto Preminger, was groundbreaking for the frankness of its discussion of sex—but more than anything else, it is a striking depiction of the power of words. Featuring an outstanding supporting cast—with a young George C. Scott as a fiery prosecutor and the legendary attorney Joseph N. Welch as the judge—and an influential score by Duke Ellington, Anatomy of a Murder is an American movie landmark, nominated for seven Oscars, including best picture.",
+         "poster_path": "/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+         ],
+         "popularity": 12.949,
+         "release_date": "1959-07-01",
+         "video": false,
+         "vote_average": 7.9,
+         "vote_count": 760
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

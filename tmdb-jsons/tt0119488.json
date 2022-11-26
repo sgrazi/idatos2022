@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/n39lZOZI65VIq9qw7BpjbldN63b.jpg",
+         "id": 2118,
+         "title": "L.A. Confidential",
+         "original_language": "en",
+         "original_title": "L.A. Confidential",
+         "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+         "poster_path": "/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            9648,
+            53
+         ],
+         "popularity": 18.591,
+         "release_date": "1997-09-19",
+         "video": false,
+         "vote_average": 7.781,
+         "vote_count": 4091
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

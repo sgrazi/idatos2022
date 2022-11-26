@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tMyVb5CXHnBLQ8V7s0FuFA5V9nP.jpg",
+         "id": 334533,
+         "title": "Captain Fantastic",
+         "original_language": "en",
+         "original_title": "Captain Fantastic",
+         "overview": "A father living in the forests of the Pacific Northwest with his six young kids tries to assimilate back into society.",
+         "poster_path": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            18
+         ],
+         "popularity": 23.423,
+         "release_date": "2016-07-08",
+         "video": false,
+         "vote_average": 7.925,
+         "vote_count": 5661
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

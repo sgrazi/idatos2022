@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+         "id": 990,
+         "title": "The Hustler",
+         "original_language": "en",
+         "original_title": "The Hustler",
+         "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+         "poster_path": "/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 12.929,
+         "release_date": "1961-09-25",
+         "video": false,
+         "vote_average": 7.74,
+         "vote_count": 772
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

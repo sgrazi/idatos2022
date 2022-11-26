@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+         "id": 11686,
+         "title": "Love and Death",
+         "original_language": "en",
+         "original_title": "Love and Death",
+         "overview": "Boris is a simple Russian villager who pines from afar for his beautiful cousin Sonja. Forced against his will into joining the Russian army during the Napoleonic Wars, the cowardly Boris accidentally becomes a military hero. But when his beloved Sonja comes to him with a dangerous patriotic scheme, Boris debates his desires and beliefs.",
+         "poster_path": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            36,
+            35
+         ],
+         "popularity": 8.612,
+         "release_date": "1975-06-10",
+         "video": false,
+         "vote_average": 7.6,
+         "vote_count": 721
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

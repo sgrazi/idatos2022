@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg",
+         "id": 10681,
+         "title": "WALL·E",
+         "original_language": "en",
+         "original_title": "WALL·E",
+         "overview": "WALL·E is the last robot left on an Earth that has been overrun with garbage and all humans have fled to outer space. For 700 years he has continued to try and clean up the mess, but has developed some rather interesting human-like qualities. When a ship arrives with a sleek new type of robot, WALL·E thinks he's finally found a friend and stows away on the ship when it leaves.",
+         "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            10751,
+            878
+         ],
+         "popularity": 100.354,
+         "release_date": "2008-06-22",
+         "video": false,
+         "vote_average": 8.068,
+         "vote_count": 16358
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

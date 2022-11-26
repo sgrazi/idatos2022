@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg",
+         "id": 9325,
+         "title": "The Jungle Book",
+         "original_language": "en",
+         "original_title": "The Jungle Book",
+         "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+         "poster_path": "/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10751,
+            16,
+            12
+         ],
+         "popularity": 86.654,
+         "release_date": "1967-10-18",
+         "video": false,
+         "vote_average": 7.277,
+         "vote_count": 5471
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

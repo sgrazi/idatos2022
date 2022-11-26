@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+         "id": 466272,
+         "title": "Once Upon a Time… in Hollywood",
+         "original_language": "en",
+         "original_title": "Once Upon a Time… in Hollywood",
+         "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+         "poster_path": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            53
+         ],
+         "popularity": 39.78,
+         "release_date": "2019-07-24",
+         "video": false,
+         "vote_average": 7.435,
+         "vote_count": 11099
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

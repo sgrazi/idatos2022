@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg",
+         "id": 18079,
+         "title": "Nine Queens",
+         "original_language": "es",
+         "original_title": "Nueve reinas",
+         "overview": "Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps (the \"nine queens\").",
+         "poster_path": "/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80
+         ],
+         "popularity": 11.544,
+         "release_date": "2000-08-31",
+         "video": false,
+         "vote_average": 7.752,
+         "vote_count": 564
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

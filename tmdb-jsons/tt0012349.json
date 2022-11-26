@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cvWzCDo3pQyoasvqzRIP7oHK3qn.jpg",
+         "id": 10098,
+         "title": "The Kid",
+         "original_language": "en",
+         "original_title": "The Kid",
+         "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
+         "poster_path": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 17.697,
+         "release_date": "1921-01-21",
+         "video": false,
+         "vote_average": 8.215,
+         "vote_count": 1681
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

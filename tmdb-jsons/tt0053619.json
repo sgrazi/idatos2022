@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg",
+         "id": 5165,
+         "title": "L'Avventura",
+         "original_language": "it",
+         "original_title": "L'avventura",
+         "overview": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
+         "poster_path": "/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            9648
+         ],
+         "popularity": 9.392,
+         "release_date": "1960-09-14",
+         "video": false,
+         "vote_average": 7.602,
+         "vote_count": 542
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

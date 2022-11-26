@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/k4AVaOboquMcd3zbFSSgCEbzabz.jpg",
+         "id": 246741,
+         "title": "What We Do in the Shadows",
+         "original_language": "en",
+         "original_title": "What We Do in the Shadows",
+         "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+         "poster_path": "/ftrq6LsDNfLPQzrlonOaxSq4yMh.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            27
+         ],
+         "popularity": 16.275,
+         "release_date": "2014-06-19",
+         "video": false,
+         "vote_average": 7.575,
+         "vote_count": 2985
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

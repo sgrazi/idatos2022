@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jsfIt1y0t7hNjYmC7mfsEIHwET8.jpg",
+         "id": 9426,
+         "title": "The Fly",
+         "original_language": "en",
+         "original_title": "The Fly",
+         "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+         "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            878
+         ],
+         "popularity": 54.291,
+         "release_date": "1986-08-15",
+         "video": false,
+         "vote_average": 7.366,
+         "vote_count": 3572
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+         "id": 20334,
+         "title": "The Shop Around the Corner",
+         "original_language": "en",
+         "original_title": "The Shop Around the Corner",
+         "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal.",
+         "poster_path": "/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 10.511,
+         "release_date": "1940-01-12",
+         "video": false,
+         "vote_average": 8.362,
+         "vote_count": 553
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

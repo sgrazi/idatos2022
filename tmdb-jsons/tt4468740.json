@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg",
+         "id": 346648,
+         "title": "Paddington 2",
+         "original_language": "en",
+         "original_title": "Paddington 2",
+         "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+         "poster_path": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            35,
+            10751
+         ],
+         "popularity": 37.488,
+         "release_date": "2017-11-09",
+         "video": false,
+         "vote_average": 7.476,
+         "vote_count": 1848
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

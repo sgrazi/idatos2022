@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/AkO8hEXTTlaMt5tvSKNHwxrE9jt.jpg",
+         "id": 587030,
+         "title": "Kaithi",
+         "original_language": "ta",
+         "original_title": "கைதி",
+         "overview": "Dilli, a convicted criminal, is out on parole to meet his daughter. However, a drug bust sets him off on a mission to save the life of police officers.",
+         "poster_path": "/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53
+         ],
+         "popularity": 5.359,
+         "release_date": "2019-10-25",
+         "video": false,
+         "vote_average": 7.486,
+         "vote_count": 71
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

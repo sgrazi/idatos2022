@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+         "id": 1654,
+         "title": "The Dirty Dozen",
+         "original_language": "en",
+         "original_title": "The Dirty Dozen",
+         "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+         "poster_path": "/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            10752
+         ],
+         "popularity": 14.348,
+         "release_date": "1967-06-15",
+         "video": false,
+         "vote_average": 7.608,
+         "vote_count": 975
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

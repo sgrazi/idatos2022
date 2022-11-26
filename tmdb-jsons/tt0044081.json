@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/s7C6PsfHfu983wrhp7GgLUIN3Cj.jpg",
+         "id": 702,
+         "title": "A Streetcar Named Desire",
+         "original_language": "en",
+         "original_title": "A Streetcar Named Desire",
+         "overview": "A fading southern belle tries to build a new life with her sister in New Orleans.",
+         "poster_path": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 14.494,
+         "release_date": "1951-09-18",
+         "video": false,
+         "vote_average": 7.683,
+         "vote_count": 1118
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

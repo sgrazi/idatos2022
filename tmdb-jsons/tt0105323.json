@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg",
+         "id": 9475,
+         "title": "Scent of a Woman",
+         "original_language": "en",
+         "original_title": "Scent of a Woman",
+         "overview": "Charlie Simms is a student at a private preparatory school who comes from a poor family. To earn the money for his flight home to Gresham, Oregon for Christmas, Charlie takes a job over Thanksgiving looking after retired U.S. Army officer Lieutenant Colonel Frank Slade, a cantankerous middle-aged man who lives with his niece and her family.",
+         "poster_path": "/j4fDIiv0N78Sfp9Wn0BaYzbIj1B.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 25.602,
+         "release_date": "1992-12-23",
+         "video": false,
+         "vote_average": 7.743,
+         "vote_count": 2693
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

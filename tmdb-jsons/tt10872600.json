@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+         "id": 634649,
+         "title": "Spider-Man: No Way Home",
+         "original_language": "en",
+         "original_title": "Spider-Man: No Way Home",
+         "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+         "poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            878
+         ],
+         "popularity": 672.396,
+         "release_date": "2021-12-15",
+         "video": false,
+         "vote_average": 8.027,
+         "vote_count": 15885
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

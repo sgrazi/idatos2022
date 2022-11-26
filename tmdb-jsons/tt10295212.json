@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+         "id": 599925,
+         "title": "Shershaah",
+         "original_language": "hi",
+         "original_title": "शेरशाह",
+         "overview": "Inspired by the life of Captain Vikram Batra (PVC), the film celebrates his bravery, valiant spirit and honors his invaluable sacrifice during the Kargil War of 1999, at the age of 24.",
+         "poster_path": "/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18,
+            53,
+            10752
+         ],
+         "popularity": 6.469,
+         "release_date": "2021-08-12",
+         "video": false,
+         "vote_average": 7.2,
+         "vote_count": 54
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

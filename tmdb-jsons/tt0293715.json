@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9l0drjuLhadG6jCzr8AIHSHSuWU.jpg",
+         "id": 11178,
+         "title": "My Sassy Girl",
+         "original_language": "ko",
+         "original_title": "엽기적인 그녀",
+         "overview": "A dweeby, mild-mannered man comes to the aid of a drunk young woman on a subway platform. Little does he know how much trouble he’s in for.",
+         "poster_path": "/nVVxhtBj4lrq7ieiuXgp07vDv46.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35,
+            10749
+         ],
+         "popularity": 16.773,
+         "release_date": "2001-07-27",
+         "video": false,
+         "vote_average": 7.495,
+         "vote_count": 458
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

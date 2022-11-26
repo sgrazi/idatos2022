@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/yzqaKAhglTrkeOfuIXYYArf0WnA.jpg",
+         "id": 12,
+         "title": "Finding Nemo",
+         "original_language": "en",
+         "original_title": "Finding Nemo",
+         "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+         "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            10751
+         ],
+         "popularity": 112.689,
+         "release_date": "2003-05-30",
+         "video": false,
+         "vote_average": 7.825,
+         "vote_count": 17015
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

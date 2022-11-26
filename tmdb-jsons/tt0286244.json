@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+         "id": 9662,
+         "title": "The Triplets of Belleville",
+         "original_language": "fr",
+         "original_title": "Les Triplettes de Belleville",
+         "overview": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters—an aged song-and-dance team from the days of Fred Astaire—to rescue him.",
+         "poster_path": "/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            35,
+            18,
+            10751
+         ],
+         "popularity": 13.636,
+         "release_date": "2003-06-11",
+         "video": false,
+         "vote_average": 7.367,
+         "vote_count": 771
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

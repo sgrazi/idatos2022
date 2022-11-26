@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2ktD7aMGkIytVRYwahAuktAQ3hO.jpg",
+         "id": 776503,
+         "title": "CODA",
+         "original_language": "en",
+         "original_title": "CODA",
+         "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+         "poster_path": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10402,
+            10749
+         ],
+         "popularity": 53.051,
+         "release_date": "2021-08-11",
+         "video": false,
+         "vote_average": 8.013,
+         "vote_count": 1589
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

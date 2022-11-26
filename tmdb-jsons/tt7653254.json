@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+         "id": 492188,
+         "title": "Marriage Story",
+         "original_language": "en",
+         "original_title": "Marriage Story",
+         "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+         "poster_path": "/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 25.011,
+         "release_date": "2019-09-28",
+         "video": false,
+         "vote_average": 7.759,
+         "vote_count": 6001
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

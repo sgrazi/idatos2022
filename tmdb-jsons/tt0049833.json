@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/rKiNFQYpe0qPbVKkBWbUJAVtNl.jpg",
+         "id": 6844,
+         "title": "The Ten Commandments",
+         "original_language": "en",
+         "original_title": "The Ten Commandments",
+         "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+         "poster_path": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 50.102,
+         "release_date": "1956-10-05",
+         "video": false,
+         "vote_average": 7.738,
+         "vote_count": 1201
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

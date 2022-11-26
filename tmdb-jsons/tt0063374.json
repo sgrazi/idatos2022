@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+         "id": 11356,
+         "title": "The Odd Couple",
+         "original_language": "en",
+         "original_title": "The Odd Couple",
+         "overview": "In New York, Felix, a neurotic news writer who just broke up with his wife, is urged by his chaotic friend Oscar, a sports journalist, to move in with him, but their lifestyles are as different as night and day are, so Felix's ideas about housekeeping soon begin to irritate Oscar.",
+         "poster_path": "/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 10.179,
+         "release_date": "1968-05-16",
+         "video": false,
+         "vote_average": 7.566,
+         "vote_count": 452
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

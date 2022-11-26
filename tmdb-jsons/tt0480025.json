@@ -1,0 +1,44 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/7ldtxkVW93dTVKRrA2Fe0CSl0S1.jpg",
+         "id": 11798,
+         "title": "This Is England",
+         "original_language": "en",
+         "original_title": "This Is England",
+         "overview": "A story about a troubled boy growing up in England, set in 1983. He comes across a few skinheads on his way home from school, after a fight. They become his new best friends, even like family. Based on experiences of director Shane Meadows.",
+         "poster_path": "/zzbVtj7qSVLig1sEgGDXJDPhaXF.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 4.737,
+         "release_date": "2006-09-12",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 1046
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [
+      {
+         "id": 780044,
+         "name": "This Is England",
+         "overview": "A story about a troubled boy growing up in England, set in 1983. He comes across a few skinheads on his way home from school, after a fight. They become his new best friends even like family. Based on experiences of director Shane Meadows.",
+         "media_type": "tv_episode",
+         "vote_average": 0,
+         "vote_count": 0,
+         "air_date": "2006-09-12",
+         "episode_number": 1,
+         "production_code": "",
+         "runtime": 48,
+         "season_number": 0,
+         "show_id": 33933,
+         "still_path": null
+      }
+   ],
+   "tv_season_results": []
+}

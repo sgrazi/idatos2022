@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg",
+         "id": 5967,
+         "title": "The Umbrellas of Cherbourg",
+         "original_language": "fr",
+         "original_title": "Les Parapluies de Cherbourg",
+         "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+         "poster_path": "/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 10.34,
+         "release_date": "1964-02-19",
+         "video": false,
+         "vote_average": 7.424,
+         "vote_count": 594
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

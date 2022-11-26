@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+         "id": 966,
+         "title": "The Magnificent Seven",
+         "original_language": "en",
+         "original_title": "The Magnificent Seven",
+         "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+         "poster_path": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37,
+            28,
+            12
+         ],
+         "popularity": 25.454,
+         "release_date": "1960-10-12",
+         "video": false,
+         "vote_average": 7.542,
+         "vote_count": 1461
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

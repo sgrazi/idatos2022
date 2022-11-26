@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ww6f0XEn8aUbNsK1OQGdutJWwQf.jpg",
+         "id": 369557,
+         "title": "Sing Street",
+         "original_language": "en",
+         "original_title": "Sing Street",
+         "overview": "A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.",
+         "poster_path": "/sUWpVlrvzU2SJbnVZqIeKulPKwk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749,
+            18,
+            10402
+         ],
+         "popularity": 13.69,
+         "release_date": "2016-03-11",
+         "video": false,
+         "vote_average": 7.901,
+         "vote_count": 1992
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

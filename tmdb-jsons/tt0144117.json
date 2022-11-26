@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/tIJKAbESEi9eywpVflJpTHukPwR.jpg",
+         "id": 8374,
+         "title": "The Boondock Saints",
+         "original_language": "en",
+         "original_title": "The Boondock Saints",
+         "overview": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner and Murphy are inspired by their faith to cleanse their hometown of evil with their own brand of zealous vigilante justice. As they hunt down and kill one notorious gangster after another, they become controversial folk heroes in the community. But Paul Smecker, an eccentric FBI agent, is fast closing in on their blood-soaked trail.",
+         "poster_path": "/gj3V39yiGPH1FAylXxzzVneflxA.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53,
+            80
+         ],
+         "popularity": 13.73,
+         "release_date": "1999-01-22",
+         "video": false,
+         "vote_average": 7.252,
+         "vote_count": 2026
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/4awpqEzHTaubD2H7iu1gEfTSxCZ.jpg",
+         "id": 21614,
+         "title": "Hera Pheri",
+         "original_language": "hi",
+         "original_title": "Hera Pheri",
+         "overview": "Three unemployed men find the answer to all their money problems when they receive a call from a kidnapper. However, things do not go as planned.",
+         "poster_path": "/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            80
+         ],
+         "popularity": 8.053,
+         "release_date": "2000-03-31",
+         "video": false,
+         "vote_average": 7.06,
+         "vote_count": 184
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

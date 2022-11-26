@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/cd1LVxvax4P4QMusXR9prD8BPwo.jpg",
+         "id": 388,
+         "title": "Inside Man",
+         "original_language": "en",
+         "original_title": "Inside Man",
+         "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+         "poster_path": "/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 22.39,
+         "release_date": "2006-03-17",
+         "video": false,
+         "vote_average": 7.404,
+         "vote_count": 4924
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

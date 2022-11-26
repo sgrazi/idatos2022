@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+         "id": 76,
+         "title": "Before Sunrise",
+         "original_language": "en",
+         "original_title": "Before Sunrise",
+         "overview": "On his way to Vienna, American Jesse meets Céline, a student returning to Paris. After long conversations forge a surprising connection between them, Jesse convinces Celine to get off the train with him in Vienna. Since his flight to the U.S. departs the next morning and he has no money for lodging, they wander the city together, taking in the experiences of Vienna and each other.",
+         "poster_path": "/6VWFHcGgeTrH6PCIOXGXYqjcogj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 22.718,
+         "release_date": "1995-01-27",
+         "video": false,
+         "vote_average": 7.958,
+         "vote_count": 3348
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

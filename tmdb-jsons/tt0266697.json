@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+         "id": 24,
+         "title": "Kill Bill: Vol. 1",
+         "original_language": "en",
+         "original_title": "Kill Bill: Vol. 1",
+         "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+         "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            80
+         ],
+         "popularity": 43.147,
+         "release_date": "2003-10-10",
+         "video": false,
+         "vote_average": 7.97,
+         "vote_count": 15168
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

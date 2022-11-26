@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+         "id": 177572,
+         "title": "Big Hero 6",
+         "original_language": "en",
+         "original_title": "Big Hero 6",
+         "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+         "poster_path": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            10751,
+            16,
+            28,
+            35
+         ],
+         "popularity": 154.397,
+         "release_date": "2014-10-24",
+         "video": false,
+         "vote_average": 7.746,
+         "vote_count": 14034
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

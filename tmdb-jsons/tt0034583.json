@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+         "id": 289,
+         "title": "Casablanca",
+         "original_language": "en",
+         "original_title": "Casablanca",
+         "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+         "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 21.377,
+         "release_date": "1942-11-26",
+         "video": false,
+         "vote_average": 8.168,
+         "vote_count": 4462
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/hFYRoo8OB6mL0anLaOF1fwpHHPD.jpg",
+         "id": 1075,
+         "title": "Black Cat, White Cat",
+         "original_language": "sr",
+         "original_title": "Crna mačka, beli mačor",
+         "overview": "Matko is a small time hustler, living by the Danube with his 17-year-old son Zare. After a failed business deal he owes money to the much more successful gangster Dadan. Dadan has a sister, Afrodita, that he desperately wants to see get married so they strike a deal: Zare is to marry her.",
+         "poster_path": "/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749,
+            80
+         ],
+         "popularity": 12.013,
+         "release_date": "1998-06-01",
+         "video": false,
+         "vote_average": 7.683,
+         "vote_count": 601
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

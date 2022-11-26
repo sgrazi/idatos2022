@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+         "id": 45269,
+         "title": "The King's Speech",
+         "original_language": "en",
+         "original_title": "The King's Speech",
+         "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+         "poster_path": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 18.636,
+         "release_date": "2010-11-26",
+         "video": false,
+         "vote_average": 7.737,
+         "vote_count": 7686
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

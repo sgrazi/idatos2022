@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/jKgLVAhoq4fXBs1C9Gjvap93fxd.jpg",
+         "id": 223,
+         "title": "Rebecca",
+         "original_language": "en",
+         "original_title": "Rebecca",
+         "overview": "Story of a young woman who marries a fascinating widower only to find out that she must live in the shadow of his former wife, Rebecca, who died mysteriously several years earlier. The young wife must come to grips with the terrible secret of her handsome, cold husband, Max De Winter. She must also deal with the jealous, obsessed Mrs. Danvers, the housekeeper, who will not accept her as the mistress of the house.",
+         "poster_path": "/tneFytRScAd4KRxhLjCBS7jdmnV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            9648,
+            18,
+            53,
+            10749
+         ],
+         "popularity": 14.707,
+         "release_date": "1940-03-23",
+         "video": false,
+         "vote_average": 7.914,
+         "vote_count": 1401
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

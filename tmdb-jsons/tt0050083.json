@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+         "id": 389,
+         "title": "12 Angry Men",
+         "original_language": "en",
+         "original_title": "12 Angry Men",
+         "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+         "poster_path": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 43.446,
+         "release_date": "1957-04-10",
+         "video": false,
+         "vote_average": 8.528,
+         "vote_count": 6808
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

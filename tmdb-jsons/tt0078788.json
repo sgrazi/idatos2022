@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+         "id": 28,
+         "title": "Apocalypse Now",
+         "original_language": "en",
+         "original_title": "Apocalypse Now",
+         "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+         "poster_path": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10752
+         ],
+         "popularity": 29.902,
+         "release_date": "1979-08-15",
+         "video": false,
+         "vote_average": 8.284,
+         "vote_count": 6835
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

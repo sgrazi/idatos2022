@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/dH6m8iWJEPIFoyQaZiuo9Ih7kpA.jpg",
+         "id": 218,
+         "title": "The Terminator",
+         "original_language": "en",
+         "original_title": "The Terminator",
+         "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+         "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            53,
+            878
+         ],
+         "popularity": 78.858,
+         "release_date": "1984-10-26",
+         "video": false,
+         "vote_average": 7.634,
+         "vote_count": 10954
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

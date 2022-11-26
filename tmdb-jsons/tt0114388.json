@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iPVNnwvi1xTcCUBXki5BYSBhyGs.jpg",
+         "id": 4584,
+         "title": "Sense and Sensibility",
+         "original_language": "en",
+         "original_title": "Sense and Sensibility",
+         "overview": "Rich Mr. Dashwood dies, leaving his second wife and her daughters poor by the rules of inheritance. Two daughters are the titular opposites.",
+         "poster_path": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 14.818,
+         "release_date": "1995-12-13",
+         "video": false,
+         "vote_average": 7.451,
+         "vote_count": 1398
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

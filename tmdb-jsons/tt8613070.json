@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/omB1Cdt2jbOjdgPb3pJwDIIZCf0.jpg",
+         "id": 531428,
+         "title": "Portrait of a Lady on Fire",
+         "original_language": "fr",
+         "original_title": "Portrait de la jeune fille en feu",
+         "overview": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+         "poster_path": "/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 17.802,
+         "release_date": "2019-06-17",
+         "video": false,
+         "vote_average": 8.2,
+         "vote_count": 1923
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

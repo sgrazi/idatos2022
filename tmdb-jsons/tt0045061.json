@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/esqaOzLU2DCSjVpe2M3oxA3dz8M.jpg",
+         "id": 3109,
+         "title": "The Quiet Man",
+         "original_language": "en",
+         "original_title": "The Quiet Man",
+         "overview": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+         "poster_path": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10749,
+            35
+         ],
+         "popularity": 10.922,
+         "release_date": "1952-07-21",
+         "video": false,
+         "vote_average": 7.345,
+         "vote_count": 407
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

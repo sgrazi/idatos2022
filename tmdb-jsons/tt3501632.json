@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+         "id": 284053,
+         "title": "Thor: Ragnarok",
+         "original_language": "en",
+         "original_title": "Thor: Ragnarok",
+         "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+         "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            14,
+            878,
+            35
+         ],
+         "popularity": 106.924,
+         "release_date": "2017-10-24",
+         "video": false,
+         "vote_average": 7.604,
+         "vote_count": 18443
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

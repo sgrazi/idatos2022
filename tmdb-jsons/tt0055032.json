@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1dSopaBgvxYinmhaCOsLoZSeWD3.jpg",
+         "id": 1628,
+         "title": "Jules and Jim",
+         "original_language": "fr",
+         "original_title": "Jules et Jim",
+         "overview": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim. Both men fall for the impulsive and beautiful Catherine, but it's Jules who wins her hand. After the war, Jim visits Jules, Catherine and their daughter in their Austrian home and discovers not only that his feelings for Catherine are unchanged, but also that they're reciprocated.",
+         "poster_path": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 8.487,
+         "release_date": "1962-01-23",
+         "video": false,
+         "vote_average": 7.639,
+         "vote_count": 796
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

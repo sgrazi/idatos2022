@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+         "id": 10331,
+         "title": "Night of the Living Dead",
+         "original_language": "en",
+         "original_title": "Night of the Living Dead",
+         "overview": "A disparate group of individuals takes refuge in an abandoned house when corpses begin to leave the graveyard in search of fresh human bodies to devour. The pragmatic Ben does his best to control the situation, but when the murderous zombies surround the house, the other survivors begin to panic.",
+         "poster_path": "/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            53,
+            878,
+            18
+         ],
+         "popularity": 19.949,
+         "release_date": "1968-10-04",
+         "video": false,
+         "vote_average": 7.6,
+         "vote_count": 1976
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

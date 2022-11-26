@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xlqAvgKXMWBfJFHDz9NXw9c5JZn.jpg",
+         "id": 18988,
+         "title": "The Lion in Winter",
+         "original_language": "en",
+         "original_title": "The Lion in Winter",
+         "overview": "Henry II and his estranged queen battle over the choice of an heir.",
+         "poster_path": "/xcOcwbejB0T8HzapOizUwi6HZTi.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 9.516,
+         "release_date": "1968-10-30",
+         "video": false,
+         "vote_average": 7.429,
+         "vote_count": 260
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

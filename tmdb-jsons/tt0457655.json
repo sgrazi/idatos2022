@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
+         "id": 3549,
+         "title": "After the Wedding",
+         "original_language": "da",
+         "original_title": "Efter brylluppet",
+         "overview": "A manager of an orphanage in India is sent to Copenhagen, Denmark, where he discovers a life-altering family secret.",
+         "poster_path": "/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 7.73,
+         "release_date": "2006-02-24",
+         "video": false,
+         "vote_average": 7.173,
+         "vote_count": 335
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

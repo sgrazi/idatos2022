@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9J533N4ZMNpcaN9k1Aw08XguFPS.jpg",
+         "id": 3114,
+         "title": "The Searchers",
+         "original_language": "en",
+         "original_title": "The Searchers",
+         "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+         "poster_path": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            37
+         ],
+         "popularity": 15.074,
+         "release_date": "1956-05-07",
+         "video": false,
+         "vote_average": 7.748,
+         "vote_count": 1115
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

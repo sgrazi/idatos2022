@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xOpQ4jIQJ0HSUhVDixZA9yWqVBP.jpg",
+         "id": 505192,
+         "title": "Shoplifters",
+         "original_language": "ja",
+         "original_title": "万引き家族",
+         "overview": "After one of their shoplifting sessions, Osamu and his son come across a little girl in the freezing cold. At first reluctant to shelter the girl, Osamu’s wife agrees to take care of her after learning of the hardships she faces. Although the family is poor, barely making enough money to survive through petty crime, they seem to live happily together until an unforeseen incident reveals hidden secrets, testing the bonds that unite them.",
+         "poster_path": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 14.365,
+         "release_date": "2018-06-02",
+         "video": false,
+         "vote_average": 7.864,
+         "vote_count": 1659
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

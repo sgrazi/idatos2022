@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+         "id": 3309,
+         "title": "Mildred Pierce",
+         "original_language": "en",
+         "original_title": "Mildred Pierce",
+         "overview": "After her unfaithful husband leaves her, Mildred Pierce proves she can become independent and successful. However winning the approval of her spoiled daughter proves a greater challenge.",
+         "poster_path": "/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18
+         ],
+         "popularity": 9.173,
+         "release_date": "1945-10-20",
+         "video": false,
+         "vote_average": 7.69,
+         "vote_count": 305
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

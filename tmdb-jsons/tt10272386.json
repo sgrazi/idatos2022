@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg",
+         "id": 600354,
+         "title": "The Father",
+         "original_language": "en",
+         "original_title": "The Father",
+         "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+         "poster_path": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 23.363,
+         "release_date": "2020-12-23",
+         "video": false,
+         "vote_average": 8.149,
+         "vote_count": 2349
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

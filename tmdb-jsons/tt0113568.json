@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg",
+         "id": 9323,
+         "title": "Ghost in the Shell",
+         "original_language": "ja",
+         "original_title": "GHOST IN THE SHELL",
+         "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+         "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            16,
+            878
+         ],
+         "popularity": 31.87,
+         "release_date": "1995-11-18",
+         "video": false,
+         "vote_average": 7.931,
+         "vote_count": 2697
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

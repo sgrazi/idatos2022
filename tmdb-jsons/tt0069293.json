@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg",
+         "id": 593,
+         "title": "Solaris",
+         "original_language": "ru",
+         "original_title": "Солярис",
+         "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+         "poster_path": "/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            878,
+            9648
+         ],
+         "popularity": 14.09,
+         "release_date": "1972-03-20",
+         "video": false,
+         "vote_average": 7.864,
+         "vote_count": 1277
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

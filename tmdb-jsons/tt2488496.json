@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+         "id": 140607,
+         "title": "Star Wars: The Force Awakens",
+         "original_language": "en",
+         "original_title": "Star Wars: The Force Awakens",
+         "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+         "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            28,
+            878,
+            14
+         ],
+         "popularity": 58.951,
+         "release_date": "2015-12-15",
+         "video": false,
+         "vote_average": 7.31,
+         "vote_count": 17488
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

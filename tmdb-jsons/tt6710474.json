@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+         "id": 545611,
+         "title": "Everything Everywhere All at Once",
+         "original_language": "en",
+         "original_title": "Everything Everywhere All at Once",
+         "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+         "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            12,
+            878
+         ],
+         "popularity": 93.924,
+         "release_date": "2022-03-24",
+         "video": false,
+         "vote_average": 8.124,
+         "vote_count": 2258
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

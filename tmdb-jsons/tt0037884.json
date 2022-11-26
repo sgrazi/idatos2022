@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iZpAv4FjoU5PSr0P1Inn8fDAuKJ.jpg",
+         "id": 28580,
+         "title": "The Lost Weekend",
+         "original_language": "en",
+         "original_title": "The Lost Weekend",
+         "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+         "poster_path": "/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.148,
+         "release_date": "1945-11-29",
+         "video": false,
+         "vote_average": 7.658,
+         "vote_count": 458
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

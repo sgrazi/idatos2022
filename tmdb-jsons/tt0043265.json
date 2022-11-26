@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gwe1k68ZFxEo8ZqqR73oobiQwK4.jpg",
+         "id": 488,
+         "title": "The African Queen",
+         "original_language": "en",
+         "original_title": "The African Queen",
+         "overview": "At the start of the First World War, in the middle of Africa’s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+         "poster_path": "/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            10749
+         ],
+         "popularity": 12.662,
+         "release_date": "1952-01-07",
+         "video": false,
+         "vote_average": 7.344,
+         "vote_count": 748
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

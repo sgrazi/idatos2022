@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+         "id": 3133,
+         "title": "Badlands",
+         "original_language": "en",
+         "original_title": "Badlands",
+         "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+         "poster_path": "/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            80
+         ],
+         "popularity": 10.627,
+         "release_date": "1973-10-15",
+         "video": false,
+         "vote_average": 7.563,
+         "vote_count": 964
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

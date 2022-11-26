@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+         "id": 262,
+         "title": "The King of Comedy",
+         "original_language": "en",
+         "original_title": "The King of Comedy",
+         "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.",
+         "poster_path": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 15.635,
+         "release_date": "1982-12-18",
+         "video": false,
+         "vote_average": 7.792,
+         "vote_count": 1806
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

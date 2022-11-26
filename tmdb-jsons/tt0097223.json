@@ -1,0 +1,52 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nYpAjQbtYG11PlQN6mVHDCSHS4X.jpg",
+         "id": 20123,
+         "title": "Time of the Gypsies",
+         "original_language": "sh",
+         "original_title": "Dom za vešanje",
+         "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+         "poster_path": "/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35,
+            80,
+            14
+         ],
+         "popularity": 7.295,
+         "release_date": "1988-12-21",
+         "video": false,
+         "vote_average": 7.7,
+         "vote_count": 287
+      }
+   ],
+   "person_results": [],
+   "tv_results": [
+      {
+         "adult": false,
+         "backdrop_path": null,
+         "id": 102692,
+         "name": "Time of the Gypsies",
+         "original_language": "bs",
+         "original_name": "Dom za vešanje",
+         "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves. Long version screened by the Sarajevo television in 5 one-hour episodes.",
+         "poster_path": "/ps9PMrpWE8q49sn3JXFfpuH7GDq.jpg",
+         "media_type": "tv",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 1.438,
+         "first_air_date": "",
+         "vote_average": 0,
+         "vote_count": 0,
+         "origin_country": [
+            "YU"
+         ]
+      }
+   ],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

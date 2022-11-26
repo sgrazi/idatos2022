@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9o9ci7ZH9chSy8B7YXCBYih8Kkd.jpg",
+         "id": 290098,
+         "title": "The Handmaiden",
+         "original_language": "ko",
+         "original_title": "아가씨",
+         "overview": "In 1930s Korea, a new girl is hired as a handmaiden to a Japanese heiress who lives a secluded life on a large countryside estate. But the maid has a secret: She is a pickpocket recruited by a swindler, who is posing as a Japanese Count, to help him seduce the Lady and steal her fortune.",
+         "poster_path": "/ic4s9k48semzBCUrbglyCmnGaHJ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            53,
+            18,
+            10749
+         ],
+         "popularity": 39.054,
+         "release_date": "2016-06-01",
+         "video": false,
+         "vote_average": 8.261,
+         "vote_count": 2901
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

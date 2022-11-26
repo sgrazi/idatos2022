@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg",
+         "id": 10784,
+         "title": "Cabaret",
+         "original_language": "en",
+         "original_title": "Cabaret",
+         "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+         "poster_path": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10402,
+            18,
+            10749
+         ],
+         "popularity": 9.969,
+         "release_date": "1972-02-13",
+         "video": false,
+         "vote_average": 7.419,
+         "vote_count": 726
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

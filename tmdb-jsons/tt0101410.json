@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+         "id": 290,
+         "title": "Barton Fink",
+         "original_language": "en",
+         "original_title": "Barton Fink",
+         "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+         "poster_path": "/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            53,
+            9648
+         ],
+         "popularity": 11.075,
+         "release_date": "1991-08-01",
+         "video": false,
+         "vote_average": 7.465,
+         "vote_count": 1373
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

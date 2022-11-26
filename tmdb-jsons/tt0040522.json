@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+         "id": 5156,
+         "title": "Bicycle Thieves",
+         "original_language": "it",
+         "original_title": "Ladri di biciclette",
+         "overview": "A working man's livelihood is threatened when someone steals his bicycle.",
+         "poster_path": "/leTeIiG6gZ9Yu1h5Ms0gSCFseGy.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 11.695,
+         "release_date": "1948-11-24",
+         "video": false,
+         "vote_average": 8.237,
+         "vote_count": 1947
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

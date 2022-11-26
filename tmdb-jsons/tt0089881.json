@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3nQm5pMc2mJTCNnjfDOrmVD7xNX.jpg",
+         "id": 11645,
+         "title": "Ran",
+         "original_language": "ja",
+         "original_title": "乱",
+         "overview": "With Ran, legendary director Akira Kurosawa reimagines Shakespeare's King Lear as a singular historical epic set in sixteenth-century Japan. Majestic in scope, the film is Kurosawa's late-life masterpiece, a profound examination of the folly of war and the crumbling of one family under the weight of betrayal, greed, and the insatiable thirst for power.",
+         "poster_path": "/iYQcDhuHrdPOHLUUxXaFChFrc97.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18,
+            36
+         ],
+         "popularity": 11.915,
+         "release_date": "1985-06-01",
+         "video": false,
+         "vote_average": 8.066,
+         "vote_count": 1203
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

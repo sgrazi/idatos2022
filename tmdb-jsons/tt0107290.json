@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+         "id": 329,
+         "title": "Jurassic Park",
+         "original_language": "en",
+         "original_title": "Jurassic Park",
+         "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+         "poster_path": "/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            878
+         ],
+         "popularity": 32.149,
+         "release_date": "1993-06-11",
+         "video": false,
+         "vote_average": 7.928,
+         "vote_count": 14131
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

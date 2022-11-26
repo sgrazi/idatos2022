@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/shSCarLTK01PfeFnq9WmRrzRcdl.jpg",
+         "id": 578,
+         "title": "Jaws",
+         "original_language": "en",
+         "original_title": "Jaws",
+         "overview": "When an insatiable great white shark terrorizes the townspeople of Amity Island, the police chief, an oceanographer and a grizzled shark hunter seek to destroy the blood-thirsty beast.",
+         "poster_path": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            53,
+            12
+         ],
+         "popularity": 44.753,
+         "release_date": "1975-06-20",
+         "video": false,
+         "vote_average": 7.646,
+         "vote_count": 8760
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

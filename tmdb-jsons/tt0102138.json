@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+         "id": 820,
+         "title": "JFK",
+         "original_language": "en",
+         "original_title": "JFK",
+         "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+         "poster_path": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            53,
+            36
+         ],
+         "popularity": 27.946,
+         "release_date": "1991-12-20",
+         "video": false,
+         "vote_average": 7.631,
+         "vote_count": 1701
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/6P7DfnG8m7xQ6lHDutANKVsGCeR.jpg",
+         "id": 152780,
+         "title": "The Past",
+         "original_language": "fr",
+         "original_title": "Le passé",
+         "overview": "After four years apart, Ahmad returns to his wife Marie in Paris in order to progress their divorce. During his brief stay, he cannot help noticing the strained relationship between Marie and her daughter Lucie. As he attempts to improve matters between mother and daughter Ahmad unwittingly lifts the lid on a long buried secret...",
+         "poster_path": "/8nff89qjYN3Hck5G33xeRPsM8TZ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            9648
+         ],
+         "popularity": 9.637,
+         "release_date": "2013-05-17",
+         "video": false,
+         "vote_average": 7.28,
+         "vote_count": 447
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

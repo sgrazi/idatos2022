@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+         "id": 11549,
+         "title": "Invasion of the Body Snatchers",
+         "original_language": "en",
+         "original_title": "Invasion of the Body Snatchers",
+         "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+         "poster_path": "/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            27,
+            878
+         ],
+         "popularity": 10.873,
+         "release_date": "1956-02-05",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 833
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

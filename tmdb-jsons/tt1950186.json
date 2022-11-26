@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+         "id": 359724,
+         "title": "Ford v Ferrari",
+         "original_language": "en",
+         "original_title": "Ford v Ferrari",
+         "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+         "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            28,
+            36
+         ],
+         "popularity": 53.694,
+         "release_date": "2019-11-13",
+         "video": false,
+         "vote_average": 8.005,
+         "vote_count": 6148
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

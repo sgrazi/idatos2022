@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/kKJD2hpZ8V20VI4mxEXNrrmAPu1.jpg",
+         "id": 2493,
+         "title": "The Princess Bride",
+         "original_language": "en",
+         "original_title": "The Princess Bride",
+         "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+         "poster_path": "/eOp2XmQpH6QYPfOVSQTSGoYABMc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            10751,
+            14,
+            35,
+            10749
+         ],
+         "popularity": 18.814,
+         "release_date": "1987-09-25",
+         "video": false,
+         "vote_average": 7.667,
+         "vote_count": 3886
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+         "id": 61202,
+         "title": "Zindagi Na Milegi Dobara",
+         "original_language": "hi",
+         "original_title": "ज़िन्दगी ना मिलेगी दोबारा",
+         "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+         "poster_path": "/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35,
+            10749
+         ],
+         "popularity": 9.872,
+         "release_date": "2011-07-15",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 271
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

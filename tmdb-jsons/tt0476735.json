@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+         "id": 13393,
+         "title": "My Father and My Son",
+         "original_language": "tr",
+         "original_title": "Babam ve Oğlum",
+         "overview": "A left-wing journalist whose wife died while giving birth to his son during a military coup returns to his family's farm. Estranged from his father for turning his back on the family and wasting his life with political activism instead, he tries to reconnect with him so that his son will have a place to live as his health is deteriorating due to the extensive torture he had to endure.",
+         "poster_path": "/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 5.409,
+         "release_date": "2005-11-18",
+         "video": false,
+         "vote_average": 7.523,
+         "vote_count": 238
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

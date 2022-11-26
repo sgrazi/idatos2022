@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+         "id": 14836,
+         "title": "Coraline",
+         "original_language": "en",
+         "original_title": "Coraline",
+         "overview": "When Coraline moves to an old house, she feels bored and neglected by her parents. She finds a hidden door with a bricked up passage. During the night, she crosses the passage and finds a parallel world where everybody has buttons instead of eyes, with caring parents and all her dreams coming true. When the Other Mother invites Coraline to stay in her world forever, the girl refuses and finds that the alternate reality where she is trapped is only a trick to lure her.",
+         "poster_path": "/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            10751,
+            14
+         ],
+         "popularity": 185.998,
+         "release_date": "2009-02-05",
+         "video": false,
+         "vote_average": 7.809,
+         "vote_count": 6194
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

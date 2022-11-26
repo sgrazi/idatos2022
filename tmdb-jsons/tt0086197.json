@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/w2KUVzeOC1u6cQwvUV0qqi7QYxs.jpg",
+         "id": 9549,
+         "title": "The Right Stuff",
+         "original_language": "en",
+         "original_title": "The Right Stuff",
+         "overview": "A chronicle of the original Mercury astronauts in the formation of America's space program: Alan Shepherd, the first American in space; Gus Grissom, the benighted astronaut for whom nothing works out as planned; John Glenn, the straight-arrow 'boy scout' of the bunch who was the first American to orbit the earth; and the remaining pilots: Deke Slayton, Scott Carpenter, Wally Schirra, and Gordon Cooper.",
+         "poster_path": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            12
+         ],
+         "popularity": 12.72,
+         "release_date": "1983-10-20",
+         "video": false,
+         "vote_average": 7.437,
+         "vote_count": 709
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

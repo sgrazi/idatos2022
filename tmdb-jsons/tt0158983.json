@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9MS8hAVIEJ1uPpyOmAOcr6fofvm.jpg",
+         "id": 9473,
+         "title": "South Park: Bigger, Longer & Uncut",
+         "original_language": "en",
+         "original_title": "South Park: Bigger, Longer & Uncut",
+         "overview": "When the four boys see an R-rated movie featuring Canadians Terrance and Philip, they are pronounced \"corrupted\", and their parents pressure the United States to wage war against Canada.",
+         "poster_path": "/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            16,
+            35
+         ],
+         "popularity": 31.357,
+         "release_date": "1999-06-30",
+         "video": false,
+         "vote_average": 7.205,
+         "vote_count": 2232
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

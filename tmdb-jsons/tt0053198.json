@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/63HcRYJI4LKeo8sINlL71ZtlUFY.jpg",
+         "id": 147,
+         "title": "The 400 Blows",
+         "original_language": "fr",
+         "original_title": "Les Quatre Cents Coups",
+         "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+         "poster_path": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 14.095,
+         "release_date": "1959-06-03",
+         "video": false,
+         "vote_average": 8.086,
+         "vote_count": 1752
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

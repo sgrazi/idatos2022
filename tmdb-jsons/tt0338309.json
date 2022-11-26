@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+         "id": 11197,
+         "title": "Evil",
+         "original_language": "sv",
+         "original_title": "Ondskan",
+         "overview": "Stockholm, the fifties. Though academically bright, violent pupil Erik Ponti is expelled from his state school with the headmaster’s words “there’s only one word for people like you – evil… what you need is a good thrashing, and more”. In fact already Erik frequently receives a ‘good’ thrashing at the hands of his sadistic stepfather – so he is packed off by his mother to boardingschool",
+         "poster_path": "/gruXA29fquPuRHbam75kXQMaGju.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.306,
+         "release_date": "2003-09-16",
+         "video": false,
+         "vote_average": 7.271,
+         "vote_count": 269
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

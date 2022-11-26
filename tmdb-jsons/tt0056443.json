@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/vfEORWH75d5qSHe3QBkSPIsXhOz.jpg",
+         "id": 11712,
+         "title": "Sanjuro",
+         "original_language": "ja",
+         "original_title": "椿三十郎",
+         "overview": "Toshiro Mifune swaggers and snarls to brilliant comic effect in Kurosawa's tightly paced, beautifully composed \"Sanjuro.\" In this companion piece and sequel to \"Yojimbo,\" jaded samurai Sanjuro helps an idealistic group of young warriors weed out their clan's evil influences, and in the process turns their image of a proper samurai on its ear.",
+         "poster_path": "/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            28,
+            35
+         ],
+         "popularity": 10.848,
+         "release_date": "1962-01-01",
+         "video": false,
+         "vote_average": 7.972,
+         "vote_count": 465
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

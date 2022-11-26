@@ -1,0 +1,31 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
+         "id": 137106,
+         "title": "The Lego Movie",
+         "original_language": "en",
+         "original_title": "The Lego Movie",
+         "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.",
+         "poster_path": "/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            16,
+            35,
+            10751,
+            14
+         ],
+         "popularity": 32.872,
+         "release_date": "2014-02-06",
+         "video": false,
+         "vote_average": 7.412,
+         "vote_count": 6793
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

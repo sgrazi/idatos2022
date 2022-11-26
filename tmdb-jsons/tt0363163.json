@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xgAEfHByamMdRCA31oERQrsiutF.jpg",
+         "id": 613,
+         "title": "Downfall",
+         "original_language": "de",
+         "original_title": "Der Untergang",
+         "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+         "poster_path": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 17.125,
+         "release_date": "2004-09-16",
+         "video": false,
+         "vote_average": 7.832,
+         "vote_count": 3180
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

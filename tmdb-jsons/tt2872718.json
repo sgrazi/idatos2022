@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+         "id": 242582,
+         "title": "Nightcrawler",
+         "original_language": "en",
+         "original_title": "Nightcrawler",
+         "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+         "poster_path": "/gYPIRu0jX2CGYdeO422cq3N78ju.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            18,
+            53
+         ],
+         "popularity": 52.89,
+         "release_date": "2014-10-23",
+         "video": false,
+         "vote_average": 7.689,
+         "vote_count": 9366
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

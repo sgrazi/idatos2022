@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/veiWT3UYVvEOGCfGZLGDJtjJvdV.jpg",
+         "id": 404,
+         "title": "The Straight Story",
+         "original_language": "en",
+         "original_title": "The Straight Story",
+         "overview": "A retired farmer and widower in his 70s, Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. Then he hits on the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+         "poster_path": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 15.704,
+         "release_date": "1999-10-15",
+         "video": false,
+         "vote_average": 7.738,
+         "vote_count": 1227
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

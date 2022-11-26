@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+         "id": 396,
+         "title": "Who's Afraid of Virginia Woolf?",
+         "original_language": "en",
+         "original_title": "Who's Afraid of Virginia Woolf?",
+         "overview": "A history professor and his wife entertain a young couple who are new to the university's faculty. As the drinks flow, secrets come to light, and the middle-aged couple unload onto their guests the full force of the bitterness, dysfunction, and animosity that defines their marriage.",
+         "poster_path": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 11.76,
+         "release_date": "1966-06-22",
+         "video": false,
+         "vote_average": 7.799,
+         "vote_count": 650
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

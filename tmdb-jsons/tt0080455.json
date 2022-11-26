@@ -1,0 +1,30 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/osrCL96kbVPcpe56Jsp1IIFTfpm.jpg",
+         "id": 525,
+         "title": "The Blues Brothers",
+         "original_language": "en",
+         "original_title": "The Blues Brothers",
+         "overview": "Jake Blues, just released from prison, puts his old band back togther to save the Catholic home where he and his brother Elwood were raised.",
+         "poster_path": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            10402,
+            35,
+            28,
+            80
+         ],
+         "popularity": 18.463,
+         "release_date": "1980-06-16",
+         "video": false,
+         "vote_average": 7.751,
+         "vote_count": 3544
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

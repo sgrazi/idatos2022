@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+         "id": 2000,
+         "title": "Aguirre, the Wrath of God",
+         "original_language": "de",
+         "original_title": "Aguirre, der Zorn Gottes",
+         "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
+         "poster_path": "/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            12,
+            18,
+            36
+         ],
+         "popularity": 10.585,
+         "release_date": "1972-12-29",
+         "video": false,
+         "vote_average": 7.5,
+         "vote_count": 875
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg",
+         "id": 874,
+         "title": "A Man for All Seasons",
+         "original_language": "en",
+         "original_title": "A Man for All Seasons",
+         "overview": "A depiction of the conflict between King Henry VIII of England and his Lord Chancellor, Sir Thomas More, who refuses to swear the Oath of Supremacy declaring Henry Supreme Head of the Church in England.",
+         "poster_path": "/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36
+         ],
+         "popularity": 9.869,
+         "release_date": "1966-12-13",
+         "video": false,
+         "vote_average": 7.343,
+         "vote_count": 337
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

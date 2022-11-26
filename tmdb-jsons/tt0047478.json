@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+         "id": 346,
+         "title": "Seven Samurai",
+         "original_language": "ja",
+         "original_title": "七人の侍",
+         "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+         "poster_path": "/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            28,
+            18
+         ],
+         "popularity": 23.775,
+         "release_date": "1954-04-26",
+         "video": false,
+         "vote_average": 8.452,
+         "vote_count": 2851
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg",
+         "id": 338,
+         "title": "Good Bye Lenin!",
+         "original_language": "de",
+         "original_title": "Good Bye Lenin!",
+         "overview": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
+         "poster_path": "/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 10.794,
+         "release_date": "2003-02-09",
+         "video": false,
+         "vote_average": 7.561,
+         "vote_count": 2031
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

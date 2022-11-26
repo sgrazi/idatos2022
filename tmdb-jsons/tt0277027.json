@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+         "id": 10950,
+         "title": "I Am Sam",
+         "original_language": "en",
+         "original_title": "I Am Sam",
+         "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+         "poster_path": "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 18.347,
+         "release_date": "2001-12-28",
+         "video": false,
+         "vote_average": 7.566,
+         "vote_count": 1952
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

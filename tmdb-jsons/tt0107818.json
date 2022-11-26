@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+         "id": 9800,
+         "title": "Philadelphia",
+         "original_language": "en",
+         "original_title": "Philadelphia",
+         "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+         "poster_path": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 21.334,
+         "release_date": "1993-12-22",
+         "video": false,
+         "vote_average": 7.729,
+         "vote_count": 3628
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

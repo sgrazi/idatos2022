@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ohJFDJRU547aWFVjaM3ppY0oFj6.jpg",
+         "id": 696,
+         "title": "Manhattan",
+         "original_language": "en",
+         "original_title": "Manhattan",
+         "overview": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+         "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            10749
+         ],
+         "popularity": 8.407,
+         "release_date": "1979-04-25",
+         "video": false,
+         "vote_average": 7.8,
+         "vote_count": 2001
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

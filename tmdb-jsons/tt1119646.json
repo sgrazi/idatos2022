@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+         "id": 18785,
+         "title": "The Hangover",
+         "original_language": "en",
+         "original_title": "The Hangover",
+         "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+         "poster_path": "/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35
+         ],
+         "popularity": 133.412,
+         "release_date": "2009-06-02",
+         "video": false,
+         "vote_average": 7.306,
+         "vote_count": 14955
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

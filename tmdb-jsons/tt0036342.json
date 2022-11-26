@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/AuCrQyv2WZfbZcWOfim3ifXZ7zv.jpg",
+         "id": 21734,
+         "title": "Shadow of a Doubt",
+         "original_language": "en",
+         "original_title": "Shadow of a Doubt",
+         "overview": "Just when Charlotte ‘Charlie’ Newton, is feeling especially frustrated by the lack of excitement in her small town in California, she receives wonderful news: Her uncle and namesake, Charlie Oakley, is coming to visit. However, as secrets about him come to the fore, Charlotte’s admiration turns into suspicion.",
+         "poster_path": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            80,
+            53
+         ],
+         "popularity": 10.371,
+         "release_date": "1943-01-15",
+         "video": false,
+         "vote_average": 7.548,
+         "vote_count": 799
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

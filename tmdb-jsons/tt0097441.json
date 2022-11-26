@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/v3GfmVe15s9DkmfzidLRroLcPs6.jpg",
+         "id": 9665,
+         "title": "Glory",
+         "original_language": "en",
+         "original_title": "Glory",
+         "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+         "poster_path": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            36,
+            10752
+         ],
+         "popularity": 16.541,
+         "release_date": "1989-12-15",
+         "video": false,
+         "vote_average": 7.475,
+         "vote_count": 1282
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

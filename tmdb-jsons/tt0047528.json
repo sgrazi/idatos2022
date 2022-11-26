@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg",
+         "id": 405,
+         "title": "La Strada",
+         "original_language": "it",
+         "original_title": "La strada",
+         "overview": "When Gelsomina, a naïve young woman, is purchased from her impoverished mother by brutish circus strongman Zampanò to be his wife and partner, she loyally endures her husband's coldness and abuse as they travel the Italian countryside performing together. Soon Zampanò must deal with his jealousy and conflicted feelings about Gelsomina when she finds a kindred spirit in Il Matto, the carefree circus fool, and contemplates leaving Zampanò.",
+         "poster_path": "/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 10.972,
+         "release_date": "1954-09-23",
+         "video": false,
+         "vote_average": 7.967,
+         "vote_count": 849
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,27 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+         "id": 8416,
+         "title": "The Conformist",
+         "original_language": "it",
+         "original_title": "Il conformista",
+         "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+         "poster_path": "/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18
+         ],
+         "popularity": 9.919,
+         "release_date": "1971-01-29",
+         "video": false,
+         "vote_average": 7.689,
+         "vote_count": 518
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

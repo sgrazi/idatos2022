@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+         "id": 297222,
+         "title": "PK",
+         "original_language": "hi",
+         "original_title": "पीके",
+         "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+         "poster_path": "/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18,
+            878
+         ],
+         "popularity": 12.593,
+         "release_date": "2014-12-18",
+         "video": false,
+         "vote_average": 7.697,
+         "vote_count": 785
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

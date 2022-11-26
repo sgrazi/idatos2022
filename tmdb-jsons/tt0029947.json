@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/fzJgCQh2NBnUYlms8EGyr4bPNz3.jpg",
+         "id": 900,
+         "title": "Bringing Up Baby",
+         "original_language": "en",
+         "original_title": "Bringing Up Baby",
+         "overview": "David Huxley is waiting to get a bone he needs for his museum collection. Through a series of strange circumstances, he meets Susan Vance, and the duo have a series of misadventures which include a leopard called Baby.",
+         "poster_path": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749
+         ],
+         "popularity": 6.968,
+         "release_date": "1938-02-18",
+         "video": false,
+         "vote_average": 7.568,
+         "vote_count": 785
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

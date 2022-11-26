@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/3ad3ozEw5f4AxAorb4sRVOfbrCD.jpg",
+         "id": 3078,
+         "title": "It Happened One Night",
+         "original_language": "en",
+         "original_title": "It Happened One Night",
+         "overview": "A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.",
+         "poster_path": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            10749
+         ],
+         "popularity": 12.918,
+         "release_date": "1934-02-22",
+         "video": false,
+         "vote_average": 7.875,
+         "vote_count": 974
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

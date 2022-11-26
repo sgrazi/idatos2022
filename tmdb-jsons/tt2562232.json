@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg",
+         "id": 194662,
+         "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+         "original_language": "en",
+         "original_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+         "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+         "poster_path": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35
+         ],
+         "popularity": 27.993,
+         "release_date": "2014-10-17",
+         "video": false,
+         "vote_average": 7.469,
+         "vote_count": 11582
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

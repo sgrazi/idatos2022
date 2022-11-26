@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/ePq5SQuGHbQ209pf4ViE747dGCw.jpg",
+         "id": 1394,
+         "title": "Nostalgia",
+         "original_language": "ru",
+         "original_title": "Ностальгия",
+         "overview": "A Russian poet and his interpreter travel to Italy to research the life of an 18th-century composer.",
+         "poster_path": "/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 9.915,
+         "release_date": "1983-05-01",
+         "video": false,
+         "vote_average": 7.878,
+         "vote_count": 407
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+         "id": 10322,
+         "title": "Being There",
+         "original_language": "en",
+         "original_title": "Being There",
+         "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+         "poster_path": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            35,
+            18
+         ],
+         "popularity": 12.477,
+         "release_date": "1979-12-19",
+         "video": false,
+         "vote_average": 7.623,
+         "vote_count": 778
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

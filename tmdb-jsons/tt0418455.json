@@ -1,0 +1,29 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+         "id": 1023,
+         "title": "Adam's Apples",
+         "original_language": "da",
+         "original_title": "Adams æbler",
+         "overview": "A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.",
+         "poster_path": "/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            35,
+            80
+         ],
+         "popularity": 7.452,
+         "release_date": "2005-04-15",
+         "video": false,
+         "vote_average": 7.464,
+         "vote_count": 551
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}

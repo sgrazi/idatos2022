@@ -1,0 +1,28 @@
+{
+   "movie_results": [
+      {
+         "adult": false,
+         "backdrop_path": "/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+         "id": 64,
+         "title": "Talk to Her",
+         "original_language": "es",
+         "original_title": "Hable con ella",
+         "overview": "Two men share an odd friendship while they care for two women who are both in deep comas.",
+         "poster_path": "/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+         "media_type": "movie",
+         "genre_ids": [
+            18,
+            10749
+         ],
+         "popularity": 11.329,
+         "release_date": "2002-03-15",
+         "video": false,
+         "vote_average": 7.598,
+         "vote_count": 1049
+      }
+   ],
+   "person_results": [],
+   "tv_results": [],
+   "tv_episode_results": [],
+   "tv_season_results": []
+}
