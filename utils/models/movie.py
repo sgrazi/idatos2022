@@ -30,7 +30,6 @@ class Movie(db.Base):
     def get_by_id(id):
         return db.session.query(Movie).filter(Movie.id == id).first()
 
-    
     @staticmethod
     def get_by_title(title):
         return db.session.query(Movie).filter(Movie.title == title).first()
@@ -62,16 +61,18 @@ class Movie(db.Base):
             print(e)
             db.session.rollback()
             print(f"Error al crear la película {self.title}")
-    
+
     def update(self, platforms, genres):
         try:
             for platform in platforms:
-                    filtered = list(filter(lambda x: x.platform.id == platform.id, self.platforms))
-                    if len(filtered) == 0:
-                        movie_platform = MoviePlatform()
-                        movie_platform.movie_id = self.id
-                        movie_platform.platform_id = platform.id
-                        db.session.add(movie_platform)
+                filtered = list(
+                    filter(lambda x: x.platform.id == platform.id, self.platforms)
+                )
+                if len(filtered) == 0:
+                    movie_platform = MoviePlatform()
+                    movie_platform.movie_id = self.id
+                    movie_platform.platform_id = platform.id
+                    db.session.add(movie_platform)
 
             for genre in genres:
                 filtered = list(filter(lambda x: x.genre.id == genre.id, self.genres))

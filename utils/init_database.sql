@@ -2,8 +2,8 @@ DROP TABLE IF EXISTS movies CASCADE;
 
 CREATE TABLE movies(
 	id  INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-	title VARCHAR ( 50 ) NOT NULL,
-	country VARCHAR ( 50 ),
+	title VARCHAR ( 255 ) NOT NULL,
+	country VARCHAR ( 150 ),
 	release_year VARCHAR ( 50 ),
 	duration VARCHAR(20),
 	description TEXT

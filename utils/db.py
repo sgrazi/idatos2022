@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
-POSTGRES_URL = "postgresql://admin:admin@localhost:5432/idatos2022" #"postgresql://postgres:master@localhost:5432/idatos2022"
+POSTGRES_URL = "postgresql://admin:admin@localhost:5432/idatos2022"  # "postgresql://postgres:master@localhost:5432/idatos2022"
 
 
 class SingletonDatabase:

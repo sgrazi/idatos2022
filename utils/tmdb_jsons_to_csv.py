@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 
 dfs = []
-jsons_paths = os.path.join("../tmdb-jsons/","*.json")
+jsons_paths = os.path.join("../tmdb-jsons/", "*.json")
 csv_path = Path("../datasets/tmdb_dataset.csv")
 json_list = glob.glob(jsons_paths)
 for json_file in json_list:
@@ -23,10 +23,10 @@ for json_file in json_list:
     data.drop(["genre_ids"], axis=1, inplace=True)
     row = data
     # uso concat (merge no me funciona), tengo que tener misma cant de tuplas en ambos dataframes
-    for x in range(0,genres.shape[0]-1):
-        data = pd.concat([data,row],axis=0)
+    for x in range(0, genres.shape[0] - 1):
+        data = pd.concat([data, row], axis=0)
     data.reset_index(drop=True, inplace=True)
-    data = pd.concat([data,genres],axis=1)
+    data = pd.concat([data, genres], axis=1)
     dfs.append(data)
 
 df = pd.concat(dfs, ignore_index=True)

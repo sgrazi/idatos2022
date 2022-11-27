@@ -1,43 +1,67 @@
 import pandas as pd
+from genre_mapper import GENRE_MAPPER
 from models.genre import Genre
 from models.movie import Movie
 from models.platform import Platform
+from datetime import datetime
 
 
 def load_csv(path):
     return pd.read_csv(path)
 
 
-def load_movies(df, platform):
-    for index, row in df.iterrows():
-        genres = []
-        for genre_name in row["listed_in"].split(", "):
-            genre = Genre.get_by_name(genre_name)
-            if genre is None:
-                genre = Genre()
-                genre.name = genre_name
-                genre.save()
-            genres.append(genre)
-        
-        movie = Movie.get_by_title(row['title'])
-        if movie is None:
-            print("Adding movie: " + row['title'])
-            movie = Movie(
-                title=row["title"],
-                country=row["country"],
-                release_year=row["release_year"],
-                duration=row["duration"],
-                description=row["description"],
-            )
-            print(row["listed_in"])
+def insert_genres(genres):
+    list_of_genres = []
+    for genre in genres:
+        genre_name = genre.upper()
+        if genre_name in GENRE_MAPPER:
+            genre_name = GENRE_MAPPER[genre_name]
 
-            movie.save([platform], genres)
-        else:
-            print("_________________ ACA __________________")
-            print("Movie already exists: " + row['title'])
-            movie.update([platform], genres)
+        g = Genre.get_by_name(genre_name)
+        if g is None:
+            g = Genre()
+            g.name = genre_name
+            g.save()
+
+        filtered = list(filter(lambda x: x.id == g.id, list_of_genres))
+        if len(filtered) == 0:
+            list_of_genres.append(g)
+
+    return list_of_genres
+
+
+def load_movies(df, platform):
+    new_movies = 0
+    updated_movies = 0
+    for index, row in df.iterrows():
+        try:
+            genres = []
+            if not pd.isna(row["listed_in"]):
+                genres = insert_genres(row["listed_in"].split(", "))
+
+            movie = Movie.get_by_title(row["title"])
+
+            if movie is None:
+                movie = Movie(
+                    title=row["title"],
+                    country=row["country"],
+                    release_year=row["release_year"],
+                    duration=row["duration"],
+                    description=row["description"],
+                )
+                new_movies += 1
+                movie.save([platform], genres)
+            else:
+                updated_movies += 1
+                movie.update([platform], genres)
+        except Exception as e:
+            print(e)
+            print("Error adding movie: " + row["title"])
         # if index >= 100:
         #     break
+
+    print("New movies: " + str(new_movies))
+    print("Updated movies: " + str(updated_movies))
 
 
 def load_amazon_csv(path):
@@ -52,6 +76,7 @@ def load_amazon_csv(path):
     df = df.query('type == "Movie"')
     load_movies(df, amazon)
 
+
 def load_netflix_csv(path):
     df = load_csv(path)
     netflix = Platform.get_by_name("Netflix")
@@ -63,6 +88,7 @@ def load_netflix_csv(path):
 
     df = df.query('type == "Movie"')
     load_movies(df, netflix)
+
 
 def load_hulu_csv(path):
     df = load_csv(path)
@@ -76,24 +102,30 @@ def load_hulu_csv(path):
     df = df.query('type == "Movie"')
     load_movies(df, hulu)
 
+
+def load_hbo_max_csv(path):
+    df = load_csv(path)
+    hbo_max = Platform.get_by_name("HBO Max")
+
+    if hbo_max is None:
+        hbo_max = Platform()
+        hbo_max.name = "HBO Max"
+        hbo_max.save()
+
+    df = df.query('type == "Movie"')
+    load_movies(df, hbo_max)
+
+
 if __name__ == "__main__":
-    # load_amazon_csv("../datasets/amazon_prime_titles.csv")
-    # load_netflix_csv("../datasets/netflix_titles.csv")
-    # load_hulu_csv("../datasets/hulu_titles.csv")
-    # print(df.describe())
-    movie = Movie.get_by_title("The Resident")
-    print(movie)
-    print(movie.platforms)
-    for platform in movie.platforms:
-        print(platform.platform.name)
-    
-    print(movie.genres)
-    for genre in movie.genres:
-        print(genre.genre.name)
-    # movie = Movie.get_by_id(7598)
-    # # print(Movie.get_by_id(7598))
-    # print(movie.genres[0].genre.id)
-    # filtered = list(filter(lambda x: x.genre.id == 1, movie.genres))
-    # for genres in movie.genres:
-    #     print(genres.genre)
-    # print(filtered)
+    time = datetime.now()
+    load_amazon_csv("../datasets/amazon_prime_titles.csv")
+    print("Amazon Prime Video: " + str(datetime.now() - time))
+    time = datetime.now()
+    load_netflix_csv("../datasets/netflix_titles.csv")
+    print("Netflix: " + str(datetime.now() - time))
+    time = datetime.now()
+    load_hulu_csv("../datasets/hulu_titles.csv")
+    print("Hulu: " + str(datetime.now() - time))
+    time = datetime.now()
+    load_hbo_max_csv("../datasets/hbo_titles.csv")
+    print("HBO Max: " + str(datetime.now() - time))
