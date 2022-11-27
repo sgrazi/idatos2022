@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0405159",
+   "tmdbID": "70",
+   "imdbRating": 81,
+   "imdbVoteCount": 686505,
+   "tmdbRating": 79,
+   "backdropPath": "/p2O2NvYEEnBEAmZ7qtH5o1KDKrt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/p2O2NvYEEnBEAmZ7qtH5o1KDKrt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p2O2NvYEEnBEAmZ7qtH5o1KDKrt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/p2O2NvYEEnBEAmZ7qtH5o1KDKrt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p2O2NvYEEnBEAmZ7qtH5o1KDKrt.jpg"
+   },
+   "originalTitle": "Million Dollar Baby",
+   "genres": [
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 132,
+   "cast": [
+      "Hilary Swank",
+      "Clint Eastwood",
+      "Morgan Freeman",
+      "Jay Baruchel",
+      "Mike Colter",
+      "Lucia Rijker",
+      "Brían F. O'Byrne"
+   ],
+   "significants": [
+      "Clint Eastwood"
+   ],
+   "title": "Million Dollar Baby",
+   "overview": "Despondent over a painful estrangement from his daughter, trainer Frankie Dunn isn't prepared for boxer Maggie Fitzgerald to enter his life. But Maggie's determined to go pro and to convince Dunn and his cohort to help her.",
+   "tagline": "Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love.",
+   "video": "5_RsHRmIRBY",
+   "posterPath": "/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mVqE0CaURUkiIXzHPOLVbTjAXFy.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmbF_QgJByLCHAEAABoH:type:feature",
+            "added": 1668855308,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

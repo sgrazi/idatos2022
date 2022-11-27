@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt10366460",
+   "tmdbID": "776503",
+   "imdbRating": 80,
+   "imdbVoteCount": 130165,
+   "tmdbRating": 80,
+   "backdropPath": "/2ktD7aMGkIytVRYwahAuktAQ3hO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2ktD7aMGkIytVRYwahAuktAQ3hO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2ktD7aMGkIytVRYwahAuktAQ3hO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2ktD7aMGkIytVRYwahAuktAQ3hO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2ktD7aMGkIytVRYwahAuktAQ3hO.jpg"
+   },
+   "originalTitle": "CODA",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "FR",
+      "US"
+   ],
+   "year": 2021,
+   "runtime": 112,
+   "cast": [
+      "Emilia Jones",
+      "Marlee Matlin",
+      "Troy Kotsur",
+      "Eugenio Derbez",
+      "Ferdia Walsh-Peelo",
+      "Daniel Durant",
+      "Amy Forsyth"
+   ],
+   "significants": [
+      "Siân Heder"
+   ],
+   "title": "CODA",
+   "overview": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents.",
+   "tagline": "Every family has its own language.",
+   "video": "0pmfrE1YL4I",
+   "posterPath": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/BzVjmm8l23rPsijLiNLUzuQtyd.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "apple": {
+         "us": {
+            "link": "https://tv.apple.com/us/movie/-/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir",
+            "added": 1668950420,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

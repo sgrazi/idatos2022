@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0083987",
+   "tmdbID": "783",
+   "imdbRating": 81,
+   "imdbVoteCount": 232046,
+   "tmdbRating": 75,
+   "backdropPath": "/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gum3tuO1zKHBdElSQPS08PJ1w67.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gum3tuO1zKHBdElSQPS08PJ1w67.jpg"
+   },
+   "originalTitle": "Gandhi",
+   "genres": [
+      1,
+      18
+   ],
+   "countries": [
+      "IN",
+      "GB"
+   ],
+   "year": 1982,
+   "runtime": 191,
+   "cast": [
+      "Ben Kingsley",
+      "Candice Bergen",
+      "Edward Fox",
+      "John Gielgud",
+      "Trevor Howard",
+      "John Mills",
+      "Martin Sheen"
+   ],
+   "significants": [
+      "Richard Attenborough"
+   ],
+   "title": "Gandhi",
+   "overview": "In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.",
+   "tagline": "His triumph changed the world forever.",
+   "video": "vziq3CA_C30",
+   "posterPath": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rOXftt7SluxskrFrvU7qFJa5zeN.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/8691ddf9-863b-4129-9bb1-fc79a8f470cc",
+            "added": 1668147173,
+            "leaving": 1672559940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

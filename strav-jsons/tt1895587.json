@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1895587",
+   "tmdbID": "314365",
+   "imdbRating": 81,
+   "imdbVoteCount": 469143,
+   "tmdbRating": 78,
+   "backdropPath": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
+   },
+   "originalTitle": "Spotlight",
+   "genres": [
+      1,
+      80,
+      18
+   ],
+   "countries": [
+      "CA",
+      "US"
+   ],
+   "year": 2015,
+   "runtime": 129,
+   "cast": [
+      "Mark Ruffalo",
+      "Michael Keaton",
+      "Rachel McAdams",
+      "Liev Schreiber",
+      "John Slattery",
+      "Stanley Tucci",
+      "Brian d'Arcy James"
+   ],
+   "significants": [
+      "Tom McCarthy"
+   ],
+   "title": "Spotlight",
+   "overview": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+   "tagline": "Break the story. Break the silence.",
+   "video": "WgnrwwiIDlI",
+   "posterPath": "/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rBkptJyAMqCfoMwUGQfCpubroec.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rBkptJyAMqCfoMwUGQfCpubroec.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYsahzgxmrHEkEwEAAAAE:type:feature",
+            "added": 1664791006,
+            "leaving": 17006400000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

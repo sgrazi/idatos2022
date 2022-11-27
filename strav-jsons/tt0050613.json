@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0050613",
+   "tmdbID": "3777",
+   "imdbRating": 81,
+   "imdbVoteCount": 52578,
+   "tmdbRating": 79,
+   "backdropPath": "/aliPMgGiHu8hnnNS5thAjExr3j1.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aliPMgGiHu8hnnNS5thAjExr3j1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aliPMgGiHu8hnnNS5thAjExr3j1.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aliPMgGiHu8hnnNS5thAjExr3j1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aliPMgGiHu8hnnNS5thAjExr3j1.jpg"
+   },
+   "originalTitle": "蜘蛛巣城",
+   "genres": [
+      18,
+      36
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1957,
+   "runtime": 108,
+   "cast": [
+      "Toshirō Mifune",
+      "Isuzu Yamada",
+      "Takashi Shimura",
+      "Akira Kubo",
+      "Hiroshi Tachikawa",
+      "Minoru Chiaki",
+      "Takamaru Sasaki"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Throne of Blood",
+   "overview": "Returning to their lord's castle, samurai warriors Washizu and Miki are waylaid by a spirit who predicts their futures. When the first part of the spirit's prophecy comes true, Washizu's scheming wife, Asaji, presses him to speed up the rest of the spirit's prophecy by murdering his lord and usurping his place. Director Akira Kurosawa's resetting of William Shakespeare's \"Macbeth\" in feudal Japan is one of his most acclaimed films.",
+   "tagline": "",
+   "video": "LY7ETIO1KB8",
+   "posterPath": "/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zaZFMNxJST0TtPd68yF7fNt1he8.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAn5gQuEJ4_wwEAAElq:type:feature",
+            "added": 1655506548,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

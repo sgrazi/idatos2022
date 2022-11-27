@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0119698",
+   "tmdbID": "128",
+   "imdbRating": 84,
+   "imdbVoteCount": 393448,
+   "tmdbRating": 83,
+   "backdropPath": "/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg"
+   },
+   "originalTitle": "もののけ姫",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1997,
+   "runtime": 134,
+   "cast": [
+      "Youji Matsuda",
+      "Yuriko Ishida",
+      "Yūko Tanaka",
+      "Kaoru Kobayashi",
+      "Masahiko Nishimura",
+      "Tsunehiko Kamijô",
+      "Sumi Shimamoto"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "Princess Mononoke",
+   "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+   "tagline": "The Fate Of The World Rests On The Courage Of One Warrior.",
+   "video": "g9k72pqWQsY",
+   "posterPath": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHUCwY3E6u9KwEAAAAO:type:feature",
+            "added": 1655501944,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

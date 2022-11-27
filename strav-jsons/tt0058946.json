@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0058946",
+   "tmdbID": "17295",
+   "imdbRating": 81,
+   "imdbVoteCount": 60564,
+   "tmdbRating": 79,
+   "backdropPath": "/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/A5sZ1OxIH5StZgqBE9MslgsWjK6.jpg"
+   },
+   "originalTitle": "La battaglia di Algeri",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "IT",
+      "DZ"
+   ],
+   "year": 1966,
+   "runtime": 121,
+   "cast": [
+      "Brahim Hadjadj",
+      "Jean Martin",
+      "Yacef Saadi",
+      "Samia Kerbash",
+      "Ugo Paletti",
+      "Fusia El Kader",
+      "Mohamed Ben Kassen"
+   ],
+   "significants": [
+      "Gillo Pontecorvo"
+   ],
+   "title": "The Battle of Algiers",
+   "overview": "Tracing the struggle of the Algerian Front de Liberation Nationale to gain freedom from French colonial rule as seen through the eyes of Ali from his start as a petty thief to his rise to prominence in the organisation and capture by the French in 1957. The film traces the rebels' struggle and the increasingly extreme measures taken by the French government to quell the revolt.",
+   "tagline": "The Revolt that Stirred the World!",
+   "video": "vhhoS3zOskE",
+   "posterPath": "/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1eEN4ubAFB4N2Rl9syqPVCcwrGG.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnqYMAVTqxtjhQEAAAI9:type:feature",
+            "added": 1655506864,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

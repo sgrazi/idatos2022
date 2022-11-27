@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt1821480",
+   "tmdbID": "82825",
+   "imdbRating": 81,
+   "imdbVoteCount": 63175,
+   "tmdbRating": 72,
+   "backdropPath": "/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ycRsscsENS6hTTRPlSv3YyBAkHD.jpg"
+   },
+   "originalTitle": "Kahaani",
+   "genres": [
+      9648,
+      53
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2012,
+   "runtime": 122,
+   "cast": [
+      "Vidya Balan",
+      "Parambrata Chatterjee",
+      "Nawazuddin Siddiqui",
+      "Saswata Chatterjee",
+      "Kharaj Mukherjee",
+      "Dhritiman Chatterjee",
+      "Darshan Jariwala"
+   ],
+   "significants": [
+      "Sujoy Ghosh"
+   ],
+   "title": "Kahaani",
+   "overview": "Pregnant and alone in the city of Kolkata, a woman begins a relentless search for her missing husband, only to find that nothing is what it seems.",
+   "tagline": "A mother of a story.",
+   "video": "CUj73MLqZoQ",
+   "posterPath": "/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/shsN1B7IPAQG1NLF6WVVi3X89lM.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

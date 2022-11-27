@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0086879",
+   "tmdbID": "279",
+   "imdbRating": 84,
+   "imdbVoteCount": 400675,
+   "tmdbRating": 80,
+   "backdropPath": "/hCHO4FMRSJdGf0urLtGnST9Lhi3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hCHO4FMRSJdGf0urLtGnST9Lhi3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hCHO4FMRSJdGf0urLtGnST9Lhi3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hCHO4FMRSJdGf0urLtGnST9Lhi3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hCHO4FMRSJdGf0urLtGnST9Lhi3.jpg"
+   },
+   "originalTitle": "Amadeus",
+   "genres": [
+      1,
+      18,
+      10402
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1984,
+   "runtime": 160,
+   "cast": [
+      "F. Murray Abraham",
+      "Tom Hulce",
+      "Elizabeth Berridge",
+      "Roy Dotrice",
+      "Simon Callow",
+      "Christine Ebersole",
+      "Jeffrey Jones"
+   ],
+   "significants": [
+      "Miloš Forman"
+   ],
+   "title": "Amadeus",
+   "overview": "Wolfgang Amadeus Mozart is a remarkably talented young Viennese composer who unwittingly finds a fierce rival in the disciplined and determined Antonio Salieri. Resenting Mozart for both his hedonistic lifestyle and his undeniable talent, the highly religious Salieri is gradually consumed by his jealousy and becomes obsessed with Mozart's downfall, leading to a devious scheme that has dire consequences for both men.",
+   "tagline": "Everything you've heard is true...",
+   "video": "r7kWQj9FCGY",
+   "posterPath": "/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

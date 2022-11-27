@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt3315342",
+   "tmdbID": "263115",
+   "imdbRating": 81,
+   "imdbVoteCount": 758831,
+   "tmdbRating": 78,
+   "backdropPath": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9X7YweCJw3q8Mcf6GadxReFEksM.jpg"
+   },
+   "originalTitle": "Logan",
+   "genres": [
+      28,
+      18,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2017,
+   "runtime": 137,
+   "cast": [
+      "Hugh Jackman",
+      "Dafne Keen",
+      "Patrick Stewart",
+      "Elizabeth Rodriguez",
+      "Boyd Holbrook",
+      "Stephen Merchant",
+      "Richard E. Grant"
+   ],
+   "significants": [
+      "James Mangold"
+   ],
+   "title": "Logan",
+   "overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+   "tagline": "His time has come.",
+   "video": "XaE_9pfybL4",
+   "posterPath": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/4BPdGjuoQAvT",
+            "added": 1658592406,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

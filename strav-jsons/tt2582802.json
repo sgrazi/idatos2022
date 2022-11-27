@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt2582802",
+   "tmdbID": "244786",
+   "imdbRating": 85,
+   "imdbVoteCount": 850489,
+   "tmdbRating": 83,
+   "backdropPath": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg"
+   },
+   "originalTitle": "Whiplash",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 107,
+   "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Paul Reiser",
+      "Melissa Benoist",
+      "Austin Stowell",
+      "Chris Mulkey",
+      "Nate Lang"
+   ],
+   "significants": [
+      "Damien Chazelle"
+   ],
+   "title": "Whiplash",
+   "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+   "tagline": "The road to greatness can take you to the edge.",
+   "video": "Df1xkYYbYrY",
+   "posterPath": "/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg",
+      "original": "https://image.tmdb.org/t/p/original/E1fpfU9cMCgFYL3QPvJr3vt20X.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYfnrfQjGNgDDwwEAAAHl:type:feature",
+            "added": 1659582334,
+            "leaving": 0
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/whiplash/0371f1df-7a86-3147-b974-5f38d0b22216",
+            "added": 1667317261,
+            "leaving": 1669888740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

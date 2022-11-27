@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0117951",
+   "tmdbID": "627",
+   "imdbRating": 81,
+   "imdbVoteCount": 685958,
+   "tmdbRating": 79,
+   "backdropPath": "/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/e9GbzPawXDFvLwSseCXpHkbCyAP.jpg"
+   },
+   "originalTitle": "Trainspotting",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1996,
+   "runtime": 94,
+   "cast": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller",
+      "Robert Carlyle",
+      "Kelly Macdonald",
+      "Kevin McKidd",
+      "Peter Mullan"
+   ],
+   "significants": [
+      "Danny Boyle"
+   ],
+   "title": "Trainspotting",
+   "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends -- Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind when Begbie shows up at his front door on the lam, and a scheming Sick Boy follows.",
+   "tagline": "Choose life.",
+   "video": "KhGT6itWByA",
+   "posterPath": "/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bhY62Dw8iW54DIhxPQerbuB9DOP.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/30794",
+            "added": 1659377666,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

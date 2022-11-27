@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt0060196",
+   "tmdbID": "429",
+   "imdbRating": 88,
+   "imdbVoteCount": 758396,
+   "tmdbRating": 84,
+   "backdropPath": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/x4biAVdPVCghBlsVIzB6NmbghIz.jpg"
+   },
+   "originalTitle": "Il buono, il brutto, il cattivo",
+   "genres": [
+      12,
+      37
+   ],
+   "countries": [
+      "US",
+      "IT",
+      "ES",
+      "DE"
+   ],
+   "year": 1966,
+   "runtime": 161,
+   "cast": [
+      "Clint Eastwood",
+      "Eli Wallach",
+      "Lee Van Cleef",
+      "Aldo Giuffrè",
+      "Luigi Pistilli",
+      "Rada Rassimov",
+      "Enzo Petito"
+   ],
+   "significants": [
+      "Sergio Leone"
+   ],
+   "title": "The Good, the Bad and the Ugly",
+   "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+   "tagline": "For three men the Civil War wasn't hell. It was practice.",
+   "video": "IFNUGzCOQoI",
+   "posterPath": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/29646",
+            "added": 1648811301,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

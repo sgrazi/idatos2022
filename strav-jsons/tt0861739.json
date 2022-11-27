@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0861739",
+   "tmdbID": "7347",
+   "imdbRating": 80,
+   "imdbVoteCount": 104641,
+   "tmdbRating": 80,
+   "backdropPath": "/tGb044NgQYQJr58fta5O3OB6SpQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tGb044NgQYQJr58fta5O3OB6SpQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tGb044NgQYQJr58fta5O3OB6SpQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tGb044NgQYQJr58fta5O3OB6SpQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tGb044NgQYQJr58fta5O3OB6SpQ.jpg"
+   },
+   "originalTitle": "Tropa de Elite",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "BR"
+   ],
+   "year": 2007,
+   "runtime": 115,
+   "cast": [
+      "Wagner Moura",
+      "Caio Junqueira",
+      "André Ramiro",
+      "Milhem Cortaz",
+      "Fernanda Machado",
+      "Maria Ribeiro",
+      "Fábio Lago"
+   ],
+   "significants": [
+      "José Padilha"
+   ],
+   "title": "Elite Squad",
+   "overview": "In 1997, before the visit of the pope to Rio de Janeiro, Captain Nascimento from BOPE (Special Police Operations Battalion) is assigned to eliminate the risks of the drug dealers in a dangerous slum nearby where the pope intends to be lodged.",
+   "tagline": "On the streets of Rio only the elite survive",
+   "video": "WNrC-vLpTGI",
+   "posterPath": "/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lwIXz785N2fXi8hsBr1IXciFlkM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lwIXz785N2fXi8hsBr1IXciFlkM.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "pt"
+}

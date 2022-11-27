@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0071562",
+   "tmdbID": "240",
+   "imdbRating": 90,
+   "imdbVoteCount": 1263017,
+   "tmdbRating": 86,
+   "backdropPath": "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kGzFbGhp99zva6oZODW5atUtnqi.jpg"
+   },
+   "originalTitle": "The Godfather Part II",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1974,
+   "runtime": 202,
+   "cast": [
+      "Al Pacino",
+      "Robert Duvall",
+      "Diane Keaton",
+      "Robert De Niro",
+      "John Cazale",
+      "Talia Shire",
+      "Lee Strasberg"
+   ],
+   "significants": [
+      "Francis Ford Coppola"
+   ],
+   "title": "The Godfather Part II",
+   "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+   "tagline": "I don't feel I have to wipe everybody out, Tom. Just my enemies.",
+   "video": "rcU6DUUUd7k",
+   "posterPath": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

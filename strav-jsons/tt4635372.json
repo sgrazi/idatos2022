@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt4635372",
+   "tmdbID": "336203",
+   "imdbRating": 81,
+   "imdbVoteCount": 28348,
+   "tmdbRating": 69,
+   "backdropPath": "/4JKIUn8Dt7UrzqtyXYdqZ50rW6b.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4JKIUn8Dt7UrzqtyXYdqZ50rW6b.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4JKIUn8Dt7UrzqtyXYdqZ50rW6b.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4JKIUn8Dt7UrzqtyXYdqZ50rW6b.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4JKIUn8Dt7UrzqtyXYdqZ50rW6b.jpg"
+   },
+   "originalTitle": "मसान",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "FR",
+      "IN"
+   ],
+   "year": 2015,
+   "runtime": 109,
+   "cast": [
+      "Richa Chadha",
+      "Sanjay Mishra",
+      "Vicky Kaushal",
+      "Shweta Tripathi",
+      "Vineet Kumar",
+      "Pankaj Tripathi",
+      "Bhagwan Tiwari"
+   ],
+   "significants": [
+      "Neeraj Ghaywan"
+   ],
+   "title": "Masaan",
+   "overview": "Four lives intersect along the Ganges: a low caste boy in hopeless love, a daughter ridden with guilt of a sexual encounter ending in a tragedy, a hapless father with fading morality, and a spirited child yearning for a family, long to escape the moral constructs of a small-town.",
+   "tagline": "A Celebration Of Life, Death And Everything in Between",
+   "video": "SKJfBo3xMW0",
+   "posterPath": "/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pDg9Em9YJtIdIzvjMklmFsTBB0s.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt20850406",
+   "tmdbID": "894803",
+   "imdbRating": 85,
+   "imdbVoteCount": 41777,
+   "tmdbRating": 73,
+   "backdropPath": "/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg",
+      "original": "https://image.tmdb.org/t/p/original/k38sLjhQsdLRJZCu3hIL7RcGo3A.jpg"
+   },
+   "originalTitle": "సీతా రామం",
+   "genres": [
+      28,
+      18,
+      9648
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2022,
+   "runtime": 158,
+   "cast": [
+      "Dulquer Salmaan",
+      "Mrunal Thakur",
+      "Rashmika Mandanna",
+      "Sumanth",
+      "Gautham Vasudev Menon",
+      "Tharun Bhascker Dhaassyam",
+      "Vennela Kishore"
+   ],
+   "significants": [
+      "Hanu Raghavapudi"
+   ],
+   "title": "Sita Ramam",
+   "overview": "Afreen, a rebellious Pakistani student sets ablaze the car of an Indian in London. Angered Afreen returns to Pakistan to ask for money from her grandfather that she has to pay in a month's time as damages. However, she gets to know that he is no more and the only thing he has left for her is a letter-delivering task, written by Ram to Sita. As Afreen sets out to find Ram, there begins her journey of discovering the secret behind the 20-year-old letter.",
+   "tagline": "A love story written with war",
+   "video": "",
+   "posterPath": "/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6SYaaIjLDistEd7DoeS328FVWn0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6SYaaIjLDistEd7DoeS328FVWn0.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0G2G9F9BZAJUW8XZ2RQ5N3MRBS/",
+            "added": 1663676625,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "te"
+}

@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt10280296",
+   "tmdbID": "598826",
+   "imdbRating": 84,
+   "imdbVoteCount": 42347,
+   "tmdbRating": 71,
+   "backdropPath": "/8xkPWMyIsxwikJuyMTr08KldKzR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8xkPWMyIsxwikJuyMTr08KldKzR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8xkPWMyIsxwikJuyMTr08KldKzR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8xkPWMyIsxwikJuyMTr08KldKzR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8xkPWMyIsxwikJuyMTr08KldKzR.jpg"
+   },
+   "originalTitle": "सरदार उधम",
+   "genres": [
+      1,
+      80,
+      18
+   ],
+   "countries": [
+      "IN",
+      "RU",
+      "GB"
+   ],
+   "year": 2021,
+   "runtime": 163,
+   "cast": [
+      "Vicky Kaushal",
+      "Shaun Scott",
+      "Stephen Hogan",
+      "Amol Parashar",
+      "Kirsty Averton",
+      "Banita Sandhu",
+      "Andrew Havill"
+   ],
+   "significants": [
+      "Shoojit Sircar"
+   ],
+   "title": "Sardar Udham",
+   "overview": "A young Sardar Udham Singh left deeply scarred by the Jallianwala Bagh massacre, escaped into the mountains of Afghanistan, reaching London in 1933-34. Carrying an unhealed wound for 21 years, the revolutionary assassinated Michael O’Dwyer on 13th March, 1940, the man at the helm of affairs in Punjab, April 1919 to avenge the lost lives of his beloved brethren.",
+   "tagline": "An assassination which shook the British Empire",
+   "video": "M0n12SiqtwE",
+   "posterPath": "/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5m0ir7GygfhzBBwFYRWzQ7yY0De.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0KXY9238XM70TQRCBWSURMFZW1/",
+            "added": 1636165705,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt9477520",
+   "tmdbID": "576928",
+   "imdbRating": 85,
+   "imdbVoteCount": 29568,
+   "tmdbRating": 78,
+   "backdropPath": "/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oxl1w7sICYDJfaD9PM06HfPUmOi.jpg"
+   },
+   "originalTitle": "அசுரன்",
+   "genres": [
+      28,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2019,
+   "runtime": 141,
+   "cast": [
+      "Dhanush",
+      "Manju Warrier",
+      "Ken Karunas",
+      "Teejay",
+      "Pasupathy Masilamani",
+      "Prakash Raj",
+      "Ammu Abhirami"
+   ],
+   "significants": [
+      "Vetrimaaran"
+   ],
+   "title": "Asuran",
+   "overview": "A family from the underprivileged class is on the run after the teenaged son kills a rich man from the upper caste. Can the pacifist father be able to save his hot-blooded son?",
+   "tagline": "",
+   "video": "4cJX0kH20qU",
+   "posterPath": "/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/Elnp3XrAlMM30dil8rbL7D9XeP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/Elnp3XrAlMM30dil8rbL7D9XeP.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0HKDU9UHCT9KMIBITSXWL87Z20/",
+            "added": 1653933275,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "ta"
+}

@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt1979320",
+   "tmdbID": "96721",
+   "imdbRating": 81,
+   "imdbVoteCount": 479349,
+   "tmdbRating": 77,
+   "backdropPath": "/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/caKZWDGmv5iW2U99skHs75MmOmU.jpg"
+   },
+   "originalTitle": "Rush",
+   "genres": [
+      28,
+      1,
+      18
+   ],
+   "countries": [
+      "DE",
+      "GB",
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 123,
+   "cast": [
+      "Chris Hemsworth",
+      "Daniel Brühl",
+      "Olivia Wilde",
+      "Alexandra Maria Lara",
+      "Pierfrancesco Favino",
+      "David Calder",
+      "Natalie Dormer"
+   ],
+   "significants": [
+      "Ron Howard"
+   ],
+   "title": "Rush",
+   "overview": "A biographical drama centered on the rivalry between Formula 1 drivers James Hunt and Niki Lauda during the 1976 Formula One motor-racing season.",
+   "tagline": "Everyone's driven by something.",
+   "video": "QKAr42gxjhM",
+   "posterPath": "/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uWcMgxO3p3qwVFUxsRz1HbTzGvT.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70253165/",
+            "added": 1663815277,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt8267604",
+   "tmdbID": "517814",
+   "imdbRating": 84,
+   "imdbVoteCount": 89517,
+   "tmdbRating": 81,
+   "backdropPath": "/1p6cMqrxwLjTHmruMCWfpbTAxvt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1p6cMqrxwLjTHmruMCWfpbTAxvt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1p6cMqrxwLjTHmruMCWfpbTAxvt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1p6cMqrxwLjTHmruMCWfpbTAxvt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1p6cMqrxwLjTHmruMCWfpbTAxvt.jpg"
+   },
+   "originalTitle": "کفرناحوم",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "CY",
+      "FR",
+      "LB",
+      "QA",
+      "GB"
+   ],
+   "year": 2018,
+   "runtime": 126,
+   "cast": [
+      "Zain Al Rafeea",
+      "Yordanos Shifera",
+      "Boluwatife Treasure Bankole",
+      "Kawsar Al Haddad",
+      "Fadi Kamel Yousef",
+      "Cedra Izzam",
+      "Alaa Chouchnieh"
+   ],
+   "significants": [
+      "Nadine Labaki"
+   ],
+   "title": "Capernaum",
+   "overview": "Zain, a 12-year-old boy scrambling to survive on the streets of Beirut, sues his parents for having brought him into such an unjust world, where being a refugee with no documents means that your rights can easily be denied.",
+   "tagline": "It takes courage to hope.",
+   "video": "maf0AbL3uEw",
+   "posterPath": "/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cqkqrIDzvkFRWVbRRQLqtkXQoPu.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/44907",
+            "added": 1657905794,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "ar"
+}

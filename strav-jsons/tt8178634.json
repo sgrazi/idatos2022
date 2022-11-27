@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt8178634",
+   "tmdbID": "579974",
+   "imdbRating": 80,
+   "imdbVoteCount": 114922,
+   "tmdbRating": 77,
+   "backdropPath": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+      "original": "https://image.tmdb.org/t/p/original/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg"
+   },
+   "originalTitle": "రౌద్రం రణం రుధిరం",
+   "genres": [
+      28,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2022,
+   "runtime": 187,
+   "cast": [
+      "N.T. Rama Rao Jr.",
+      "Ram Charan",
+      "Alia Bhatt",
+      "Ajay Devgn",
+      "Ray Stevenson",
+      "Alison Doody",
+      "Olivia Morris"
+   ],
+   "significants": [
+      "S. S. Rajamouli"
+   ],
+   "title": "RRR",
+   "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+   "tagline": "Rise, Roar, Revolt.",
+   "video": "xo1P2sQdhC0",
+   "posterPath": "/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kdO4JtO5DnIMyLymQv8C8Ol1CzA.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81476453/",
+            "added": 1658985879,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "te"
+}

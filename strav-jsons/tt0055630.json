@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0055630",
+   "tmdbID": "11878",
+   "imdbRating": 82,
+   "imdbVoteCount": 123313,
+   "tmdbRating": 81,
+   "backdropPath": "/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg"
+   },
+   "originalTitle": "用心棒",
+   "genres": [
+      28,
+      18,
+      53
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1961,
+   "runtime": 110,
+   "cast": [
+      "Toshirō Mifune",
+      "Tatsuya Nakadai",
+      "Yōko Tsukasa",
+      "Isuzu Yamada",
+      "Daisuke Katō",
+      "Seizaburō Kawazu",
+      "Takashi Shimura"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Yojimbo",
+   "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+   "tagline": "Seven Samurai if it Was Just One Samurai!",
+   "video": "y_1iT_GmHTE",
+   "posterPath": "/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoIQNBcsNVoAEAABsU:type:feature",
+            "added": 1655502560,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0405508",
+   "tmdbID": "7913",
+   "imdbRating": 81,
+   "imdbVoteCount": 119300,
+   "tmdbRating": 71,
+   "backdropPath": "/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fgRhyGbMAolDsQ65VRBRBtVQZNn.jpg"
+   },
+   "originalTitle": "रंग दे बसंती",
+   "genres": [
+      35,
+      80,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2006,
+   "runtime": 157,
+   "cast": [
+      "Aamir Khan",
+      "Siddharth",
+      "Atul Kulkarni",
+      "Kunal Kapoor",
+      "Soha Ali Khan",
+      "Alice Patten",
+      "R. Madhavan"
+   ],
+   "significants": [
+      "Rakeysh Omprakash Mehra"
+   ],
+   "title": "Rang De Basanti",
+   "overview": "After a group of friends graduate from Delhi University, they listlessly haunt their old campus, until a British filmmaker casts them in a film she's making about freedom fighters under British rule. Although the group is largely apolitical, the tragic death of a friend owing to local government corruption awakens their patriotism. Inspired by the freedom fighters they represent in the film, the friends collectively decide to avenge the killing.",
+   "tagline": "A Generation Awakens",
+   "video": "l-BTOTtcGmk",
+   "posterPath": "/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f1bF8CHzEu621bPSIg6XiUNAabh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f1bF8CHzEu621bPSIg6XiUNAabh.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70047320/",
+            "added": 1667846916,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

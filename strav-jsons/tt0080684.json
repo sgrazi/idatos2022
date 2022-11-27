@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0080684",
+   "tmdbID": "1891",
+   "imdbRating": 87,
+   "imdbVoteCount": 1284938,
+   "tmdbRating": 84,
+   "backdropPath": "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg"
+   },
+   "originalTitle": "The Empire Strikes Back",
+   "genres": [
+      28,
+      12,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1980,
+   "runtime": 124,
+   "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels",
+      "David Prowse",
+      "Peter Mayhew"
+   ],
+   "significants": [
+      "Irvin Kershner"
+   ],
+   "title": "The Empire Strikes Back",
+   "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+   "tagline": "The Adventure Continues...",
+   "video": "4_46P3Dzvvw",
+   "posterPath": "/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/iqtDTZAewwYl",
+            "added": 1606705696,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0046268",
+   "tmdbID": "204",
+   "imdbRating": 82,
+   "imdbVoteCount": 61608,
+   "tmdbRating": 80,
+   "backdropPath": "/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg"
+   },
+   "originalTitle": "Le Salaire de la peur",
+   "genres": [
+      12,
+      18,
+      53
+   ],
+   "countries": [
+      "FR",
+      "IT"
+   ],
+   "year": 1953,
+   "runtime": 153,
+   "cast": [
+      "Yves Montand",
+      "Charles Vanel",
+      "Peter van Eyck",
+      "Folco Lulli",
+      "Véra Clouzot",
+      "Antonio Centa",
+      "Luis De Lima"
+   ],
+   "significants": [
+      "Henri-Georges Clouzot"
+   ],
+   "title": "The Wages of Fear",
+   "overview": "In the South American jungle, supplies of nitroglycerine are needed at a remote oil field. The oil company pays four men to deliver the supplies in two trucks. A tense rivalry develops between the two sets of drivers on the rough remote roads where the slightest jolt can result in death.",
+   "tagline": "Dynamic Tremendous Shattering",
+   "video": "XyrKDIRSpuM",
+   "posterPath": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoDQFn0J4_wwEAAEm8:type:feature",
+            "added": 1655502277,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

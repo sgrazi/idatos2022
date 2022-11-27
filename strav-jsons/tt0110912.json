@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0110912",
+   "tmdbID": "680",
+   "imdbRating": 89,
+   "imdbVoteCount": 2036264,
+   "tmdbRating": 84,
+   "backdropPath": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+   },
+   "originalTitle": "Pulp Fiction",
+   "genres": [
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1994,
+   "runtime": 154,
+   "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis",
+      "Ving Rhames",
+      "Harvey Keitel",
+      "Eric Stoltz"
+   ],
+   "significants": [
+      "Quentin Tarantino"
+   ],
+   "title": "Pulp Fiction",
+   "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+   "tagline": "Just because you are a character doesn't mean you have character.",
+   "video": "tGpTpVyI_OQ",
+   "posterPath": "/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX-EBkAX3JSfCSwEAAAAC:type:feature",
+            "added": 1659628206,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

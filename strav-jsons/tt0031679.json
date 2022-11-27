@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0031679",
+   "tmdbID": "3083",
+   "imdbRating": 81,
+   "imdbVoteCount": 116086,
+   "tmdbRating": 79,
+   "backdropPath": "/1uOpPfARvbEf1TQfRGadWHhQqJH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1uOpPfARvbEf1TQfRGadWHhQqJH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1uOpPfARvbEf1TQfRGadWHhQqJH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1uOpPfARvbEf1TQfRGadWHhQqJH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1uOpPfARvbEf1TQfRGadWHhQqJH.jpg"
+   },
+   "originalTitle": "Mr. Smith Goes to Washington",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1939,
+   "runtime": 129,
+   "cast": [
+      "James Stewart",
+      "Jean Arthur",
+      "Claude Rains",
+      "Edward Arnold",
+      "Guy Kibbee",
+      "Thomas Mitchell",
+      "Eugene Pallette"
+   ],
+   "significants": [
+      "Frank Capra"
+   ],
+   "title": "Mr. Smith Goes to Washington",
+   "overview": "Naive and idealistic Jefferson Smith, leader of the Boy Rangers, is appointed to the United States Senate by the puppet governor of his state. He soon discovers, upon going to Washington, many shortcomings of the political process as his earnest goal of a national boys' camp leads to a conflict with the state political boss.",
+   "tagline": "Romance, drama, laughter and heartbreak... created out of the very heart and soil of America!",
+   "video": "d3D95aEi_SE",
+   "posterPath": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nDjg1fbNyq15excNDl3acd2IqAk.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

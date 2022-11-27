@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0040897",
+   "tmdbID": "3090",
+   "imdbRating": 82,
+   "imdbVoteCount": 125393,
+   "tmdbRating": 80,
+   "backdropPath": "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg"
+   },
+   "originalTitle": "The Treasure of the Sierra Madre",
+   "genres": [
+      12,
+      18,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1948,
+   "runtime": 126,
+   "cast": [
+      "Humphrey Bogart",
+      "Walter Huston",
+      "Tim Holt",
+      "Bruce Bennett",
+      "Barton MacLane",
+      "Alfonso Bedoya",
+      "Arturo Soto Rangel"
+   ],
+   "significants": [
+      "John Huston"
+   ],
+   "title": "The Treasure of the Sierra Madre",
+   "overview": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+   "tagline": "The nearer they get to their treasure, the farther they get from the law.",
+   "video": "XZ8Q9mOYJgE",
+   "posterPath": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

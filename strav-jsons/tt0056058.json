@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0056058",
+   "tmdbID": "14537",
+   "imdbRating": 86,
+   "imdbVoteCount": 57151,
+   "tmdbRating": 84,
+   "backdropPath": "/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg"
+   },
+   "originalTitle": "切腹",
+   "genres": [
+      28,
+      18,
+      9648
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1962,
+   "runtime": 135,
+   "cast": [
+      "Tatsuya Nakadai",
+      "Akira Ishihama",
+      "Shima Iwashita",
+      "Tetsurō Tamba",
+      "Masao Mishima",
+      "Ichirô Nakatani",
+      "Kei Satō"
+   ],
+   "significants": [
+      "Masaki Kobayashi"
+   ],
+   "title": "Harakiri",
+   "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code.",
+   "tagline": "The world has never understood why the Japanese prefer death to dishonor! Winner of Prix Special du Jury at Cannes 1963 provides the answer!!",
+   "video": "gfABwM-Ppng",
+   "posterPath": "/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/w7pWcLaYQkbtRUn99K6ome0DblL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/w7pWcLaYQkbtRUn99K6ome0DblL.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

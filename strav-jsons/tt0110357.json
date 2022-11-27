@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0110357",
+   "tmdbID": "8587",
+   "imdbRating": 85,
+   "imdbVoteCount": 1051956,
+   "tmdbRating": 83,
+   "backdropPath": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wXsQvli6tWqja51pYxXNG1LFIGV.jpg"
+   },
+   "originalTitle": "The Lion King",
+   "genres": [
+      16,
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1994,
+   "runtime": 89,
+   "cast": [
+      "Matthew Broderick",
+      "James Earl Jones",
+      "Jeremy Irons",
+      "Rowan Atkinson",
+      "Moira Kelly",
+      "Whoopi Goldberg",
+      "Cheech Marin"
+   ],
+   "significants": [
+      "Roger Allers",
+      "Rob Minkoff"
+   ],
+   "title": "The Lion King",
+   "overview": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+   "tagline": "Life's greatest adventure is finding your place in the Circle of Life.",
+   "video": "adqdIxiB74s",
+   "posterPath": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/1HqwiEcje6Nj",
+            "added": 1606701423,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

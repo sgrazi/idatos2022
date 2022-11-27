@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt1187043",
+   "tmdbID": "20453",
+   "imdbRating": 84,
+   "imdbVoteCount": 399325,
+   "tmdbRating": 79,
+   "backdropPath": "/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/e0PVYBaGdKLtvyIp2uEUzT1JUO7.jpg"
+   },
+   "originalTitle": "3 Idiots",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2009,
+   "runtime": 170,
+   "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi",
+      "Kareena Kapoor Khan",
+      "Boman Irani",
+      "Omi Vaidya",
+      "Mona Singh"
+   ],
+   "significants": [
+      "Rajkumar Hirani"
+   ],
+   "title": "3 Idiots",
+   "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down—along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school’s uptight and heartless dean. But when Rancho catches the eye of the dean's sexy daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
+   "tagline": "Aal Izz Well!",
+   "video": "K0eDlFX9GMc",
+   "posterPath": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "original": "https://image.tmdb.org/t/p/original/66A9MqXOyVFCssoloscw79z8Tew.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70121522/",
+            "added": 1617317569,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

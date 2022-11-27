@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0088763",
+   "tmdbID": "105",
+   "imdbRating": 85,
+   "imdbVoteCount": 1196272,
+   "tmdbRating": 83,
+   "backdropPath": "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg"
+   },
+   "originalTitle": "Back to the Future",
+   "genres": [
+      12,
+      35,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1985,
+   "runtime": 116,
+   "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Crispin Glover",
+      "Thomas F. Wilson",
+      "Claudia Wells",
+      "Marc McClure"
+   ],
+   "significants": [
+      "Robert Zemeckis"
+   ],
+   "title": "Back to the Future",
+   "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+   "tagline": "He's the only kid ever to get into trouble before he was born.",
+   "video": "U71BvFM7Wpw",
+   "posterPath": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/adventure/back-to-the-future/2a2c1229-2a42-3a10-bd50-2596e64e96d1",
+            "added": 1664897106,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

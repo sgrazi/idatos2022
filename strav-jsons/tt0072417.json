@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0072417",
+   "tmdbID": "29845",
+   "imdbRating": 81,
+   "imdbVoteCount": 25525,
+   "tmdbRating": 77,
+   "backdropPath": "/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uOLcJJYZ3hbFSrKQPDaLhrYnjUv.jpg"
+   },
+   "originalTitle": "A Woman Under the Influence",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1974,
+   "runtime": 155,
+   "cast": [
+      "Peter Falk",
+      "Gena Rowlands",
+      "Fred Draper",
+      "Lady Rowlands",
+      "Katherine Cassavetes",
+      "Matthew Labyorteaux",
+      "Matthew Cassel"
+   ],
+   "significants": [
+      "John Cassavetes"
+   ],
+   "title": "A Woman Under the Influence",
+   "overview": "Mabel Longhetti, desperate and lonely, is married to a Los Angeles municipal construction worker, Nick. Increasingly unstable, especially in the company of others, she craves happiness, but her extremely volatile behavior convinces Nick that she poses a danger to their family and decides to commit her to an institution for six months. Alone with a trio of kids to raise on his own, he awaits her return, which holds more than a few surprises.",
+   "tagline": "",
+   "video": "YRP47Bj2KOc",
+   "posterPath": "/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlShwzCcp4_wwEAADBg:type:feature",
+            "added": 1655506988,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

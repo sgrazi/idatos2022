@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0096283",
+   "tmdbID": "8392",
+   "imdbRating": 81,
+   "imdbVoteCount": 338301,
+   "tmdbRating": 80,
+   "backdropPath": "/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6O1mOoTXuc1WqjKd2R7MFQHZ7Eb.jpg"
+   },
+   "originalTitle": "となりのトトロ",
+   "genres": [
+      16,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1988,
+   "runtime": 86,
+   "cast": [
+      "Noriko Hidaka",
+      "Hitoshi Takagi",
+      "Chika Sakamoto",
+      "Shigesato Itoi",
+      "Sumi Shimamoto",
+      "Tanie Kitabayashi",
+      "Masashi Hirose"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "My Neighbor Totoro",
+   "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+   "tagline": "",
+   "video": "srW-wajSxog",
+   "posterPath": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHaagZAIKu9KwEAAAAm:type:feature",
+            "added": 1655508478,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

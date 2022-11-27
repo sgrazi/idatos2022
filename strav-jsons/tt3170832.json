@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt3170832",
+   "tmdbID": "264644",
+   "imdbRating": 81,
+   "imdbVoteCount": 420040,
+   "tmdbRating": 80,
+   "backdropPath": "/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/i8aK8cGt5iYfMmUJiAe5AKIqYE5.jpg"
+   },
+   "originalTitle": "Room",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "CA",
+      "IE",
+      "GB",
+      "US"
+   ],
+   "year": 2015,
+   "runtime": 118,
+   "cast": [
+      "Brie Larson",
+      "Jacob Tremblay",
+      "Joan Allen",
+      "William H. Macy",
+      "Sean Bridgers",
+      "Tom McCamus",
+      "Amanda Brugel"
+   ],
+   "significants": [
+      "Lenny Abrahamson"
+   ],
+   "title": "Room",
+   "overview": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+   "tagline": "Love knows no boundaries",
+   "video": "E_Ci-pAL4eE",
+   "posterPath": "/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pCURNjeomWbMSdiP64gj8NVVHTQ.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYr0F2Qb8-baDrQEAAAJ6:type:feature",
+            "added": 1659599627,
+            "leaving": 17224956000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

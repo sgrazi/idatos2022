@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0077416",
+   "tmdbID": "11778",
+   "imdbRating": 81,
+   "imdbVoteCount": 339437,
+   "tmdbRating": 80,
+   "backdropPath": "/pCClmlbgfg4cEmn5aERxHRqhbpw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pCClmlbgfg4cEmn5aERxHRqhbpw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pCClmlbgfg4cEmn5aERxHRqhbpw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pCClmlbgfg4cEmn5aERxHRqhbpw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pCClmlbgfg4cEmn5aERxHRqhbpw.jpg"
+   },
+   "originalTitle": "The Deer Hunter",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1978,
+   "runtime": 183,
+   "cast": [
+      "Robert De Niro",
+      "Christopher Walken",
+      "John Cazale",
+      "John Savage",
+      "Meryl Streep",
+      "George Dzundza",
+      "Rutanya Alda"
+   ],
+   "significants": [
+      "Michael Cimino"
+   ],
+   "title": "The Deer Hunter",
+   "overview": "A group of working-class friends decide to enlist in the Army during the Vietnam War and finds it to be hellish chaos -- not the noble venture they imagined. Before they left, Steven married his pregnant girlfriend -- and Michael and Nick were in love with the same woman. But all three are different men upon their return.",
+   "tagline": "One of the most important and powerful films of all time!",
+   "video": "7gzIo_tui3M",
+   "posterPath": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bbGtogDZOg09bm42KIpCXUXICkh.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/drama/the-deer-hunter/a0dc7511-170c-3088-971d-47bbce0a5189",
+            "added": 1667300735,
+            "leaving": 1669888740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

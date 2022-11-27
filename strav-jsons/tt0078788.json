@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0078788",
+   "tmdbID": "28",
+   "imdbRating": 85,
+   "imdbVoteCount": 665172,
+   "tmdbRating": 82,
+   "backdropPath": "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg"
+   },
+   "originalTitle": "Apocalypse Now",
+   "genres": [
+      18,
+      9648,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1979,
+   "runtime": 147,
+   "cast": [
+      "Martin Sheen",
+      "Marlon Brando",
+      "Robert Duvall",
+      "Frederic Forrest",
+      "Laurence Fishburne",
+      "Albert Hall",
+      "Sam Bottoms"
+   ],
+   "significants": [
+      "Francis Ford Coppola"
+   ],
+   "title": "Apocalypse Now",
+   "overview": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+   "tagline": "This is the end...",
+   "video": "9l-ViOOFH-s",
+   "posterPath": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0082971",
+   "tmdbID": "85",
+   "imdbRating": 84,
+   "imdbVoteCount": 961765,
+   "tmdbRating": 79,
+   "backdropPath": "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg"
+   },
+   "originalTitle": "Raiders of the Lost Ark",
+   "genres": [
+      28,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1981,
+   "runtime": 115,
+   "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman",
+      "John Rhys-Davies",
+      "Ronald Lacey",
+      "Wolf Kahler",
+      "Anthony Higgins"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "Raiders of the Lost Ark",
+   "overview": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+   "tagline": "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
+   "video": "0xQSIdSRlAk",
+   "posterPath": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ceG9VzoRAVGwivFU403Wc3AHRys.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/c2AHD3t22ykRDQgjMAoxNrcvYY2Pg_Q_/",
+            "added": 1664927022,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

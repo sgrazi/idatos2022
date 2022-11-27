@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0378194",
+   "tmdbID": "393",
+   "imdbRating": 80,
+   "imdbVoteCount": 754412,
+   "tmdbRating": 78,
+   "backdropPath": "/70EtzaGfO2d8X5n8SLI4s61KuJh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/70EtzaGfO2d8X5n8SLI4s61KuJh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/70EtzaGfO2d8X5n8SLI4s61KuJh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/70EtzaGfO2d8X5n8SLI4s61KuJh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/70EtzaGfO2d8X5n8SLI4s61KuJh.jpg"
+   },
+   "originalTitle": "Kill Bill: Vol. 2",
+   "genres": [
+      28,
+      80,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 136,
+   "cast": [
+      "Uma Thurman",
+      "David Carradine",
+      "Daryl Hannah",
+      "Michael Madsen",
+      "Gordon Liu Chia-Hui",
+      "Michael Parks",
+      "Perla Haney-Jardine"
+   ],
+   "significants": [
+      "Quentin Tarantino"
+   ],
+   "title": "Kill Bill: Vol. 2",
+   "overview": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+   "tagline": "The bride is back for the final cut.",
+   "video": "WTt8cCIvGYI",
+   "posterPath": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/HpqomuLIZuiK8oUe1ZCMxinOdMb0lo_9/",
+            "added": 1664897597,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3500631/kill-bill-volume-2",
+            "added": 1664894720,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

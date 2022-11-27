@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0114814",
+   "tmdbID": "629",
+   "imdbRating": 85,
+   "imdbVoteCount": 1080801,
+   "tmdbRating": 82,
+   "backdropPath": "/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg"
+   },
+   "originalTitle": "The Usual Suspects",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 106,
+   "cast": [
+      "Gabriel Byrne",
+      "Stephen Baldwin",
+      "Kevin Spacey",
+      "Chazz Palminteri",
+      "Kevin Pollak",
+      "Pete Postlethwaite",
+      "Suzy Amis"
+   ],
+   "significants": [
+      "Bryan Singer"
+   ],
+   "title": "The Usual Suspects",
+   "overview": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+   "tagline": "Five Criminals. One Line Up. No Coincidence.",
+   "video": "z2FNt5nFPY8",
+   "posterPath": "/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0G54I5YVIKGED49EQR1I9T8OW0/",
+            "added": 1638664454,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

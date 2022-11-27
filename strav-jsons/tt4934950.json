@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt4934950",
+   "tmdbID": "353464",
+   "imdbRating": 81,
+   "imdbVoteCount": 35685,
+   "tmdbRating": 74,
+   "backdropPath": "/xvAY4zRP4J74v1ROIOGjtm07oYA.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xvAY4zRP4J74v1ROIOGjtm07oYA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xvAY4zRP4J74v1ROIOGjtm07oYA.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xvAY4zRP4J74v1ROIOGjtm07oYA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xvAY4zRP4J74v1ROIOGjtm07oYA.jpg"
+   },
+   "originalTitle": "तलवार",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2015,
+   "runtime": 132,
+   "cast": [
+      "Irrfan Khan",
+      "Konkona Sen Sharma",
+      "Neeraj Kabi",
+      "Prakash Belawadi",
+      "Sohum Shah",
+      "Sumit Gulati",
+      "Tabu"
+   ],
+   "significants": [
+      "Meghna Gulzar"
+   ],
+   "title": "Talvar",
+   "overview": "A hardened cop deals with three conflicting perspectives involving a brutal double murder. The case is complicated as the prime suspects are the parents who supposedly killed their teenage daughter.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ldwvhHfD8olH6F1nAvAwl7naOK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ldwvhHfD8olH6F1nAvAwl7naOK.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80080618/",
+            "added": 1657967912,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

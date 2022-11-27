@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0114369",
+   "tmdbID": "807",
+   "imdbRating": 86,
+   "imdbVoteCount": 1639365,
+   "tmdbRating": 83,
+   "backdropPath": "/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hkKTtlHjiVUW5XRfkQfl3FmJUfX.jpg"
+   },
+   "originalTitle": "Se7en",
+   "genres": [
+      80,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 127,
+   "cast": [
+      "Brad Pitt",
+      "Morgan Freeman",
+      "Gwyneth Paltrow",
+      "Kevin Spacey",
+      "R. Lee Ermey",
+      "John C. McGinley",
+      "Julie Araskog"
+   ],
+   "significants": [
+      "David Fincher"
+   ],
+   "title": "Se7en",
+   "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+   "tagline": "Seven deadly sins. Seven ways to die.",
+   "video": "SpKbZ_3zlb0",
+   "posterPath": "/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/69Sns8WoET6CfaYlIkHbla4l7nC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/69Sns8WoET6CfaYlIkHbla4l7nC.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX0_KAgpf77CttQEAAAJc:type:feature",
+            "added": 1667459026,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

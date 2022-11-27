@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0091251",
+   "tmdbID": "25237",
+   "imdbRating": 84,
+   "imdbVoteCount": 79761,
+   "tmdbRating": 83,
+   "backdropPath": "/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oIQMt3Q6Qa37YD0JOdYkrIAPYDk.jpg"
+   },
+   "originalTitle": "Иди и смотри",
+   "genres": [
+      18,
+      53,
+      10752
+   ],
+   "countries": [
+      "SU"
+   ],
+   "year": 1985,
+   "runtime": 142,
+   "cast": [
+      "Aleksei Kravchenko",
+      "Olga Mironova",
+      "Liubomiras Laucevicius",
+      "Vladas Bagdonas",
+      "Jüri Lumiste",
+      "Viktors Lorencs",
+      "Kazimir Rabetsky"
+   ],
+   "significants": [
+      "Elem Klimov"
+   ],
+   "title": "Come and See",
+   "overview": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+   "tagline": "",
+   "video": "QHqtBZVUsxo",
+   "posterPath": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qNbMsKVzigERgJUbwf8pKyZogpb.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

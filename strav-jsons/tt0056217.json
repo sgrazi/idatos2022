@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0056217",
+   "tmdbID": "11697",
+   "imdbRating": 81,
+   "imdbVoteCount": 76580,
+   "tmdbRating": 77,
+   "backdropPath": "/afH7n1HMvzHaOkxM3h5XXvErK0j.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/afH7n1HMvzHaOkxM3h5XXvErK0j.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/afH7n1HMvzHaOkxM3h5XXvErK0j.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/afH7n1HMvzHaOkxM3h5XXvErK0j.jpg",
+      "original": "https://image.tmdb.org/t/p/original/afH7n1HMvzHaOkxM3h5XXvErK0j.jpg"
+   },
+   "originalTitle": "The Man Who Shot Liberty Valance",
+   "genres": [
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1962,
+   "runtime": 123,
+   "cast": [
+      "John Wayne",
+      "James Stewart",
+      "Vera Miles",
+      "Lee Marvin",
+      "Edmond O'Brien",
+      "Andy Devine",
+      "Ken Murray"
+   ],
+   "significants": [
+      "John Ford"
+   ],
+   "title": "The Man Who Shot Liberty Valance",
+   "overview": "A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.",
+   "tagline": "Two great stars together for the first time!",
+   "video": "bN0onE09-8c",
+   "posterPath": "/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

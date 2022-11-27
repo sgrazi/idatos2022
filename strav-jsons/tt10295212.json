@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt10295212",
+   "tmdbID": "599925",
+   "imdbRating": 84,
+   "imdbVoteCount": 121245,
+   "tmdbRating": 72,
+   "backdropPath": "/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AguDwIJdqUFEUXlmXyixotE0WnT.jpg"
+   },
+   "originalTitle": "शेरशाह",
+   "genres": [
+      28,
+      1,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2021,
+   "runtime": 135,
+   "cast": [
+      "Sidharth Malhotra",
+      "Kiara Advani",
+      "Shataf Figar",
+      "Shiv Panditt",
+      "Nikitin Dheer",
+      "Raj Arjun",
+      "Abhiroy Singh"
+   ],
+   "significants": [
+      "Vishnuvardhan"
+   ],
+   "title": "Shershaah",
+   "overview": "Inspired by the life of Captain Vikram Batra (PVC), the film celebrates his bravery, valiant spirit and honors his invaluable sacrifice during the Kargil War of 1999, at the age of 24.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0J3P7DO2UHT2IGF8UY24C2I94C/",
+            "added": 1655594540,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

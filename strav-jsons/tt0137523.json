@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0137523",
+   "tmdbID": "550",
+   "imdbRating": 88,
+   "imdbVoteCount": 2105895,
+   "tmdbRating": 84,
+   "backdropPath": "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+   },
+   "originalTitle": "Fight Club",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "DE",
+      "US"
+   ],
+   "year": 1999,
+   "runtime": 139,
+   "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter",
+      "Meat Loaf",
+      "Jared Leto",
+      "Zach Grenier",
+      "Holt McCallany"
+   ],
+   "significants": [
+      "David Fincher"
+   ],
+   "title": "Fight Club",
+   "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+   "tagline": "Mischief. Mayhem. Soap.",
+   "video": "BdJKm16Co6M",
+   "posterPath": "/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+   },
+   "age": 18,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/0ec7a9e6-d59c-4a73-b9d4-0bb336af58f6",
+            "added": 1668149000,
+            "leaving": 1669881540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

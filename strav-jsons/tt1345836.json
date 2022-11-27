@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt1345836",
+   "tmdbID": "49026",
+   "imdbRating": 84,
+   "imdbVoteCount": 1695218,
+   "tmdbRating": 77,
+   "backdropPath": "/Yrpb32j3eMpMVX7ND3TnOkHnbl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/Yrpb32j3eMpMVX7ND3TnOkHnbl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/Yrpb32j3eMpMVX7ND3TnOkHnbl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/Yrpb32j3eMpMVX7ND3TnOkHnbl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/Yrpb32j3eMpMVX7ND3TnOkHnbl.jpg"
+   },
+   "originalTitle": "The Dark Knight Rises",
+   "genres": [
+      28,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2012,
+   "runtime": 165,
+   "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Gary Oldman",
+      "Anne Hathaway",
+      "Tom Hardy",
+      "Marion Cotillard",
+      "Joseph Gordon-Levitt"
+   ],
+   "significants": [
+      "Christopher Nolan"
+   ],
+   "title": "The Dark Knight Rises",
+   "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+   "tagline": "The Legend Ends",
+   "video": "GAjBzu8ggi0",
+   "posterPath": "/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYDQXMgVDW8LDGgEAAAAF:type:feature",
+            "added": 1656898547,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

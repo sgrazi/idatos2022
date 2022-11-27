@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0050783",
+   "tmdbID": "19426",
+   "imdbRating": 81,
+   "imdbVoteCount": 49344,
+   "tmdbRating": 80,
+   "backdropPath": "/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9yepEBnQNcKzWWyHdUiX8Mnqc6U.jpg"
+   },
+   "originalTitle": "Le notti di Cabiria",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IT",
+      "FR"
+   ],
+   "year": 1957,
+   "runtime": 110,
+   "cast": [
+      "Giulietta Masina",
+      "François Périer",
+      "Franca Marzi",
+      "Amedeo Nazzari",
+      "Aldo Silvani",
+      "Dorian Gray",
+      "Ennio Girolami"
+   ],
+   "significants": [
+      "Federico Fellini"
+   ],
+   "title": "Nights of Cabiria",
+   "overview": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+   "tagline": "The story of a betrayed but unquenchable little Roman street-walker.",
+   "video": "nG91owD7UjM",
+   "posterPath": "/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xF4oCG3PLNbcrtPZbqB3BtkIbKg.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

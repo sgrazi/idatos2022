@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt7286456",
+   "tmdbID": "475557",
+   "imdbRating": 84,
+   "imdbVoteCount": 1263689,
+   "tmdbRating": 81,
+   "backdropPath": "/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hO7KbdvGOtDdeg0W4Y5nKEHeDDh.jpg"
+   },
+   "originalTitle": "Joker",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "CA",
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 122,
+   "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz",
+      "Frances Conroy",
+      "Brett Cullen",
+      "Shea Whigham",
+      "Bill Camp"
+   ],
+   "significants": [
+      "Todd Phillips"
+   ],
+   "title": "Joker",
+   "overview": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+   "tagline": "Put on a happy face.",
+   "video": "-RFFRxcoKfA",
+   "posterPath": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYGOrjQfhvKCWowEAAAAE:type:feature",
+            "added": 1655502826,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

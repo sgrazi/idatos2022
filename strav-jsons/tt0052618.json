@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0052618",
+   "tmdbID": "665",
+   "imdbRating": 81,
+   "imdbVoteCount": 239663,
+   "tmdbRating": 78,
+   "backdropPath": "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg"
+   },
+   "originalTitle": "Ben-Hur",
+   "genres": [
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1959,
+   "runtime": 222,
+   "cast": [
+      "Charlton Heston",
+      "Haya Harareet",
+      "Stephen Boyd",
+      "Martha Scott",
+      "Cathy O'Donnell",
+      "Jack Hawkins",
+      "Sam Jaffe"
+   ],
+   "significants": [
+      "William Wyler"
+   ],
+   "title": "Ben-Hur",
+   "overview": "In 25 AD,Judah Ben-Hur, a Jew in ancient Judea, opposes the occupying Roman empire.  Falsely accused by a Roman childhood friend-turned-overlord of trying to kill the Roman governor, he is put into slavery and his mother and sister are taken away as prisoners.  Three years later and freed by a grateful Roman galley commander whom he has rescued from drowning, he becomes an expert charioteer for Rome, all the while plotting to return to Judea, find and rescue his family, and avenge himself on his former friend.  All the while, the form and work of Jesus move in the background of his life...",
+   "tagline": "The entertainment experience of a lifetime.",
+   "video": "NR1ZHKw09n8",
+   "posterPath": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,2842 +1,990 @@
-id,name,streaming_service
+id,name,streaming_services
 tt0095327,Grave of the Fireflies,iTunes
-tt0088846,Brazil,iTunes
-tt0088846,Brazil,Google Play
-tt0088846,Brazil,Amazon Instant Video
-tt1605783,Midnight in Paris,Google Play
-tt1605783,Midnight in Paris,Amazon Instant Video
-tt1605783,Midnight in Paris,iTunes
-tt1605783,Midnight in Paris,Netflix
-tt3315342,Logan,iTunes
-tt3315342,Logan,Amazon Instant Video
-tt3315342,Logan,Disney+
-tt3315342,Logan,Google Play
-tt0058461,A Fistful of Dollars,iTunes
-tt0058461,A Fistful of Dollars,Google Play
-tt0058461,A Fistful of Dollars,Amazon Instant Video
-tt0056869,The Birds,iTunes
-tt0056869,The Birds,Google Play
-tt0056869,The Birds,Amazon Instant Video
-tt0023969,Duck Soup,Google Play
-tt0023969,Duck Soup,iTunes
-tt0023969,Duck Soup,Amazon Instant Video
-tt0107207,In the Name of the Father,Amazon Instant Video
-tt0107207,In the Name of the Father,iTunes
-tt0107207,In the Name of the Father,Google Play
-tt0091763,Platoon,Amazon Prime Video
-tt0091763,Platoon,Google Play
-tt0091763,Platoon,iTunes
-tt0091763,Platoon,Amazon Instant Video
-tt0118799,Life Is Beautiful,iTunes
-tt0118799,Life Is Beautiful,Google Play
-tt0118799,Life Is Beautiful,Amazon Instant Video
+tt0088846,Brazil,"iTunes, Google Play, Amazon Instant Video"
+tt1605783,Midnight in Paris,"Google Play, Amazon Instant Video, iTunes, Netflix"
+tt3315342,Logan,"iTunes, Amazon Instant Video, Disney+, Google Play"
+tt0058461,A Fistful of Dollars,"iTunes, Google Play, Amazon Instant Video"
+tt0056869,The Birds,"iTunes, Google Play, Amazon Instant Video"
+tt0023969,Duck Soup,"Google Play, iTunes, Amazon Instant Video"
+tt0107207,In the Name of the Father,"Amazon Instant Video, iTunes, Google Play"
+tt0091763,Platoon,"Amazon Prime Video, Google Play, iTunes, Amazon Instant Video"
+tt0118799,Life Is Beautiful,"iTunes, Google Play, Amazon Instant Video"
 tt0119472,,
-tt0022913,Freaks,Google Play
-tt0022913,Freaks,iTunes
-tt0022913,Freaks,Amazon Instant Video
-tt0118849,Children of Heaven,Amazon Instant Video
-tt0118849,Children of Heaven,Google Play
-tt0118849,Children of Heaven,iTunes
-tt10370710,The Worst Person in the World,Amazon Instant Video
-tt10370710,The Worst Person in the World,Google Play
-tt10370710,The Worst Person in the World,iTunes
-tt0180093,Requiem for a Dream,Google Play
-tt0180093,Requiem for a Dream,Amazon Instant Video
-tt0180093,Requiem for a Dream,iTunes
-tt0808417,Persepolis,Amazon Instant Video
-tt0808417,Persepolis,Google Play
-tt0808417,Persepolis,iTunes
-tt3322420,Queen,Google Play
-tt3322420,Queen,Amazon Instant Video
-tt3322420,Queen,iTunes
-tt3322420,Queen,Netflix
-tt1408101,Star Trek into Darkness,Google Play
-tt1408101,Star Trek into Darkness,Amazon Prime Video
-tt1408101,Star Trek into Darkness,Amazon Instant Video
-tt1408101,Star Trek into Darkness,iTunes
-tt0190590,"O Brother, Where Art Thou?",iTunes
-tt0190590,"O Brother, Where Art Thou?",Google Play
-tt0190590,"O Brother, Where Art Thou?",Amazon Instant Video
+tt0022913,Freaks,"Google Play, iTunes, Amazon Instant Video"
+tt0118849,Children of Heaven,"Amazon Instant Video, Google Play, iTunes"
+tt10370710,The Worst Person in the World,"Amazon Instant Video, Google Play, iTunes"
+tt0180093,Requiem for a Dream,"Google Play, Amazon Instant Video, iTunes"
+tt0808417,Persepolis,"Amazon Instant Video, Google Play, iTunes"
+tt3322420,Queen,"Google Play, Amazon Instant Video, iTunes, Netflix"
+tt1408101,Star Trek into Darkness,"Google Play, Amazon Prime Video, Amazon Instant Video, iTunes"
+tt0190590,"O Brother, Where Art Thou?","iTunes, Google Play, Amazon Instant Video"
 tt15097216,Jai Bhim,Amazon Prime Video
-tt1853728,Django Unchained,iTunes
-tt1853728,Django Unchained,Google Play
-tt1853728,Django Unchained,Amazon Instant Video
-tt0265086,Black Hawk Down,iTunes
-tt0265086,Black Hawk Down,Google Play
-tt0265086,Black Hawk Down,Amazon Instant Video
+tt1853728,Django Unchained,"iTunes, Google Play, Amazon Instant Video"
+tt0265086,Black Hawk Down,"iTunes, Google Play, Amazon Instant Video"
 tt0053779,,
-tt0018455,Sunrise: A Song of Two Humans,Google Play
-tt0018455,Sunrise: A Song of Two Humans,iTunes
-tt0018455,Sunrise: A Song of Two Humans,Amazon Instant Video
-tt0468569,The Dark Knight,Google Play
-tt0468569,The Dark Knight,iTunes
-tt0468569,The Dark Knight,Amazon Instant Video
-tt0468569,The Dark Knight,Netflix
-tt1093370,Jab We Met,Netflix
-tt1093370,Jab We Met,Google Play
-tt0044706,High Noon,iTunes
-tt0044706,High Noon,Google Play
-tt0044706,High Noon,Amazon Instant Video
-tt0790636,Dallas Buyers Club,Amazon Instant Video
-tt0790636,Dallas Buyers Club,Google Play
-tt0790636,Dallas Buyers Club,iTunes
-tt0037382,To Have and Have Not,Amazon Instant Video
-tt0037382,To Have and Have Not,Google Play
-tt0037382,To Have and Have Not,iTunes
+tt0018455,Sunrise: A Song of Two Humans,"Google Play, iTunes, Amazon Instant Video"
+tt0468569,The Dark Knight,"Google Play, iTunes, Amazon Instant Video, Netflix"
+tt1093370,Jab We Met,"Netflix, Google Play"
+tt0044706,High Noon,"iTunes, Google Play, Amazon Instant Video"
+tt0790636,Dallas Buyers Club,"Amazon Instant Video, Google Play, iTunes"
+tt0037382,To Have and Have Not,"Amazon Instant Video, Google Play, iTunes"
 tt7838252,K.G.F,Amazon Prime Video
-tt1235166,A Prophet,Google Play
-tt1235166,A Prophet,Amazon Instant Video
-tt1235166,A Prophet,iTunes
-tt11032374,Demon Slayer the Movie: Mugen Train,Amazon Instant Video
-tt11032374,Demon Slayer the Movie: Mugen Train,Google Play
-tt11032374,Demon Slayer the Movie: Mugen Train,iTunes
-tt7979580,The Mitchells vs the Machines,iTunes
-tt7979580,The Mitchells vs the Machines,Google Play
-tt7979580,The Mitchells vs the Machines,Amazon Instant Video
-tt7979580,The Mitchells vs the Machines,Netflix
-tt0039689,Out of the Past,Amazon Instant Video
-tt0039689,Out of the Past,Google Play
-tt0039689,Out of the Past,iTunes
-tt0092067,Castle in the Sky,Amazon Instant Video
-tt0092067,Castle in the Sky,Google Play
-tt0092067,Castle in the Sky,iTunes
-tt0092067,Castle in the Sky,Netflix
+tt1235166,A Prophet,"Google Play, Amazon Instant Video, iTunes"
+tt11032374,Demon Slayer the Movie: Mugen Train,"Amazon Instant Video, Google Play, iTunes"
+tt7979580,The Mitchells vs the Machines,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0039689,Out of the Past,"Amazon Instant Video, Google Play, iTunes"
+tt0092067,Castle in the Sky,"Amazon Instant Video, Google Play, iTunes, Netflix"
 tt0088939,,
-tt0061809,In Cold Blood,Amazon Instant Video
-tt0061809,In Cold Blood,iTunes
-tt0061809,In Cold Blood,Google Play
-tt0032138,The Wizard of Oz,Google Play
-tt0032138,The Wizard of Oz,Amazon Instant Video
-tt0032138,The Wizard of Oz,iTunes
+tt0061809,In Cold Blood,"Amazon Instant Video, iTunes, Google Play"
+tt0032138,The Wizard of Oz,"Google Play, Amazon Instant Video, iTunes"
 tt8291224,,
 tt0094625,,
-tt0425210,Lucky Number Slevin,Amazon Instant Video
-tt0425210,Lucky Number Slevin,Google Play
-tt0425210,Lucky Number Slevin,iTunes
-tt0425210,Lucky Number Slevin,Amazon Prime Video
-tt0389557,Black Book,Amazon Instant Video
-tt0389557,Black Book,Google Play
-tt0389557,Black Book,iTunes
-tt0045793,From Here to Eternity,iTunes
-tt0045793,From Here to Eternity,Google Play
-tt0045793,From Here to Eternity,Amazon Instant Video
-tt0125659,Open Your Eyes,Amazon Instant Video
-tt0125659,Open Your Eyes,Google Play
-tt0125659,Open Your Eyes,iTunes
-tt1856101,Blade Runner 2049,Netflix
-tt1856101,Blade Runner 2049,Google Play
-tt1856101,Blade Runner 2049,Amazon Instant Video
-tt1856101,Blade Runner 2049,iTunes
-tt1877830,The Batman,Amazon Instant Video
-tt1877830,The Batman,Google Play
-tt1877830,The Batman,iTunes
-tt4846340,Hidden Figures,iTunes
-tt4846340,Hidden Figures,Google Play
-tt4846340,Hidden Figures,Amazon Instant Video
-tt4846340,Hidden Figures,Disney+
-tt0096874,Back to the Future Part II,iTunes
-tt0096874,Back to the Future Part II,Google Play
-tt0096874,Back to the Future Part II,Amazon Instant Video
+tt0425210,Lucky Number Slevin,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt0389557,Black Book,"Amazon Instant Video, Google Play, iTunes"
+tt0045793,From Here to Eternity,"iTunes, Google Play, Amazon Instant Video"
+tt0125659,Open Your Eyes,"Amazon Instant Video, Google Play, iTunes"
+tt1856101,Blade Runner 2049,"Netflix, Google Play, Amazon Instant Video, iTunes"
+tt1877830,The Batman,"Amazon Instant Video, Google Play, iTunes"
+tt4846340,Hidden Figures,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0096874,Back to the Future Part II,"iTunes, Google Play, Amazon Instant Video"
 tt10698680,K.G.F: Chapter 2,Amazon Prime Video
-tt0248845,Hedwig and the Angry Inch,Amazon Instant Video
-tt0248845,Hedwig and the Angry Inch,Google Play
-tt0248845,Hedwig and the Angry Inch,iTunes
+tt0248845,Hedwig and the Angry Inch,"Amazon Instant Video, Google Play, iTunes"
 tt0104684,,
-tt4468740,Paddington 2,Amazon Instant Video
-tt4468740,Paddington 2,Google Play
-tt4468740,Paddington 2,iTunes
-tt0117381,Primal Fear,Amazon Instant Video
-tt0117381,Primal Fear,Amazon Prime Video
-tt0117381,Primal Fear,iTunes
-tt0117381,Primal Fear,Google Play
-tt2265171,The Raid 2,iTunes
-tt2265171,The Raid 2,Google Play
-tt2265171,The Raid 2,Amazon Instant Video
-tt0056687,What Ever Happened to Baby Jane?,Amazon Instant Video
-tt0056687,What Ever Happened to Baby Jane?,Google Play
-tt0056687,What Ever Happened to Baby Jane?,iTunes
-tt0120363,Toy Story 2,Disney+
-tt0120363,Toy Story 2,Amazon Instant Video
-tt0120363,Toy Story 2,Google Play
-tt0120363,Toy Story 2,iTunes
-tt0062622,2001: A Space Odyssey,Amazon Instant Video
-tt0062622,2001: A Space Odyssey,iTunes
-tt0062622,2001: A Space Odyssey,Google Play
-tt0099685,Goodfellas,Amazon Instant Video
-tt0099685,Goodfellas,Google Play
-tt0099685,Goodfellas,iTunes
-tt0099685,Goodfellas,Netflix
-tt0358273,Walk the Line,iTunes
-tt0358273,Walk the Line,Google Play
-tt0358273,Walk the Line,Amazon Instant Video
-tt0110413,Leon,iTunes
-tt0110413,Leon,Google Play
-tt0110413,Leon,Amazon Prime Video
-tt0110413,Leon,Amazon Instant Video
-tt0110413,Leon,Netflix
+tt4468740,Paddington 2,"Amazon Instant Video, Google Play, iTunes"
+tt0117381,Primal Fear,"Amazon Instant Video, Amazon Prime Video, iTunes, Google Play"
+tt2265171,The Raid 2,"iTunes, Google Play, Amazon Instant Video"
+tt0056687,What Ever Happened to Baby Jane?,"Amazon Instant Video, Google Play, iTunes"
+tt0120363,Toy Story 2,"Disney+, Amazon Instant Video, Google Play, iTunes"
+tt0062622,2001: A Space Odyssey,"Amazon Instant Video, iTunes, Google Play"
+tt0099685,Goodfellas,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0358273,Walk the Line,"iTunes, Google Play, Amazon Instant Video"
+tt0110413,Leon,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video, Netflix"
 tt0250258,,
-tt0056111,Ivan's Childhood,Google Play
-tt0056111,Ivan's Childhood,iTunes
-tt0056111,Ivan's Childhood,Amazon Instant Video
-tt0253474,The Pianist,Amazon Instant Video
-tt0253474,The Pianist,Google Play
-tt0253474,The Pianist,iTunes
-tt0031885,The Rules of the Game,Amazon Instant Video
-tt0031885,The Rules of the Game,Google Play
-tt0031885,The Rules of the Game,iTunes
-tt0038348,Beauty and the Beast,Amazon Instant Video
-tt0038348,Beauty and the Beast,iTunes
-tt1562872,Zindagi Na Milegi Dobara,Netflix
-tt1562872,Zindagi Na Milegi Dobara,iTunes
-tt0053221,Rio Bravo,iTunes
-tt0053221,Rio Bravo,Google Play
-tt0053221,Rio Bravo,Amazon Instant Video
-tt8267604,Capernaum,Google Play
-tt8267604,Capernaum,Amazon Instant Video
-tt8267604,Capernaum,iTunes
-tt2317337,Vicky Donor,Google Play
-tt2317337,Vicky Donor,iTunes
-tt0105236,Reservoir Dogs,iTunes
-tt0105236,Reservoir Dogs,Google Play
-tt0105236,Reservoir Dogs,Amazon Instant Video
-tt0169547,American Beauty,Google Play
-tt0169547,American Beauty,Netflix
-tt0169547,American Beauty,iTunes
-tt0169547,American Beauty,Amazon Prime Video
-tt0169547,American Beauty,Amazon Instant Video
-tt1270798,X-Men: First Class,iTunes
-tt1270798,X-Men: First Class,Disney+
-tt1270798,X-Men: First Class,Amazon Instant Video
-tt1270798,X-Men: First Class,Google Play
-tt0120601,Being John Malkovich,iTunes
-tt0120601,Being John Malkovich,Google Play
-tt0120601,Being John Malkovich,Amazon Instant Video
-tt0085794,The King of Comedy,Amazon Instant Video
-tt0085794,The King of Comedy,iTunes
-tt0289879,The Butterfly Effect,Amazon Instant Video
-tt0289879,The Butterfly Effect,Google Play
-tt0289879,The Butterfly Effect,iTunes
-tt0040724,Red River,iTunes
-tt0040724,Red River,Google Play
-tt0040724,Red River,Amazon Instant Video
+tt0056111,Ivan's Childhood,"Google Play, iTunes, Amazon Instant Video"
+tt0253474,The Pianist,"Amazon Instant Video, Google Play, iTunes"
+tt0031885,The Rules of the Game,"Amazon Instant Video, Google Play, iTunes"
+tt0038348,Beauty and the Beast,"Amazon Instant Video, iTunes"
+tt1562872,Zindagi Na Milegi Dobara,"Netflix, iTunes"
+tt0053221,Rio Bravo,"iTunes, Google Play, Amazon Instant Video"
+tt8267604,Capernaum,"Google Play, Amazon Instant Video, iTunes"
+tt2317337,Vicky Donor,"Google Play, iTunes"
+tt0105236,Reservoir Dogs,"iTunes, Google Play, Amazon Instant Video"
+tt0169547,American Beauty,"Google Play, Netflix, iTunes, Amazon Prime Video, Amazon Instant Video"
+tt1270798,X-Men: First Class,"iTunes, Disney+, Amazon Instant Video, Google Play"
+tt0120601,Being John Malkovich,"iTunes, Google Play, Amazon Instant Video"
+tt0085794,The King of Comedy,"Amazon Instant Video, iTunes"
+tt0289879,The Butterfly Effect,"Amazon Instant Video, Google Play, iTunes"
+tt0040724,Red River,"iTunes, Google Play, Amazon Instant Video"
 tt0118845,,
 tt5074352,Dangal,Netflix
-tt1074638,Skyfall,iTunes
-tt1074638,Skyfall,Google Play
-tt1074638,Skyfall,Amazon Prime Video
-tt1074638,Skyfall,Amazon Instant Video
-tt1074638,Skyfall,Netflix
+tt1074638,Skyfall,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video, Netflix"
 tt1590089,,
-tt0056218,The Manchurian Candidate,Amazon Instant Video
-tt0056218,The Manchurian Candidate,iTunes
-tt0061184,Who's Afraid of Virginia Woolf?,iTunes
-tt0061184,Who's Afraid of Virginia Woolf?,Google Play
-tt0061184,Who's Afraid of Virginia Woolf?,Amazon Instant Video
-tt0347149,Howl's Moving Castle,Google Play
-tt0347149,Howl's Moving Castle,Netflix
-tt0347149,Howl's Moving Castle,iTunes
-tt0347149,Howl's Moving Castle,Amazon Instant Video
+tt0056218,The Manchurian Candidate,"Amazon Instant Video, iTunes"
+tt0061184,Who's Afraid of Virginia Woolf?,"iTunes, Google Play, Amazon Instant Video"
+tt0347149,Howl's Moving Castle,"Google Play, Netflix, iTunes, Amazon Instant Video"
 tt6155172,Roma,Netflix
 tt9179430,,
-tt0120586,American History X,iTunes
-tt0120586,American History X,Google Play
-tt0120586,American History X,Amazon Instant Video
+tt0120586,American History X,"iTunes, Google Play, Amazon Instant Video"
 tt8239946,Tumbbad,Amazon Prime Video
-tt0081283,Ordinary People,iTunes
-tt0081283,Ordinary People,Google Play
-tt0081283,Ordinary People,Amazon Instant Video
-tt2103281,Dawn of the Planet of the Apes,iTunes
-tt2103281,Dawn of the Planet of the Apes,Google Play
-tt2103281,Dawn of the Planet of the Apes,Amazon Instant Video
-tt0167261,The Lord of the Rings: The Two Towers,iTunes
-tt0167261,The Lord of the Rings: The Two Towers,Google Play
-tt0167261,The Lord of the Rings: The Two Towers,Amazon Prime Video
-tt0167261,The Lord of the Rings: The Two Towers,Amazon Instant Video
-tt0077416,The Deer Hunter,iTunes
-tt0077416,The Deer Hunter,Google Play
-tt0077416,The Deer Hunter,Amazon Instant Video
-tt3896198,Guardians of the Galaxy: Vol. 2,Amazon Instant Video
-tt3896198,Guardians of the Galaxy: Vol. 2,iTunes
-tt3896198,Guardians of the Galaxy: Vol. 2,Google Play
-tt3896198,Guardians of the Galaxy: Vol. 2,Disney+
-tt0082694,Mad Max 2,Amazon Instant Video
-tt0082694,Mad Max 2,iTunes
-tt0082694,Mad Max 2,Google Play
-tt0060107,Andrei Rublev,iTunes
-tt0060107,Andrei Rublev,Amazon Instant Video
-tt0088763,Back to the Future,Amazon Instant Video
-tt0088763,Back to the Future,Google Play
-tt0088763,Back to the Future,iTunes
-tt5571734,Pink,Google Play
-tt5571734,Pink,iTunes
-tt5571734,Pink,Amazon Instant Video
-tt0287467,Talk to Her,iTunes
-tt0287467,Talk to Her,Amazon Instant Video
-tt0287467,Talk to Her,Google Play
-tt0104348,Glengarry Glen Ross,Amazon Instant Video
-tt0104348,Glengarry Glen Ross,Google Play
-tt0104348,Glengarry Glen Ross,iTunes
-tt0080979,Kagemusha,iTunes
-tt0080979,Kagemusha,Google Play
-tt0080979,Kagemusha,Amazon Instant Video
-tt0048545,Rebel Without a Cause,Amazon Instant Video
-tt0048545,Rebel Without a Cause,iTunes
-tt0048545,Rebel Without a Cause,Google Play
-tt0116477,Hamlet,Amazon Instant Video
-tt0116477,Hamlet,iTunes
-tt0116477,Hamlet,Google Play
-tt3076658,Creed,Amazon Instant Video
-tt3076658,Creed,iTunes
-tt3076658,Creed,Google Play
-tt1490017,The Lego Movie,Amazon Instant Video
-tt1490017,The Lego Movie,Google Play
-tt1490017,The Lego Movie,iTunes
-tt0140352,The Insider,iTunes
-tt0140352,The Insider,Google Play
-tt0140352,The Insider,Amazon Instant Video
-tt0140352,The Insider,Amazon Prime Video
-tt0097814,Kiki's Delivery Service,Amazon Instant Video
-tt0097814,Kiki's Delivery Service,Google Play
-tt0097814,Kiki's Delivery Service,iTunes
-tt0304141,Harry Potter and the Prisoner of Azkaban,iTunes
-tt0304141,Harry Potter and the Prisoner of Azkaban,Amazon Instant Video
-tt0304141,Harry Potter and the Prisoner of Azkaban,Google Play
-tt0061852,The Jungle Book,iTunes
-tt0061852,The Jungle Book,Google Play
-tt0061852,The Jungle Book,Amazon Instant Video
-tt0061852,The Jungle Book,Disney+
-tt0450259,Blood Diamond,Amazon Instant Video
-tt0450259,Blood Diamond,Google Play
-tt0450259,Blood Diamond,iTunes
-tt0450259,Blood Diamond,Netflix
-tt0073707,Sholay,Amazon Instant Video
-tt0073707,Sholay,Google Play
-tt0073707,Sholay,iTunes
+tt0081283,Ordinary People,"iTunes, Google Play, Amazon Instant Video"
+tt2103281,Dawn of the Planet of the Apes,"iTunes, Google Play, Amazon Instant Video"
+tt0167261,The Lord of the Rings: The Two Towers,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0077416,The Deer Hunter,"iTunes, Google Play, Amazon Instant Video"
+tt3896198,Guardians of the Galaxy: Vol. 2,"Amazon Instant Video, iTunes, Google Play, Disney+"
+tt0082694,Mad Max 2,"Amazon Instant Video, iTunes, Google Play"
+tt0060107,Andrei Rublev,"iTunes, Amazon Instant Video"
+tt0088763,Back to the Future,"Amazon Instant Video, Google Play, iTunes"
+tt5571734,Pink,"Google Play, iTunes, Amazon Instant Video"
+tt0287467,Talk to Her,"iTunes, Amazon Instant Video, Google Play"
+tt0104348,Glengarry Glen Ross,"Amazon Instant Video, Google Play, iTunes"
+tt0080979,Kagemusha,"iTunes, Google Play, Amazon Instant Video"
+tt0048545,Rebel Without a Cause,"Amazon Instant Video, iTunes, Google Play"
+tt0116477,Hamlet,"Amazon Instant Video, iTunes, Google Play"
+tt3076658,Creed,"Amazon Instant Video, iTunes, Google Play"
+tt1490017,The Lego Movie,"Amazon Instant Video, Google Play, iTunes"
+tt0140352,The Insider,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
+tt0097814,Kiki's Delivery Service,"Amazon Instant Video, Google Play, iTunes"
+tt0304141,Harry Potter and the Prisoner of Azkaban,"iTunes, Amazon Instant Video, Google Play"
+tt0061852,The Jungle Book,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0450259,Blood Diamond,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0073707,Sholay,"Amazon Instant Video, Google Play, iTunes"
 tt0087843,Once Upon a Time in America,Netflix
-tt2096673,Inside Out,Amazon Instant Video
-tt2096673,Inside Out,Disney+
-tt2096673,Inside Out,Google Play
-tt2096673,Inside Out,iTunes
-tt0068327,Cabaret,iTunes
-tt0068327,Cabaret,Google Play
-tt0068327,Cabaret,Amazon Instant Video
-tt0102926,The Silence of the Lambs,Amazon Instant Video
-tt0102926,The Silence of the Lambs,iTunes
-tt0102926,The Silence of the Lambs,Google Play
-tt0102926,The Silence of the Lambs,Amazon Prime Video
-tt0073341,The Man Who Would Be King,Amazon Instant Video
-tt0073341,The Man Who Would Be King,Google Play
-tt0073341,The Man Who Would Be King,iTunes
-tt0861739,Elite Squad,iTunes
-tt0861739,Elite Squad,Amazon Instant Video
-tt0861739,Elite Squad,Google Play
-tt0120338,Titanic,Amazon Instant Video
-tt0120338,Titanic,Google Play
-tt0120338,Titanic,iTunes
-tt0062229,Le Samurai,Amazon Instant Video
-tt0062229,Le Samurai,iTunes
-tt0062229,Le Samurai,Google Play
-tt0092991,Evil Dead II,Google Play
-tt0092991,Evil Dead II,Amazon Instant Video
-tt0092991,Evil Dead II,iTunes
-tt1280558,A Wednesday,iTunes
-tt1280558,A Wednesday,Netflix
-tt0307901,25th Hour,iTunes
-tt0307901,25th Hour,Google Play
-tt0307901,25th Hour,Amazon Instant Video
-tt0395169,Hotel Rawanda,Amazon Instant Video
-tt0395169,Hotel Rawanda,Google Play
-tt0395169,Hotel Rawanda,iTunes
-tt0056058,Harakiri,Amazon Instant Video
-tt0056058,Harakiri,iTunes
-tt0073195,Jaws,Amazon Instant Video
-tt0073195,Jaws,Google Play
-tt0073195,Jaws,iTunes
-tt0073195,Jaws,Netflix
-tt0073195,Jaws,Amazon Prime Video
-tt1865505,Song of the Sea,Google Play
-tt1865505,Song of the Sea,Amazon Instant Video
-tt1865505,Song of the Sea,iTunes
-tt2948356,Zootropolis,Amazon Instant Video
-tt2948356,Zootropolis,Disney+
-tt2948356,Zootropolis,iTunes
-tt2948356,Zootropolis,Google Play
+tt2096673,Inside Out,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0068327,Cabaret,"iTunes, Google Play, Amazon Instant Video"
+tt0102926,The Silence of the Lambs,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
+tt0073341,The Man Who Would Be King,"Amazon Instant Video, Google Play, iTunes"
+tt0861739,Elite Squad,"iTunes, Amazon Instant Video, Google Play"
+tt0120338,Titanic,"Amazon Instant Video, Google Play, iTunes"
+tt0062229,Le Samurai,"Amazon Instant Video, iTunes, Google Play"
+tt0092991,Evil Dead II,"Google Play, Amazon Instant Video, iTunes"
+tt1280558,A Wednesday,"iTunes, Netflix"
+tt0307901,25th Hour,"iTunes, Google Play, Amazon Instant Video"
+tt0395169,Hotel Rawanda,"Amazon Instant Video, Google Play, iTunes"
+tt0056058,Harakiri,"Amazon Instant Video, iTunes"
+tt0073195,Jaws,"Amazon Instant Video, Google Play, iTunes, Netflix, Amazon Prime Video"
+tt1865505,Song of the Sea,"Google Play, Amazon Instant Video, iTunes"
+tt2948356,Zootropolis,"Amazon Instant Video, Disney+, iTunes, Google Play"
 tt1365050,Beasts of No Nation,Netflix
-tt0067093,Fiddler on the Roof,Amazon Instant Video
-tt0067093,Fiddler on the Roof,iTunes
-tt0067093,Fiddler on the Roof,Google Play
-tt0096438,Who Framed Roger Rabbit,Google Play
-tt0096438,Who Framed Roger Rabbit,Disney+
-tt0096438,Who Framed Roger Rabbit,Amazon Instant Video
-tt0096438,Who Framed Roger Rabbit,iTunes
-tt0096438,Who Framed Roger Rabbit,Amazon Prime Video
-tt1392190,Mad Max: Fury Road,iTunes
-tt1392190,Mad Max: Fury Road,Google Play
-tt1392190,Mad Max: Fury Road,Amazon Instant Video
+tt0067093,Fiddler on the Roof,"Amazon Instant Video, iTunes, Google Play"
+tt0096438,Who Framed Roger Rabbit,"Google Play, Disney+, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt1392190,Mad Max: Fury Road,"iTunes, Google Play, Amazon Instant Video"
 tt9263550,Rocketry: The Nambi Effect,Amazon Prime Video
-tt0038650,It's a Wonderful Life,Amazon Prime Video
-tt0038650,It's a Wonderful Life,Amazon Instant Video
-tt0038650,It's a Wonderful Life,Google Play
-tt0038650,It's a Wonderful Life,iTunes
+tt0038650,It's a Wonderful Life,"Amazon Prime Video, Amazon Instant Video, Google Play, iTunes"
 tt0072443,,
-tt2278871,Blue Is the Warmest Colour,Amazon Instant Video
-tt2278871,Blue Is the Warmest Colour,iTunes
-tt0780504,Drive,Amazon Instant Video
-tt0780504,Drive,Google Play
-tt0780504,Drive,iTunes
-tt2872718,Nightcrawler,Amazon Instant Video
-tt2872718,Nightcrawler,Google Play
-tt2872718,Nightcrawler,iTunes
-tt2872718,Nightcrawler,Netflix
-tt0053125,North by Northwest,iTunes
-tt0053125,North by Northwest,Google Play
-tt0053125,North by Northwest,Amazon Instant Video
-tt0209144,Memento,Amazon Instant Video
-tt0209144,Memento,Google Play
-tt0209144,Memento,iTunes
-tt0086879,Amadeus,iTunes
-tt0086879,Amadeus,Google Play
-tt0086879,Amadeus,Amazon Instant Video
-tt6966692,Green Book,iTunes
-tt6966692,Green Book,Google Play
-tt6966692,Green Book,Amazon Instant Video
-tt0037008,Laura,iTunes
-tt0037008,Laura,Google Play
-tt0037008,Laura,Amazon Instant Video
-tt0470752,Ex Machina,Amazon Instant Video
-tt0470752,Ex Machina,Google Play
-tt0470752,Ex Machina,iTunes
-tt0452623,Gone Baby Gone,Google Play
-tt0452623,Gone Baby Gone,Amazon Instant Video
-tt0452623,Gone Baby Gone,iTunes
-tt0101921,Fried Green Tomatoes at the Cafe,iTunes
-tt0101921,Fried Green Tomatoes at the Cafe,Google Play
-tt0101921,Fried Green Tomatoes at the Cafe,Amazon Instant Video
-tt2582782,Hell or High Water,Amazon Instant Video
-tt2582782,Hell or High Water,Netflix
-tt2582782,Hell or High Water,Google Play
-tt2582782,Hell or High Water,iTunes
+tt2278871,Blue Is the Warmest Colour,"Amazon Instant Video, iTunes"
+tt0780504,Drive,"Amazon Instant Video, Google Play, iTunes"
+tt2872718,Nightcrawler,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0053125,North by Northwest,"iTunes, Google Play, Amazon Instant Video"
+tt0209144,Memento,"Amazon Instant Video, Google Play, iTunes"
+tt0086879,Amadeus,"iTunes, Google Play, Amazon Instant Video"
+tt6966692,Green Book,"iTunes, Google Play, Amazon Instant Video"
+tt0037008,Laura,"iTunes, Google Play, Amazon Instant Video"
+tt0470752,Ex Machina,"Amazon Instant Video, Google Play, iTunes"
+tt0452623,Gone Baby Gone,"Google Play, Amazon Instant Video, iTunes"
+tt0101921,Fried Green Tomatoes at the Cafe,"iTunes, Google Play, Amazon Instant Video"
+tt2582782,Hell or High Water,"Amazon Instant Video, Netflix, Google Play, iTunes"
 tt2356180,,
-tt2084970,The Imitation Game,Amazon Instant Video
-tt2084970,The Imitation Game,iTunes
-tt2084970,The Imitation Game,Google Play
-tt2084970,The Imitation Game,Netflix
-tt6751668,Parasite,iTunes
-tt6751668,Parasite,Google Play
-tt6751668,Parasite,Amazon Instant Video
-tt0083944,First Blood,iTunes
-tt0083944,First Blood,Google Play
-tt0083944,First Blood,Amazon Instant Video
-tt0080684,Star Wars: Episode V - The Empire Strikes Back,iTunes
-tt0080684,Star Wars: Episode V - The Empire Strikes Back,Google Play
-tt0080684,Star Wars: Episode V - The Empire Strikes Back,Amazon Instant Video
-tt0080684,Star Wars: Episode V - The Empire Strikes Back,Disney+
-tt0914798,The Boy in the Striped Pyjamas,iTunes
-tt0914798,The Boy in the Striped Pyjamas,Google Play
-tt0914798,The Boy in the Striped Pyjamas,Amazon Instant Video
-tt0109445,Clerks,iTunes
-tt0109445,Clerks,Google Play
-tt0109445,Clerks,Amazon Instant Video
-tt0109445,Clerks,AppleTV+
-tt0848228,Avengers Assemble,Disney+
-tt0848228,Avengers Assemble,Google Play
-tt0848228,Avengers Assemble,iTunes
-tt0848228,Avengers Assemble,Amazon Instant Video
-tt0071853,Monty Python's The Holy Grail,Netflix
-tt0071853,Monty Python's The Holy Grail,Amazon Instant Video
-tt0071853,Monty Python's The Holy Grail,Google Play
-tt0071853,Monty Python's The Holy Grail,iTunes
-tt4857264,The Invisible Guest,iTunes
-tt4857264,The Invisible Guest,Google Play
-tt4857264,The Invisible Guest,Amazon Instant Video
-tt4857264,The Invisible Guest,Netflix
-tt0374887,Munna Bhai M.B.B.S.,Amazon Instant Video
-tt0374887,Munna Bhai M.B.B.S.,Google Play
-tt0374887,Munna Bhai M.B.B.S.,iTunes
+tt2084970,The Imitation Game,"Amazon Instant Video, iTunes, Google Play, Netflix"
+tt6751668,Parasite,"iTunes, Google Play, Amazon Instant Video"
+tt0083944,First Blood,"iTunes, Google Play, Amazon Instant Video"
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0914798,The Boy in the Striped Pyjamas,"iTunes, Google Play, Amazon Instant Video"
+tt0109445,Clerks,"iTunes, Google Play, Amazon Instant Video, AppleTV+"
+tt0848228,Avengers Assemble,"Disney+, Google Play, iTunes, Amazon Instant Video"
+tt0071853,Monty Python's The Holy Grail,"Netflix, Amazon Instant Video, Google Play, iTunes"
+tt4857264,The Invisible Guest,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0374887,Munna Bhai M.B.B.S.,"Amazon Instant Video, Google Play, iTunes"
 tt0247586,,
-tt0162222,Cast Away,Amazon Instant Video
-tt0162222,Cast Away,Google Play
-tt0162222,Cast Away,iTunes
-tt0162222,Cast Away,Amazon Prime Video
-tt9071322,Dark Waters,iTunes
-tt9071322,Dark Waters,Google Play
-tt9071322,Dark Waters,Amazon Instant Video
+tt0162222,Cast Away,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt9071322,Dark Waters,"iTunes, Google Play, Amazon Instant Video"
 tt0116231,,
-tt1049413,Up,iTunes
-tt1049413,Up,Amazon Instant Video
-tt1049413,Up,Disney+
-tt1049413,Up,Google Play
-tt0206634,Children of Men,iTunes
-tt0206634,Children of Men,Amazon Instant Video
-tt0206634,Children of Men,Google Play
-tt0206634,Children of Men,Amazon Prime Video
-tt0083987,Gandhi,Amazon Instant Video
-tt0083987,Gandhi,iTunes
-tt0083987,Gandhi,Google Play
-tt0068473,Deliverance,iTunes
-tt0068473,Deliverance,Amazon Instant Video
-tt0068473,Deliverance,Netflix
-tt0068473,Deliverance,Google Play
-tt0099348,Dances with Wolves,Google Play
-tt0099348,Dances with Wolves,Amazon Instant Video
-tt0099348,Dances with Wolves,iTunes
-tt0167260,The Lord of the Rings: The Return of the King,iTunes
-tt0167260,The Lord of the Rings: The Return of the King,Google Play
-tt0167260,The Lord of the Rings: The Return of the King,Amazon Prime Video
-tt0167260,The Lord of the Rings: The Return of the King,Amazon Instant Video
-tt3521164,Moana,Amazon Instant Video
-tt3521164,Moana,iTunes
-tt3521164,Moana,Google Play
-tt3521164,Moana,Disney+
-tt2576852,The Tale of the Princess Kaguya,Google Play
-tt2576852,The Tale of the Princess Kaguya,Amazon Instant Video
-tt2576852,The Tale of the Princess Kaguya,iTunes
-tt0103064,Terminator 2: Judgment Day,Google Play
-tt0103064,Terminator 2: Judgment Day,Amazon Instant Video
-tt0103064,Terminator 2: Judgment Day,iTunes
-tt0103064,Terminator 2: Judgment Day,Netflix
-tt0066206,Patton,iTunes
-tt0066206,Patton,Google Play
-tt0066206,Patton,Amazon Instant Video
-tt1305806,The Secret in Their Eyes,iTunes
-tt1305806,The Secret in Their Eyes,Google Play
-tt1305806,The Secret in Their Eyes,Amazon Instant Video
-tt0100998,Dreams,Amazon Instant Video
-tt0100998,Dreams,iTunes
-tt0100998,Dreams,Google Play
+tt1049413,Up,"iTunes, Amazon Instant Video, Disney+, Google Play"
+tt0206634,Children of Men,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0083987,Gandhi,"Amazon Instant Video, iTunes, Google Play"
+tt0068473,Deliverance,"iTunes, Amazon Instant Video, Netflix, Google Play"
+tt0099348,Dances with Wolves,"Google Play, Amazon Instant Video, iTunes"
+tt0167260,The Lord of the Rings: The Return of the King,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt3521164,Moana,"Amazon Instant Video, iTunes, Google Play, Disney+"
+tt2576852,The Tale of the Princess Kaguya,"Google Play, Amazon Instant Video, iTunes"
+tt0103064,Terminator 2: Judgment Day,"Google Play, Amazon Instant Video, iTunes, Netflix"
+tt0066206,Patton,"iTunes, Google Play, Amazon Instant Video"
+tt1305806,The Secret in Their Eyes,"iTunes, Google Play, Amazon Instant Video"
+tt0100998,Dreams,"Amazon Instant Video, iTunes, Google Play"
 tt8178634,RRR,Netflix
-tt7286456,Joker,Amazon Instant Video
-tt7286456,Joker,Google Play
-tt7286456,Joker,iTunes
+tt7286456,Joker,"Amazon Instant Video, Google Play, iTunes"
 tt1675434,,
-tt0063442,Planet of the Apes,Amazon Instant Video
-tt0063442,Planet of the Apes,iTunes
-tt0063442,Planet of the Apes,Google Play
-tt0340377,The Station Agent,Amazon Instant Video
-tt0340377,The Station Agent,Google Play
-tt0340377,The Station Agent,iTunes
-tt5323662,A Silent Voice: The Movie,iTunes
-tt5323662,A Silent Voice: The Movie,Amazon Instant Video
-tt5323662,A Silent Voice: The Movie,Google Play
-tt2980516,The Theory of Everything,iTunes
-tt2980516,The Theory of Everything,Amazon Instant Video
-tt2980516,The Theory of Everything,Google Play
-tt2980516,The Theory of Everything,Amazon Prime Video
-tt1602620,Amour,iTunes
-tt1602620,Amour,Amazon Instant Video
-tt1602620,Amour,Google Play
-tt1821549,Nebraska,iTunes
-tt1821549,Nebraska,Google Play
-tt1821549,Nebraska,Amazon Prime Video
-tt1821549,Nebraska,Amazon Instant Video
-tt0099077,Awakenings,Google Play
-tt0099077,Awakenings,iTunes
-tt0099077,Awakenings,Netflix
-tt0099077,Awakenings,Amazon Instant Video
-tt0328107,Man on Fire,iTunes
-tt0328107,Man on Fire,Google Play
-tt0328107,Man on Fire,Amazon Prime Video
-tt0328107,Man on Fire,Amazon Instant Video
-tt0040725,The Red Shoes,Amazon Instant Video
-tt0040725,The Red Shoes,Google Play
-tt0040725,The Red Shoes,iTunes
+tt0063442,Planet of the Apes,"Amazon Instant Video, iTunes, Google Play"
+tt0340377,The Station Agent,"Amazon Instant Video, Google Play, iTunes"
+tt5323662,A Silent Voice: The Movie,"iTunes, Amazon Instant Video, Google Play"
+tt2980516,The Theory of Everything,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt1602620,Amour,"iTunes, Amazon Instant Video, Google Play"
+tt1821549,Nebraska,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0099077,Awakenings,"Google Play, iTunes, Netflix, Amazon Instant Video"
+tt0328107,Man on Fire,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0040725,The Red Shoes,"Amazon Instant Video, Google Play, iTunes"
 tt1327035,Dev.D,Netflix
 tt0460791,,
-tt0021884,Frankenstein,iTunes
-tt0021884,Frankenstein,Google Play
-tt0021884,Frankenstein,Amazon Instant Video
-tt0347304,Kal Ho Naa Ho,Netflix
-tt0347304,Kal Ho Naa Ho,Amazon Prime Video
-tt0347304,Kal Ho Naa Ho,Google Play
-tt0347304,Kal Ho Naa Ho,iTunes
-tt0104797,Malcolm X,Amazon Instant Video
-tt0104797,Malcolm X,iTunes
-tt0104797,Malcolm X,Google Play
-tt0093773,Predator,Amazon Instant Video
-tt0093773,Predator,Google Play
-tt0093773,Predator,iTunes
-tt0093773,Predator,Amazon Prime Video
-tt2802154,Leviathan,Amazon Instant Video
-tt2802154,Leviathan,Google Play
-tt2802154,Leviathan,iTunes
-tt0051378,Lift to the Scaffold,iTunes
-tt0051378,Lift to the Scaffold,Amazon Instant Video
-tt0103639,Aladdin,Amazon Instant Video
-tt0103639,Aladdin,Disney+
-tt0103639,Aladdin,Google Play
-tt0103639,Aladdin,iTunes
-tt8367814,The Gentlemen,Amazon Instant Video
-tt8367814,The Gentlemen,Google Play
-tt8367814,The Gentlemen,iTunes
-tt8367814,The Gentlemen,Netflix
-tt3281548,Little Women,iTunes
-tt3281548,Little Women,Google Play
-tt3281548,Little Women,Amazon Instant Video
-tt0042041,White Heat,iTunes
-tt0042041,White Heat,Google Play
-tt0042041,White Heat,Amazon Instant Video
-tt0100150,Miller's Crossing,Amazon Instant Video
-tt0100150,Miller's Crossing,Google Play
-tt0100150,Miller's Crossing,iTunes
-tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,Amazon Instant Video
-tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,iTunes
-tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,Google Play
-tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,Disney+
-tt0026029,The Thirty-Nine Steps,Amazon Instant Video
-tt0026029,The Thirty-Nine Steps,iTunes
-tt1454029,The Help,iTunes
-tt1454029,The Help,Google Play
-tt1454029,The Help,Amazon Instant Video
-tt2245084,Big Hero 6,iTunes
-tt2245084,Big Hero 6,Google Play
-tt2245084,Big Hero 6,Amazon Instant Video
-tt2245084,Big Hero 6,Disney+
-tt0050986,Wild Strawberries,Amazon Instant Video
-tt0050986,Wild Strawberries,iTunes
-tt1754656,The Little Prince,Amazon Instant Video
-tt1754656,The Little Prince,iTunes
-tt1754656,The Little Prince,Google Play
-tt0369702,The Sea Inside,Amazon Instant Video
-tt0369702,The Sea Inside,Google Play
-tt0369702,The Sea Inside,iTunes
-tt0260991,Joint Security Area,Amazon Instant Video
-tt0260991,Joint Security Area,Google Play
-tt0260991,Joint Security Area,iTunes
-tt0092965,Empire of the Sun,Amazon Instant Video
-tt0092965,Empire of the Sun,Google Play
-tt0092965,Empire of the Sun,iTunes
+tt0021884,Frankenstein,"iTunes, Google Play, Amazon Instant Video"
+tt0347304,Kal Ho Naa Ho,"Netflix, Amazon Prime Video, Google Play, iTunes"
+tt0104797,Malcolm X,"Amazon Instant Video, iTunes, Google Play"
+tt0093773,Predator,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt2802154,Leviathan,"Amazon Instant Video, Google Play, iTunes"
+tt0051378,Lift to the Scaffold,"iTunes, Amazon Instant Video"
+tt0103639,Aladdin,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt8367814,The Gentlemen,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt3281548,Little Women,"iTunes, Google Play, Amazon Instant Video"
+tt0042041,White Heat,"iTunes, Google Play, Amazon Instant Video"
+tt0100150,Miller's Crossing,"Amazon Instant Video, Google Play, iTunes"
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,"Amazon Instant Video, iTunes, Google Play, Disney+"
+tt0026029,The Thirty-Nine Steps,"Amazon Instant Video, iTunes"
+tt1454029,The Help,"iTunes, Google Play, Amazon Instant Video"
+tt2245084,Big Hero 6,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0050986,Wild Strawberries,"Amazon Instant Video, iTunes"
+tt1754656,The Little Prince,"Amazon Instant Video, iTunes, Google Play"
+tt0369702,The Sea Inside,"Amazon Instant Video, Google Play, iTunes"
+tt0260991,Joint Security Area,"Amazon Instant Video, Google Play, iTunes"
+tt0092965,Empire of the Sun,"Amazon Instant Video, Google Play, iTunes"
 tt0140888,,
-tt2358891,The Great Beauty,Amazon Instant Video
-tt2358891,The Great Beauty,Google Play
-tt2358891,The Great Beauty,iTunes
-tt0075148,Rocky,Amazon Instant Video
-tt0075148,Rocky,iTunes
-tt0075148,Rocky,Google Play
-tt0363163,Downfall,iTunes
-tt0363163,Downfall,Amazon Instant Video
-tt0363163,Downfall,Google Play
-tt0114369,Seven,iTunes
-tt0114369,Seven,Google Play
-tt0114369,Seven,Amazon Instant Video
-tt0292490,Dil Chahta Hai,Amazon Prime Video
-tt0292490,Dil Chahta Hai,Google Play
-tt0292490,Dil Chahta Hai,iTunes
-tt0292490,Dil Chahta Hai,Netflix
-tt0070034,Enter the Dragon,Amazon Instant Video
-tt0070034,Enter the Dragon,iTunes
-tt0070034,Enter the Dragon,Google Play
-tt0469494,There Will Be Blood,iTunes
-tt0469494,There Will Be Blood,Google Play
-tt0469494,There Will Be Blood,Amazon Instant Video
-tt0443706,Zodiac,Netflix
-tt0443706,Zodiac,Amazon Instant Video
-tt0443706,Zodiac,Google Play
-tt0443706,Zodiac,iTunes
-tt0449059,Little Miss Sunshine,iTunes
-tt0449059,Little Miss Sunshine,Google Play
-tt0449059,Little Miss Sunshine,Amazon Instant Video
-tt0381849,3:10 to Yuma,Google Play
-tt0381849,3:10 to Yuma,Amazon Instant Video
-tt0381849,3:10 to Yuma,iTunes
-tt0387564,Saw,Google Play
-tt0387564,Saw,Amazon Instant Video
-tt0387564,Saw,iTunes
+tt2358891,The Great Beauty,"Amazon Instant Video, Google Play, iTunes"
+tt0075148,Rocky,"Amazon Instant Video, iTunes, Google Play"
+tt0363163,Downfall,"iTunes, Amazon Instant Video, Google Play"
+tt0114369,Seven,"iTunes, Google Play, Amazon Instant Video"
+tt0292490,Dil Chahta Hai,"Amazon Prime Video, Google Play, iTunes, Netflix"
+tt0070034,Enter the Dragon,"Amazon Instant Video, iTunes, Google Play"
+tt0469494,There Will Be Blood,"iTunes, Google Play, Amazon Instant Video"
+tt0443706,Zodiac,"Netflix, Amazon Instant Video, Google Play, iTunes"
+tt0449059,Little Miss Sunshine,"iTunes, Google Play, Amazon Instant Video"
+tt0381849,3:10 to Yuma,"Google Play, Amazon Instant Video, iTunes"
+tt0387564,Saw,"Google Play, Amazon Instant Video, iTunes"
 tt0069281,,
-tt0047296,On the Waterfront,Amazon Instant Video
-tt0047296,On the Waterfront,iTunes
-tt0047296,On the Waterfront,Google Play
-tt0758758,Into the Wild,iTunes
-tt0758758,Into the Wild,Amazon Instant Video
-tt0758758,Into the Wild,Google Play
-tt0758758,Into the Wild,Netflix
+tt0047296,On the Waterfront,"Amazon Instant Video, iTunes, Google Play"
+tt0758758,Into the Wild,"iTunes, Amazon Instant Video, Google Play, Netflix"
 tt0480025,This Is England,Amazon Instant Video
-tt3460252,The Hateful Eight,iTunes
-tt3460252,The Hateful Eight,Google Play
-tt3460252,The Hateful Eight,Netflix
-tt3460252,The Hateful Eight,Amazon Instant Video
-tt0036855,Gaslight,iTunes
-tt0036855,Gaslight,Google Play
-tt0036855,Gaslight,Amazon Instant Video
-tt7961060,Dragon Ball Super: Broly,iTunes
-tt7961060,Dragon Ball Super: Broly,Google Play
-tt7961060,Dragon Ball Super: Broly,Amazon Instant Video
-tt2294629,Frozen,iTunes
-tt2294629,Frozen,Amazon Instant Video
-tt2294629,Frozen,Disney+
-tt2294629,Frozen,Google Play
-tt0024184,The Invisible Man,iTunes
-tt0024184,The Invisible Man,Amazon Instant Video
-tt0024184,The Invisible Man,Google Play
-tt3498820,Captain America: Civil War,Amazon Instant Video
-tt3498820,Captain America: Civil War,iTunes
-tt3498820,Captain America: Civil War,Google Play
-tt3498820,Captain America: Civil War,Disney+
-tt0245574,Y tu mamá también,iTunes
-tt0245574,Y tu mamá también,Google Play
-tt0245574,Y tu mamá también,Amazon Instant Video
-tt0169858,Neon Genesis Evangelion: The End of Evangelion,iTunes
-tt0169858,Neon Genesis Evangelion: The End of Evangelion,Google Play
-tt0169858,Neon Genesis Evangelion: The End of Evangelion,Amazon Instant Video
-tt0169858,Neon Genesis Evangelion: The End of Evangelion,Netflix
+tt3460252,The Hateful Eight,"iTunes, Google Play, Netflix, Amazon Instant Video"
+tt0036855,Gaslight,"iTunes, Google Play, Amazon Instant Video"
+tt7961060,Dragon Ball Super: Broly,"iTunes, Google Play, Amazon Instant Video"
+tt2294629,Frozen,"iTunes, Amazon Instant Video, Disney+, Google Play"
+tt0024184,The Invisible Man,"iTunes, Amazon Instant Video, Google Play"
+tt3498820,Captain America: Civil War,"Amazon Instant Video, iTunes, Google Play, Disney+"
+tt0245574,Y tu mamá también,"iTunes, Google Play, Amazon Instant Video"
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,"iTunes, Google Play, Amazon Instant Video, Netflix"
 tt1827487,Once Upon a Time in Anatolia,iTunes
-tt0074958,Network,Amazon Instant Video
-tt0074958,Network,iTunes
-tt0074958,Network,Google Play
-tt1220719,Ip Man,Netflix
-tt1220719,Ip Man,Amazon Instant Video
-tt1220719,Ip Man,Google Play
-tt1220719,Ip Man,iTunes
-tt3011894,Wild Tales,Amazon Instant Video
-tt3011894,Wild Tales,Google Play
-tt3011894,Wild Tales,iTunes
-tt0032904,The Philadelphia Story,iTunes
-tt0032904,The Philadelphia Story,Google Play
-tt0032904,The Philadelphia Story,Amazon Instant Video
-tt0034583,Casablanca,Amazon Instant Video
-tt0034583,Casablanca,iTunes
-tt0034583,Casablanca,Google Play
-tt0104257,A Few Good Men,iTunes
-tt0104257,A Few Good Men,Google Play
-tt0104257,A Few Good Men,Amazon Instant Video
-tt0052893,Hiroshima mon amour,Google Play
-tt0052893,Hiroshima mon amour,iTunes
-tt0052893,Hiroshima mon amour,Amazon Instant Video
-tt0388795,Brokeback Mountain,Amazon Instant Video
-tt0388795,Brokeback Mountain,Google Play
-tt0388795,Brokeback Mountain,iTunes
+tt0074958,Network,"Amazon Instant Video, iTunes, Google Play"
+tt1220719,Ip Man,"Netflix, Amazon Instant Video, Google Play, iTunes"
+tt3011894,Wild Tales,"Amazon Instant Video, Google Play, iTunes"
+tt0032904,The Philadelphia Story,"iTunes, Google Play, Amazon Instant Video"
+tt0034583,Casablanca,"Amazon Instant Video, iTunes, Google Play"
+tt0104257,A Few Good Men,"iTunes, Google Play, Amazon Instant Video"
+tt0052893,Hiroshima mon amour,"Google Play, iTunes, Amazon Instant Video"
+tt0388795,Brokeback Mountain,"Amazon Instant Video, Google Play, iTunes"
 tt5116302,,
-tt1403865,True Grit,iTunes
-tt1403865,True Grit,Amazon Instant Video
-tt1403865,True Grit,Google Play
-tt1403865,True Grit,Netflix
-tt0796366,Star Trek,Amazon Instant Video
-tt0796366,Star Trek,Google Play
-tt0796366,Star Trek,iTunes
-tt0796366,Star Trek,Netflix
+tt1403865,True Grit,"iTunes, Amazon Instant Video, Google Play, Netflix"
+tt0796366,Star Trek,"Amazon Instant Video, Google Play, iTunes, Netflix"
 tt0211915,,
-tt0416320,Match Point,iTunes
-tt0416320,Match Point,Google Play
-tt0416320,Match Point,Amazon Instant Video
-tt1065073,Boyhood,iTunes
-tt1065073,Boyhood,Google Play
-tt1065073,Boyhood,Amazon Instant Video
-tt1065073,Boyhood,Disney+
-tt8946378,Knives Out,Amazon Instant Video
-tt8946378,Knives Out,Google Play
-tt8946378,Knives Out,iTunes
-tt0088847,The Breakfast Club,Amazon Instant Video
-tt0088847,The Breakfast Club,Google Play
-tt0088847,The Breakfast Club,iTunes
-tt0032553,The Great Dictator,iTunes
-tt0032553,The Great Dictator,Amazon Instant Video
-tt0091670,The Sacrifice,Google Play
-tt0091670,The Sacrifice,iTunes
-tt0091670,The Sacrifice,Amazon Instant Video
+tt0416320,Match Point,"iTunes, Google Play, Amazon Instant Video"
+tt1065073,Boyhood,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt8946378,Knives Out,"Amazon Instant Video, Google Play, iTunes"
+tt0088847,The Breakfast Club,"Amazon Instant Video, Google Play, iTunes"
+tt0032553,The Great Dictator,"iTunes, Amazon Instant Video"
+tt0091670,The Sacrifice,"Google Play, iTunes, Amazon Instant Video"
 tt0109424,,
-tt0319061,Big Fish,Amazon Instant Video
-tt0319061,Big Fish,Google Play
-tt0319061,Big Fish,iTunes
-tt0319061,Big Fish,Netflix
-tt0067328,The Last Picture Show,Amazon Instant Video
-tt0067328,The Last Picture Show,Google Play
-tt0067328,The Last Picture Show,iTunes
-tt1210166,Moneyball,iTunes
-tt1210166,Moneyball,Google Play
-tt1210166,Moneyball,Amazon Instant Video
-tt1210166,Moneyball,Netflix
-tt1210166,Moneyball,Amazon Prime Video
-tt2582496,Me and Earl and the Dying Girl,iTunes
-tt2582496,Me and Earl and the Dying Girl,Google Play
-tt2582496,Me and Earl and the Dying Girl,Amazon Instant Video
-tt1659337,The Perks of Being a Wallflower,Amazon Instant Video
-tt1659337,The Perks of Being a Wallflower,Google Play
-tt1659337,The Perks of Being a Wallflower,iTunes
-tt0108052,Schindler's List,iTunes
-tt0108052,Schindler's List,Google Play
-tt0108052,Schindler's List,Amazon Instant Video
-tt1568346,The Girl with the Dragon Tattoo,iTunes
-tt1568346,The Girl with the Dragon Tattoo,Amazon Instant Video
-tt1568346,The Girl with the Dragon Tattoo,Google Play
-tt1568346,The Girl with the Dragon Tattoo,Netflix
-tt0054331,Spartacus,iTunes
-tt0054331,Spartacus,Google Play
-tt0054331,Spartacus,Amazon Instant Video
-tt0108394,Three Colours: Blue,iTunes
-tt0108394,Three Colours: Blue,Amazon Instant Video
+tt0319061,Big Fish,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0067328,The Last Picture Show,"Amazon Instant Video, Google Play, iTunes"
+tt1210166,Moneyball,"iTunes, Google Play, Amazon Instant Video, Netflix, Amazon Prime Video"
+tt2582496,Me and Earl and the Dying Girl,"iTunes, Google Play, Amazon Instant Video"
+tt1659337,The Perks of Being a Wallflower,"Amazon Instant Video, Google Play, iTunes"
+tt0108052,Schindler's List,"iTunes, Google Play, Amazon Instant Video"
+tt1568346,The Girl with the Dragon Tattoo,"iTunes, Amazon Instant Video, Google Play, Netflix"
+tt0054331,Spartacus,"iTunes, Google Play, Amazon Instant Video"
+tt0108394,Three Colours: Blue,"iTunes, Amazon Instant Video"
 tt0118843,,
-tt0070510,Paper Moon,Google Play
-tt0070510,Paper Moon,iTunes
-tt0070510,Paper Moon,Amazon Prime Video
-tt0070510,Paper Moon,Amazon Instant Video
-tt0081505,The Shining,Google Play
-tt0081505,The Shining,iTunes
-tt0081505,The Shining,Amazon Instant Video
-tt0027977,Modern Times,iTunes
-tt0027977,Modern Times,Amazon Instant Video
-tt0033467,Citizen Kane,Amazon Instant Video
-tt0033467,Citizen Kane,iTunes
-tt0033467,Citizen Kane,Google Play
-tt0268978,A Beautiful Mind,Amazon Instant Video
-tt0268978,A Beautiful Mind,Google Play
-tt0268978,A Beautiful Mind,iTunes
+tt0070510,Paper Moon,"Google Play, iTunes, Amazon Prime Video, Amazon Instant Video"
+tt0081505,The Shining,"Google Play, iTunes, Amazon Instant Video"
+tt0027977,Modern Times,"iTunes, Amazon Instant Video"
+tt0033467,Citizen Kane,"Amazon Instant Video, iTunes, Google Play"
+tt0268978,A Beautiful Mind,"Amazon Instant Video, Google Play, iTunes"
 tt0106332,,
-tt0133093,The Matrix,iTunes
-tt0133093,The Matrix,Google Play
-tt0133093,The Matrix,Amazon Instant Video
+tt0133093,The Matrix,"iTunes, Google Play, Amazon Instant Video"
 tt0097202,,
-tt1855199,End of Watch,iTunes
-tt1855199,End of Watch,Amazon Instant Video
-tt1855199,End of Watch,Google Play
+tt1855199,End of Watch,"iTunes, Amazon Instant Video, Google Play"
 tt10295212,Shershaah,Amazon Prime Video
-tt1119646,The Hangover,iTunes
-tt1119646,The Hangover,Google Play
-tt1119646,The Hangover,Amazon Instant Video
-tt0064115,Butch Cassidy and the Sundance Kid,Amazon Instant Video
-tt0064115,Butch Cassidy and the Sundance Kid,Google Play
-tt0064115,Butch Cassidy and the Sundance Kid,iTunes
-tt0064115,Butch Cassidy and the Sundance Kid,Amazon Prime Video
-tt1683526,Detachment,Google Play
-tt1683526,Detachment,Amazon Instant Video
-tt0093191,Wings of Desire,Amazon Instant Video
-tt0093191,Wings of Desire,Google Play
-tt0093191,Wings of Desire,iTunes
-tt4934950,Talvar,iTunes
-tt4934950,Talvar,Google Play
-tt0335266,Lost in Translation,iTunes
-tt0335266,Lost in Translation,Google Play
-tt0335266,Lost in Translation,Amazon Instant Video
-tt8108198,Andhadhun,Google Play
-tt8108198,Andhadhun,iTunes
-tt8108198,Andhadhun,Amazon Instant Video
-tt8108198,Andhadhun,Netflix
-tt2488496,Star Wars: Episode VII - The Force Awakens,Amazon Instant Video
-tt2488496,Star Wars: Episode VII - The Force Awakens,Disney+
-tt2488496,Star Wars: Episode VII - The Force Awakens,Google Play
-tt2488496,Star Wars: Episode VII - The Force Awakens,iTunes
-tt0258463,The Bourne Identity,iTunes
-tt0258463,The Bourne Identity,Google Play
-tt0258463,The Bourne Identity,Amazon Instant Video
-tt2582802,Whiplash,Amazon Instant Video
-tt2582802,Whiplash,iTunes
-tt2582802,Whiplash,Google Play
+tt1119646,The Hangover,"iTunes, Google Play, Amazon Instant Video"
+tt0064115,Butch Cassidy and the Sundance Kid,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt1683526,Detachment,"Google Play, Amazon Instant Video"
+tt0093191,Wings of Desire,"Amazon Instant Video, Google Play, iTunes"
+tt4934950,Talvar,"iTunes, Google Play"
+tt0335266,Lost in Translation,"iTunes, Google Play, Amazon Instant Video"
+tt8108198,Andhadhun,"Google Play, iTunes, Amazon Instant Video, Netflix"
+tt2488496,Star Wars: Episode VII - The Force Awakens,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0258463,The Bourne Identity,"iTunes, Google Play, Amazon Instant Video"
+tt2582802,Whiplash,"Amazon Instant Video, iTunes, Google Play"
 tt0147612,,
-tt1950186,Le Mans '66,Google Play
-tt1950186,Le Mans '66,iTunes
-tt1950186,Le Mans '66,Amazon Instant Video
-tt2431286,Philomena,Google Play
-tt2431286,Philomena,Netflix
-tt2431286,Philomena,iTunes
-tt2431286,Philomena,Amazon Instant Video
-tt0021749,City Lights,iTunes
-tt0021749,City Lights,Amazon Instant Video
-tt0021749,City Lights,Google Play
-tt1398426,Straight Outta Compton,Google Play
-tt1398426,Straight Outta Compton,Amazon Instant Video
-tt1398426,Straight Outta Compton,iTunes
-tt0249462,Billy Elliot,iTunes
-tt0249462,Billy Elliot,Amazon Instant Video
-tt0249462,Billy Elliot,Google Play
-tt0107688,The Nightmare Before Christmas,iTunes
-tt0107688,The Nightmare Before Christmas,Google Play
-tt0107688,The Nightmare Before Christmas,Amazon Instant Video
-tt0107688,The Nightmare Before Christmas,Disney+
-tt0457430,Pan's Labyrinth,iTunes
-tt0457430,Pan's Labyrinth,Google Play
-tt0457430,Pan's Labyrinth,Amazon Instant Video
-tt0190332,"Crouching Tiger, Hidden Dragon",Amazon Instant Video
-tt0190332,"Crouching Tiger, Hidden Dragon",Amazon Prime Video
-tt0190332,"Crouching Tiger, Hidden Dragon",Google Play
-tt0190332,"Crouching Tiger, Hidden Dragon",iTunes
-tt2321405,My Life as a Courgette,Amazon Instant Video
-tt2321405,My Life as a Courgette,Google Play
-tt2321405,My Life as a Courgette,iTunes
-tt0084855,The Verdict,Amazon Instant Video
-tt0084855,The Verdict,iTunes
-tt0084855,The Verdict,Google Play
-tt1843866,Captain America - The Winter Soldier,Amazon Instant Video
-tt1843866,Captain America - The Winter Soldier,Disney+
-tt1843866,Captain America - The Winter Soldier,Google Play
-tt1843866,Captain America - The Winter Soldier,iTunes
-tt0350258,Ray,iTunes
-tt0350258,Ray,Google Play
-tt0350258,Ray,Amazon Instant Video
-tt0375679,Crash,Google Play
-tt0375679,Crash,Amazon Instant Video
-tt0375679,Crash,iTunes
-tt0061395,Belle de jour,Amazon Instant Video
-tt0061395,Belle de jour,iTunes
-tt1170358,The Hobbit - The Desolation of Smaug,Amazon Prime Video
-tt1170358,The Hobbit - The Desolation of Smaug,Google Play
-tt1170358,The Hobbit - The Desolation of Smaug,Amazon Instant Video
-tt1170358,The Hobbit - The Desolation of Smaug,iTunes
-tt4154796,Avengers: Endgame,Amazon Instant Video
-tt4154796,Avengers: Endgame,Disney+
-tt4154796,Avengers: Endgame,Google Play
-tt4154796,Avengers: Endgame,iTunes
+tt1950186,Le Mans '66,"Google Play, iTunes, Amazon Instant Video"
+tt2431286,Philomena,"Google Play, Netflix, iTunes, Amazon Instant Video"
+tt0021749,City Lights,"iTunes, Amazon Instant Video, Google Play"
+tt1398426,Straight Outta Compton,"Google Play, Amazon Instant Video, iTunes"
+tt0249462,Billy Elliot,"iTunes, Amazon Instant Video, Google Play"
+tt0107688,The Nightmare Before Christmas,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0457430,Pan's Labyrinth,"iTunes, Google Play, Amazon Instant Video"
+tt0190332,"Crouching Tiger, Hidden Dragon","Amazon Instant Video, Amazon Prime Video, Google Play, iTunes"
+tt2321405,My Life as a Courgette,"Amazon Instant Video, Google Play, iTunes"
+tt0084855,The Verdict,"Amazon Instant Video, iTunes, Google Play"
+tt1843866,Captain America - The Winter Soldier,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0350258,Ray,"iTunes, Google Play, Amazon Instant Video"
+tt0375679,Crash,"Google Play, Amazon Instant Video, iTunes"
+tt0061395,Belle de jour,"Amazon Instant Video, iTunes"
+tt1170358,The Hobbit - The Desolation of Smaug,"Amazon Prime Video, Google Play, Amazon Instant Video, iTunes"
+tt4154796,Avengers: Endgame,"Amazon Instant Video, Disney+, Google Play, iTunes"
 tt0102536,Night on Earth,Amazon Instant Video
-tt0078788,Apocalypse Now,iTunes
-tt0078788,Apocalypse Now,Amazon Instant Video
-tt0078788,Apocalypse Now,Google Play
-tt0119116,The Fifth Element,Amazon Instant Video
-tt0119116,The Fifth Element,iTunes
-tt0119116,The Fifth Element,Google Play
-tt0041959,The Third Man,iTunes
-tt0041959,The Third Man,Google Play
-tt0041959,The Third Man,Amazon Instant Video
+tt0078788,Apocalypse Now,"iTunes, Amazon Instant Video, Google Play"
+tt0119116,The Fifth Element,"Amazon Instant Video, iTunes, Google Play"
+tt0041959,The Third Man,"iTunes, Google Play, Amazon Instant Video"
 tt3390572,Haider,Netflix
-tt6148156,Vikram Vedha,Google Play
-tt6148156,Vikram Vedha,Amazon Instant Video
-tt6148156,Vikram Vedha,iTunes
-tt6148156,Vikram Vedha,Amazon Prime Video
-tt0013442,Nosferatu,Amazon Instant Video
-tt0013442,Nosferatu,Google Play
-tt0013442,Nosferatu,iTunes
-tt0059578,For a Few Dollars More,Google Play
-tt0059578,For a Few Dollars More,iTunes
-tt0059578,For a Few Dollars More,Amazon Instant Video
-tt1205489,Gran Torino,Google Play
-tt1205489,Gran Torino,Amazon Instant Video
-tt1205489,Gran Torino,iTunes
-tt0073486,One Flew Over the Cuckoo's Nest,Google Play
-tt0073486,One Flew Over the Cuckoo's Nest,Amazon Instant Video
-tt0073486,One Flew Over the Cuckoo's Nest,iTunes
-tt0019254,The Passion of Joan of Arc,Amazon Instant Video
-tt0019254,The Passion of Joan of Arc,iTunes
-tt1979320,Rush,iTunes
-tt1979320,Rush,Google Play
-tt1979320,Rush,Amazon Instant Video
-tt1979320,Rush,Netflix
-tt0076759,Star Wars: Episode IV - A New Hope,Amazon Instant Video
-tt0076759,Star Wars: Episode IV - A New Hope,Disney+
-tt0076759,Star Wars: Episode IV - A New Hope,iTunes
-tt0076759,Star Wars: Episode IV - A New Hope,Google Play
-tt2267998,Gone Girl,iTunes
-tt2267998,Gone Girl,Google Play
-tt2267998,Gone Girl,Amazon Instant Video
-tt2267998,Gone Girl,Netflix
-tt1899353,The Raid,iTunes
-tt1899353,The Raid,Google Play
-tt1899353,The Raid,Amazon Instant Video
-tt5463162,Deadpool 2,Amazon Instant Video
-tt5463162,Deadpool 2,Disney+
-tt5463162,Deadpool 2,Google Play
-tt5463162,Deadpool 2,iTunes
-tt0017925,The General,Amazon Instant Video
-tt0017925,The General,Amazon Prime Video
-tt0017925,The General,Google Play
-tt0017925,The General,iTunes
-tt0317248,City of God,iTunes
-tt0317248,City of God,Amazon Instant Video
-tt0317248,City of God,Google Play
-tt1189073,The Skin I Live In,iTunes
-tt1189073,The Skin I Live In,Amazon Instant Video
-tt1189073,The Skin I Live In,Google Play
-tt0101414,Beauty and the Beast,Amazon Instant Video
-tt0101414,Beauty and the Beast,Disney+
-tt0101414,Beauty and the Beast,Google Play
-tt0101414,Beauty and the Beast,iTunes
-tt0069947,The Day of the Jackal,iTunes
-tt0069947,The Day of the Jackal,Google Play
-tt0069947,The Day of the Jackal,Amazon Instant Video
-tt0083922,Fanny and Alexander,iTunes
-tt0083922,Fanny and Alexander,Amazon Instant Video
-tt0119177,Gattaca,Google Play
-tt0119177,Gattaca,Amazon Instant Video
-tt0119177,Gattaca,iTunes
-tt0116282,Fargo,Google Play
-tt0116282,Fargo,Amazon Instant Video
-tt0116282,Fargo,iTunes
-tt0116282,Fargo,Amazon Prime Video
-tt0299977,Hero,Google Play
-tt0299977,Hero,Amazon Instant Video
-tt0299977,Hero,iTunes
-tt0043456,The Day the Earth Stood Still,Amazon Instant Video
-tt0043456,The Day the Earth Stood Still,Google Play
-tt0043456,The Day the Earth Stood Still,iTunes
-tt0964517,The Fighter,Google Play
-tt0964517,The Fighter,iTunes
-tt0964517,The Fighter,Amazon Instant Video
-tt0964517,The Fighter,Netflix
-tt0112384,Apollo 13,Google Play
-tt0112384,Apollo 13,Amazon Instant Video
-tt0112384,Apollo 13,iTunes
-tt0112384,Apollo 13,Amazon Prime Video
-tt0074119,All the President's Men,Amazon Instant Video
-tt0074119,All the President's Men,Google Play
-tt0074119,All the President's Men,iTunes
-tt3416742,What We Do in the Shadows,Google Play
-tt3416742,What We Do in the Shadows,Amazon Instant Video
-tt3416742,What We Do in the Shadows,iTunes
-tt0046438,Tokyo Story,iTunes
-tt0046438,Tokyo Story,Google Play
-tt0046438,Tokyo Story,Amazon Instant Video
-tt0056592,To Kill a Mockingbird,iTunes
-tt0056592,To Kill a Mockingbird,Amazon Instant Video
-tt0056592,To Kill a Mockingbird,Google Play
-tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Amazon Instant Video
-tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Google Play
-tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,iTunes
-tt0075860,Close Encounters of the Third Kind,iTunes
-tt0075860,Close Encounters of the Third Kind,Amazon Instant Video
-tt0075860,Close Encounters of the Third Kind,Google Play
-tt0031381,Gone with the Wind,Amazon Instant Video
-tt0031381,Gone with the Wind,iTunes
-tt0031381,Gone with the Wind,Google Play
-tt0015324,Sherlock Jr.,Amazon Instant Video
-tt0015324,Sherlock Jr.,Google Play
-tt0015324,Sherlock Jr.,iTunes
-tt0105695,Unforgiven,iTunes
-tt0105695,Unforgiven,Amazon Instant Video
-tt0105695,Unforgiven,Google Play
+tt6148156,Vikram Vedha,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt0013442,Nosferatu,"Amazon Instant Video, Google Play, iTunes"
+tt0059578,For a Few Dollars More,"Google Play, iTunes, Amazon Instant Video"
+tt1205489,Gran Torino,"Google Play, Amazon Instant Video, iTunes"
+tt0073486,One Flew Over the Cuckoo's Nest,"Google Play, Amazon Instant Video, iTunes"
+tt0019254,The Passion of Joan of Arc,"Amazon Instant Video, iTunes"
+tt1979320,Rush,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0076759,Star Wars: Episode IV - A New Hope,"Amazon Instant Video, Disney+, iTunes, Google Play"
+tt2267998,Gone Girl,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt1899353,The Raid,"iTunes, Google Play, Amazon Instant Video"
+tt5463162,Deadpool 2,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0017925,The General,"Amazon Instant Video, Amazon Prime Video, Google Play, iTunes"
+tt0317248,City of God,"iTunes, Amazon Instant Video, Google Play"
+tt1189073,The Skin I Live In,"iTunes, Amazon Instant Video, Google Play"
+tt0101414,Beauty and the Beast,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0069947,The Day of the Jackal,"iTunes, Google Play, Amazon Instant Video"
+tt0083922,Fanny and Alexander,"iTunes, Amazon Instant Video"
+tt0119177,Gattaca,"Google Play, Amazon Instant Video, iTunes"
+tt0116282,Fargo,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt0299977,Hero,"Google Play, Amazon Instant Video, iTunes"
+tt0043456,The Day the Earth Stood Still,"Amazon Instant Video, Google Play, iTunes"
+tt0964517,The Fighter,"Google Play, iTunes, Amazon Instant Video, Netflix"
+tt0112384,Apollo 13,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt0074119,All the President's Men,"Amazon Instant Video, Google Play, iTunes"
+tt3416742,What We Do in the Shadows,"Google Play, Amazon Instant Video, iTunes"
+tt0046438,Tokyo Story,"iTunes, Google Play, Amazon Instant Video"
+tt0056592,To Kill a Mockingbird,"iTunes, Amazon Instant Video, Google Play"
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Amazon Instant Video, Google Play, iTunes"
+tt0075860,Close Encounters of the Third Kind,"iTunes, Amazon Instant Video, Google Play"
+tt0031381,Gone with the Wind,"Amazon Instant Video, iTunes, Google Play"
+tt0015324,Sherlock Jr.,"Amazon Instant Video, Google Play, iTunes"
+tt0105695,Unforgiven,"iTunes, Amazon Instant Video, Google Play"
 tt0048021,,
-tt0068182,"Aguirre, the Wrath of God",iTunes
-tt0068182,"Aguirre, the Wrath of God",Amazon Instant Video
-tt0068182,"Aguirre, the Wrath of God",Google Play
-tt0120689,The Green Mile,Google Play
-tt0120689,The Green Mile,Amazon Instant Video
-tt0120689,The Green Mile,iTunes
-tt0054215,Psycho,Amazon Instant Video
-tt0054215,Psycho,iTunes
-tt0054215,Psycho,Google Play
-tt0044079,Strangers on a Train,iTunes
-tt0044079,Strangers on a Train,Amazon Instant Video
-tt0044079,Strangers on a Train,Google Play
-tt0482571,The Prestige,iTunes
-tt0482571,The Prestige,Amazon Instant Video
-tt0482571,The Prestige,Google Play
+tt0068182,"Aguirre, the Wrath of God","iTunes, Amazon Instant Video, Google Play"
+tt0120689,The Green Mile,"Google Play, Amazon Instant Video, iTunes"
+tt0054215,Psycho,"Amazon Instant Video, iTunes, Google Play"
+tt0044079,Strangers on a Train,"iTunes, Amazon Instant Video, Google Play"
+tt0482571,The Prestige,"iTunes, Amazon Instant Video, Google Play"
 tt3848892,Baby,iTunes
-tt0086022,Nostalghia,iTunes
-tt0086022,Nostalghia,Google Play
-tt0086022,Nostalghia,Amazon Instant Video
-tt1454468,Gravity,Google Play
-tt1454468,Gravity,Amazon Instant Video
-tt1454468,Gravity,iTunes
+tt0086022,Nostalghia,"iTunes, Google Play, Amazon Instant Video"
+tt1454468,Gravity,"Google Play, Amazon Instant Video, iTunes"
 tt0066763,,
-tt2991224,Tangerines,Amazon Instant Video
-tt2991224,Tangerines,Google Play
-tt2991224,Tangerines,iTunes
-tt0071360,The Conversation,iTunes
-tt0071360,The Conversation,Google Play
-tt0071360,The Conversation,Amazon Instant Video
+tt2991224,Tangerines,"Amazon Instant Video, Google Play, iTunes"
+tt0071360,The Conversation,"iTunes, Google Play, Amazon Instant Video"
 tt2338151,PK,Netflix
-tt1022603,500 Days of Summer,iTunes
-tt1022603,500 Days of Summer,Amazon Instant Video
-tt1022603,500 Days of Summer,Google Play
-tt0056443,Sanjuro,iTunes
-tt0056443,Sanjuro,Amazon Instant Video
-tt0120762,Mulan,iTunes
-tt0120762,Mulan,Google Play
-tt0120762,Mulan,Amazon Instant Video
-tt0120762,Mulan,Disney+
-tt0044741,Ikiru,iTunes
-tt0044741,Ikiru,Google Play
-tt0044741,Ikiru,Amazon Instant Video
-tt3741834,Lion,Amazon Instant Video
-tt3741834,Lion,Google Play
-tt3741834,Lion,iTunes
-tt0036868,The Best Years of Our Lives,Amazon Instant Video
-tt0036868,The Best Years of Our Lives,iTunes
-tt0047478,Seven Samurai,iTunes
-tt0047478,Seven Samurai,Google Play
-tt0047478,Seven Samurai,Amazon Instant Video
-tt0327056,Mystic River,Google Play
-tt0327056,Mystic River,Amazon Instant Video
-tt0327056,Mystic River,iTunes
-tt0291350,Millennium Actress,Amazon Instant Video
-tt0291350,Millennium Actress,Google Play
-tt0291350,Millennium Actress,iTunes
-tt3682448,Bridge of Spies,Google Play
-tt3682448,Bridge of Spies,Amazon Instant Video
-tt3682448,Bridge of Spies,iTunes
-tt0104952,My Cousin Vinny,Amazon Instant Video
-tt0104952,My Cousin Vinny,Google Play
-tt0104952,My Cousin Vinny,iTunes
-tt0100157,Misery,Amazon Instant Video
-tt0100157,Misery,Google Play
-tt0100157,Misery,iTunes
+tt1022603,500 Days of Summer,"iTunes, Amazon Instant Video, Google Play"
+tt0056443,Sanjuro,"iTunes, Amazon Instant Video"
+tt0120762,Mulan,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0044741,Ikiru,"iTunes, Google Play, Amazon Instant Video"
+tt3741834,Lion,"Amazon Instant Video, Google Play, iTunes"
+tt0036868,The Best Years of Our Lives,"Amazon Instant Video, iTunes"
+tt0047478,Seven Samurai,"iTunes, Google Play, Amazon Instant Video"
+tt0327056,Mystic River,"Google Play, Amazon Instant Video, iTunes"
+tt0291350,Millennium Actress,"Amazon Instant Video, Google Play, iTunes"
+tt3682448,Bridge of Spies,"Google Play, Amazon Instant Video, iTunes"
+tt0104952,My Cousin Vinny,"Amazon Instant Video, Google Play, iTunes"
+tt0100157,Misery,"Amazon Instant Video, Google Play, iTunes"
 tt0107692,,
-tt0025878,The Thin Man,Google Play
-tt0025878,The Thin Man,Amazon Instant Video
-tt0025878,The Thin Man,iTunes
-tt0120735,"Lock, Stock and Two Smoking Barrels",iTunes
-tt0120735,"Lock, Stock and Two Smoking Barrels",Google Play
-tt0120735,"Lock, Stock and Two Smoking Barrels",Amazon Instant Video
-tt0119008,Donnie Brasco,Amazon Instant Video
-tt0119008,Donnie Brasco,Google Play
-tt0119008,Donnie Brasco,iTunes
-tt0119008,Donnie Brasco,Netflix
-tt0978762,Mary and Max,Amazon Instant Video
-tt0978762,Mary and Max,Google Play
-tt0978762,Mary and Max,iTunes
+tt0025878,The Thin Man,"Google Play, Amazon Instant Video, iTunes"
+tt0120735,"Lock, Stock and Two Smoking Barrels","iTunes, Google Play, Amazon Instant Video"
+tt0119008,Donnie Brasco,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0978762,Mary and Max,"Amazon Instant Video, Google Play, iTunes"
 tt20850406,Sita Ramam,Amazon Prime Video
-tt1375666,Inception,Amazon Instant Video
-tt1375666,Inception,Google Play
-tt1375666,Inception,iTunes
-tt0266697,Kill Bill: Vol. 1,iTunes
-tt0266697,Kill Bill: Vol. 1,Google Play
-tt0266697,Kill Bill: Vol. 1,Amazon Instant Video
-tt0044081,A Streetcar Named Desire,Amazon Instant Video
-tt0044081,A Streetcar Named Desire,iTunes
-tt0044081,A Streetcar Named Desire,Google Play
-tt4912910,Mission: Impossible - Fallout,Amazon Instant Video
-tt4912910,Mission: Impossible - Fallout,Google Play
-tt4912910,Mission: Impossible - Fallout,iTunes
-tt1517451,A Star Is Born,iTunes
-tt1517451,A Star Is Born,Google Play
-tt1517451,A Star Is Born,Amazon Instant Video
-tt0084726,Star Trek II: The Wrath of Khan,iTunes
-tt0084726,Star Trek II: The Wrath of Khan,Google Play
-tt0084726,Star Trek II: The Wrath of Khan,Amazon Instant Video
-tt0057091,The Leopard,iTunes
-tt0057091,The Leopard,Google Play
-tt0057091,The Leopard,Amazon Instant Video
-tt0097223,Time of the Gypsies,Google Play
-tt0097223,Time of the Gypsies,iTunes
-tt0097223,Time of the Gypsies,Amazon Instant Video
+tt1375666,Inception,"Amazon Instant Video, Google Play, iTunes"
+tt0266697,Kill Bill: Vol. 1,"iTunes, Google Play, Amazon Instant Video"
+tt0044081,A Streetcar Named Desire,"Amazon Instant Video, iTunes, Google Play"
+tt4912910,Mission: Impossible - Fallout,"Amazon Instant Video, Google Play, iTunes"
+tt1517451,A Star Is Born,"iTunes, Google Play, Amazon Instant Video"
+tt0084726,Star Trek II: The Wrath of Khan,"iTunes, Google Play, Amazon Instant Video"
+tt0057091,The Leopard,"iTunes, Google Play, Amazon Instant Video"
+tt0097223,Time of the Gypsies,"Google Play, iTunes, Amazon Instant Video"
 tt0456144,Lage Raho Munna Bhai,Amazon Instant Video
-tt2380307,Coco,iTunes
-tt2380307,Coco,Google Play
-tt2380307,Coco,Amazon Instant Video
-tt2380307,Coco,Disney+
+tt2380307,Coco,"iTunes, Google Play, Amazon Instant Video, Disney+"
 tt4635372,,
 tt12262116,Thirteen Lives,Amazon Prime Video
-tt0036613,Arsenic and Old Lace,Google Play
-tt0036613,Arsenic and Old Lace,Amazon Instant Video
-tt0036613,Arsenic and Old Lace,iTunes
-tt0088247,The Terminator,iTunes
-tt0088247,The Terminator,Google Play
-tt0088247,The Terminator,Amazon Instant Video
-tt0210945,Remember the Titans,Disney+
-tt0210945,Remember the Titans,Amazon Instant Video
-tt0210945,Remember the Titans,Google Play
-tt0210945,Remember the Titans,iTunes
-tt0132477,October Sky,Google Play
-tt0132477,October Sky,Amazon Instant Video
-tt0132477,October Sky,iTunes
-tt0107943,The Remains of the Day,Amazon Instant Video
-tt0107943,The Remains of the Day,iTunes
-tt0107943,The Remains of the Day,Google Play
-tt0046268,The Wages of Fear,iTunes
-tt0046268,The Wages of Fear,Amazon Instant Video
-tt0025316,It Happened One Night,Amazon Instant Video
-tt0025316,It Happened One Night,iTunes
-tt0025316,It Happened One Night,Google Play
-tt2802144,Kingsman: The Secret Service,Amazon Instant Video
-tt2802144,Kingsman: The Secret Service,Google Play
-tt2802144,Kingsman: The Secret Service,iTunes
-tt0050083,12 Angry Men,Google Play
-tt0050083,12 Angry Men,Amazon Instant Video
-tt0050083,12 Angry Men,iTunes
+tt0036613,Arsenic and Old Lace,"Google Play, Amazon Instant Video, iTunes"
+tt0088247,The Terminator,"iTunes, Google Play, Amazon Instant Video"
+tt0210945,Remember the Titans,"Disney+, Amazon Instant Video, Google Play, iTunes"
+tt0132477,October Sky,"Google Play, Amazon Instant Video, iTunes"
+tt0107943,The Remains of the Day,"Amazon Instant Video, iTunes, Google Play"
+tt0046268,The Wages of Fear,"iTunes, Amazon Instant Video"
+tt0025316,It Happened One Night,"Amazon Instant Video, iTunes, Google Play"
+tt2802144,Kingsman: The Secret Service,"Amazon Instant Video, Google Play, iTunes"
+tt0050083,12 Angry Men,"Google Play, Amazon Instant Video, iTunes"
 tt6316138,,
-tt2015381,Guardians of the Galaxy,iTunes
-tt2015381,Guardians of the Galaxy,Google Play
-tt2015381,Guardians of the Galaxy,Amazon Instant Video
-tt2015381,Guardians of the Galaxy,Disney+
+tt2015381,Guardians of the Galaxy,"iTunes, Google Play, Amazon Instant Video, Disney+"
 tt0046911,Les diaboliques,Amazon Instant Video
-tt0061418,Bonnie and Clyde,iTunes
-tt0061418,Bonnie and Clyde,Amazon Instant Video
-tt0061418,Bonnie and Clyde,Google Play
-tt3659388,The Martian,Amazon Instant Video
-tt3659388,The Martian,Google Play
-tt3659388,The Martian,iTunes
-tt3501632,Thor: Ragnarok,Google Play
-tt3501632,Thor: Ragnarok,Disney+
-tt3501632,Thor: Ragnarok,Amazon Instant Video
-tt3501632,Thor: Ragnarok,iTunes
+tt0061418,Bonnie and Clyde,"iTunes, Amazon Instant Video, Google Play"
+tt3659388,The Martian,"Amazon Instant Video, Google Play, iTunes"
+tt3501632,Thor: Ragnarok,"Google Play, Disney+, Amazon Instant Video, iTunes"
 tt0114787,,
-tt1527788,The Man from Nowhere,Amazon Instant Video
-tt1527788,The Man from Nowhere,iTunes
-tt0361748,Inglourious Basterds,Amazon Instant Video
-tt0361748,Inglourious Basterds,Google Play
-tt0361748,Inglourious Basterds,iTunes
-tt0051201,Witness for the Prosecution,iTunes
-tt0051201,Witness for the Prosecution,Google Play
-tt0051201,Witness for the Prosecution,Amazon Instant Video
-tt0332280,The Notebook,Netflix
-tt0332280,The Notebook,Google Play
-tt0332280,The Notebook,Amazon Instant Video
-tt0332280,The Notebook,iTunes
-tt0327597,Coraline,iTunes
-tt0327597,Coraline,Amazon Instant Video
-tt0327597,Coraline,Google Play
-tt0119822,As Good as It Gets,Amazon Instant Video
-tt0119822,As Good as It Gets,Google Play
-tt0119822,As Good as It Gets,iTunes
-tt0119822,As Good as It Gets,Amazon Prime Video
-tt0093870,RoboCop,iTunes
-tt0093870,RoboCop,Amazon Instant Video
-tt0093870,RoboCop,Google Play
-tt0416449,300,Google Play
-tt0416449,300,Amazon Instant Video
-tt0416449,300,iTunes
-tt0416449,300,Netflix
+tt1527788,The Man from Nowhere,"Amazon Instant Video, iTunes"
+tt0361748,Inglourious Basterds,"Amazon Instant Video, Google Play, iTunes"
+tt0051201,Witness for the Prosecution,"iTunes, Google Play, Amazon Instant Video"
+tt0332280,The Notebook,"Netflix, Google Play, Amazon Instant Video, iTunes"
+tt0327597,Coraline,"iTunes, Amazon Instant Video, Google Play"
+tt0119822,As Good as It Gets,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt0093870,RoboCop,"iTunes, Amazon Instant Video, Google Play"
+tt0416449,300,"Google Play, Amazon Instant Video, iTunes, Netflix"
 tt0091288,Jean de Florette,Amazon Instant Video
-tt0110357,The Lion King,Disney+
-tt0110357,The Lion King,iTunes
-tt0110357,The Lion King,Google Play
-tt0110357,The Lion King,Amazon Instant Video
-tt0398286,Tangled,iTunes
-tt0398286,Tangled,Amazon Instant Video
-tt0398286,Tangled,Disney+
-tt0398286,Tangled,Google Play
-tt0097576,Indiana Jones and the Last Crusade,Amazon Instant Video
-tt0097576,Indiana Jones and the Last Crusade,iTunes
-tt0097576,Indiana Jones and the Last Crusade,Google Play
-tt0241527,Harry Potter and the Philosopher's Stone,iTunes
-tt0241527,Harry Potter and the Philosopher's Stone,Google Play
-tt0241527,Harry Potter and the Philosopher's Stone,Amazon Instant Video
-tt0083866,E.T. the Extra-Terrestrial,Amazon Instant Video
-tt0083866,E.T. the Extra-Terrestrial,Google Play
-tt0083866,E.T. the Extra-Terrestrial,iTunes
-tt0379786,Serenity,iTunes
-tt0379786,Serenity,Google Play
-tt0379786,Serenity,Amazon Instant Video
-tt0130827,Run Lola Run,Google Play
-tt0130827,Run Lola Run,iTunes
-tt0130827,Run Lola Run,Amazon Instant Video
-tt0043338,Ace in the Hole,Amazon Instant Video
-tt0043338,Ace in the Hole,iTunes
-tt0043338,Ace in the Hole,Google Play
+tt0110357,The Lion King,"Disney+, iTunes, Google Play, Amazon Instant Video"
+tt0398286,Tangled,"iTunes, Amazon Instant Video, Disney+, Google Play"
+tt0097576,Indiana Jones and the Last Crusade,"Amazon Instant Video, iTunes, Google Play"
+tt0241527,Harry Potter and the Philosopher's Stone,"iTunes, Google Play, Amazon Instant Video"
+tt0083866,E.T. the Extra-Terrestrial,"Amazon Instant Video, Google Play, iTunes"
+tt0379786,Serenity,"iTunes, Google Play, Amazon Instant Video"
+tt0130827,Run Lola Run,"Google Play, iTunes, Amazon Instant Video"
+tt0043338,Ace in the Hole,"Amazon Instant Video, iTunes, Google Play"
 tt4901306,,
-tt1979376,Toy Story 4,iTunes
-tt1979376,Toy Story 4,Google Play
-tt1979376,Toy Story 4,Amazon Instant Video
-tt1979376,Toy Story 4,Disney+
-tt2631186,Baahubali: The Beginning,Netflix
-tt2631186,Baahubali: The Beginning,Google Play
-tt2631186,Baahubali: The Beginning,Amazon Instant Video
-tt2631186,Baahubali: The Beginning,iTunes
-tt0455590,The Last King of Scotland,iTunes
-tt0455590,The Last King of Scotland,Google Play
-tt0455590,The Last King of Scotland,Amazon Instant Video
+tt1979376,Toy Story 4,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt2631186,Baahubali: The Beginning,"Netflix, Google Play, Amazon Instant Video, iTunes"
+tt0455590,The Last King of Scotland,"iTunes, Google Play, Amazon Instant Video"
 tt2082197,Barfi!,Netflix
-tt0817177,Flipped,iTunes
-tt0817177,Flipped,Amazon Instant Video
-tt0817177,Flipped,Google Play
-tt0097937,My Left Foot,iTunes
-tt0097937,My Left Foot,Google Play
-tt0097937,My Left Foot,Amazon Instant Video
-tt0318411,The Magdalene Sisters,Amazon Instant Video
-tt0318411,The Magdalene Sisters,Google Play
-tt0318411,The Magdalene Sisters,iTunes
-tt0101507,Boyz n the Hood,iTunes
-tt0101507,Boyz n the Hood,Amazon Instant Video
-tt0101507,Boyz n the Hood,Google Play
-tt2106476,The Hunt,Amazon Prime Video
-tt2106476,The Hunt,Google Play
-tt2106476,The Hunt,iTunes
-tt2106476,The Hunt,Amazon Instant Video
-tt0108399,True Romance,Amazon Instant Video
-tt0108399,True Romance,Google Play
-tt0108399,True Romance,iTunes
+tt0817177,Flipped,"iTunes, Amazon Instant Video, Google Play"
+tt0097937,My Left Foot,"iTunes, Google Play, Amazon Instant Video"
+tt0318411,The Magdalene Sisters,"Amazon Instant Video, Google Play, iTunes"
+tt0101507,Boyz n the Hood,"iTunes, Amazon Instant Video, Google Play"
+tt2106476,The Hunt,"Amazon Prime Video, Google Play, iTunes, Amazon Instant Video"
+tt0108399,True Romance,"Amazon Instant Video, Google Play, iTunes"
 tt0091251,,
-tt0454876,Life of Pi,Amazon Instant Video
-tt0454876,Life of Pi,Google Play
-tt0454876,Life of Pi,iTunes
-tt5168192,"I, Daniel Blake",Amazon Instant Video
-tt5168192,"I, Daniel Blake",Google Play
-tt5168192,"I, Daniel Blake",iTunes
-tt0068361,The Discreet Charm of the Bourgeoisie,Amazon Instant Video
-tt0068361,The Discreet Charm of the Bourgeoisie,iTunes
-tt0068361,The Discreet Charm of the Bourgeoisie,Google Play
-tt0093779,The Princess Bride,iTunes
-tt0093779,The Princess Bride,Google Play
-tt0093779,The Princess Bride,Amazon Instant Video
-tt0093779,The Princess Bride,Disney+
-tt1306980,50/50,Google Play
-tt1306980,50/50,Amazon Instant Video
-tt1306980,50/50,iTunes
-tt1306980,50/50,Amazon Prime Video
+tt0454876,Life of Pi,"Amazon Instant Video, Google Play, iTunes"
+tt5168192,"I, Daniel Blake","Amazon Instant Video, Google Play, iTunes"
+tt0068361,The Discreet Charm of the Bourgeoisie,"Amazon Instant Video, iTunes, Google Play"
+tt0093779,The Princess Bride,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt1306980,50/50,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
 tt10366460,CODA,AppleTV+
 tt0056663,,
-tt0208092,Snatch,Google Play
-tt0208092,Snatch,Netflix
-tt0208092,Snatch,iTunes
-tt0208092,Snatch,Amazon Instant Video
-tt0208092,Snatch,Amazon Prime Video
-tt0080339,Airplane!,iTunes
-tt0080339,Airplane!,Google Play
-tt0080339,Airplane!,Amazon Instant Video
-tt0106489,A Bronx Tale,Amazon Instant Video
-tt0106489,A Bronx Tale,iTunes
-tt0106489,A Bronx Tale,Google Play
-tt0109117,Andaz Apna Apna,Amazon Instant Video
-tt0109117,Andaz Apna Apna,iTunes
-tt0109117,Andaz Apna Apna,Google Play
+tt0208092,Snatch,"Google Play, Netflix, iTunes, Amazon Instant Video, Amazon Prime Video"
+tt0080339,Airplane!,"iTunes, Google Play, Amazon Instant Video"
+tt0106489,A Bronx Tale,"Amazon Instant Video, iTunes, Google Play"
+tt0109117,Andaz Apna Apna,"Amazon Instant Video, iTunes, Google Play"
 tt0055018,,
-tt0059742,The Sound of Music,iTunes
-tt0059742,The Sound of Music,Google Play
-tt0059742,The Sound of Music,Amazon Instant Video
-tt0059742,The Sound of Music,Disney+
-tt0112864,Die Hard: With a Vengeance,iTunes
-tt0112864,Die Hard: With a Vengeance,Google Play
-tt0112864,Die Hard: With a Vengeance,Amazon Instant Video
-tt0112864,Die Hard: With a Vengeance,Amazon Prime Video
-tt0045274,Umberto D.,iTunes
-tt0045274,Umberto D.,Amazon Instant Video
-tt0111161,The Shawshank Redemption,iTunes
-tt0111161,The Shawshank Redemption,Google Play
-tt0111161,The Shawshank Redemption,Amazon Instant Video
-tt0264464,Catch Me If You Can,Netflix
-tt0264464,Catch Me If You Can,Amazon Instant Video
-tt0264464,Catch Me If You Can,Google Play
-tt0264464,Catch Me If You Can,iTunes
-tt0264464,Catch Me If You Can,Amazon Prime Video
-tt0926084,Harry Potter and the Deathly Hallows: Part 1,iTunes
-tt0926084,Harry Potter and the Deathly Hallows: Part 1,Google Play
-tt0926084,Harry Potter and the Deathly Hallows: Part 1,Amazon Instant Video
+tt0059742,The Sound of Music,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0112864,Die Hard: With a Vengeance,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
+tt0045274,Umberto D.,"iTunes, Amazon Instant Video"
+tt0111161,The Shawshank Redemption,"iTunes, Google Play, Amazon Instant Video"
+tt0264464,Catch Me If You Can,"Netflix, Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt0926084,Harry Potter and the Deathly Hallows: Part 1,"iTunes, Google Play, Amazon Instant Video"
 tt0117666,,
-tt5311514,Your Name.,iTunes
-tt5311514,Your Name.,Google Play
-tt5311514,Your Name.,Amazon Instant Video
-tt0063350,Night of the Living Dead,iTunes
-tt0063350,Night of the Living Dead,Amazon Instant Video
-tt0063350,Night of the Living Dead,Google Play
-tt0063350,Night of the Living Dead,Amazon Prime Video
-tt0058450,The Umbrellas of Cherbourg,iTunes
-tt0058450,The Umbrellas of Cherbourg,Google Play
-tt0058450,The Umbrellas of Cherbourg,Amazon Instant Video
-tt0401085,C.R.A.Z.Y.,iTunes
-tt0401085,C.R.A.Z.Y.,Google Play
-tt0401085,C.R.A.Z.Y.,Amazon Instant Video
-tt7019842,96,Amazon Instant Video
-tt7019842,96,Google Play
-tt0040522,The Bicycle Thieves,Amazon Instant Video
-tt0040522,The Bicycle Thieves,iTunes
-tt0040522,The Bicycle Thieves,Google Play
-tt0077651,Halloween,iTunes
-tt0077651,Halloween,Google Play
-tt0077651,Halloween,Amazon Instant Video
+tt5311514,Your Name.,"iTunes, Google Play, Amazon Instant Video"
+tt0063350,Night of the Living Dead,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0058450,The Umbrellas of Cherbourg,"iTunes, Google Play, Amazon Instant Video"
+tt0401085,C.R.A.Z.Y.,"iTunes, Google Play, Amazon Instant Video"
+tt7019842,96,"Amazon Instant Video, Google Play"
+tt0040522,The Bicycle Thieves,"Amazon Instant Video, iTunes, Google Play"
+tt0077651,Halloween,"iTunes, Google Play, Amazon Instant Video"
 tt0117631,,
-tt0168629,Dancer in the Dark,Amazon Instant Video
-tt0168629,Dancer in the Dark,iTunes
-tt0168629,Dancer in the Dark,Google Play
-tt0126029,Shrek,Amazon Instant Video
-tt0126029,Shrek,Netflix
-tt0126029,Shrek,iTunes
-tt0126029,Shrek,Google Play
-tt0126029,Shrek,Amazon Prime Video
-tt0059646,Repulsion,iTunes
-tt0059646,Repulsion,Google Play
-tt0059646,Repulsion,Amazon Instant Video
-tt0038355,The Big Sleep,iTunes
-tt0038355,The Big Sleep,Google Play
-tt0038355,The Big Sleep,Amazon Instant Video
-tt0097757,The Little Mermaid,Amazon Instant Video
-tt0097757,The Little Mermaid,Disney+
-tt0097757,The Little Mermaid,Google Play
-tt0097757,The Little Mermaid,iTunes
-tt0352248,Cinderella Man,Amazon Instant Video
-tt0352248,Cinderella Man,Google Play
-tt0352248,Cinderella Man,iTunes
+tt0168629,Dancer in the Dark,"Amazon Instant Video, iTunes, Google Play"
+tt0126029,Shrek,"Amazon Instant Video, Netflix, iTunes, Google Play, Amazon Prime Video"
+tt0059646,Repulsion,"iTunes, Google Play, Amazon Instant Video"
+tt0038355,The Big Sleep,"iTunes, Google Play, Amazon Instant Video"
+tt0097757,The Little Mermaid,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0352248,Cinderella Man,"Amazon Instant Video, Google Play, iTunes"
 tt4169250,,
-tt0374546,"Spring, Summer, Fall, Winter... and Spring",Amazon Instant Video
-tt0374546,"Spring, Summer, Fall, Winter... and Spring",iTunes
-tt0374546,"Spring, Summer, Fall, Winter... and Spring",Google Play
-tt0108550,What's Eating Gilbert Grape,iTunes
-tt0108550,What's Eating Gilbert Grape,Google Play
-tt0108550,What's Eating Gilbert Grape,Amazon Instant Video
-tt2543472,Wonder,Amazon Instant Video
-tt2543472,Wonder,Google Play
-tt2543472,Wonder,iTunes
-tt0023427,Scarface,iTunes
-tt0023427,Scarface,Amazon Instant Video
-tt0023427,Scarface,Google Play
-tt0298845,In America,iTunes
-tt0298845,In America,Google Play
-tt0298845,In America,Amazon Instant Video
-tt0166924,Mulholland Drive,Amazon Instant Video
-tt0166924,Mulholland Drive,Google Play
-tt0166924,Mulholland Drive,iTunes
-tt0049406,The Killing,iTunes
-tt0049406,The Killing,Google Play
-tt0049406,The Killing,Amazon Instant Video
-tt0113824,Whisper of the Heart,iTunes
-tt0113824,Whisper of the Heart,Google Play
-tt0113824,Whisper of the Heart,Amazon Instant Video
-tt0245712,Amores perros,iTunes
-tt0245712,Amores perros,Google Play
-tt0245712,Amores perros,Amazon Instant Video
-tt0381681,Before Sunset,Google Play
-tt0381681,Before Sunset,Amazon Instant Video
-tt0381681,Before Sunset,iTunes
-tt0051036,Sweet Smell of Success,iTunes
-tt0051036,Sweet Smell of Success,Amazon Instant Video
-tt0059113,Doctor Zhivago,iTunes
-tt0059113,Doctor Zhivago,Amazon Instant Video
-tt0059113,Doctor Zhivago,Google Play
-tt2350496,The Lunchbox,Amazon Instant Video
-tt2350496,The Lunchbox,Google Play
-tt2350496,The Lunchbox,iTunes
-tt0156887,Perfect Blue,Amazon Instant Video
-tt0156887,Perfect Blue,Google Play
-tt0156887,Perfect Blue,iTunes
-tt0106519,Carlito's Way,Amazon Instant Video
-tt0106519,Carlito's Way,iTunes
-tt0106519,Carlito's Way,Google Play
+tt0374546,"Spring, Summer, Fall, Winter... and Spring","Amazon Instant Video, iTunes, Google Play"
+tt0108550,What's Eating Gilbert Grape,"iTunes, Google Play, Amazon Instant Video"
+tt2543472,Wonder,"Amazon Instant Video, Google Play, iTunes"
+tt0023427,Scarface,"iTunes, Amazon Instant Video, Google Play"
+tt0298845,In America,"iTunes, Google Play, Amazon Instant Video"
+tt0166924,Mulholland Drive,"Amazon Instant Video, Google Play, iTunes"
+tt0049406,The Killing,"iTunes, Google Play, Amazon Instant Video"
+tt0113824,Whisper of the Heart,"iTunes, Google Play, Amazon Instant Video"
+tt0245712,Amores perros,"iTunes, Google Play, Amazon Instant Video"
+tt0381681,Before Sunset,"Google Play, Amazon Instant Video, iTunes"
+tt0051036,Sweet Smell of Success,"iTunes, Amazon Instant Video"
+tt0059113,Doctor Zhivago,"iTunes, Amazon Instant Video, Google Play"
+tt2350496,The Lunchbox,"Amazon Instant Video, Google Play, iTunes"
+tt0156887,Perfect Blue,"Amazon Instant Video, Google Play, iTunes"
+tt0106519,Carlito's Way,"Amazon Instant Video, iTunes, Google Play"
 tt1016150,All Quiet on the Western Front,Netflix
-tt0198781,"Monsters, Inc.",Amazon Instant Video
-tt0198781,"Monsters, Inc.",Disney+
-tt0198781,"Monsters, Inc.",Google Play
-tt0198781,"Monsters, Inc.",iTunes
+tt0198781,"Monsters, Inc.","Amazon Instant Video, Disney+, Google Play, iTunes"
 tt7218518,Padman,Netflix
-tt0246578,Donnie Darko,Amazon Instant Video
-tt0246578,Donnie Darko,Google Play
-tt0246578,Donnie Darko,iTunes
-tt0407887,The Departed,Netflix
-tt0407887,The Departed,Amazon Instant Video
-tt0407887,The Departed,Google Play
-tt0407887,The Departed,iTunes
-tt0338013,Eternal Sunshine of the Spotless Mind,iTunes
-tt0338013,Eternal Sunshine of the Spotless Mind,Google Play
-tt0338013,Eternal Sunshine of the Spotless Mind,Amazon Instant Video
-tt0070511,Papillon,Amazon Instant Video
-tt0070511,Papillon,iTunes
-tt0070511,Papillon,Google Play
-tt0033870,The Maltese Falcon,Google Play
-tt0033870,The Maltese Falcon,iTunes
-tt0033870,The Maltese Falcon,Amazon Instant Video
-tt9900782,Kaithi,iTunes
-tt9900782,Kaithi,Amazon Instant Video
-tt9900782,Kaithi,Google Play
-tt0105323,Scent of a Woman,Amazon Instant Video
-tt0105323,Scent of a Woman,Google Play
-tt0105323,Scent of a Woman,iTunes
-tt0181689,Minority Report,iTunes
-tt0181689,Minority Report,Google Play
-tt0181689,Minority Report,Amazon Prime Video
-tt0181689,Minority Report,Amazon Instant Video
-tt0072890,Dog Day Afternoon,Amazon Instant Video
-tt0072890,Dog Day Afternoon,Google Play
-tt0072890,Dog Day Afternoon,iTunes
-tt0071615,The Holy Mountain,iTunes
-tt0071615,The Holy Mountain,Amazon Instant Video
-tt0042876,Rashômon,iTunes
-tt0042876,Rashômon,Amazon Instant Video
-tt0144117,The Boondock Saints,iTunes
-tt0144117,The Boondock Saints,Google Play
-tt0144117,The Boondock Saints,Amazon Prime Video
-tt0144117,The Boondock Saints,Amazon Instant Video
-tt0106364,Batman: Mask of the Phantasm,Amazon Instant Video
-tt0106364,Batman: Mask of the Phantasm,Google Play
-tt0106364,Batman: Mask of the Phantasm,iTunes
-tt0367110,"Swades: We, the People",Google Play
-tt0367110,"Swades: We, the People",Netflix
-tt0367110,"Swades: We, the People",iTunes
-tt0114709,Toy Story,iTunes
-tt0114709,Toy Story,Google Play
-tt0114709,Toy Story,Disney+
-tt0114709,Toy Story,Amazon Instant Video
-tt3612616,Mommy,iTunes
-tt3612616,Mommy,Google Play
-tt3612616,Mommy,Amazon Instant Video
-tt0075314,Taxi Driver,iTunes
-tt0075314,Taxi Driver,Google Play
-tt0075314,Taxi Driver,Amazon Instant Video
-tt0075314,Taxi Driver,Netflix
-tt0109707,Ed Wood,Amazon Instant Video
-tt0109707,Ed Wood,Google Play
-tt0109707,Ed Wood,iTunes
+tt0246578,Donnie Darko,"Amazon Instant Video, Google Play, iTunes"
+tt0407887,The Departed,"Netflix, Amazon Instant Video, Google Play, iTunes"
+tt0338013,Eternal Sunshine of the Spotless Mind,"iTunes, Google Play, Amazon Instant Video"
+tt0070511,Papillon,"Amazon Instant Video, iTunes, Google Play"
+tt0033870,The Maltese Falcon,"Google Play, iTunes, Amazon Instant Video"
+tt9900782,Kaithi,"iTunes, Amazon Instant Video, Google Play"
+tt0105323,Scent of a Woman,"Amazon Instant Video, Google Play, iTunes"
+tt0181689,Minority Report,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0072890,Dog Day Afternoon,"Amazon Instant Video, Google Play, iTunes"
+tt0071615,The Holy Mountain,"iTunes, Amazon Instant Video"
+tt0042876,Rashômon,"iTunes, Amazon Instant Video"
+tt0144117,The Boondock Saints,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0106364,Batman: Mask of the Phantasm,"Amazon Instant Video, Google Play, iTunes"
+tt0367110,"Swades: We, the People","Google Play, Netflix, iTunes"
+tt0114709,Toy Story,"iTunes, Google Play, Disney+, Amazon Instant Video"
+tt3612616,Mommy,"iTunes, Google Play, Amazon Instant Video"
+tt0075314,Taxi Driver,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0109707,Ed Wood,"Amazon Instant Video, Google Play, iTunes"
 tt0038787,,
-tt0053198,The 400 Blows,iTunes
-tt0053198,The 400 Blows,Google Play
-tt0053198,The 400 Blows,Amazon Instant Video
-tt1924396,Deception,Google Play
-tt1924396,Deception,Amazon Instant Video
-tt1924396,Deception,iTunes
-tt0073312,Love and Death,iTunes
-tt0073312,Love and Death,Amazon Instant Video
-tt0073312,Love and Death,Google Play
-tt0029947,Bringing Up Baby,Amazon Instant Video
-tt0029947,Bringing Up Baby,Google Play
-tt0029947,Bringing Up Baby,iTunes
-tt0412080,The World's Fastest Indian,Amazon Instant Video
-tt0412080,The World's Fastest Indian,Google Play
-tt0412080,The World's Fastest Indian,iTunes
-tt0082096,Das Boot,iTunes
-tt0082096,Das Boot,Google Play
-tt0082096,Das Boot,Amazon Instant Video
-tt0032599,His Girl Friday,iTunes
-tt0032599,His Girl Friday,Google Play
-tt0032599,His Girl Friday,Amazon Prime Video
-tt0032599,His Girl Friday,Amazon Instant Video
-tt0086190,Star Wars: Episode VI - Return of the Jedi,Disney+
-tt0086190,Star Wars: Episode VI - Return of the Jedi,iTunes
-tt0086190,Star Wars: Episode VI - Return of the Jedi,Google Play
-tt0086190,Star Wars: Episode VI - Return of the Jedi,Amazon Instant Video
-tt0441773,Kung Fu Panda,iTunes
-tt0441773,Kung Fu Panda,Google Play
-tt0441773,Kung Fu Panda,Amazon Instant Video
-tt0441773,Kung Fu Panda,Netflix
-tt0067185,Harold and Maude,Google Play
-tt0067185,Harold and Maude,Amazon Instant Video
-tt0067185,Harold and Maude,iTunes
-tt0050976,The Seventh Seal,iTunes
-tt0050976,The Seventh Seal,Google Play
-tt0050976,The Seventh Seal,Amazon Instant Video
-tt0112471,Before Sunrise,iTunes
-tt0112471,Before Sunrise,Google Play
-tt0112471,Before Sunrise,Amazon Instant Video
-tt0080678,The Elephant Man,iTunes
-tt0080678,The Elephant Man,Google Play
-tt0080678,The Elephant Man,Amazon Instant Video
+tt0053198,The 400 Blows,"iTunes, Google Play, Amazon Instant Video"
+tt1924396,Deception,"Google Play, Amazon Instant Video, iTunes"
+tt0073312,Love and Death,"iTunes, Amazon Instant Video, Google Play"
+tt0029947,Bringing Up Baby,"Amazon Instant Video, Google Play, iTunes"
+tt0412080,The World's Fastest Indian,"Amazon Instant Video, Google Play, iTunes"
+tt0082096,Das Boot,"iTunes, Google Play, Amazon Instant Video"
+tt0032599,His Girl Friday,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0086190,Star Wars: Episode VI - Return of the Jedi,"Disney+, iTunes, Google Play, Amazon Instant Video"
+tt0441773,Kung Fu Panda,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0067185,Harold and Maude,"Google Play, Amazon Instant Video, iTunes"
+tt0050976,The Seventh Seal,"iTunes, Google Play, Amazon Instant Video"
+tt0112471,Before Sunrise,"iTunes, Google Play, Amazon Instant Video"
+tt0080678,The Elephant Man,"iTunes, Google Play, Amazon Instant Video"
 tt0074896,,
-tt0072684,Barry Lyndon,Google Play
-tt0072684,Barry Lyndon,Amazon Instant Video
-tt0072684,Barry Lyndon,iTunes
-tt0144084,American Psycho,iTunes
-tt0144084,American Psycho,Google Play
-tt0144084,American Psycho,Amazon Instant Video
-tt0051808,The Hidden Fortress,Amazon Instant Video
-tt0051808,The Hidden Fortress,iTunes
+tt0072684,Barry Lyndon,"Google Play, Amazon Instant Video, iTunes"
+tt0144084,American Psycho,"iTunes, Google Play, Amazon Instant Video"
+tt0051808,The Hidden Fortress,"Amazon Instant Video, iTunes"
 tt0032976,,
-tt0029843,The Adventures of Robin Hood,Amazon Instant Video
-tt0029843,The Adventures of Robin Hood,Google Play
-tt0029843,The Adventures of Robin Hood,iTunes
+tt0029843,The Adventures of Robin Hood,"Amazon Instant Video, Google Play, iTunes"
 tt0364569,,
-tt0277027,I Am Sam,Amazon Instant Video
-tt0277027,I Am Sam,Google Play
-tt0277027,I Am Sam,iTunes
-tt0050825,Paths of Glory,iTunes
-tt0050825,Paths of Glory,Google Play
-tt0050825,Paths of Glory,Amazon Instant Video
-tt0106977,The Fugitive,Google Play
-tt0106977,The Fugitive,iTunes
-tt0106977,The Fugitive,Amazon Instant Video
-tt0084787,The Thing,Google Play
-tt0084787,The Thing,iTunes
-tt0084787,The Thing,Amazon Instant Video
-tt0434409,V for Vendetta,Amazon Instant Video
-tt0434409,V for Vendetta,Google Play
-tt0434409,V for Vendetta,iTunes
-tt0409459,Watchmen,iTunes
-tt0409459,Watchmen,Amazon Instant Video
-tt0409459,Watchmen,Google Play
-tt0409459,Watchmen,Netflix
-tt0871510,Chakde! India,Amazon Prime Video
-tt0871510,Chakde! India,iTunes
-tt0871510,Chakde! India,Google Play
-tt8579674,1917,Amazon Instant Video
-tt8579674,1917,Google Play
-tt8579674,1917,iTunes
-tt0047437,Sabrina,iTunes
-tt0047437,Sabrina,Google Play
-tt0047437,Sabrina,Amazon Instant Video
-tt0080455,The Blues Brothers,iTunes
-tt0080455,The Blues Brothers,Google Play
-tt0080455,The Blues Brothers,Amazon Instant Video
-tt0080455,The Blues Brothers,Netflix
-tt0099674,The Godfather: Part III,Amazon Instant Video
-tt0099674,The Godfather: Part III,Google Play
-tt0099674,The Godfather: Part III,iTunes
-tt4849438,Baahubali 2: The Conclusion,Netflix
-tt4849438,Baahubali 2: The Conclusion,Google Play
-tt4849438,Baahubali 2: The Conclusion,Amazon Instant Video
-tt4849438,Baahubali 2: The Conclusion,iTunes
-tt1160419,Dune,Google Play
-tt1160419,Dune,iTunes
-tt1160419,Dune,Amazon Instant Video
-tt7668870,Searching,Amazon Instant Video
-tt7668870,Searching,Google Play
-tt7668870,Searching,iTunes
-tt4633694,Spider-Man: Into the Spider-Verse,Google Play
-tt4633694,Spider-Man: Into the Spider-Verse,iTunes
-tt4633694,Spider-Man: Into the Spider-Verse,Amazon Instant Video
-tt0087884,"Paris, Texas",Amazon Instant Video
-tt0087884,"Paris, Texas",iTunes
-tt2543164,Arrival,Google Play
-tt2543164,Arrival,iTunes
-tt2543164,Arrival,Amazon Instant Video
-tt0096283,My Neighbour Totoro,Google Play
-tt0096283,My Neighbour Totoro,Amazon Instant Video
-tt0096283,My Neighbour Totoro,iTunes
+tt0277027,I Am Sam,"Amazon Instant Video, Google Play, iTunes"
+tt0050825,Paths of Glory,"iTunes, Google Play, Amazon Instant Video"
+tt0106977,The Fugitive,"Google Play, iTunes, Amazon Instant Video"
+tt0084787,The Thing,"Google Play, iTunes, Amazon Instant Video"
+tt0434409,V for Vendetta,"Amazon Instant Video, Google Play, iTunes"
+tt0409459,Watchmen,"iTunes, Amazon Instant Video, Google Play, Netflix"
+tt0871510,Chakde! India,"Amazon Prime Video, iTunes, Google Play"
+tt8579674,1917,"Amazon Instant Video, Google Play, iTunes"
+tt0047437,Sabrina,"iTunes, Google Play, Amazon Instant Video"
+tt0080455,The Blues Brothers,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0099674,The Godfather: Part III,"Amazon Instant Video, Google Play, iTunes"
+tt4849438,Baahubali 2: The Conclusion,"Netflix, Google Play, Amazon Instant Video, iTunes"
+tt1160419,Dune,"Google Play, iTunes, Amazon Instant Video"
+tt7668870,Searching,"Amazon Instant Video, Google Play, iTunes"
+tt4633694,Spider-Man: Into the Spider-Verse,"Google Play, iTunes, Amazon Instant Video"
+tt0087884,"Paris, Texas","Amazon Instant Video, iTunes"
+tt2543164,Arrival,"Google Play, iTunes, Amazon Instant Video"
+tt0096283,My Neighbour Totoro,"Google Play, Amazon Instant Video, iTunes"
 tt12361178,Drishyam 2,Amazon Prime Video
-tt0028950,La grande illusion,iTunes
-tt0028950,La grande illusion,Google Play
-tt0028950,La grande illusion,Amazon Instant Video
-tt0097216,Do the Right Thing,Amazon Instant Video
-tt0097216,Do the Right Thing,Google Play
-tt0097216,Do the Right Thing,iTunes
-tt0097216,Do the Right Thing,Amazon Prime Video
-tt0119250,Hana-Bi,iTunes
-tt0119250,Hana-Bi,Google Play
-tt0119250,Hana-Bi,Amazon Instant Video
+tt0028950,La grande illusion,"iTunes, Google Play, Amazon Instant Video"
+tt0097216,Do the Right Thing,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt0119250,Hana-Bi,"iTunes, Google Play, Amazon Instant Video"
 tt1639426,Udaan,Netflix
-tt0401383,The Diving Bell and the Butterfly,Amazon Instant Video
-tt0401383,The Diving Bell and the Butterfly,Google Play
-tt0401383,The Diving Bell and the Butterfly,iTunes
-tt0071315,Chinatown,iTunes
-tt0071315,Chinatown,Amazon Instant Video
-tt0071315,Chinatown,Google Play
-tt4302938,Kubo and the Two Strings,iTunes
-tt4302938,Kubo and the Two Strings,Google Play
-tt4302938,Kubo and the Two Strings,Amazon Instant Video
-tt0046359,Stalag 17,Amazon Instant Video
-tt0046359,Stalag 17,iTunes
-tt0046359,Stalag 17,Google Play
-tt1727824,Bohemian Rhapsody,Google Play
-tt1727824,Bohemian Rhapsody,Amazon Instant Video
-tt1727824,Bohemian Rhapsody,iTunes
-tt10272386,The Father,iTunes
-tt10272386,The Father,Amazon Instant Video
-tt10272386,The Father,Google Play
-tt0042208,The Asphalt Jungle,iTunes
-tt0042208,The Asphalt Jungle,Google Play
-tt0042208,The Asphalt Jungle,Amazon Instant Video
-tt0036775,Double Indemnity,iTunes
-tt0036775,Double Indemnity,Google Play
-tt0036775,Double Indemnity,Amazon Instant Video
-tt0401792,Sin City,iTunes
-tt0401792,Sin City,Amazon Instant Video
-tt0401792,Sin City,Google Play
-tt10872600,Spider-Man: No Way Home,Amazon Instant Video
-tt10872600,Spider-Man: No Way Home,Google Play
-tt10872600,Spider-Man: No Way Home,iTunes
+tt0401383,The Diving Bell and the Butterfly,"Amazon Instant Video, Google Play, iTunes"
+tt0071315,Chinatown,"iTunes, Amazon Instant Video, Google Play"
+tt4302938,Kubo and the Two Strings,"iTunes, Google Play, Amazon Instant Video"
+tt0046359,Stalag 17,"Amazon Instant Video, iTunes, Google Play"
+tt1727824,Bohemian Rhapsody,"Google Play, Amazon Instant Video, iTunes"
+tt10272386,The Father,"iTunes, Amazon Instant Video, Google Play"
+tt0042208,The Asphalt Jungle,"iTunes, Google Play, Amazon Instant Video"
+tt0036775,Double Indemnity,"iTunes, Google Play, Amazon Instant Video"
+tt0401792,Sin City,"iTunes, Amazon Instant Video, Google Play"
+tt10872600,Spider-Man: No Way Home,"Amazon Instant Video, Google Play, iTunes"
 tt0106469,,
 tt8503618,Hamilton,Disney+
-tt0063522,Rosemary's Baby,iTunes
-tt0063522,Rosemary's Baby,Google Play
-tt0063522,Rosemary's Baby,Amazon Instant Video
-tt3544112,Sing Street,iTunes
-tt3544112,Sing Street,Google Play
-tt3544112,Sing Street,Amazon Instant Video
-tt0045555,The Big Heat,Amazon Instant Video
-tt0045555,The Big Heat,iTunes
-tt0045555,The Big Heat,Google Play
-tt1010048,Slumdog Millionaire,Google Play
-tt1010048,Slumdog Millionaire,Amazon Instant Video
-tt1010048,Slumdog Millionaire,iTunes
-tt1187043,3 Idiots,Google Play
-tt1187043,3 Idiots,iTunes
-tt1187043,3 Idiots,Netflix
-tt1187043,3 Idiots,Amazon Instant Video
-tt0120737,The Lord of the Rings: The Fellowship of the Ring,iTunes
-tt0120737,The Lord of the Rings: The Fellowship of the Ring,Google Play
-tt0120737,The Lord of the Rings: The Fellowship of the Ring,Amazon Prime Video
-tt0120737,The Lord of the Rings: The Fellowship of the Ring,Amazon Instant Video
-tt3748528,Rogue One: A Star Wars Story,Disney+
-tt3748528,Rogue One: A Star Wars Story,Amazon Instant Video
-tt3748528,Rogue One: A Star Wars Story,Google Play
-tt3748528,Rogue One: A Star Wars Story,iTunes
-tt0783233,Atonement,Google Play
-tt0783233,Atonement,Amazon Instant Video
-tt0783233,Atonement,iTunes
-tt0093058,Full Metal Jacket,Amazon Instant Video
-tt0093058,Full Metal Jacket,Google Play
-tt0093058,Full Metal Jacket,iTunes
-tt0286244,The Triplets of Belleville,Amazon Instant Video
-tt0286244,The Triplets of Belleville,Google Play
-tt0286244,The Triplets of Belleville,iTunes
-tt0325710,The Last Samurai,iTunes
-tt0325710,The Last Samurai,Google Play
-tt0325710,The Last Samurai,Amazon Instant Video
-tt0325710,The Last Samurai,Netflix
-tt1954470,Gangs of Wasseypur,Amazon Instant Video
-tt1954470,Gangs of Wasseypur,Google Play
-tt1954470,Gangs of Wasseypur,iTunes
-tt0087332,Ghostbusters,Amazon Instant Video
-tt0087332,Ghostbusters,iTunes
-tt0087332,Ghostbusters,Google Play
-tt0045152,Singin' in the Rain,Amazon Instant Video
-tt0045152,Singin' in the Rain,iTunes
-tt0045152,Singin' in the Rain,Google Play
-tt0046912,Dial M for Murder,iTunes
-tt0046912,Dial M for Murder,Google Play
-tt0046912,Dial M for Murder,Amazon Instant Video
-tt0308644,Finding Neverland,Amazon Instant Video
-tt0308644,Finding Neverland,iTunes
-tt0308644,Finding Neverland,Google Play
-tt0119698,Princess Mononoke,Amazon Instant Video
-tt0119698,Princess Mononoke,Google Play
-tt0119698,Princess Mononoke,iTunes
-tt0119698,Princess Mononoke,Netflix
+tt0063522,Rosemary's Baby,"iTunes, Google Play, Amazon Instant Video"
+tt3544112,Sing Street,"iTunes, Google Play, Amazon Instant Video"
+tt0045555,The Big Heat,"Amazon Instant Video, iTunes, Google Play"
+tt1010048,Slumdog Millionaire,"Google Play, Amazon Instant Video, iTunes"
+tt1187043,3 Idiots,"Google Play, iTunes, Netflix, Amazon Instant Video"
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt3748528,Rogue One: A Star Wars Story,"Disney+, Amazon Instant Video, Google Play, iTunes"
+tt0783233,Atonement,"Google Play, Amazon Instant Video, iTunes"
+tt0093058,Full Metal Jacket,"Amazon Instant Video, Google Play, iTunes"
+tt0286244,The Triplets of Belleville,"Amazon Instant Video, Google Play, iTunes"
+tt0325710,The Last Samurai,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt1954470,Gangs of Wasseypur,"Amazon Instant Video, Google Play, iTunes"
+tt0087332,Ghostbusters,"Amazon Instant Video, iTunes, Google Play"
+tt0045152,Singin' in the Rain,"Amazon Instant Video, iTunes, Google Play"
+tt0046912,Dial M for Murder,"iTunes, Google Play, Amazon Instant Video"
+tt0308644,Finding Neverland,"Amazon Instant Video, iTunes, Google Play"
+tt0119698,Princess Mononoke,"Amazon Instant Video, Google Play, iTunes, Netflix"
 tt0263438,,
-tt3841424,Land of Mine,Google Play
-tt3841424,Land of Mine,Amazon Instant Video
-tt3841424,Land of Mine,iTunes
-tt1182345,Moon,iTunes
-tt1182345,Moon,Google Play
-tt1182345,Moon,Amazon Instant Video
+tt3841424,Land of Mine,"Google Play, Amazon Instant Video, iTunes"
+tt1182345,Moon,"iTunes, Google Play, Amazon Instant Video"
 tt0338564,Infernal Affairs,iTunes
-tt0099785,Home Alone,Amazon Instant Video
-tt0099785,Home Alone,iTunes
-tt0099785,Home Alone,Google Play
-tt0099785,Home Alone,Disney+
-tt0112579,The Bridges of Madison County,Amazon Instant Video
-tt0112579,The Bridges of Madison County,iTunes
-tt0112579,The Bridges of Madison County,Google Play
-tt0112579,The Bridges of Madison County,Netflix
-tt0421715,The Curious Case of Benjamin Button,Google Play
-tt0421715,The Curious Case of Benjamin Button,Amazon Instant Video
-tt0421715,The Curious Case of Benjamin Button,iTunes
-tt0421715,The Curious Case of Benjamin Button,Amazon Prime Video
-tt7060344,Raatchasan,Google Play
-tt7060344,Raatchasan,iTunes
-tt7060344,Raatchasan,Amazon Prime Video
-tt7060344,Raatchasan,Amazon Instant Video
-tt0054997,The Hustler,Google Play
-tt0054997,The Hustler,Amazon Instant Video
-tt0054997,The Hustler,iTunes
+tt0099785,Home Alone,"Amazon Instant Video, iTunes, Google Play, Disney+"
+tt0112579,The Bridges of Madison County,"Amazon Instant Video, iTunes, Google Play, Netflix"
+tt0421715,The Curious Case of Benjamin Button,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt7060344,Raatchasan,"Google Play, iTunes, Amazon Prime Video, Amazon Instant Video"
+tt0054997,The Hustler,"Google Play, Amazon Instant Video, iTunes"
 tt0101640,Raise the Red Lantern,Amazon Instant Video
-tt0094226,The Untouchables,Amazon Instant Video
-tt0094226,The Untouchables,iTunes
-tt0094226,The Untouchables,Google Play
-tt0015648,Battleship Potemkin,Amazon Instant Video
-tt0015648,Battleship Potemkin,iTunes
-tt0373074,Kung Fu Hustle,iTunes
-tt0373074,Kung Fu Hustle,Google Play
-tt0373074,Kung Fu Hustle,Amazon Instant Video
-tt1291584,Warrior,iTunes
-tt1291584,Warrior,Amazon Instant Video
-tt1291584,Warrior,Google Play
-tt1291584,Warrior,Netflix
+tt0094226,The Untouchables,"Amazon Instant Video, iTunes, Google Play"
+tt0015648,Battleship Potemkin,"Amazon Instant Video, iTunes"
+tt0373074,Kung Fu Hustle,"iTunes, Google Play, Amazon Instant Video"
+tt1291584,Warrior,"iTunes, Amazon Instant Video, Google Play, Netflix"
 tt7653254,Marriage Story,Netflix
-tt0049833,The Ten Commandments,Amazon Instant Video
-tt0049833,The Ten Commandments,iTunes
-tt0049833,The Ten Commandments,Google Play
-tt0824747,Changeling,iTunes
-tt0824747,Changeling,Google Play
-tt0824747,Changeling,Amazon Instant Video
-tt0030341,The Lady Vanishes,iTunes
-tt0030341,The Lady Vanishes,Amazon Instant Video
-tt0048473,Pather Panchali,iTunes
-tt0048473,Pather Panchali,Google Play
-tt0048473,Pather Panchali,Amazon Instant Video
+tt0049833,The Ten Commandments,"Amazon Instant Video, iTunes, Google Play"
+tt0824747,Changeling,"iTunes, Google Play, Amazon Instant Video"
+tt0030341,The Lady Vanishes,"iTunes, Amazon Instant Video"
+tt0048473,Pather Panchali,"iTunes, Google Play, Amazon Instant Video"
 tt2140203,,
-tt0031679,Mr. Smith Goes to Washington,Google Play
-tt0031679,Mr. Smith Goes to Washington,iTunes
-tt0031679,Mr. Smith Goes to Washington,Amazon Instant Video
-tt0052357,Vertigo,Google Play
-tt0052357,Vertigo,iTunes
-tt0052357,Vertigo,Amazon Instant Video
+tt0031679,Mr. Smith Goes to Washington,"Google Play, iTunes, Amazon Instant Video"
+tt0052357,Vertigo,"Google Play, iTunes, Amazon Instant Video"
 tt5726616,,
-tt0095765,Cinema Paradiso,iTunes
-tt0095765,Cinema Paradiso,Amazon Instant Video
-tt0065531,Le cercle rouge,Amazon Instant Video
-tt0065531,Le cercle rouge,Google Play
-tt0065531,Le cercle rouge,iTunes
-tt0048424,The Night of the Hunter,iTunes
-tt0048424,The Night of the Hunter,Google Play
-tt0048424,The Night of the Hunter,Amazon Instant Video
-tt2562232,Birdman or (The Unexpected Virtue of Ignorance),iTunes
-tt2562232,Birdman or (The Unexpected Virtue of Ignorance),Google Play
-tt2562232,Birdman or (The Unexpected Virtue of Ignorance),Amazon Instant Video
-tt0876563,Ponyo,iTunes
-tt0876563,Ponyo,Google Play
-tt0876563,Ponyo,Amazon Instant Video
-tt0268126,Adaptation.,Amazon Instant Video
-tt0268126,Adaptation.,Google Play
-tt0268126,Adaptation.,iTunes
+tt0095765,Cinema Paradiso,"iTunes, Amazon Instant Video"
+tt0065531,Le cercle rouge,"Amazon Instant Video, Google Play, iTunes"
+tt0048424,The Night of the Hunter,"iTunes, Google Play, Amazon Instant Video"
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),"iTunes, Google Play, Amazon Instant Video"
+tt0876563,Ponyo,"iTunes, Google Play, Amazon Instant Video"
+tt0268126,Adaptation.,"Amazon Instant Video, Google Play, iTunes"
 tt4016934,The Handmaiden,Amazon Prime Video
 tt0378194,,
-tt0053291,Some Like It Hot,iTunes
-tt0053291,Some Like It Hot,Google Play
-tt0053291,Some Like It Hot,Amazon Instant Video
-tt0017136,Metropolis,Amazon Instant Video
-tt0017136,Metropolis,Google Play
-tt0017136,Metropolis,iTunes
-tt0066999,Dirty Harry,Amazon Instant Video
-tt0066999,Dirty Harry,iTunes
-tt0066999,Dirty Harry,Google Play
-tt0088680,After Hours,iTunes
-tt0088680,After Hours,Google Play
-tt0088680,After Hours,Amazon Instant Video
-tt2181931,English Vinglish,Google Play
-tt2181931,English Vinglish,iTunes
-tt0405159,Million Dollar Baby,Google Play
-tt0405159,Million Dollar Baby,Amazon Instant Video
-tt0405159,Million Dollar Baby,iTunes
-tt2948372,Soul,Google Play
-tt2948372,Soul,Amazon Instant Video
-tt2948372,Soul,iTunes
-tt2948372,Soul,Disney+
-tt0037884,The Lost Weekend,Amazon Instant Video
-tt0037884,The Lost Weekend,Google Play
-tt0037884,The Lost Weekend,iTunes
-tt0066921,A Clockwork Orange,iTunes
-tt0066921,A Clockwork Orange,Google Play
-tt0066921,A Clockwork Orange,Amazon Instant Video
-tt0066921,A Clockwork Orange,Netflix
+tt0053291,Some Like It Hot,"iTunes, Google Play, Amazon Instant Video"
+tt0017136,Metropolis,"Amazon Instant Video, Google Play, iTunes"
+tt0066999,Dirty Harry,"Amazon Instant Video, iTunes, Google Play"
+tt0088680,After Hours,"iTunes, Google Play, Amazon Instant Video"
+tt2181931,English Vinglish,"Google Play, iTunes"
+tt0405159,Million Dollar Baby,"Google Play, Amazon Instant Video, iTunes"
+tt2948372,Soul,"Google Play, Amazon Instant Video, iTunes, Disney+"
+tt0037884,The Lost Weekend,"Amazon Instant Video, Google Play, iTunes"
+tt0066921,A Clockwork Orange,"iTunes, Google Play, Amazon Instant Video, Netflix"
 tt0072431,Young Frankenstein,Amazon Prime Video
 tt0107653,,
 tt0172495,,
-tt0851578,Paprika,iTunes
-tt0851578,Paprika,Google Play
-tt0851578,Paprika,Amazon Instant Video
-tt0090967,Down by Law,iTunes
-tt0090967,Down by Law,Amazon Instant Video
-tt1431045,Deadpool,Disney+
-tt1431045,Deadpool,Amazon Instant Video
-tt1431045,Deadpool,Google Play
-tt1431045,Deadpool,iTunes
-tt0053946,Inherit the Wind,iTunes
-tt0053946,Inherit the Wind,Google Play
-tt0053946,Inherit the Wind,Amazon Instant Video
-tt0361862,The Machinist,Google Play
-tt0361862,The Machinist,Amazon Instant Video
-tt0361862,The Machinist,iTunes
-tt0361862,The Machinist,Amazon Prime Video
-tt2395469,Gully Boy,Amazon Prime Video
-tt2395469,Gully Boy,Google Play
-tt2395469,Gully Boy,iTunes
-tt0030993,You Can't Take It with You,Amazon Instant Video
-tt0030993,You Can't Take It with You,Google Play
-tt0030993,You Can't Take It with You,iTunes
-tt0089881,Ran,iTunes
-tt0089881,Ran,Google Play
-tt0089881,Ran,Amazon Instant Video
-tt1250777,Kick-Ass,Amazon Instant Video
-tt1250777,Kick-Ass,iTunes
-tt1250777,Kick-Ass,Google Play
+tt0851578,Paprika,"iTunes, Google Play, Amazon Instant Video"
+tt0090967,Down by Law,"iTunes, Amazon Instant Video"
+tt1431045,Deadpool,"Disney+, Amazon Instant Video, Google Play, iTunes"
+tt0053946,Inherit the Wind,"iTunes, Google Play, Amazon Instant Video"
+tt0361862,The Machinist,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt2395469,Gully Boy,"Amazon Prime Video, Google Play, iTunes"
+tt0030993,You Can't Take It with You,"Amazon Instant Video, Google Play, iTunes"
+tt0089881,Ran,"iTunes, Google Play, Amazon Instant Video"
+tt1250777,Kick-Ass,"Amazon Instant Video, iTunes, Google Play"
 tt1535109,,
 tt0200087,,
 tt1069238,Departures,Google Play
-tt0069293,Solaris,Amazon Instant Video
-tt0069293,Solaris,Google Play
-tt0069293,Solaris,iTunes
-tt0042593,In a Lonely Place,Amazon Instant Video
-tt0042593,In a Lonely Place,Google Play
-tt0042593,In a Lonely Place,iTunes
-tt0026778,A Night at the Opera,iTunes
-tt0026778,A Night at the Opera,Amazon Instant Video
-tt0026778,A Night at the Opera,Google Play
-tt0079417,Kramer vs. Kramer,iTunes
-tt0079417,Kramer vs. Kramer,Google Play
-tt0079417,Kramer vs. Kramer,Amazon Instant Video
-tt0947798,Black Swan,Amazon Instant Video
-tt0947798,Black Swan,Google Play
-tt0947798,Black Swan,iTunes
-tt0057115,The Great Escape,iTunes
-tt0057115,The Great Escape,Google Play
-tt0057115,The Great Escape,Amazon Instant Video
+tt0069293,Solaris,"Amazon Instant Video, Google Play, iTunes"
+tt0042593,In a Lonely Place,"Amazon Instant Video, Google Play, iTunes"
+tt0026778,A Night at the Opera,"iTunes, Amazon Instant Video, Google Play"
+tt0079417,Kramer vs. Kramer,"iTunes, Google Play, Amazon Instant Video"
+tt0947798,Black Swan,"Amazon Instant Video, Google Play, iTunes"
+tt0057115,The Great Escape,"iTunes, Google Play, Amazon Instant Video"
 tt0405508,Colour It Yellow,Netflix
-tt0079944,Stalker,iTunes
-tt0079944,Stalker,Google Play
-tt0079944,Stalker,Amazon Instant Video
-tt0065571,The Conformist,Google Play
-tt0065571,The Conformist,iTunes
-tt0166896,The Straight Story,Amazon Instant Video
-tt0166896,The Straight Story,Disney+
-tt0166896,The Straight Story,Google Play
-tt0166896,The Straight Story,iTunes
-tt0062467,Wait Until Dark,Amazon Instant Video
-tt0062467,Wait Until Dark,iTunes
-tt0062467,Wait Until Dark,Google Play
-tt2024519,The Broken Circle Breakdown,Amazon Instant Video
-tt2024519,The Broken Circle Breakdown,Google Play
-tt2024519,The Broken Circle Breakdown,iTunes
+tt0079944,Stalker,"iTunes, Google Play, Amazon Instant Video"
+tt0065571,The Conformist,"Google Play, iTunes"
+tt0166896,The Straight Story,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0062467,Wait Until Dark,"Amazon Instant Video, iTunes, Google Play"
+tt2024519,The Broken Circle Breakdown,"Amazon Instant Video, Google Play, iTunes"
 tt0372824,,
-tt1832382,A Separation,iTunes
-tt1832382,A Separation,Amazon Instant Video
-tt1832382,A Separation,Google Play
-tt0365748,Shaun of the Dead,Amazon Instant Video
-tt0365748,Shaun of the Dead,Google Play
-tt0365748,Shaun of the Dead,iTunes
-tt0047396,Rear Window,Google Play
-tt0047396,Rear Window,iTunes
-tt0047396,Rear Window,Amazon Instant Video
-tt0050783,Nights of Cabiria,Amazon Instant Video
-tt0050783,Nights of Cabiria,iTunes
-tt0050783,Nights of Cabiria,Google Play
-tt0114746,Twelve Monkeys,Amazon Instant Video
-tt0114746,Twelve Monkeys,iTunes
-tt0114746,Twelve Monkeys,Google Play
+tt1832382,A Separation,"iTunes, Amazon Instant Video, Google Play"
+tt0365748,Shaun of the Dead,"Amazon Instant Video, Google Play, iTunes"
+tt0047396,Rear Window,"Google Play, iTunes, Amazon Instant Video"
+tt0050783,Nights of Cabiria,"Amazon Instant Video, iTunes, Google Play"
+tt0114746,Twelve Monkeys,"Amazon Instant Video, iTunes, Google Play"
 tt1242422,,
-tt0119174,The Game,Amazon Instant Video
-tt0119174,The Game,Netflix
-tt0119174,The Game,Google Play
-tt0119174,The Game,iTunes
-tt3170832,Room,Amazon Instant Video
-tt3170832,Room,Google Play
-tt3170832,Room,iTunes
+tt0119174,The Game,"Amazon Instant Video, Netflix, Google Play, iTunes"
+tt3170832,Room,"Amazon Instant Video, Google Play, iTunes"
 tt0240772,,
-tt0780536,In Bruges,Amazon Instant Video
-tt0780536,In Bruges,Google Play
-tt0780536,In Bruges,iTunes
-tt0780536,In Bruges,Amazon Prime Video
+tt0780536,In Bruges,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
 tt0418455,,
-tt0128445,Rushmore,iTunes
-tt0128445,Rushmore,Google Play
-tt0128445,Rushmore,Amazon Instant Video
-tt0128445,Rushmore,Amazon Prime Video
+tt0128445,Rushmore,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
 tt15327088,,
-tt0081398,Raging Bull,Google Play
-tt0081398,Raging Bull,iTunes
-tt0081398,Raging Bull,Amazon Instant Video
-tt0046250,Roman Holiday,Google Play
-tt0046250,Roman Holiday,Amazon Instant Video
-tt0046250,Roman Holiday,iTunes
-tt0085334,A Christmas Story,iTunes
-tt0085334,A Christmas Story,Google Play
-tt0085334,A Christmas Story,Amazon Instant Video
-tt0097165,Dead Poets Society,Amazon Instant Video
-tt0097165,Dead Poets Society,iTunes
-tt0097165,Dead Poets Society,Google Play
-tt0097165,Dead Poets Society,Amazon Prime Video
-tt3397884,Sicario,Amazon Instant Video
-tt3397884,Sicario,Google Play
-tt3397884,Sicario,iTunes
-tt0421082,Control,Amazon Instant Video
-tt0421082,Control,Google Play
-tt0421082,Control,iTunes
-tt0110729,Once Were Warriors,Google Play
-tt0110729,Once Were Warriors,iTunes
-tt0110729,Once Were Warriors,Amazon Instant Video
-tt1588170,I Saw the Devil,iTunes
-tt1588170,I Saw the Devil,Amazon Instant Video
-tt1588170,I Saw the Devil,Google Play
-tt1588170,I Saw the Devil,Amazon Prime Video
-tt0118749,Boogie Nights,Amazon Instant Video
-tt0118749,Boogie Nights,Google Play
-tt0118749,Boogie Nights,iTunes
-tt0118749,Boogie Nights,Netflix
-tt0056801,Eight and a Half,Amazon Instant Video
-tt0056801,Eight and a Half,Google Play
-tt0056801,Eight and a Half,iTunes
-tt9052870,Chhichhore,Google Play
-tt9052870,Chhichhore,iTunes
-tt0111495,Three Colours: Red,iTunes
-tt0111495,Three Colours: Red,Amazon Instant Video
+tt0081398,Raging Bull,"Google Play, iTunes, Amazon Instant Video"
+tt0046250,Roman Holiday,"Google Play, Amazon Instant Video, iTunes"
+tt0085334,A Christmas Story,"iTunes, Google Play, Amazon Instant Video"
+tt0097165,Dead Poets Society,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
+tt3397884,Sicario,"Amazon Instant Video, Google Play, iTunes"
+tt0421082,Control,"Amazon Instant Video, Google Play, iTunes"
+tt0110729,Once Were Warriors,"Google Play, iTunes, Amazon Instant Video"
+tt1588170,I Saw the Devil,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0118749,Boogie Nights,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0056801,Eight and a Half,"Amazon Instant Video, Google Play, iTunes"
+tt9052870,Chhichhore,"Google Play, iTunes"
+tt0111495,Three Colours: Red,"iTunes, Amazon Instant Video"
 tt0047528,,
-tt0093389,The Last Emperor,Amazon Instant Video
-tt0093389,The Last Emperor,iTunes
-tt1136608,District 9,iTunes
-tt1136608,District 9,Google Play
-tt1136608,District 9,Amazon Instant Video
+tt0093389,The Last Emperor,"Amazon Instant Video, iTunes"
+tt1136608,District 9,"iTunes, Google Play, Amazon Instant Video"
 tt0108122,,
-tt1201607,Harry Potter and the Deathly Hallows: Part 2,iTunes
-tt1201607,Harry Potter and the Deathly Hallows: Part 2,Google Play
-tt1201607,Harry Potter and the Deathly Hallows: Part 2,Amazon Instant Video
-tt0078841,Being There,Amazon Instant Video
-tt0078841,Being There,iTunes
-tt0078841,Being There,Google Play
-tt0042546,Harvey,Amazon Instant Video
-tt0042546,Harvey,Google Play
-tt0042546,Harvey,iTunes
-tt0015864,The Gold Rush,iTunes
-tt0015864,The Gold Rush,Amazon Instant Video
-tt0108358,Tombstone,iTunes
-tt0108358,Tombstone,Google Play
-tt0108358,Tombstone,Amazon Instant Video
-tt0108358,Tombstone,Amazon Prime Video
-tt4430212,Drishyam,Netflix
-tt4430212,Drishyam,Amazon Instant Video
-tt4430212,Drishyam,iTunes
-tt4430212,Drishyam,Google Play
-tt0058331,Mary Poppins,iTunes
-tt0058331,Mary Poppins,Google Play
-tt0058331,Mary Poppins,Amazon Instant Video
-tt0058331,Mary Poppins,Disney+
-tt2194499,About Time,Amazon Instant Video
-tt2194499,About Time,Google Play
-tt2194499,About Time,iTunes
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,"iTunes, Google Play, Amazon Instant Video"
+tt0078841,Being There,"Amazon Instant Video, iTunes, Google Play"
+tt0042546,Harvey,"Amazon Instant Video, Google Play, iTunes"
+tt0015864,The Gold Rush,"iTunes, Amazon Instant Video"
+tt0108358,Tombstone,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
+tt4430212,Drishyam,"Netflix, Amazon Instant Video, iTunes, Google Play"
+tt0058331,Mary Poppins,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt2194499,About Time,"Amazon Instant Video, Google Play, iTunes"
 tt0154420,,
-tt0114814,The Usual Suspects,Google Play
-tt0114814,The Usual Suspects,iTunes
-tt0114814,The Usual Suspects,Amazon Prime Video
-tt0110912,Pulp Fiction,iTunes
-tt0110912,Pulp Fiction,Google Play
-tt0110912,Pulp Fiction,Amazon Instant Video
-tt0093409,Lethal Weapon,Amazon Instant Video
-tt0093409,Lethal Weapon,Google Play
-tt0093409,Lethal Weapon,iTunes
-tt0071230,Blazing Saddles,iTunes
-tt0071230,Blazing Saddles,Google Play
-tt0071230,Blazing Saddles,Amazon Instant Video
-tt0091064,The Fly,Google Play
-tt0091064,The Fly,iTunes
-tt0091064,The Fly,Amazon Instant Video
-tt0353969,Memories of Murder,Amazon Instant Video
-tt0353969,Memories of Murder,Google Play
-tt0353969,Memories of Murder,iTunes
-tt0050613,Throne of Blood,iTunes
-tt0050613,Throne of Blood,Amazon Instant Video
+tt0114814,The Usual Suspects,"Google Play, iTunes, Amazon Prime Video"
+tt0110912,Pulp Fiction,"iTunes, Google Play, Amazon Instant Video"
+tt0093409,Lethal Weapon,"Amazon Instant Video, Google Play, iTunes"
+tt0071230,Blazing Saddles,"iTunes, Google Play, Amazon Instant Video"
+tt0091064,The Fly,"Google Play, iTunes, Amazon Instant Video"
+tt0353969,Memories of Murder,"Amazon Instant Video, Google Play, iTunes"
+tt0050613,Throne of Blood,"iTunes, Amazon Instant Video"
 tt0242519,,
-tt0475276,United 93,iTunes
-tt0475276,United 93,Google Play
-tt0475276,United 93,Amazon Instant Video
-tt8613070,Portrait of a Lady on Fire,iTunes
-tt8613070,Portrait of a Lady on Fire,Google Play
-tt8613070,Portrait of a Lady on Fire,Amazon Instant Video
-tt1631867,Edge of Tomorrow,Amazon Instant Video
-tt1631867,Edge of Tomorrow,iTunes
-tt1631867,Edge of Tomorrow,Google Play
-tt0115751,Breaking the Waves,iTunes
-tt0115751,Breaking the Waves,Google Play
-tt0115751,Breaking the Waves,Amazon Instant Video
-tt1216496,Mother,iTunes
-tt1216496,Mother,Amazon Prime Video
-tt1216496,Mother,Amazon Instant Video
-tt4154756,Avengers: Infinity War,Amazon Instant Video
-tt4154756,Avengers: Infinity War,Disney+
-tt4154756,Avengers: Infinity War,Google Play
-tt4154756,Avengers: Infinity War,iTunes
-tt0098635,When Harry Met Sally,iTunes
-tt0098635,When Harry Met Sally,Amazon Instant Video
-tt0098635,When Harry Met Sally,Google Play
-tt0098635,When Harry Met Sally,Netflix
-tt0101765,The Double Life of Véronique,iTunes
-tt0101765,The Double Life of Véronique,Amazon Instant Video
-tt1596363,The Big Short,iTunes
-tt1596363,The Big Short,Google Play
-tt1596363,The Big Short,Amazon Instant Video
+tt0475276,United 93,"iTunes, Google Play, Amazon Instant Video"
+tt8613070,Portrait of a Lady on Fire,"iTunes, Google Play, Amazon Instant Video"
+tt1631867,Edge of Tomorrow,"Amazon Instant Video, iTunes, Google Play"
+tt0115751,Breaking the Waves,"iTunes, Google Play, Amazon Instant Video"
+tt1216496,Mother,"iTunes, Amazon Prime Video, Amazon Instant Video"
+tt4154756,Avengers: Infinity War,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0098635,When Harry Met Sally,"iTunes, Amazon Instant Video, Google Play, Netflix"
+tt0101765,The Double Life of Véronique,"iTunes, Amazon Instant Video"
+tt1596363,The Big Short,"iTunes, Google Play, Amazon Instant Video"
 tt0110877,,
-tt0070544,Fantastic Planet,iTunes
-tt0070544,Fantastic Planet,Google Play
-tt0070544,Fantastic Planet,Amazon Instant Video
-tt1024648,Argo,Google Play
-tt1024648,Argo,Amazon Instant Video
-tt1024648,Argo,iTunes
-tt1024648,Argo,Netflix
-tt0317705,The Incredibles,iTunes
-tt0317705,The Incredibles,Disney+
-tt0317705,The Incredibles,Amazon Instant Video
-tt0317705,The Incredibles,Google Play
-tt9477520,Asuran,Google Play
-tt9477520,Asuran,Amazon Prime Video
-tt0078748,Alien,iTunes
-tt0078748,Alien,Amazon Instant Video
-tt0078748,Alien,Google Play
-tt0078748,Alien,Amazon Prime Video
-tt0910970,WALL·E,Google Play
-tt0910970,WALL·E,Disney+
-tt0910970,WALL·E,iTunes
-tt0910970,WALL·E,Amazon Instant Video
-tt0095953,Rain Man,Amazon Instant Video
-tt0095953,Rain Man,iTunes
-tt0095953,Rain Man,Google Play
+tt0070544,Fantastic Planet,"iTunes, Google Play, Amazon Instant Video"
+tt1024648,Argo,"Google Play, Amazon Instant Video, iTunes, Netflix"
+tt0317705,The Incredibles,"iTunes, Disney+, Amazon Instant Video, Google Play"
+tt9477520,Asuran,"Google Play, Amazon Prime Video"
+tt0078748,Alien,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0910970,WALL·E,"Google Play, Disney+, iTunes, Amazon Instant Video"
+tt0095953,Rain Man,"Amazon Instant Video, iTunes, Google Play"
 tt10324144,Article 15,Netflix
-tt0435761,Toy Story 3,Amazon Instant Video
-tt0435761,Toy Story 3,Disney+
-tt0435761,Toy Story 3,Google Play
-tt0435761,Toy Story 3,iTunes
-tt0129167,The Iron Giant,iTunes
-tt0129167,The Iron Giant,Amazon Instant Video
-tt0129167,The Iron Giant,Google Play
-tt0077405,Days of Heaven,iTunes
-tt0077405,Days of Heaven,Google Play
-tt0077405,Days of Heaven,Amazon Prime Video
-tt0077405,Days of Heaven,Amazon Instant Video
-tt10288566,Another Round,iTunes
-tt10288566,Another Round,Google Play
-tt10288566,Another Round,Amazon Instant Video
-tt1345836,The Dark Knight Rises,iTunes
-tt1345836,The Dark Knight Rises,Google Play
-tt1345836,The Dark Knight Rises,Amazon Instant Video
-tt1345836,The Dark Knight Rises,Netflix
-tt0045061,The Quiet Man,iTunes
-tt0045061,The Quiet Man,Google Play
-tt0045061,The Quiet Man,Amazon Instant Video
+tt0435761,Toy Story 3,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0129167,The Iron Giant,"iTunes, Amazon Instant Video, Google Play"
+tt0077405,Days of Heaven,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt10288566,Another Round,"iTunes, Google Play, Amazon Instant Video"
+tt1345836,The Dark Knight Rises,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0045061,The Quiet Man,"iTunes, Google Play, Amazon Instant Video"
 tt5764096,Hindi Medium,Amazon Prime Video
-tt7131622,Once Upon a Time ... in Hollywood,Amazon Instant Video
-tt7131622,Once Upon a Time ... in Hollywood,Google Play
-tt7131622,Once Upon a Time ... in Hollywood,iTunes
+tt7131622,Once Upon a Time ... in Hollywood,"Amazon Instant Video, Google Play, iTunes"
 tt7485048,,
-tt0765429,American Gangster,Amazon Instant Video
-tt0765429,American Gangster,Google Play
-tt0765429,American Gangster,iTunes
-tt0765429,American Gangster,Netflix
-tt0243017,Waking Life,Amazon Instant Video
-tt0243017,Waking Life,Google Play
-tt0243017,Waking Life,iTunes
-tt0043265,The African Queen,Amazon Instant Video
-tt0043265,The African Queen,Google Play
-tt0043265,The African Queen,iTunes
-tt0064116,Once Upon a Time in the West,iTunes
-tt0064116,Once Upon a Time in the West,Amazon Prime Video
-tt0064116,Once Upon a Time in the West,Google Play
-tt0064116,Once Upon a Time in the West,Amazon Instant Video
-tt6710474,Everything Everywhere All at Once,Amazon Instant Video
-tt6710474,Everything Everywhere All at Once,Google Play
-tt6710474,Everything Everywhere All at Once,iTunes
-tt0053459,Eyes Without a Face,Amazon Instant Video
-tt0053459,Eyes Without a Face,iTunes
-tt0052618,Ben-Hur,iTunes
-tt0052618,Ben-Hur,Amazon Instant Video
-tt0052618,Ben-Hur,Google Play
+tt0765429,American Gangster,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0243017,Waking Life,"Amazon Instant Video, Google Play, iTunes"
+tt0043265,The African Queen,"Amazon Instant Video, Google Play, iTunes"
+tt0064116,Once Upon a Time in the West,"iTunes, Amazon Prime Video, Google Play, Amazon Instant Video"
+tt6710474,Everything Everywhere All at Once,"Amazon Instant Video, Google Play, iTunes"
+tt0053459,Eyes Without a Face,"Amazon Instant Video, iTunes"
+tt0052618,Ben-Hur,"iTunes, Amazon Instant Video, Google Play"
 tt0986264,Like Stars on Earth,Netflix
-tt1745960,Top Gun: Maverick,Amazon Instant Video
-tt1745960,Top Gun: Maverick,Google Play
-tt1745960,Top Gun: Maverick,iTunes
-tt0070047,The Exorcist,Amazon Instant Video
-tt0070047,The Exorcist,Google Play
-tt0070047,The Exorcist,iTunes
-tt0070047,The Exorcist,Netflix
-tt1045658,Silver Linings Playbook,iTunes
-tt1045658,Silver Linings Playbook,Google Play
-tt1045658,Silver Linings Playbook,Amazon Instant Video
-tt1045658,Silver Linings Playbook,AppleTV+
-tt1045658,Silver Linings Playbook,Netflix
-tt0829482,Superbad,iTunes
-tt0829482,Superbad,Google Play
-tt0829482,Superbad,Amazon Instant Video
-tt0371746,Iron Man,Disney+
-tt0371746,Iron Man,Amazon Instant Video
-tt0371746,Iron Man,Google Play
-tt0371746,Iron Man,iTunes
-tt0075029,The Outlaw Josey Wales,Amazon Instant Video
-tt0075029,The Outlaw Josey Wales,iTunes
-tt0075029,The Outlaw Josey Wales,Google Play
-tt5027774,"Three Billboards Outside Ebbing, Missouri",Amazon Instant Video
-tt5027774,"Three Billboards Outside Ebbing, Missouri",Google Play
-tt5027774,"Three Billboards Outside Ebbing, Missouri",iTunes
-tt2584384,Jojo Rabbit,iTunes
-tt2584384,Jojo Rabbit,Google Play
-tt2584384,Jojo Rabbit,Amazon Instant Video
+tt1745960,Top Gun: Maverick,"Amazon Instant Video, Google Play, iTunes"
+tt0070047,The Exorcist,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt1045658,Silver Linings Playbook,"iTunes, Google Play, Amazon Instant Video, AppleTV+, Netflix"
+tt0829482,Superbad,"iTunes, Google Play, Amazon Instant Video"
+tt0371746,Iron Man,"Disney+, Amazon Instant Video, Google Play, iTunes"
+tt0075029,The Outlaw Josey Wales,"Amazon Instant Video, iTunes, Google Play"
+tt5027774,"Three Billboards Outside Ebbing, Missouri","Amazon Instant Video, Google Play, iTunes"
+tt2584384,Jojo Rabbit,"iTunes, Google Play, Amazon Instant Video"
 tt0118694,,
 tt0347048,Head-On,Amazon Instant Video
-tt0037558,Brief Encounter,Amazon Instant Video
-tt0037558,Brief Encounter,iTunes
-tt4698684,Hunt for the Wilderpeople,iTunes
-tt4698684,Hunt for the Wilderpeople,Google Play
-tt4698684,Hunt for the Wilderpeople,Amazon Instant Video
-tt4698684,Hunt for the Wilderpeople,Netflix
-tt0053619,L'Avventura,Amazon Instant Video
-tt0053619,L'Avventura,iTunes
-tt0060196,"The Good, the Bad and the Ugly",Amazon Instant Video
-tt0060196,"The Good, the Bad and the Ugly",iTunes
-tt0060196,"The Good, the Bad and the Ugly",Google Play
-tt1504320,The King's Speech,Amazon Instant Video
-tt1504320,The King's Speech,Google Play
-tt1504320,The King's Speech,iTunes
-tt0056732,The Exterminating Angel,iTunes
-tt0056732,The Exterminating Angel,Google Play
-tt0056732,The Exterminating Angel,Amazon Instant Video
-tt0055630,Yojimbo,iTunes
-tt0055630,Yojimbo,Amazon Instant Video
-tt0112870,Dilwale Dulhania Le Jayenge,Amazon Prime Video
-tt0112870,Dilwale Dulhania Le Jayenge,Google Play
-tt0112870,Dilwale Dulhania Le Jayenge,iTunes
-tt0113277,Heat,Amazon Instant Video
-tt0113277,Heat,iTunes
-tt0113277,Heat,Google Play
-tt3262342,Loving Vincent,Amazon Instant Video
-tt3262342,Loving Vincent,Google Play
-tt3262342,Loving Vincent,iTunes
+tt0037558,Brief Encounter,"Amazon Instant Video, iTunes"
+tt4698684,Hunt for the Wilderpeople,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0053619,L'Avventura,"Amazon Instant Video, iTunes"
+tt0060196,"The Good, the Bad and the Ugly","Amazon Instant Video, iTunes, Google Play"
+tt1504320,The King's Speech,"Amazon Instant Video, Google Play, iTunes"
+tt0056732,The Exterminating Angel,"iTunes, Google Play, Amazon Instant Video"
+tt0055630,Yojimbo,"iTunes, Amazon Instant Video"
+tt0112870,Dilwale Dulhania Le Jayenge,"Amazon Prime Video, Google Play, iTunes"
+tt0113277,Heat,"Amazon Instant Video, iTunes, Google Play"
+tt3262342,Loving Vincent,"Amazon Instant Video, Google Play, iTunes"
 tt0275277,,
-tt0420332,Veer Zaara,Amazon Prime Video
-tt0420332,Veer Zaara,Google Play
-tt0420332,Veer Zaara,iTunes
-tt1798709,Her,Amazon Instant Video
-tt1798709,Her,Google Play
-tt1798709,Her,iTunes
-tt1798709,Her,Netflix
-tt0031971,Stagecoach,Amazon Instant Video
-tt0031971,Stagecoach,iTunes
-tt0031971,Stagecoach,Amazon Prime Video
-tt0903624,The Hobbit: An Unexpected Journey,iTunes
-tt0903624,The Hobbit: An Unexpected Journey,Google Play
-tt0903624,The Hobbit: An Unexpected Journey,Amazon Prime Video
-tt0903624,The Hobbit: An Unexpected Journey,Amazon Instant Video
-tt1655442,The Artist,Google Play
-tt1655442,The Artist,Amazon Prime Video
-tt1655442,The Artist,Amazon Instant Video
-tt0384116,G.O.R.A.,Netflix
-tt0384116,G.O.R.A.,iTunes
-tt0486655,Stardust,iTunes
-tt0486655,Stardust,Google Play
-tt0486655,Stardust,Amazon Instant Video
-tt0486655,Stardust,Netflix
-tt0185125,All About My Mother,Google Play
-tt0185125,All About My Mother,iTunes
-tt0185125,All About My Mother,Amazon Instant Video
-tt0181865,Traffic,iTunes
-tt0181865,Traffic,Amazon Instant Video
-tt0181865,Traffic,Google Play
-tt0181865,Traffic,Amazon Prime Video
-tt0118929,Dark City,Amazon Instant Video
-tt0118929,Dark City,Google Play
-tt0118929,Dark City,iTunes
-tt0095705,The Naked Gun: From the Files of Police Squad!,iTunes
-tt0095705,The Naked Gun: From the Files of Police Squad!,Google Play
-tt0095705,The Naked Gun: From the Files of Police Squad!,Amazon Instant Video
-tt0061512,Cool Hand Luke,Amazon Instant Video
-tt0061512,Cool Hand Luke,iTunes
-tt0061512,Cool Hand Luke,Google Play
-tt0265666,The Royal Tenenbaums,Google Play
-tt0265666,The Royal Tenenbaums,Amazon Instant Video
-tt0265666,The Royal Tenenbaums,iTunes
-tt0265666,The Royal Tenenbaums,Amazon Prime Video
-tt0058385,My Fair Lady,Amazon Instant Video
-tt0058385,My Fair Lady,iTunes
-tt0058385,My Fair Lady,Google Play
-tt3398268,When Marnie Was There,Google Play
-tt3398268,When Marnie Was There,Netflix
-tt3398268,When Marnie Was There,iTunes
-tt3398268,When Marnie Was There,Amazon Instant Video
-tt0057565,High and Low,iTunes
-tt0057565,High and Low,Amazon Instant Video
-tt0283509,No Man's Land,iTunes
-tt0283509,No Man's Land,Amazon Instant Video
-tt0053604,The Apartment,iTunes
-tt0053604,The Apartment,Google Play
-tt0053604,The Apartment,Amazon Instant Video
-tt0381061,Casino Royale,Amazon Instant Video
-tt0381061,Casino Royale,Google Play
-tt0381061,Casino Royale,iTunes
-tt0381061,Casino Royale,Netflix
-tt0010323,The Cabinet of Dr. Caligari,Amazon Instant Video
-tt0010323,The Cabinet of Dr. Caligari,Google Play
-tt0010323,The Cabinet of Dr. Caligari,iTunes
-tt0026138,Bride of Frankenstein,Amazon Instant Video
-tt0026138,Bride of Frankenstein,Google Play
-tt0026138,Bride of Frankenstein,iTunes
-tt1028532,Hachi: A Dog's Tale,iTunes
-tt1028532,Hachi: A Dog's Tale,Google Play
-tt1028532,Hachi: A Dog's Tale,Amazon Instant Video
+tt0420332,Veer Zaara,"Amazon Prime Video, Google Play, iTunes"
+tt1798709,Her,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0031971,Stagecoach,"Amazon Instant Video, iTunes, Amazon Prime Video"
+tt0903624,The Hobbit: An Unexpected Journey,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt1655442,The Artist,"Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0384116,G.O.R.A.,"Netflix, iTunes"
+tt0486655,Stardust,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0185125,All About My Mother,"Google Play, iTunes, Amazon Instant Video"
+tt0181865,Traffic,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0118929,Dark City,"Amazon Instant Video, Google Play, iTunes"
+tt0095705,The Naked Gun: From the Files of Police Squad!,"iTunes, Google Play, Amazon Instant Video"
+tt0061512,Cool Hand Luke,"Amazon Instant Video, iTunes, Google Play"
+tt0265666,The Royal Tenenbaums,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt0058385,My Fair Lady,"Amazon Instant Video, iTunes, Google Play"
+tt3398268,When Marnie Was There,"Google Play, Netflix, iTunes, Amazon Instant Video"
+tt0057565,High and Low,"iTunes, Amazon Instant Video"
+tt0283509,No Man's Land,"iTunes, Amazon Instant Video"
+tt0053604,The Apartment,"iTunes, Google Play, Amazon Instant Video"
+tt0381061,Casino Royale,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0010323,The Cabinet of Dr. Caligari,"Amazon Instant Video, Google Play, iTunes"
+tt0026138,Bride of Frankenstein,"Amazon Instant Video, Google Play, iTunes"
+tt1028532,Hachi: A Dog's Tale,"iTunes, Google Play, Amazon Instant Video"
 tt0120731,The Legend of 1900,Amazon Instant Video
-tt0061722,The Graduate,Google Play
-tt0061722,The Graduate,iTunes
-tt0061722,The Graduate,Amazon Instant Video
-tt0061722,The Graduate,Amazon Prime Video
-tt0012349,The Kid,iTunes
-tt0012349,The Kid,Amazon Instant Video
+tt0061722,The Graduate,"Google Play, iTunes, Amazon Instant Video, Amazon Prime Video"
+tt0012349,The Kid,"iTunes, Amazon Instant Video"
 tt1070874,The Trial of the Chicago 7,Netflix
-tt1663202,The Revenant,iTunes
-tt1663202,The Revenant,Google Play
-tt1663202,The Revenant,Amazon Instant Video
-tt1877832,X-Men: Days of Future Past,Amazon Instant Video
-tt1877832,X-Men: Days of Future Past,iTunes
-tt1877832,X-Men: Days of Future Past,Disney+
-tt1877832,X-Men: Days of Future Past,Google Play
-tt0993846,The Wolf of Wall Street,iTunes
-tt0993846,The Wolf of Wall Street,Google Play
-tt0993846,The Wolf of Wall Street,Amazon Prime Video
-tt0993846,The Wolf of Wall Street,Amazon Instant Video
+tt1663202,The Revenant,"iTunes, Google Play, Amazon Instant Video"
+tt1877832,X-Men: Days of Future Past,"Amazon Instant Video, iTunes, Disney+, Google Play"
+tt0993846,The Wolf of Wall Street,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
 tt0476735,,
-tt0089853,The Purple Rose of Cairo,iTunes
-tt0089853,The Purple Rose of Cairo,Amazon Instant Video
-tt0089853,The Purple Rose of Cairo,Google Play
-tt0089853,The Purple Rose of Cairo,Amazon Prime Video
-tt0104940,The Muppet Christmas Carol,iTunes
-tt0104940,The Muppet Christmas Carol,Google Play
-tt0104940,The Muppet Christmas Carol,Amazon Instant Video
-tt0104940,The Muppet Christmas Carol,Disney+
-tt0477348,No Country for Old Men,Amazon Instant Video
-tt0477348,No Country for Old Men,Google Play
-tt0477348,No Country for Old Men,iTunes
+tt0089853,The Purple Rose of Cairo,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0104940,The Muppet Christmas Carol,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0477348,No Country for Old Men,"Amazon Instant Video, Google Play, iTunes"
 tt0120265,,
-tt0096163,The Vanishing,iTunes
-tt0096163,The Vanishing,Amazon Instant Video
-tt2283748,OMG: Oh My God!,Netflix
-tt2283748,OMG: Oh My God!,Amazon Instant Video
-tt2283748,OMG: Oh My God!,Google Play
-tt2283748,OMG: Oh My God!,iTunes
-tt5362988,Wind River,Amazon Instant Video
-tt5362988,Wind River,Google Play
-tt5362988,Wind River,iTunes
-tt0878804,The Blind Side,iTunes
-tt0878804,The Blind Side,Google Play
-tt0878804,The Blind Side,Amazon Instant Video
-tt0878804,The Blind Side,Netflix
-tt0338309,Evil,Amazon Prime Video
-tt0338309,Evil,Amazon Instant Video
-tt0036342,Shadow of a Doubt,Amazon Instant Video
-tt0036342,Shadow of a Doubt,iTunes
-tt0036342,Shadow of a Doubt,Google Play
-tt0091167,Hannah and Her Sisters,Google Play
-tt0091167,Hannah and Her Sisters,Amazon Instant Video
-tt0091167,Hannah and Her Sisters,iTunes
-tt0040897,The Treasure of the Sierra Madre,Amazon Instant Video
-tt0040897,The Treasure of the Sierra Madre,Google Play
-tt0040897,The Treasure of the Sierra Madre,iTunes
+tt0096163,The Vanishing,"iTunes, Amazon Instant Video"
+tt2283748,OMG: Oh My God!,"Netflix, Amazon Instant Video, Google Play, iTunes"
+tt5362988,Wind River,"Amazon Instant Video, Google Play, iTunes"
+tt0878804,The Blind Side,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0338309,Evil,"Amazon Prime Video, Amazon Instant Video"
+tt0036342,Shadow of a Doubt,"Amazon Instant Video, iTunes, Google Play"
+tt0091167,Hannah and Her Sisters,"Google Play, Amazon Instant Video, iTunes"
+tt0040897,The Treasure of the Sierra Madre,"Amazon Instant Video, Google Play, iTunes"
 tt0020629,,
 tt1360860,About Elly,Google Play
-tt0108037,The Sandlot Kids,iTunes
-tt0108037,The Sandlot Kids,Google Play
-tt0108037,The Sandlot Kids,Amazon Instant Video
-tt0108037,The Sandlot Kids,Disney+
-tt2013293,The Wind Rises,iTunes
-tt2013293,The Wind Rises,Amazon Instant Video
-tt2013293,The Wind Rises,Google Play
-tt0120863,The Thin Red Line,Amazon Instant Video
-tt0120863,The Thin Red Line,iTunes
-tt0120863,The Thin Red Line,Google Play
-tt0120863,The Thin Red Line,Amazon Prime Video
-tt0167404,The Sixth Sense,Amazon Instant Video
-tt0167404,The Sixth Sense,iTunes
-tt0167404,The Sixth Sense,Google Play
-tt0139654,Training Day,iTunes
-tt0139654,Training Day,Google Play
-tt0139654,Training Day,Amazon Instant Video
-tt0139654,Training Day,Netflix
-tt0083658,Blade Runner,Amazon Instant Video
-tt0083658,Blade Runner,iTunes
-tt0083658,Blade Runner,Google Play
-tt0498380,Letters from Iwo Jima,Amazon Instant Video
-tt0498380,Letters from Iwo Jima,Google Play
-tt0498380,Letters from Iwo Jima,iTunes
-tt0070735,The Sting,iTunes
-tt0070735,The Sting,Google Play
-tt0070735,The Sting,Amazon Instant Video
-tt1125849,The Wrestler,Google Play
-tt1125849,The Wrestler,Amazon Instant Video
-tt1125849,The Wrestler,iTunes
-tt0024216,King Kong,iTunes
-tt0024216,King Kong,Google Play
-tt0024216,King Kong,Amazon Instant Video
-tt3901826,The Breadwinner,iTunes
-tt3901826,The Breadwinner,Google Play
-tt3901826,The Breadwinner,Amazon Instant Video
-tt1190539,The Chaser,Google Play
-tt1190539,The Chaser,iTunes
-tt0049730,The Searchers,iTunes
-tt0049730,The Searchers,Google Play
-tt0049730,The Searchers,Amazon Instant Video
+tt0108037,The Sandlot Kids,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt2013293,The Wind Rises,"iTunes, Amazon Instant Video, Google Play"
+tt0120863,The Thin Red Line,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
+tt0167404,The Sixth Sense,"Amazon Instant Video, iTunes, Google Play"
+tt0139654,Training Day,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0083658,Blade Runner,"Amazon Instant Video, iTunes, Google Play"
+tt0498380,Letters from Iwo Jima,"Amazon Instant Video, Google Play, iTunes"
+tt0070735,The Sting,"iTunes, Google Play, Amazon Instant Video"
+tt1125849,The Wrestler,"Google Play, Amazon Instant Video, iTunes"
+tt0024216,King Kong,"iTunes, Google Play, Amazon Instant Video"
+tt3901826,The Breadwinner,"iTunes, Google Play, Amazon Instant Video"
+tt1190539,The Chaser,"Google Play, iTunes"
+tt0049730,The Searchers,"iTunes, Google Play, Amazon Instant Video"
 tt0097123,,
-tt1646971,How to Train Your Dragon 2,Amazon Instant Video
-tt1646971,How to Train Your Dragon 2,Google Play
-tt1646971,How to Train Your Dragon 2,iTunes
-tt0101410,Barton Fink,Amazon Instant Video
-tt0101410,Barton Fink,Google Play
-tt0101410,Barton Fink,iTunes
-tt0043014,Sunset Blvd.,Amazon Instant Video
-tt0043014,Sunset Blvd.,Google Play
-tt0043014,Sunset Blvd.,iTunes
-tt0113568,Ghost in the Shell,Google Play
-tt0113568,Ghost in the Shell,Amazon Instant Video
-tt0113568,Ghost in the Shell,iTunes
+tt1646971,How to Train Your Dragon 2,"Amazon Instant Video, Google Play, iTunes"
+tt0101410,Barton Fink,"Amazon Instant Video, Google Play, iTunes"
+tt0043014,Sunset Blvd.,"Amazon Instant Video, Google Play, iTunes"
+tt0113568,Ghost in the Shell,"Google Play, Amazon Instant Video, iTunes"
 tt5363618,,
 tt0035446,,
-tt2377938,Special Chabbis,Google Play
-tt2377938,Special Chabbis,Netflix
-tt2377938,Special Chabbis,iTunes
-tt2377938,Special Chabbis,Amazon Instant Video
+tt2377938,Special Chabbis,"Google Play, Netflix, iTunes, Amazon Instant Video"
 tt0293715,,
 tt4034228,Manchester by the Sea,Amazon Prime Video
-tt3169706,Pride,Google Play
-tt3169706,Pride,iTunes
-tt3169706,Pride,Amazon Instant Video
-tt3169706,Pride,Amazon Prime Video
-tt0315733,21 Grams,iTunes
-tt0315733,21 Grams,Amazon Instant Video
-tt0315733,21 Grams,Google Play
-tt0315733,21 Grams,Amazon Prime Video
-tt0070666,Serpico,iTunes
-tt0070666,Serpico,Google Play
-tt0070666,Serpico,Amazon Instant Video
-tt0424205,Joyeux Noel,Amazon Instant Video
-tt0424205,Joyeux Noel,Google Play
-tt0424205,Joyeux Noel,iTunes
-tt0022100,M,Amazon Instant Video
-tt0022100,M,iTunes
-tt0071562,The Godfather: Part II,iTunes
-tt0071562,The Godfather: Part II,Google Play
-tt0071562,The Godfather: Part II,Amazon Instant Video
+tt3169706,Pride,"Google Play, iTunes, Amazon Instant Video, Amazon Prime Video"
+tt0315733,21 Grams,"iTunes, Amazon Instant Video, Google Play, Amazon Prime Video"
+tt0070666,Serpico,"iTunes, Google Play, Amazon Instant Video"
+tt0424205,Joyeux Noel,"Amazon Instant Video, Google Play, iTunes"
+tt0022100,M,"Amazon Instant Video, iTunes"
+tt0071562,The Godfather: Part II,"iTunes, Google Play, Amazon Instant Video"
 tt1171701,,
-tt0120382,The Truman Show,iTunes
-tt0120382,The Truman Show,Google Play
-tt0120382,The Truman Show,Amazon Instant Video
-tt0067992,Willy Wonka & the Chocolate Factory,iTunes
-tt0067992,Willy Wonka & the Chocolate Factory,Google Play
-tt0067992,Willy Wonka & the Chocolate Factory,Amazon Instant Video
-tt0067992,Willy Wonka & the Chocolate Factory,Netflix
-tt0051459,Cat on a Hot Tin Roof,Amazon Instant Video
-tt0051459,Cat on a Hot Tin Roof,iTunes
-tt0051459,Cat on a Hot Tin Roof,Google Play
+tt0120382,The Truman Show,"iTunes, Google Play, Amazon Instant Video"
+tt0067992,Willy Wonka & the Chocolate Factory,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0051459,Cat on a Hot Tin Roof,"Amazon Instant Video, iTunes, Google Play"
 tt0095647,Mississippi Burning,iTunes
-tt0301357,Goodbye Lenin!,Amazon Instant Video
-tt0301357,Goodbye Lenin!,Google Play
-tt0301357,Goodbye Lenin!,iTunes
-tt0330373,Harry Potter and the Goblet of Fire,Amazon Instant Video
-tt0330373,Harry Potter and the Goblet of Fire,Google Play
-tt0330373,Harry Potter and the Goblet of Fire,iTunes
-tt1188996,My Name Is Khan,Amazon Instant Video
-tt1188996,My Name Is Khan,Google Play
-tt1188996,My Name Is Khan,iTunes
-tt0151804,Office Space,Amazon Instant Video
-tt0151804,Office Space,iTunes
-tt0151804,Office Space,Google Play
-tt0151804,Office Space,Amazon Prime Video
-tt0087553,The Killing Fields,iTunes
-tt0087553,The Killing Fields,Amazon Instant Video
-tt0087553,The Killing Fields,Google Play
+tt0301357,Goodbye Lenin!,"Amazon Instant Video, Google Play, iTunes"
+tt0330373,Harry Potter and the Goblet of Fire,"Amazon Instant Video, Google Play, iTunes"
+tt1188996,My Name Is Khan,"Amazon Instant Video, Google Play, iTunes"
+tt0151804,Office Space,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
+tt0087553,The Killing Fields,"iTunes, Amazon Instant Video, Google Play"
 tt0276919,,
-tt0061811,In the Heat of the Night,iTunes
-tt0061811,In the Heat of the Night,Google Play
-tt0061811,In the Heat of the Night,Amazon Instant Video
-tt0079522,Manhattan,iTunes
-tt0079522,Manhattan,Google Play
-tt0079522,Manhattan,Amazon Instant Video
-tt0372784,Batman Begins,Amazon Instant Video
-tt0372784,Batman Begins,Google Play
-tt0372784,Batman Begins,iTunes
-tt0372784,Batman Begins,Netflix
-tt0069467,Cries and Whispers,Amazon Instant Video
-tt0069467,Cries and Whispers,iTunes
-tt1895587,Spotlight,iTunes
-tt1895587,Spotlight,Amazon Instant Video
-tt1895587,Spotlight,Google Play
-tt0097441,Glory,iTunes
-tt0097441,Glory,Google Play
-tt0097441,Glory,Amazon Instant Video
-tt0086250,Scarface,iTunes
-tt0086250,Scarface,Google Play
-tt0086250,Scarface,Amazon Instant Video
-tt0086250,Scarface,Netflix
-tt0072417,A Woman Under the Influence,Amazon Instant Video
-tt0072417,A Woman Under the Influence,iTunes
-tt0765443,Eastern Promises,Google Play
-tt0765443,Eastern Promises,iTunes
-tt0765443,Eastern Promises,Amazon Instant Video
-tt0053976,The Virgin Spring,iTunes
-tt0053976,The Virgin Spring,Amazon Instant Video
-tt0118715,The Big Lebowski,iTunes
-tt0118715,The Big Lebowski,Google Play
-tt0118715,The Big Lebowski,Amazon Instant Video
-tt2404461,The Past,iTunes
-tt2404461,The Past,Google Play
-tt2404461,The Past,Amazon Instant Video
-tt0405094,The Lives of Others,Amazon Instant Video
-tt0405094,The Lives of Others,Google Play
-tt0405094,The Lives of Others,iTunes
+tt0061811,In the Heat of the Night,"iTunes, Google Play, Amazon Instant Video"
+tt0079522,Manhattan,"iTunes, Google Play, Amazon Instant Video"
+tt0372784,Batman Begins,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0069467,Cries and Whispers,"Amazon Instant Video, iTunes"
+tt1895587,Spotlight,"iTunes, Amazon Instant Video, Google Play"
+tt0097441,Glory,"iTunes, Google Play, Amazon Instant Video"
+tt0086250,Scarface,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0072417,A Woman Under the Influence,"Amazon Instant Video, iTunes"
+tt0765443,Eastern Promises,"Google Play, iTunes, Amazon Instant Video"
+tt0053976,The Virgin Spring,"iTunes, Amazon Instant Video"
+tt0118715,The Big Lebowski,"iTunes, Google Play, Amazon Instant Video"
+tt2404461,The Past,"iTunes, Google Play, Amazon Instant Video"
+tt0405094,The Lives of Others,"Amazon Instant Video, Google Play, iTunes"
 tt0092593,,
 tt0071411,Dersu Uzala,Amazon Instant Video
-tt1392214,Prisoners,Netflix
-tt1392214,Prisoners,Amazon Instant Video
-tt1392214,Prisoners,Google Play
-tt1392214,Prisoners,iTunes
-tt0088258,This Is Spinal Tap,Google Play
-tt0088258,This Is Spinal Tap,Amazon Instant Video
-tt0088258,This Is Spinal Tap,iTunes
-tt2331143,"Like Father, Like Son",iTunes
-tt2331143,"Like Father, Like Son",Google Play
-tt2331143,"Like Father, Like Son",Amazon Instant Video
-tt0440963,The Bourne Ultimatum,iTunes
-tt0440963,The Bourne Ultimatum,Amazon Instant Video
-tt0440963,The Bourne Ultimatum,Google Play
-tt0440963,The Bourne Ultimatum,Netflix
-tt0112573,Braveheart,Amazon Instant Video
-tt0112573,Braveheart,iTunes
-tt0112573,Braveheart,Google Play
-tt0112573,Braveheart,Netflix
-tt0077711,Autumn Sonata,Google Play
-tt0077711,Autumn Sonata,iTunes
-tt0075686,Annie Hall,Amazon Instant Video
-tt0075686,Annie Hall,Google Play
-tt0075686,Annie Hall,iTunes
+tt1392214,Prisoners,"Netflix, Amazon Instant Video, Google Play, iTunes"
+tt0088258,This Is Spinal Tap,"Google Play, Amazon Instant Video, iTunes"
+tt2331143,"Like Father, Like Son","iTunes, Google Play, Amazon Instant Video"
+tt0440963,The Bourne Ultimatum,"iTunes, Amazon Instant Video, Google Play, Netflix"
+tt0112573,Braveheart,"Amazon Instant Video, iTunes, Google Play, Netflix"
+tt0077711,Autumn Sonata,"Google Play, iTunes"
+tt0075686,Annie Hall,"Amazon Instant Video, Google Play, iTunes"
 tt0117589,,
-tt0485947,Mr. Nobody,Amazon Instant Video
-tt0485947,Mr. Nobody,iTunes
-tt0485947,Mr. Nobody,Google Play
-tt0485947,Mr. Nobody,Amazon Prime Video
-tt0061578,The Dirty Dozen,Amazon Instant Video
-tt0061578,The Dirty Dozen,Google Play
-tt0061578,The Dirty Dozen,iTunes
-tt0061578,The Dirty Dozen,Netflix
-tt0423866,3-Iron,Amazon Instant Video
-tt0423866,3-Iron,Google Play
-tt0423866,3-Iron,iTunes
-tt0376968,The Return,Amazon Instant Video
-tt0376968,The Return,Google Play
-tt0376968,The Return,iTunes
-tt0056172,Lawrence of Arabia,iTunes
-tt0056172,Lawrence of Arabia,Google Play
-tt0056172,Lawrence of Arabia,Amazon Instant Video
-tt0095016,Die Hard,iTunes
-tt0095016,Die Hard,Google Play
-tt0095016,Die Hard,Amazon Instant Video
-tt0095016,Die Hard,Amazon Prime Video
-tt0052561,Anatomy of a Murder,Amazon Instant Video
-tt0052561,Anatomy of a Murder,iTunes
-tt0052561,Anatomy of a Murder,Google Play
-tt0814314,Seven Pounds,iTunes
-tt0814314,Seven Pounds,Google Play
-tt0814314,Seven Pounds,Amazon Instant Video
-tt0814314,Seven Pounds,Netflix
+tt0485947,Mr. Nobody,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
+tt0061578,The Dirty Dozen,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0423866,3-Iron,"Amazon Instant Video, Google Play, iTunes"
+tt0376968,The Return,"Amazon Instant Video, Google Play, iTunes"
+tt0056172,Lawrence of Arabia,"iTunes, Google Play, Amazon Instant Video"
+tt0095016,Die Hard,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
+tt0052561,Anatomy of a Murder,"Amazon Instant Video, iTunes, Google Play"
+tt0814314,Seven Pounds,"iTunes, Google Play, Amazon Instant Video, Netflix"
 tt5198068,Wolfwalkers,AppleTV+
-tt0090756,Blue Velvet,iTunes
-tt0090756,Blue Velvet,Amazon Instant Video
-tt0090756,Blue Velvet,Google Play
+tt0090756,Blue Velvet,"iTunes, Amazon Instant Video, Google Play"
 tt5052448,,
-tt0089218,The Goonies,Amazon Instant Video
-tt0089218,The Goonies,iTunes
-tt0089218,The Goonies,Google Play
+tt0089218,The Goonies,"Amazon Instant Video, iTunes, Google Play"
 tt1302006,The Irishman,Netflix
 tt0077402,,
-tt0090605,Aliens,Amazon Instant Video
-tt0090605,Aliens,iTunes
-tt0090605,Aliens,Google Play
-tt0816692,Interstellar,iTunes
-tt0816692,Interstellar,Google Play
-tt0816692,Interstellar,Amazon Instant Video
-tt4387040,Airlift,iTunes
-tt4387040,Airlift,Google Play
+tt0090605,Aliens,"Amazon Instant Video, iTunes, Google Play"
+tt0816692,Interstellar,"iTunes, Google Play, Amazon Instant Video"
+tt4387040,Airlift,"iTunes, Google Play"
 tt0055031,,
-tt0119217,Good Will Hunting,Google Play
-tt0119217,Good Will Hunting,Amazon Instant Video
-tt0119217,Good Will Hunting,iTunes
-tt3553976,Captain Fantastic,iTunes
-tt3553976,Captain Fantastic,Google Play
-tt3553976,Captain Fantastic,Amazon Prime Video
-tt3553976,Captain Fantastic,Amazon Instant Video
-tt5013056,Dunkirk,Netflix
-tt5013056,Dunkirk,Google Play
-tt5013056,Dunkirk,Amazon Instant Video
-tt5013056,Dunkirk,iTunes
-tt0069762,Badlands,Google Play
-tt0069762,Badlands,iTunes
-tt0069762,Badlands,Amazon Instant Video
-tt0091042,Ferris Bueller's Day Off,Amazon Instant Video
-tt0091042,Ferris Bueller's Day Off,iTunes
-tt0091042,Ferris Bueller's Day Off,Google Play
-tt0091042,Ferris Bueller's Day Off,Netflix
-tt2209418,Before Midnight,Google Play
-tt2209418,Before Midnight,Amazon Instant Video
-tt2209418,Before Midnight,iTunes
-tt3783958,La La Land,Amazon Instant Video
-tt3783958,La La Land,Google Play
-tt3783958,La La Land,iTunes
-tt2024544,12 Years a Slave,Amazon Instant Video
-tt2024544,12 Years a Slave,Google Play
-tt2024544,12 Years a Slave,iTunes
-tt0056923,Charade,Amazon Instant Video
-tt0056923,Charade,Google Play
-tt0056923,Charade,iTunes
-tt0056923,Charade,Amazon Prime Video
-tt2278388,The Grand Budapest Hotel,Amazon Instant Video
-tt2278388,The Grand Budapest Hotel,iTunes
-tt2278388,The Grand Budapest Hotel,Google Play
-tt0245429,Spirited Away,Google Play
-tt0245429,Spirited Away,Amazon Instant Video
-tt0245429,Spirited Away,iTunes
-tt1130884,Shutter Island,Google Play
-tt1130884,Shutter Island,Amazon Instant Video
-tt1130884,Shutter Island,iTunes
-tt1130884,Shutter Island,Amazon Prime Video
-tt0257044,Road to Perdition,Amazon Instant Video
-tt0257044,Road to Perdition,Google Play
-tt0257044,Road to Perdition,iTunes
-tt0257044,Road to Perdition,Amazon Prime Video
-tt0892769,How to Train Your Dragon,Netflix
-tt0892769,How to Train Your Dragon,Google Play
-tt0892769,How to Train Your Dragon,Amazon Instant Video
-tt0892769,How to Train Your Dragon,iTunes
-tt0892769,How to Train Your Dragon,Amazon Prime Video
+tt0119217,Good Will Hunting,"Google Play, Amazon Instant Video, iTunes"
+tt3553976,Captain Fantastic,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt5013056,Dunkirk,"Netflix, Google Play, Amazon Instant Video, iTunes"
+tt0069762,Badlands,"Google Play, iTunes, Amazon Instant Video"
+tt0091042,Ferris Bueller's Day Off,"Amazon Instant Video, iTunes, Google Play, Netflix"
+tt2209418,Before Midnight,"Google Play, Amazon Instant Video, iTunes"
+tt3783958,La La Land,"Amazon Instant Video, Google Play, iTunes"
+tt2024544,12 Years a Slave,"Amazon Instant Video, Google Play, iTunes"
+tt0056923,Charade,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt2278388,The Grand Budapest Hotel,"Amazon Instant Video, iTunes, Google Play"
+tt0245429,Spirited Away,"Google Play, Amazon Instant Video, iTunes"
+tt1130884,Shutter Island,"Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
+tt0257044,Road to Perdition,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt0892769,How to Train Your Dragon,"Netflix, Google Play, Amazon Instant Video, iTunes, Amazon Prime Video"
 tt10280296,Sardar Udham,Amazon Prime Video
-tt1149362,The White Ribbon,Google Play
-tt1149362,The White Ribbon,iTunes
-tt1149362,The White Ribbon,Amazon Instant Video
-tt0092005,Stand by Me,Amazon Instant Video
-tt0092005,Stand by Me,iTunes
-tt0092005,Stand by Me,Google Play
-tt0072251,The Taking of Pelham One Two Three,iTunes
-tt0072251,The Taking of Pelham One Two Three,Amazon Instant Video
-tt0072251,The Taking of Pelham One Two Three,Google Play
+tt1149362,The White Ribbon,"Google Play, iTunes, Amazon Instant Video"
+tt0092005,Stand by Me,"Amazon Instant Video, iTunes, Google Play"
+tt0072251,The Taking of Pelham One Two Three,"iTunes, Amazon Instant Video, Google Play"
 tt0230600,,
-tt0067116,The French Connection,iTunes
-tt0067116,The French Connection,Amazon Instant Video
-tt0067116,The French Connection,Google Play
-tt2370248,Short Term 12,Amazon Instant Video
-tt2370248,Short Term 12,Google Play
-tt2370248,Short Term 12,iTunes
-tt0065214,The Wild Bunch,Amazon Instant Video
-tt0065214,The Wild Bunch,iTunes
-tt0065214,The Wild Bunch,Google Play
-tt4080728,A Man Called Ove,Amazon Prime Video
-tt4080728,A Man Called Ove,Amazon Instant Video
-tt4080728,A Man Called Ove,Google Play
-tt4080728,A Man Called Ove,iTunes
-tt0029583,Snow White and the Seven Dwarfs,Amazon Instant Video
-tt0029583,Snow White and the Seven Dwarfs,Disney+
-tt0029583,Snow White and the Seven Dwarfs,iTunes
-tt0029583,Snow White and the Seven Dwarfs,Google Play
-tt0936501,Taken,Amazon Instant Video
-tt0936501,Taken,iTunes
-tt0936501,Taken,Google Play
-tt0936501,Taken,Amazon Prime Video
+tt0067116,The French Connection,"iTunes, Amazon Instant Video, Google Play"
+tt2370248,Short Term 12,"Amazon Instant Video, Google Play, iTunes"
+tt0065214,The Wild Bunch,"Amazon Instant Video, iTunes, Google Play"
+tt4080728,A Man Called Ove,"Amazon Prime Video, Amazon Instant Video, Google Play, iTunes"
+tt0029583,Snow White and the Seven Dwarfs,"Amazon Instant Video, Disney+, iTunes, Google Play"
+tt0936501,Taken,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
 tt0375611,Black,Netflix
-tt1772341,Wreck-It Ralph,iTunes
-tt1772341,Wreck-It Ralph,Google Play
-tt1772341,Wreck-It Ralph,Amazon Instant Video
-tt1772341,Wreck-It Ralph,Disney+
-tt0454848,Inside Man,Amazon Instant Video
-tt0454848,Inside Man,Google Play
-tt0454848,Inside Man,iTunes
-tt0372183,The Bourne Supremacy,Amazon Instant Video
-tt0372183,The Bourne Supremacy,Google Play
-tt0372183,The Bourne Supremacy,iTunes
-tt1702014,The Way He Looks,iTunes
-tt1702014,The Way He Looks,Google Play
-tt1702014,The Way He Looks,Amazon Instant Video
+tt1772341,Wreck-It Ralph,"iTunes, Google Play, Amazon Instant Video, Disney+"
+tt0454848,Inside Man,"Amazon Instant Video, Google Play, iTunes"
+tt0372183,The Bourne Supremacy,"Amazon Instant Video, Google Play, iTunes"
+tt1702014,The Way He Looks,"iTunes, Google Play, Amazon Instant Video"
 tt0169102,Lagaan: Once Upon a Time in India,Netflix
-tt0018773,The Circus,Amazon Instant Video
-tt0018773,The Circus,iTunes
-tt0870111,Frost/Nixon,iTunes
-tt0870111,Frost/Nixon,Google Play
-tt0870111,Frost/Nixon,Amazon Instant Video
-tt0048028,East of Eden,Amazon Instant Video
-tt0048028,East of Eden,Google Play
-tt0048028,East of Eden,iTunes
-tt0055499,Through a Glass Darkly,iTunes
-tt0055499,Through a Glass Darkly,Amazon Instant Video
+tt0018773,The Circus,"Amazon Instant Video, iTunes"
+tt0870111,Frost/Nixon,"iTunes, Google Play, Amazon Instant Video"
+tt0048028,East of Eden,"Amazon Instant Video, Google Play, iTunes"
+tt0055499,Through a Glass Darkly,"iTunes, Amazon Instant Video"
 tt0408664,Nobody Knows,iTunes
-tt0071129,Amarcord,Amazon Instant Video
-tt0071129,Amarcord,Google Play
-tt0071129,Amarcord,iTunes
-tt0087544,Nausicaä of the Valley of the Wind,iTunes
-tt0087544,Nausicaä of the Valley of the Wind,Google Play
-tt0087544,Nausicaä of the Valley of the Wind,Amazon Instant Video
-tt0120815,Saving Private Ryan,iTunes
-tt0120815,Saving Private Ryan,Google Play
-tt0120815,Saving Private Ryan,Amazon Instant Video
-tt0120815,Saving Private Ryan,Netflix
+tt0071129,Amarcord,"Amazon Instant Video, Google Play, iTunes"
+tt0087544,Nausicaä of the Valley of the Wind,"iTunes, Google Play, Amazon Instant Video"
+tt0120815,Saving Private Ryan,"iTunes, Google Play, Amazon Instant Video, Netflix"
 tt0880502,The Edge of Heaven,Amazon Instant Video
-tt0454921,The Pursuit of Happyness,Google Play
-tt0454921,The Pursuit of Happyness,Netflix
-tt0454921,The Pursuit of Happyness,Amazon Instant Video
-tt0454921,The Pursuit of Happyness,iTunes
-tt1255953,Incendies,Amazon Instant Video
-tt1255953,Incendies,Google Play
-tt1255953,Incendies,iTunes
-tt2119532,Hacksaw Ridge,Amazon Instant Video
-tt2119532,Hacksaw Ridge,Google Play
-tt2119532,Hacksaw Ridge,iTunes
-tt0083946,Fitzcarraldo,Amazon Instant Video
-tt0083946,Fitzcarraldo,iTunes
-tt0083946,Fitzcarraldo,Google Play
-tt0107818,Philadelphia,Amazon Instant Video
-tt0107818,Philadelphia,iTunes
-tt0107818,Philadelphia,Google Play
+tt0454921,The Pursuit of Happyness,"Google Play, Netflix, Amazon Instant Video, iTunes"
+tt1255953,Incendies,"Amazon Instant Video, Google Play, iTunes"
+tt2119532,Hacksaw Ridge,"Amazon Instant Video, Google Play, iTunes"
+tt0083946,Fitzcarraldo,"Amazon Instant Video, iTunes, Google Play"
+tt0107818,Philadelphia,"Amazon Instant Video, iTunes, Google Play"
 tt0084503,,
-tt8633462,"Quo vadis, Aida?",iTunes
-tt8633462,"Quo vadis, Aida?",Amazon Instant Video
-tt8633462,"Quo vadis, Aida?",Google Play
-tt0114388,Sense and Sensibility,iTunes
-tt0114388,Sense and Sensibility,Google Play
-tt0114388,Sense and Sensibility,Amazon Instant Video
-tt0079470,Life of Brian,Google Play
-tt0079470,Life of Brian,Netflix
-tt0079470,Life of Brian,iTunes
-tt0079470,Life of Brian,Amazon Instant Video
-tt0181875,Almost Famous,iTunes
-tt0181875,Almost Famous,Google Play
-tt0181875,Almost Famous,Amazon Instant Video
-tt0245844,The Count of Monte Cristo,iTunes
-tt0245844,The Count of Monte Cristo,Google Play
-tt0245844,The Count of Monte Cristo,Amazon Instant Video
+tt8633462,"Quo vadis, Aida?","iTunes, Amazon Instant Video, Google Play"
+tt0114388,Sense and Sensibility,"iTunes, Google Play, Amazon Instant Video"
+tt0079470,Life of Brian,"Google Play, Netflix, iTunes, Amazon Instant Video"
+tt0181875,Almost Famous,"iTunes, Google Play, Amazon Instant Video"
+tt0245844,The Count of Monte Cristo,"iTunes, Google Play, Amazon Instant Video"
 tt7725596,,
 tt3417422,,
-tt10431500,Miracle in Cell No. 7,Google Play
-tt10431500,Miracle in Cell No. 7,iTunes
-tt10431500,Miracle in Cell No. 7,Netflix
-tt2582846,The Fault in our Stars,Disney+
-tt2582846,The Fault in our Stars,Google Play
-tt2582846,The Fault in our Stars,iTunes
-tt2582846,The Fault in our Stars,Amazon Instant Video
-tt0414387,Pride & Prejudice,iTunes
-tt0414387,Pride & Prejudice,Google Play
-tt0414387,Pride & Prejudice,Amazon Instant Video
-tt0499549,Avatar,Amazon Instant Video
-tt0499549,Avatar,Disney+
-tt0499549,Avatar,Google Play
-tt0499549,Avatar,iTunes
-tt0038890,"Rome, Open City",iTunes
-tt0038890,"Rome, Open City",Google Play
-tt0038890,"Rome, Open City",Amazon Instant Video
-tt0039628,Miracle on 34th Street,iTunes
-tt0039628,Miracle on 34th Street,Google Play
-tt0039628,Miracle on 34th Street,Amazon Prime Video
-tt0039628,Miracle on 34th Street,Amazon Instant Video
-tt0039628,Miracle on 34th Street,Disney+
+tt10431500,Miracle in Cell No. 7,"Google Play, iTunes, Netflix"
+tt2582846,The Fault in our Stars,"Disney+, Google Play, iTunes, Amazon Instant Video"
+tt0414387,Pride & Prejudice,"iTunes, Google Play, Amazon Instant Video"
+tt0499549,Avatar,"Amazon Instant Video, Disney+, Google Play, iTunes"
+tt0038890,"Rome, Open City","iTunes, Google Play, Amazon Instant Video"
+tt0039628,Miracle on 34th Street,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video, Disney+"
 tt0300140,,
-tt0086197,The Right Stuff,Amazon Instant Video
-tt0086197,The Right Stuff,iTunes
-tt0086197,The Right Stuff,Google Play
-tt0107048,Groundhog Day,Google Play
-tt0107048,Groundhog Day,Amazon Instant Video
-tt0107048,Groundhog Day,iTunes
-tt0058946,The Battle of Algiers,iTunes
-tt0058946,The Battle of Algiers,Google Play
-tt0058946,The Battle of Algiers,Amazon Instant Video
-tt0318462,The Motorcycle Diaries,Amazon Instant Video
-tt0318462,The Motorcycle Diaries,Google Play
-tt0318462,The Motorcycle Diaries,iTunes
-tt0318462,The Motorcycle Diaries,Amazon Prime Video
-tt0472043,Apocalypto,iTunes
-tt0472043,Apocalypto,Amazon Prime Video
-tt0472043,Apocalypto,Google Play
-tt0472043,Apocalypto,Amazon Instant Video
+tt0086197,The Right Stuff,"Amazon Instant Video, iTunes, Google Play"
+tt0107048,Groundhog Day,"Google Play, Amazon Instant Video, iTunes"
+tt0058946,The Battle of Algiers,"iTunes, Google Play, Amazon Instant Video"
+tt0318462,The Motorcycle Diaries,"Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt0472043,Apocalypto,"iTunes, Amazon Prime Video, Google Play, Amazon Instant Video"
 tt0091605,,
-tt1032846,"4 Months, 3 Weeks and 2 Days",Amazon Instant Video
-tt1032846,"4 Months, 3 Weeks and 2 Days",iTunes
+tt1032846,"4 Months, 3 Weeks and 2 Days","Amazon Instant Video, iTunes"
 tt5186714,The Salesman,Amazon Prime Video
-tt12361974,Zack Snyder's Justice League,Google Play
-tt12361974,Zack Snyder's Justice League,iTunes
-tt12361974,Zack Snyder's Justice League,Amazon Instant Video
-tt0109830,Forrest Gump,Amazon Instant Video
-tt0109830,Forrest Gump,Google Play
-tt0109830,Forrest Gump,iTunes
-tt0109830,Forrest Gump,Netflix
-tt0032551,The Grapes of Wrath,Google Play
-tt0032551,The Grapes of Wrath,iTunes
-tt0032551,The Grapes of Wrath,Amazon Instant Video
-tt0063227,The Lion in Winter,iTunes
-tt0063227,The Lion in Winter,Google Play
-tt0063227,The Lion in Winter,Amazon Instant Video
-tt0113247,La haine,iTunes
-tt0113247,La haine,Amazon Instant Video
-tt0121766,Star Wars: Episode III - Revenge of the Sith,iTunes
-tt0121766,Star Wars: Episode III - Revenge of the Sith,Google Play
-tt0121766,Star Wars: Episode III - Revenge of the Sith,Disney+
-tt0121766,Star Wars: Episode III - Revenge of the Sith,Amazon Instant Video
-tt0137523,Fight Club,iTunes
-tt0137523,Fight Club,Google Play
-tt0137523,Fight Club,Amazon Instant Video
-tt0137523,Fight Club,Amazon Prime Video
-tt1132620,The Girl with the Dragon Tattoo,Amazon Prime Video
-tt1132620,The Girl with the Dragon Tattoo,iTunes
-tt1132620,The Girl with the Dragon Tattoo,Amazon Instant Video
-tt1132620,The Girl with the Dragon Tattoo,Google Play
-tt0052311,Touch of Evil,iTunes
-tt0052311,Touch of Evil,Amazon Instant Video
-tt0052311,Touch of Evil,Google Play
-tt0056217,The Man Who Shot Liberty Valance,iTunes
-tt0056217,The Man Who Shot Liberty Valance,Google Play
-tt0056217,The Man Who Shot Liberty Valance,Amazon Instant Video
+tt12361974,Zack Snyder's Justice League,"Google Play, iTunes, Amazon Instant Video"
+tt0109830,Forrest Gump,"Amazon Instant Video, Google Play, iTunes, Netflix"
+tt0032551,The Grapes of Wrath,"Google Play, iTunes, Amazon Instant Video"
+tt0063227,The Lion in Winter,"iTunes, Google Play, Amazon Instant Video"
+tt0113247,La haine,"iTunes, Amazon Instant Video"
+tt0121766,Star Wars: Episode III - Revenge of the Sith,"iTunes, Google Play, Disney+, Amazon Instant Video"
+tt0137523,Fight Club,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
+tt1132620,The Girl with the Dragon Tattoo,"Amazon Prime Video, iTunes, Amazon Instant Video, Google Play"
+tt0052311,Touch of Evil,"iTunes, Amazon Instant Video, Google Play"
+tt0056217,The Man Who Shot Liberty Valance,"iTunes, Google Play, Amazon Instant Video"
 tt10189514,Soorarai Pottru,Amazon Prime Video
-tt0042192,All About Eve,Amazon Instant Video
-tt0042192,All About Eve,Google Play
-tt0042192,All About Eve,iTunes
-tt0175880,Magnolia,iTunes
-tt0175880,Magnolia,Amazon Instant Video
-tt0175880,Magnolia,Google Play
-tt0068646,The Godfather,Amazon Instant Video
-tt0068646,The Godfather,Google Play
-tt0068646,The Godfather,iTunes
-tt1285016,The Social Network,Amazon Instant Video
-tt1285016,The Social Network,iTunes
-tt1285016,The Social Network,Google Play
-tt1285016,The Social Network,Amazon Prime Video
-tt0064665,Midnight Cowboy,Amazon Instant Video
-tt0064665,Midnight Cowboy,iTunes
-tt0064665,Midnight Cowboy,Google Play
-tt0032455,Fantasia,Amazon Instant Video
-tt0032455,Fantasia,Disney+
-tt0032455,Fantasia,Google Play
-tt0032455,Fantasia,iTunes
+tt0042192,All About Eve,"Amazon Instant Video, Google Play, iTunes"
+tt0175880,Magnolia,"iTunes, Amazon Instant Video, Google Play"
+tt0068646,The Godfather,"Amazon Instant Video, Google Play, iTunes"
+tt1285016,The Social Network,"Amazon Instant Video, iTunes, Google Play, Amazon Prime Video"
+tt0064665,Midnight Cowboy,"Amazon Instant Video, iTunes, Google Play"
+tt0032455,Fantasia,"Amazon Instant Video, Disney+, Google Play, iTunes"
 tt1620933,Paan Singh Tomar,Netflix
-tt0119488,L.A. Confidential,Amazon Instant Video
-tt0119488,L.A. Confidential,iTunes
-tt0040506,Key Largo,Google Play
-tt0040506,Key Largo,Amazon Instant Video
-tt0040506,Key Largo,iTunes
-tt0344510,A Very Long Engagement,iTunes
-tt0344510,A Very Long Engagement,Amazon Instant Video
-tt0344510,A Very Long Engagement,Google Play
-tt0104652,Porco Rosso,iTunes
-tt0104652,Porco Rosso,Google Play
-tt0104652,Porco Rosso,Amazon Instant Video
-tt0104652,Porco Rosso,Netflix
-tt0808506,The Girl Who Leapt Through Time,Amazon Instant Video
-tt0808506,The Girl Who Leapt Through Time,Google Play
-tt0808506,The Girl Who Leapt Through Time,iTunes
-tt0432283,Fantastic Mr. Fox,Disney+
-tt0432283,Fantastic Mr. Fox,Amazon Instant Video
-tt0432283,Fantastic Mr. Fox,Google Play
-tt0432283,Fantastic Mr. Fox,iTunes
-tt0432283,Fantastic Mr. Fox,Amazon Prime Video
-tt1748122,Moonrise Kingdom,Amazon Instant Video
-tt1748122,Moonrise Kingdom,Google Play
-tt1748122,Moonrise Kingdom,iTunes
-tt0158983,"South Park: Bigger, Longer & Uncut",iTunes
-tt0158983,"South Park: Bigger, Longer & Uncut",Amazon Instant Video
-tt0158983,"South Park: Bigger, Longer & Uncut",Google Play
+tt0119488,L.A. Confidential,"Amazon Instant Video, iTunes"
+tt0040506,Key Largo,"Google Play, Amazon Instant Video, iTunes"
+tt0344510,A Very Long Engagement,"iTunes, Amazon Instant Video, Google Play"
+tt0104652,Porco Rosso,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0808506,The Girl Who Leapt Through Time,"Amazon Instant Video, Google Play, iTunes"
+tt0432283,Fantastic Mr. Fox,"Disney+, Amazon Instant Video, Google Play, iTunes, Amazon Prime Video"
+tt1748122,Moonrise Kingdom,"Amazon Instant Video, Google Play, iTunes"
+tt0158983,"South Park: Bigger, Longer & Uncut","iTunes, Amazon Instant Video, Google Play"
 tt0078754,,
-tt0270053,Vizontele,Netflix
-tt0270053,Vizontele,iTunes
-tt0907657,Once,Amazon Instant Video
-tt0907657,Once,Google Play
-tt0907657,Once,iTunes
-tt0034240,Sullivan's Travels,Amazon Instant Video
-tt0034240,Sullivan's Travels,Google Play
-tt0034240,Sullivan's Travels,iTunes
+tt0270053,Vizontele,"Netflix, iTunes"
+tt0907657,Once,"Amazon Instant Video, Google Play, iTunes"
+tt0034240,Sullivan's Travels,"Amazon Instant Video, Google Play, iTunes"
 tt0086637,,
-tt1323594,Despicable Me,iTunes
-tt1323594,Despicable Me,Google Play
-tt1323594,Despicable Me,Amazon Instant Video
-tt1323594,Despicable Me,Netflix
-tt0063374,The Odd Couple,Amazon Instant Video
-tt0063374,The Odd Couple,iTunes
-tt0063374,The Odd Couple,Google Play
-tt0099487,Edward Scissorhands,iTunes
-tt0099487,Edward Scissorhands,Google Play
-tt0099487,Edward Scissorhands,Amazon Prime Video
-tt0099487,Edward Scissorhands,Amazon Instant Video
-tt0099487,Edward Scissorhands,Disney+
-tt0399295,Lord of War,Amazon Instant Video
-tt0399295,Lord of War,Google Play
-tt0399295,Lord of War,iTunes
-tt0040746,Rope,Amazon Instant Video
-tt0040746,Rope,iTunes
-tt0040746,Rope,Google Play
-tt0266543,Finding Nemo,iTunes
-tt0266543,Finding Nemo,Amazon Instant Video
-tt0266543,Finding Nemo,Disney+
-tt0266543,Finding Nemo,Google Play
+tt1323594,Despicable Me,"iTunes, Google Play, Amazon Instant Video, Netflix"
+tt0063374,The Odd Couple,"Amazon Instant Video, iTunes, Google Play"
+tt0099487,Edward Scissorhands,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video, Disney+"
+tt0399295,Lord of War,"Amazon Instant Video, Google Play, iTunes"
+tt0040746,Rope,"Amazon Instant Video, iTunes, Google Play"
+tt0266543,Finding Nemo,"iTunes, Amazon Instant Video, Disney+, Google Play"
 tt1555149,,
-tt0065234,Z,Amazon Instant Video
-tt0065234,Z,iTunes
-tt0457655,After the Wedding,iTunes
-tt0457655,After the Wedding,Amazon Instant Video
-tt0104691,The Last of the Mohicans,iTunes
-tt0104691,The Last of the Mohicans,Google Play
-tt0104691,The Last of the Mohicans,Amazon Instant Video
-tt0104691,The Last of the Mohicans,Amazon Prime Video
-tt0117951,Trainspotting,iTunes
-tt0117951,Trainspotting,Google Play
-tt0117951,Trainspotting,Amazon Instant Video
-tt0382932,Ratatouille,Disney+
-tt0382932,Ratatouille,iTunes
-tt0382932,Ratatouille,Google Play
-tt0382932,Ratatouille,Amazon Instant Video
-tt0060827,Persona,iTunes
-tt0060827,Persona,Amazon Instant Video
-tt0061735,Guess Who's Coming to Dinner,Amazon Instant Video
-tt0061735,Guess Who's Coming to Dinner,iTunes
-tt0061735,Guess Who's Coming to Dinner,Google Play
+tt0065234,Z,"Amazon Instant Video, iTunes"
+tt0457655,After the Wedding,"iTunes, Amazon Instant Video"
+tt0104691,The Last of the Mohicans,"iTunes, Google Play, Amazon Instant Video, Amazon Prime Video"
+tt0117951,Trainspotting,"iTunes, Google Play, Amazon Instant Video"
+tt0382932,Ratatouille,"Disney+, iTunes, Google Play, Amazon Instant Video"
+tt0060827,Persona,"iTunes, Amazon Instant Video"
+tt0061735,Guess Who's Coming to Dinner,"Amazon Instant Video, iTunes, Google Play"
 tt3863552,,
-tt1139797,Let the Right One In,iTunes
-tt1139797,Let the Right One In,Google Play
-tt1139797,Let the Right One In,Amazon Prime Video
-tt1139797,Let the Right One In,Amazon Instant Video
-tt0037913,Mildred Pierce,Google Play
-tt0037913,Mildred Pierce,iTunes
-tt0037913,Mildred Pierce,Amazon Instant Video
+tt1139797,Let the Right One In,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0037913,Mildred Pierce,"Google Play, iTunes, Amazon Instant Video"
 tt1821480,,
-tt0050212,The Bridge on the River Kwai,Amazon Instant Video
-tt0050212,The Bridge on the River Kwai,iTunes
-tt0050212,The Bridge on the River Kwai,Google Play
+tt0050212,The Bridge on the River Kwai,"Amazon Instant Video, iTunes, Google Play"
 tt4729430,Klaus,Netflix
 tt0386064,,
-tt0082971,Indiana Jones and the Raiders of the Lost Ark,Amazon Instant Video
-tt0082971,Indiana Jones and the Raiders of the Lost Ark,iTunes
-tt0082971,Indiana Jones and the Raiders of the Lost Ark,Google Play
-tt0041546,Kind Hearts and Coronets,iTunes
-tt0041546,Kind Hearts and Coronets,Amazon Instant Video
-tt0041546,Kind Hearts and Coronets,Google Play
-tt0033045,The Shop Around the Corner,Amazon Instant Video
-tt0033045,The Shop Around the Corner,iTunes
-tt0033045,The Shop Around the Corner,Google Play
-tt8075192,Shoplifters,iTunes
-tt8075192,Shoplifters,Google Play
-tt8075192,Shoplifters,Amazon Prime Video
-tt8075192,Shoplifters,Amazon Instant Video
-tt0112641,Casino,Amazon Instant Video
-tt0112641,Casino,Google Play
-tt0112641,Casino,iTunes
-tt5104604,Isle of Dogs,Google Play
-tt5104604,Isle of Dogs,Amazon Instant Video
-tt5104604,Isle of Dogs,iTunes
-tt2758880,Winter Sleep,iTunes
-tt2758880,Winter Sleep,Google Play
-tt2758880,Winter Sleep,Amazon Instant Video
-tt0107290,Jurassic Park,iTunes
-tt0107290,Jurassic Park,Google Play
-tt0107290,Jurassic Park,Amazon Instant Video
-tt0102138,JFK,iTunes
-tt0102138,JFK,Google Play
-tt0102138,JFK,Amazon Instant Video
-tt0756683,The Man from Earth,iTunes
-tt0756683,The Man from Earth,Google Play
-tt0756683,The Man from Earth,Amazon Instant Video
+tt0082971,Indiana Jones and the Raiders of the Lost Ark,"Amazon Instant Video, iTunes, Google Play"
+tt0041546,Kind Hearts and Coronets,"iTunes, Amazon Instant Video, Google Play"
+tt0033045,The Shop Around the Corner,"Amazon Instant Video, iTunes, Google Play"
+tt8075192,Shoplifters,"iTunes, Google Play, Amazon Prime Video, Amazon Instant Video"
+tt0112641,Casino,"Amazon Instant Video, Google Play, iTunes"
+tt5104604,Isle of Dogs,"Google Play, Amazon Instant Video, iTunes"
+tt2758880,Winter Sleep,"iTunes, Google Play, Amazon Instant Video"
+tt0107290,Jurassic Park,"iTunes, Google Play, Amazon Instant Video"
+tt0102138,JFK,"iTunes, Google Play, Amazon Instant Video"
+tt0756683,The Man from Earth,"iTunes, Google Play, Amazon Instant Video"

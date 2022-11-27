@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt1856101",
+   "tmdbID": "335984",
+   "imdbRating": 80,
+   "imdbVoteCount": 567123,
+   "tmdbRating": 75,
+   "backdropPath": "/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg"
+   },
+   "originalTitle": "Blade Runner 2049",
+   "genres": [
+      28,
+      18,
+      9648
+   ],
+   "countries": [
+      "CA",
+      "HU",
+      "MX",
+      "ES",
+      "GB",
+      "US"
+   ],
+   "year": 2017,
+   "runtime": 164,
+   "cast": [
+      "Ryan Gosling",
+      "Ana de Armas",
+      "Harrison Ford",
+      "Jared Leto",
+      "Sylvia Hoeks",
+      "Dave Bautista",
+      "Robin Wright"
+   ],
+   "significants": [
+      "Denis Villeneuve"
+   ],
+   "title": "Blade Runner 2049",
+   "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+   "tagline": "The key to the future is finally unearthed.",
+   "video": "geFtxCSz8xI",
+   "posterPath": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYgfNIQAdYqLDMgEAAAAV:type:feature",
+            "added": 1655509001,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

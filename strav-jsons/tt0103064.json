@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0103064",
+   "tmdbID": "280",
+   "imdbRating": 86,
+   "imdbVoteCount": 1093307,
+   "tmdbRating": 80,
+   "backdropPath": "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg"
+   },
+   "originalTitle": "Terminator 2: Judgment Day",
+   "genres": [
+      28,
+      878
+   ],
+   "countries": [
+      "FR",
+      "US"
+   ],
+   "year": 1991,
+   "runtime": 137,
+   "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong",
+      "Robert Patrick",
+      "Joe Morton",
+      "Earl Boen",
+      "S. Epatha Merkerson"
+   ],
+   "significants": [
+      "James Cameron"
+   ],
+   "title": "Terminator 2: Judgment Day",
+   "overview": "Nearly 10 years have passed since Sarah Connor was targeted for termination by a cyborg from the future. Now her son, John, the future leader of the resistance, is the target for a newer, more deadly terminator. Once again, the resistance has managed to send a protector back to attempt to save John and his mother Sarah.",
+   "tagline": "It's nothing personal.",
+   "video": "2aCC9F8cGCc",
+   "posterPath": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5M0j0B18abtBI5gi2RhfjjurTqb.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYkHOsA0Pn5_CwwEAAAAV:type:feature",
+            "added": 1655508759,
+            "leaving": 16829244000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

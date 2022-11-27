@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0053976",
+   "tmdbID": "11656",
+   "imdbRating": 81,
+   "imdbVoteCount": 29578,
+   "tmdbRating": 77,
+   "backdropPath": "/nc6uHR9QRzhAUIB6q8tDGzBAsx4.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nc6uHR9QRzhAUIB6q8tDGzBAsx4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nc6uHR9QRzhAUIB6q8tDGzBAsx4.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nc6uHR9QRzhAUIB6q8tDGzBAsx4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nc6uHR9QRzhAUIB6q8tDGzBAsx4.jpg"
+   },
+   "originalTitle": "Jungfrukällan",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "SE"
+   ],
+   "year": 1960,
+   "runtime": 90,
+   "cast": [
+      "Max von Sydow",
+      "Birgitta Valberg",
+      "Gunnel Lindblom",
+      "Birgitta Pettersson",
+      "Axel Düberg",
+      "Allan Edwall",
+      "Tor Isedal"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "The Virgin Spring",
+   "overview": "Devout Christians Töre and Märeta send their only daughter, the virginal Karin, and their foster daughter, the unrepentant Ingeri, to deliver candles to a distant church. On their way through the woods, the girls encounter a group of savage goat herders who brutally rape and murder Karin as Ingeri remains hidden. When the killers unwittingly seek refuge in the farmhouse of Töre and Märeta, Töre plots a fitting revenge.",
+   "tagline": "Ravished innocence... brings terrible revenge!",
+   "video": "UjA0OuhZLvY",
+   "posterPath": "/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z70YM3Y4pNYZATMhFMKonngaeMC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z70YM3Y4pNYZATMhFMKonngaeMC.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "sv"
+}

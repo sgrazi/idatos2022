@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt3863552",
+   "tmdbID": "348892",
+   "imdbRating": 81,
+   "imdbVoteCount": 88634,
+   "tmdbRating": 79,
+   "backdropPath": "/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/n9QCm8uagvmXH476u5qFQsW8HkU.jpg"
+   },
+   "originalTitle": "बजरंगी भाईजान",
+   "genres": [
+      28,
+      12,
+      35
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2015,
+   "runtime": 159,
+   "cast": [
+      "Salman Khan",
+      "Kareena Kapoor Khan",
+      "Harshaali Malthotra",
+      "Nawazuddin Siddiqui",
+      "Rajesh Sharma",
+      "Sharat Saxena",
+      "Om Puri"
+   ],
+   "significants": [
+      "Kabir Khan"
+   ],
+   "title": "Bajrangi Bhaijaan",
+   "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

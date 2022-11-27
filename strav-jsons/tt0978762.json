@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0978762",
+   "tmdbID": "24238",
+   "imdbRating": 81,
+   "imdbVoteCount": 177624,
+   "tmdbRating": 78,
+   "backdropPath": "/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pW1sEV4R2GL99OoUq73Pvf7r7Ce.jpg"
+   },
+   "originalTitle": "Mary and Max",
+   "genres": [
+      16,
+      35,
+      18
+   ],
+   "countries": [
+      "AU"
+   ],
+   "year": 2009,
+   "runtime": 92,
+   "cast": [
+      "Toni Collette",
+      "Philip Seymour Hoffman",
+      "Eric Bana",
+      "Barry Humphries",
+      "Bethany Whitmore",
+      "Renée Geyer",
+      "Ian 'Molly' Meldrum"
+   ],
+   "significants": [
+      "Adam Elliot"
+   ],
+   "title": "Mary and Max",
+   "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York. In the mid-1970s, a homely, friendless Australian girl of 8 picks a name out of a Manhattan phone book and writes to him; she includes a chocolate bar. He writes back, with chocolate. Thus begins a 20-year correspondence. Will the two ever meet face to face?",
+   "tagline": "Sometimes perfect strangers make the best friends.",
+   "video": "eVdivjF-9nw",
+   "posterPath": "/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg",
+      "original": "https://image.tmdb.org/t/p/original/b4LKlquh0ls5Rgb27QLPlkC7Oya.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

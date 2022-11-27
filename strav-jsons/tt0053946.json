@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0053946",
+   "tmdbID": "1908",
+   "imdbRating": 81,
+   "imdbVoteCount": 30515,
+   "tmdbRating": 77,
+   "backdropPath": "/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tsanZEEeIBYMfpYX9CZmcPM8kEH.jpg"
+   },
+   "originalTitle": "Inherit the Wind",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1960,
+   "runtime": 128,
+   "cast": [
+      "Spencer Tracy",
+      "Fredric March",
+      "Gene Kelly",
+      "Dick York",
+      "Donna Anderson",
+      "Harry Morgan",
+      "Claude Akins"
+   ],
+   "significants": [
+      "Stanley Kramer"
+   ],
+   "title": "Inherit the Wind",
+   "overview": "Schoolteacher Bertram Cates is arrested for teaching his students Darwin's theory of evolution. The case receives national attention and one of the newspaper reporters, E.K. Hornbeck, arranges to bring in renowned defense attorney and atheist Henry Drummond to defend Cates. The prosecutor, Matthew Brady is a former presidential candidate, famous evangelist, and old adversary of Drummond.",
+   "tagline": "It’s all about the fabulous “Monkey Trial” that rocked America!",
+   "video": "1PKkLSCuiEE",
+   "posterPath": "/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7oaHcF0gCOt2lKaT2zajhajP0Zo.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0198781",
+   "tmdbID": "585",
+   "imdbRating": 81,
+   "imdbVoteCount": 905315,
+   "tmdbRating": 78,
+   "backdropPath": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c7VbRPlev1bRfKvTxr98erw5T7B.jpg"
+   },
+   "originalTitle": "Monsters, Inc.",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 92,
+   "cast": [
+      "John Goodman",
+      "Billy Crystal",
+      "Mary Gibbs",
+      "Steve Buscemi",
+      "James Coburn",
+      "Jennifer Tilly",
+      "Bob Peterson"
+   ],
+   "significants": [
+      "Pete Docter"
+   ],
+   "title": "Monsters, Inc.",
+   "overview": "James Sullivan and Mike Wazowski are monsters, they earn their living scaring children and are the best in the business... even though they're more afraid of the children than they are of them. When a child accidentally enters their world, James and Mike suddenly find that kids are not to be afraid of and they uncover a conspiracy that could threaten all children across the world.",
+   "tagline": "We Scare Because We Care.",
+   "video": "CGbgaHoapFM",
+   "posterPath": "/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sgheSKxZkttIe8ONsf2sWXPgip3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sgheSKxZkttIe8ONsf2sWXPgip3.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/5vQuMGjgTZz5",
+            "added": 1606701832,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

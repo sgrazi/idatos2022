@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0384116",
+   "tmdbID": "27275",
+   "imdbRating": 80,
+   "imdbVoteCount": 63172,
+   "tmdbRating": 72,
+   "backdropPath": "/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g90Hlbaj8OofowG9hDg9ScD5fqG.jpg"
+   },
+   "originalTitle": "G.O.R.A.",
+   "genres": [
+      12,
+      35,
+      878
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 2004,
+   "runtime": 127,
+   "cast": [
+      "Cem Yılmaz",
+      "Özge Özberk",
+      "Özkan Uğur",
+      "Ozan Güven",
+      "Rasim Öztekin",
+      "Şafak Sezer",
+      "Erdal Tosun"
+   ],
+   "significants": [
+      "Ömer Faruk Sorak"
+   ],
+   "title": "G.O.R.A.",
+   "overview": "Carpet dealer and UFO photo forger Arif is abducted by aliens and must outwit the evil commander-in-chief of G.O.R.A., the planet where he is being held.",
+   "tagline": "",
+   "video": "EmCsr9g9q-o",
+   "posterPath": "/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hXLKHzlybVWloEbfWKZ43APdGUX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hXLKHzlybVWloEbfWKZ43APdGUX.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80038440/",
+            "added": 1652677413,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "tr"
+}

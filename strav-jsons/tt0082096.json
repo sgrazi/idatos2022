@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0082096",
+   "tmdbID": "387",
+   "imdbRating": 84,
+   "imdbVoteCount": 251241,
+   "tmdbRating": 80,
+   "backdropPath": "/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg"
+   },
+   "originalTitle": "Das Boot",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 1981,
+   "runtime": 150,
+   "cast": [
+      "Jürgen Prochnow",
+      "Herbert Grönemeyer",
+      "Klaus Wennemann",
+      "Hubertus Bengsch",
+      "Martin Semmelrogge",
+      "Bernd Tauber",
+      "Erwin Leder"
+   ],
+   "significants": [
+      "Wolfgang Petersen"
+   ],
+   "title": "Das Boot",
+   "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+   "tagline": "When the hunters become the hunted.",
+   "video": "KhNnU4h1Q50",
+   "posterPath": "/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

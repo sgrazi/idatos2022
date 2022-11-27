@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0106332",
+   "tmdbID": "10997",
+   "imdbRating": 81,
+   "imdbVoteCount": 29372,
+   "tmdbRating": 78,
+   "backdropPath": "/9vUXU4tlRAVfopSctuxXycm9aKK.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9vUXU4tlRAVfopSctuxXycm9aKK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9vUXU4tlRAVfopSctuxXycm9aKK.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9vUXU4tlRAVfopSctuxXycm9aKK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9vUXU4tlRAVfopSctuxXycm9aKK.jpg"
+   },
+   "originalTitle": "霸王别姬",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "CN",
+      "HK"
+   ],
+   "year": 1993,
+   "runtime": 171,
+   "cast": [
+      "Leslie Cheung",
+      "Zhang Feng Yi",
+      "Gong Li",
+      "Jiang Wenli",
+      "Ge You",
+      "Lu Qi",
+      "Ying Da"
+   ],
+   "significants": [
+      "Chen Kaige"
+   ],
+   "title": "Farewell My Concubine",
+   "overview": "Abandoned by his prostitute mother in 1920, Douzi was raised by a theater troupe. There he meets Shitou and over the following years the two develop an act entitled \"Farewell My Concubine\" that brings them fame and fortune. When Shitou marries Juxian, Douzi becomes jealous, the beginnings of the acting duo's explosive breakup and tragic fall take root.",
+   "tagline": "The passionate story of two lifelong friends and the woman who comes between them.",
+   "video": "cC-_SLiRnJE",
+   "posterPath": "/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "zh"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1280558",
+   "tmdbID": "19703",
+   "imdbRating": 81,
+   "imdbVoteCount": 78867,
+   "tmdbRating": 70,
+   "backdropPath": "/uZvkEU7X0JWYZJEEdEKQrdevyiw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uZvkEU7X0JWYZJEEdEKQrdevyiw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uZvkEU7X0JWYZJEEdEKQrdevyiw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uZvkEU7X0JWYZJEEdEKQrdevyiw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uZvkEU7X0JWYZJEEdEKQrdevyiw.jpg"
+   },
+   "originalTitle": "A Wednesday!",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2008,
+   "runtime": 103,
+   "cast": [
+      "Anupam Kher",
+      "Naseeruddin Shah",
+      "Jimmy Shergill",
+      "Deepal Shaw",
+      "Aamir Bashir",
+      "Rohitash Gaud",
+      "Vijay Bhatia"
+   ],
+   "significants": [
+      "Neeraj Pandey"
+   ],
+   "title": "A Wednesday!",
+   "overview": "A retired police commissioner recounts the most memorable case of his career, wherein he was informed about a bomb scare in Mumbai.",
+   "tagline": "",
+   "video": "LGfwASavWNQ",
+   "posterPath": "/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gVUSxtJM3arL5VIUIRNYde20EF0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gVUSxtJM3arL5VIUIRNYde20EF0.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70107499/",
+            "added": 1667983937,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

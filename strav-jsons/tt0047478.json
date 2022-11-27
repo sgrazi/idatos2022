@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0047478",
+   "tmdbID": "346",
+   "imdbRating": 86,
+   "imdbVoteCount": 345383,
+   "tmdbRating": 84,
+   "backdropPath": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg"
+   },
+   "originalTitle": "七人の侍",
+   "genres": [
+      28,
+      18
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1954,
+   "runtime": 207,
+   "cast": [
+      "Toshirō Mifune",
+      "Takashi Shimura",
+      "Yoshio Inaba",
+      "Seiji Miyaguchi",
+      "Minoru Chiaki",
+      "Daisuke Katō",
+      "Isao Kimura"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Seven Samurai",
+   "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+   "tagline": "The Mighty Warriors Who Became the Seven National Heroes of a Small Town",
+   "video": "5dZioLIejeo",
+   "posterPath": "/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iAq0sq42vKTLneVGqHn1D4GzgrM.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoDQG3osNVoAEAABrM:type:feature",
+            "added": 1655502130,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

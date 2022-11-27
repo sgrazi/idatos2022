@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2283748",
+   "tmdbID": "135718",
+   "imdbRating": 81,
+   "imdbVoteCount": 59302,
+   "tmdbRating": 72,
+   "backdropPath": "/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kMUsTD4Dco26kkIUEhntbKZo0Ya.jpg"
+   },
+   "originalTitle": "ओएमजी - ओ माय गॉड!",
+   "genres": [
+      35,
+      18,
+      14
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2012,
+   "runtime": 125,
+   "cast": [
+      "Paresh Rawal",
+      "Akshay Kumar",
+      "Mithun Chakraborty",
+      "Om Puri",
+      "Mahesh Manjrekar",
+      "Puja Gupta",
+      "Apoorva Arora"
+   ],
+   "significants": [
+      "Umesh Shukla"
+   ],
+   "title": "OMG: Oh My God!",
+   "overview": "A shopkeeper takes God to court when his shop is destroyed by an earthquake.",
+   "tagline": "A Divine Comedy.",
+   "video": "eSfJ9NTE0OE",
+   "posterPath": "/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wUnwafB1Zvt6Hvy5g8m5E6Dm3uz.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70258366/",
+            "added": 1657970754,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

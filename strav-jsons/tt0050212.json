@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0050212",
+   "tmdbID": "826",
+   "imdbRating": 82,
+   "imdbVoteCount": 221132,
+   "tmdbRating": 78,
+   "backdropPath": "/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/liZhDhrrNVX8IK4TaeaFodzMamy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/liZhDhrrNVX8IK4TaeaFodzMamy.jpg"
+   },
+   "originalTitle": "The Bridge on the River Kwai",
+   "genres": [
+      12,
+      18,
+      10752
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1957,
+   "runtime": 161,
+   "cast": [
+      "William Holden",
+      "Alec Guinness",
+      "Jack Hawkins",
+      "Sessue Hayakawa",
+      "James Donald",
+      "Geoffrey Horne",
+      "André Morell"
+   ],
+   "significants": [
+      "David Lean"
+   ],
+   "title": "The Bridge on the River Kwai",
+   "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson , the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+   "tagline": "It spans a whole new world of entertainment!",
+   "video": "RlC7XBayj0s",
+   "posterPath": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYVNlNwqHy8NWwwEAAABm:type:feature",
+            "added": 1664810820,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

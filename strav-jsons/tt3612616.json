@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt3612616",
+   "tmdbID": "265177",
+   "imdbRating": 80,
+   "imdbVoteCount": 57424,
+   "tmdbRating": 82,
+   "backdropPath": "/pwoj3pRch3KKvq8t2plgpe5GDH5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pwoj3pRch3KKvq8t2plgpe5GDH5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pwoj3pRch3KKvq8t2plgpe5GDH5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pwoj3pRch3KKvq8t2plgpe5GDH5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pwoj3pRch3KKvq8t2plgpe5GDH5.jpg"
+   },
+   "originalTitle": "Mommy",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "CA"
+   ],
+   "year": 2014,
+   "runtime": 138,
+   "cast": [
+      "Anne Dorval",
+      "Antoine Olivier Pilon",
+      "Suzanne Clément",
+      "Alexandre Goyette",
+      "Michèle Lituac",
+      "Viviane Pacal",
+      "Natalie Hamel-Roy"
+   ],
+   "significants": [
+      "Xavier Dolan"
+   ],
+   "title": "Mommy",
+   "overview": "A peculiar neighbor offers hope to a recent widow who is struggling to raise a teenager who is unpredictable and, sometimes, violent.",
+   "tagline": "Loving people doesn't save them",
+   "video": "5O31ny_q6lQ",
+   "posterPath": "/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zPLyLO68iiiSF8ASGtmfXGf2EMN.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/QT3dD_W8tguasCoV_J4__neXSAsOQoJS/",
+            "added": 1662832670,
+            "leaving": 1669870800
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

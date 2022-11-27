@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0070510",
+   "tmdbID": "11293",
+   "imdbRating": 81,
+   "imdbVoteCount": 48114,
+   "tmdbRating": 78,
+   "backdropPath": "/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uT4kkHCNZvvFBA5Xdx7JTF3GuCH.jpg"
+   },
+   "originalTitle": "Paper Moon",
+   "genres": [
+      35,
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1973,
+   "runtime": 102,
+   "cast": [
+      "Ryan O'Neal",
+      "Tatum O'Neal",
+      "Madeline Kahn",
+      "John Hillerman",
+      "Jessie Lee Fulton",
+      "Noble Willingham",
+      "Randy Quaid"
+   ],
+   "significants": [
+      "Peter Bogdanovich"
+   ],
+   "title": "Paper Moon",
+   "overview": "During the Great Depression, a con man finds himself saddled with a young girl—who may or may not be his daughter—and the two forge an unlikely partnership.",
+   "tagline": "These aren't everyday people and this is no ordinary movie.",
+   "video": "ORTv3jORX-I",
+   "posterPath": "/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0GDNEQO9JO0CZA19ZT0FCCFLJ2/",
+            "added": 1635940865,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

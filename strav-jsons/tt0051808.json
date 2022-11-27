@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0051808",
+   "tmdbID": "1059",
+   "imdbRating": 81,
+   "imdbVoteCount": 39434,
+   "tmdbRating": 80,
+   "backdropPath": "/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg"
+   },
+   "originalTitle": "隠し砦の三悪人",
+   "genres": [
+      28,
+      12,
+      18
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1958,
+   "runtime": 139,
+   "cast": [
+      "Toshirō Mifune",
+      "Minoru Chiaki",
+      "Kamatari Fujiwara",
+      "Misa Uehara",
+      "Susumu Fujita",
+      "Takashi Shimura",
+      "Eiko Miyoshi"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "The Hidden Fortress",
+   "overview": "Japanese peasants Matashichi and Tahei try and fail to make a profit from a tribal war. They find a man and woman whom they believe are simple tribe members hiding in a fortress. Although the peasants don't know that Rokurota is a general and Yuki is a princess, the peasants agree to accompany the pair to safety in return for gold. Along the way, the general must prove his expertise in battle while also hiding his identity.",
+   "tagline": "",
+   "video": "0vLgROxvxN4",
+   "posterPath": "/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlR3Qf_oMNVoAEAAAOV:type:feature",
+            "added": 1655509334,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0083922",
+   "tmdbID": "5961",
+   "imdbRating": 81,
+   "imdbVoteCount": 64018,
+   "tmdbRating": 77,
+   "backdropPath": "/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jVzoKlWUpsKV3y5oLafLQhEvgX6.jpg"
+   },
+   "originalTitle": "Fanny och Alexander",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "SE",
+      "DE",
+      "FR"
+   ],
+   "year": 1982,
+   "runtime": 188,
+   "cast": [
+      "Bertil Guve",
+      "Pernilla Allwin",
+      "Allan Edwall",
+      "Ewa Fröling",
+      "Erland Josephson",
+      "Jan Malmsjö",
+      "Gunn Wållgren"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "Fanny and Alexander",
+   "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+   "tagline": "",
+   "video": "UCXoXFdNa1o",
+   "posterPath": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnvVnAno2ICgwwEAAA58:type:feature",
+            "added": 1655502955,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0061512",
+   "tmdbID": "903",
+   "imdbRating": 81,
+   "imdbVoteCount": 177765,
+   "tmdbRating": 77,
+   "backdropPath": "/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yW9mPUhrsIzKvogNJKQKuWO8fJO.jpg"
+   },
+   "originalTitle": "Cool Hand Luke",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1967,
+   "runtime": 127,
+   "cast": [
+      "Paul Newman",
+      "George Kennedy",
+      "Luke Askew",
+      "Morgan Woodward",
+      "Harry Dean Stanton",
+      "Dennis Hopper",
+      "Lou Antonio"
+   ],
+   "significants": [
+      "Stuart Rosenberg"
+   ],
+   "title": "Cool Hand Luke",
+   "overview": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+   "tagline": "What we've got here is failure to communicate.",
+   "video": "ofxtDrRVQY4",
+   "posterPath": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXjS6HAO4sJPCwgEAAATY:type:feature",
+            "added": 1664833385,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

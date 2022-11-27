@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0118694",
+   "tmdbID": "843",
+   "imdbRating": 81,
+   "imdbVoteCount": 150078,
+   "tmdbRating": 81,
+   "backdropPath": "/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg"
+   },
+   "originalTitle": "花樣年華",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "HK"
+   ],
+   "year": 2000,
+   "runtime": 99,
+   "cast": [
+      "Tony Leung Chiu-wai",
+      "Maggie Cheung",
+      "Rebecca Pan",
+      "Kelly Lai Chen",
+      "Siu Ping-lam",
+      "Mama Hung",
+      "Joe Cheung Tung-Cho"
+   ],
+   "significants": [
+      "Wong Kar-wai"
+   ],
+   "title": "In the Mood for Love",
+   "overview": "Hong Kong, 1962: Chow Mo-Wan and Su Li-Zhen move into neighboring apartments on the same day. Their encounters are formal and polite—until a discovery about their spouses creates an intimate bond between them.",
+   "tagline": "Feel the heat, keep the feeling burning, let the sensation explode.",
+   "video": "m8GuedsQnWQ",
+   "posterPath": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRtQT2ViLCHAEAAB5V:type:feature",
+            "added": 1655501993,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "cn"
+}

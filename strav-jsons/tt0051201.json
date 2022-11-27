@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0051201",
+   "tmdbID": "37257",
+   "imdbRating": 84,
+   "imdbVoteCount": 125696,
+   "tmdbRating": 82,
+   "backdropPath": "/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/evUB9YKE5IPPtQOchcEF6hS90BO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/evUB9YKE5IPPtQOchcEF6hS90BO.jpg"
+   },
+   "originalTitle": "Witness for the Prosecution",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1957,
+   "runtime": 116,
+   "cast": [
+      "Charles Laughton",
+      "Tyrone Power",
+      "Marlene Dietrich",
+      "Elsa Lanchester",
+      "John Williams",
+      "Ian Wolfe",
+      "Torin Thatcher"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "Witness for the Prosecution",
+   "overview": "When Leonard Vole is arrested for the sensational murder of a rich, middle-aged widow, the famous Sir Wilfrid Robarts agrees to appear on his behalf. Sir Wilfrid, recovering from a near-fatal heart attack, is supposed to be on a diet of bland, civil suits—but the lure of the criminal courts is too much for him, especially when the case is so difficult.",
+   "tagline": "The most electrifying entertainment of our time!",
+   "video": "GMlJfiA2u7Y",
+   "posterPath": "/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mM5Cad2ESBprh6ucPnMzMfI34Cu.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

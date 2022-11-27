@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0074958",
+   "tmdbID": "10774",
+   "imdbRating": 81,
+   "imdbVoteCount": 160107,
+   "tmdbRating": 78,
+   "backdropPath": "/pRMmLhZQncfvS44JelQyB078ZP2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pRMmLhZQncfvS44JelQyB078ZP2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pRMmLhZQncfvS44JelQyB078ZP2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pRMmLhZQncfvS44JelQyB078ZP2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pRMmLhZQncfvS44JelQyB078ZP2.jpg"
+   },
+   "originalTitle": "Network",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1976,
+   "runtime": 122,
+   "cast": [
+      "Peter Finch",
+      "Faye Dunaway",
+      "William Holden",
+      "Robert Duvall",
+      "Beatrice Straight",
+      "Wesley Addy",
+      "Ned Beatty"
+   ],
+   "significants": [
+      "Sidney Lumet"
+   ],
+   "title": "Network",
+   "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+   "tagline": "Television will never be the same.",
+   "video": "T-PyQ1gMT6o",
+   "posterPath": "/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uFmgWfiykZhStfs1B13fFdUO1Pk.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

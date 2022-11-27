@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt7019842",
+   "tmdbID": "441717",
+   "imdbRating": 85,
+   "imdbVoteCount": 31415,
+   "tmdbRating": 75,
+   "backdropPath": "/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qzu94AvnZ1az30sTUuibx2bXpfs.jpg"
+   },
+   "originalTitle": "96",
+   "genres": [
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2018,
+   "runtime": 159,
+   "cast": [
+      "Vijay Sethupathi",
+      "Trisha Krishnan",
+      "Devadarshini",
+      "Bagavathi Perumal",
+      "Janagaraj",
+      "Aadukalam Murugadoss",
+      "Varsha Bollamma"
+   ],
+   "significants": [
+      "C. Prem Kumar"
+   ],
+   "title": "96",
+   "overview": "Ram is a photographer and nature lover who travels all around India capturing moments. On a chance visit to his hometown Tanjavur, he goes into his school and begins to walk down memory lane to 1994 when he was a student harboring feelings for his classmate Janu.",
+   "tagline": "",
+   "video": "r0synl-lI4I",
+   "posterPath": "/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "ta"
+}

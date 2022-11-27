@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0035446",
+   "tmdbID": "198",
+   "imdbRating": 82,
+   "imdbVoteCount": 37759,
+   "tmdbRating": 79,
+   "backdropPath": "/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p69ybBV94wSmyCGE2y2pH9U86l0.jpg"
+   },
+   "originalTitle": "To Be or Not to Be",
+   "genres": [
+      35,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1942,
+   "runtime": 99,
+   "cast": [
+      "Carole Lombard",
+      "Jack Benny",
+      "Robert Stack",
+      "Felix Bressart",
+      "Lionel Atwill",
+      "Stanley Ridges",
+      "Sig Ruman"
+   ],
+   "significants": [
+      "Ernst Lubitsch"
+   ],
+   "title": "To Be or Not to Be",
+   "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+   "tagline": "Hollywood's Happiest Star in the Picture You Must Not Miss!",
+   "video": "4b-dIMd9hFo",
+   "posterPath": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlSfgdS9cNVoAEAAAPv:type:feature",
+            "added": 1655514156,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

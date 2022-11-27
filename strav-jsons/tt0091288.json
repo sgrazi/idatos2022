@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0091288",
+   "tmdbID": "4480",
+   "imdbRating": 81,
+   "imdbVoteCount": 26103,
+   "tmdbRating": 76,
+   "backdropPath": "/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qNBxyt60hnzBRSHo1uRkRU34fYE.jpg"
+   },
+   "originalTitle": "Jean de Florette",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1986,
+   "runtime": 120,
+   "cast": [
+      "Yves Montand",
+      "Gérard Depardieu",
+      "Daniel Auteuil",
+      "Elisabeth Depardieu",
+      "Margarita Lozano",
+      "Ernestine Mazurowna",
+      "Armand Meffre"
+   ],
+   "significants": [
+      "Claude Berri"
+   ],
+   "title": "Jean de Florette",
+   "overview": "In a rural French village, an old man and his only remaining relative cast their covetous eyes on an adjoining vacant property. They need its spring water for growing their flowers, and are dismayed to hear that the man who has inherited it is moving in. They block up the spring and watch as their new neighbour tries to keep his crops watered from wells far afield through the hot summer. Though they see his desperate efforts are breaking his health and his wife and daughter's hearts, they think only of getting the water.",
+   "tagline": "",
+   "video": "V44E_YanQsg",
+   "posterPath": "/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sH9FP9Flff1bGiHkPEKCmOwnzDw.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

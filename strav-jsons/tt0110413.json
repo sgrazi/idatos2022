@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0110413",
+   "tmdbID": "101",
+   "imdbRating": 85,
+   "imdbVoteCount": 1154485,
+   "tmdbRating": 83,
+   "backdropPath": "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg"
+   },
+   "originalTitle": "Léon: The Professional",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "US",
+      "FR"
+   ],
+   "year": 1994,
+   "runtime": 111,
+   "cast": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman",
+      "Danny Aiello",
+      "Peter Appel",
+      "Michael Badalucco",
+      "Ellen Greene"
+   ],
+   "significants": [
+      "Luc Besson"
+   ],
+   "title": "Léon: The Professional",
+   "overview": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+   "tagline": "If you want a job done well, hire a professional.",
+   "video": "PuTe6i8A3Ug",
+   "posterPath": "/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/qCIUDexj3PhZuEWGQRX1neu0AYyLpzAv/",
+            "added": 1667595872,
+            "leaving": 1669870800
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

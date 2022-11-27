@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0263438",
+   "tmdbID": "81549",
+   "imdbRating": 81,
+   "imdbVoteCount": 25736,
+   "tmdbRating": 73,
+   "backdropPath": "/VJii5LyyoP7EaUyTWx4h0QQr86.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/VJii5LyyoP7EaUyTWx4h0QQr86.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/VJii5LyyoP7EaUyTWx4h0QQr86.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/VJii5LyyoP7EaUyTWx4h0QQr86.jpg",
+      "original": "https://image.tmdb.org/t/p/original/VJii5LyyoP7EaUyTWx4h0QQr86.jpg"
+   },
+   "originalTitle": "Her Şey Çok Güzel Olacak",
+   "genres": [
+      35,
+      18,
+      53
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 1998,
+   "runtime": 107,
+   "cast": [
+      "Cem Yılmaz",
+      "Mazhar Alanson",
+      "Ceyda Düvenci",
+      "Mustafa Uzunyılmaz",
+      "Selim Naşit",
+      "Ayumi Takano",
+      "Nurgül Yeşilçay"
+   ],
+   "significants": [
+      "Ömer Vargı"
+   ],
+   "title": "Everything's Gonna Be Great",
+   "overview": "When Altan swipes prescription drugs from his brother Nuri's pharmacy, they soon find themselves on a dangerous but funny road trip to get rid of the stuff and escape the mafiosi Altan tried to double-cross. Along the way, the brother who are compete opposites finally bond.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hHuxySsdTsYfp9ePGeYTmq4YvM1.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "tr"
+}

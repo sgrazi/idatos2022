@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt7466810",
+   "tmdbID": "634120",
+   "imdbRating": 89,
+   "imdbVoteCount": 29871,
+   "tmdbRating": 75,
+   "backdropPath": "/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg"
+   },
+   "originalTitle": "777 ಚಾರ್ಲಿ",
+   "genres": [
+      12,
+      35,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2022,
+   "runtime": 166,
+   "cast": [
+      "Rakshit Shetty",
+      "Raj B Shetty",
+      "Bobby Simha",
+      "Sangeetha Sringeri",
+      "Bhargavi Narayan",
+      "Danish Sait",
+      "Harini Shreekanth"
+   ],
+   "significants": [
+      "Kiranraj K."
+   ],
+   "title": "777 Charlie",
+   "overview": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
+   "tagline": "A Tale of Dharmaraj in Kaliyug",
+   "video": "",
+   "posterPath": "/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/irmHAELoYRaECBr8zQAlD4myrfk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/irmHAELoYRaECBr8zQAlD4myrfk.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "kn"
+}

@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0097165",
+   "tmdbID": "207",
+   "imdbRating": 81,
+   "imdbVoteCount": 488811,
+   "tmdbRating": 83,
+   "backdropPath": "/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hpzQHv8cA7j2Dn2CphOFYmllXzj.jpg"
+   },
+   "originalTitle": "Dead Poets Society",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1989,
+   "runtime": 128,
+   "cast": [
+      "Robin Williams",
+      "Ethan Hawke",
+      "Robert Sean Leonard",
+      "Gale Hansen",
+      "Josh Charles",
+      "Dylan Kussman",
+      "Allelon Ruggiero"
+   ],
+   "significants": [
+      "Peter Weir"
+   ],
+   "title": "Dead Poets Society",
+   "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+   "tagline": "He was their inspiration. He made their lives extraordinary.",
+   "video": "s_jsDreXFZU",
+   "posterPath": "/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ai40gM7SUaGA6fthvsd87o8IQq4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

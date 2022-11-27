@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0090605",
+   "tmdbID": "679",
+   "imdbRating": 84,
+   "imdbVoteCount": 715366,
+   "tmdbRating": 79,
+   "backdropPath": "/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jMBpJFRtrtIXymer93XLavPwI3P.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jMBpJFRtrtIXymer93XLavPwI3P.jpg"
+   },
+   "originalTitle": "Aliens",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1986,
+   "runtime": 137,
+   "cast": [
+      "Sigourney Weaver",
+      "Michael Biehn",
+      "Lance Henriksen",
+      "Bill Paxton",
+      "Jenette Goldstein",
+      "Carrie Henn",
+      "Paul Reiser"
+   ],
+   "significants": [
+      "James Cameron"
+   ],
+   "title": "Aliens",
+   "overview": "When Ripley's lifepod is found by a salvage crew over 50 years later, she finds that terra-formers are on the very planet they found the alien species. When the company sends a family of colonists out to investigate her story—all contact is lost with the planet and colonists. They enlist Ripley and the colonial marines to return and search for answers.",
+   "tagline": "This time it's war.",
+   "video": "8OxirbuHsBA",
+   "posterPath": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/46805",
+            "added": 1656693794,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

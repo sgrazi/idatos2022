@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt6710474",
+   "tmdbID": "545611",
+   "imdbRating": 81,
+   "imdbVoteCount": 234997,
+   "tmdbRating": 81,
+   "backdropPath": "/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wp3vpSWAIjKSEeYb8F5NSZfONqw.jpg"
+   },
+   "originalTitle": "Everything Everywhere All at Once",
+   "genres": [
+      28,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2022,
+   "runtime": 140,
+   "cast": [
+      "Michelle Yeoh",
+      "Ke Huy Quan",
+      "Stephanie Hsu",
+      "James Hong",
+      "Jamie Lee Curtis",
+      "Tallie Medel",
+      "Jenny Slate"
+   ],
+   "significants": [
+      "Daniel Scheinert",
+      "Daniel Kwan"
+   ],
+   "title": "Everything Everywhere All at Once",
+   "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+   "tagline": "The universe is so much bigger than you realize.",
+   "video": "wxN1T1uxQ2g",
+   "posterPath": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3493875/everything-everywhere-all-at-once",
+            "added": 1669260714,
+            "leaving": 1673999940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

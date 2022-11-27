@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt1454029",
+   "tmdbID": "50014",
+   "imdbRating": 81,
+   "imdbVoteCount": 458964,
+   "tmdbRating": 81,
+   "backdropPath": "/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg"
+   },
+   "originalTitle": "The Help",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2011,
+   "runtime": 146,
+   "cast": [
+      "Emma Stone",
+      "Viola Davis",
+      "Octavia Spencer",
+      "Bryce Dallas Howard",
+      "Jessica Chastain",
+      "Anna Camp",
+      "Ahna O'Reilly"
+   ],
+   "significants": [
+      "Tate Taylor"
+   ],
+   "title": "The Help",
+   "overview": "Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia \"Skeeter\" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around \"the help\"; yet they are always kept at a certain distance because of racial lines.",
+   "tagline": "Change begins with a whisper.",
+   "video": "3eajzW3XW7Q",
+   "posterPath": "/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7XLSwxpfpPoJyTdJVot6a42TS2V.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYe7uAgqQlZyQwgEAAAAf:type:feature",
+            "added": 1655510078,
+            "leaving": 16752384000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

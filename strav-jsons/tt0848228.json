@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0848228",
+   "tmdbID": "24428",
+   "imdbRating": 80,
+   "imdbVoteCount": 1385126,
+   "tmdbRating": 77,
+   "backdropPath": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg"
+   },
+   "originalTitle": "The Avengers",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2012,
+   "runtime": 143,
+   "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson",
+      "Jeremy Renner",
+      "Tom Hiddleston"
+   ],
+   "significants": [
+      "Joss Whedon"
+   ],
+   "title": "The Avengers",
+   "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+   "tagline": "Some assembly required.",
+   "video": "hIR8Ar-Z4hw",
+   "posterPath": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/2h6PcHFDbsPy",
+            "added": 1652614011,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

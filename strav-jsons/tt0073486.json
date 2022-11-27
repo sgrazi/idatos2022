@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0073486",
+   "tmdbID": "510",
+   "imdbRating": 87,
+   "imdbVoteCount": 1003599,
+   "tmdbRating": 84,
+   "backdropPath": "/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qUq3QTr2KLvGIcN0GaaaYx9bbyH.jpg"
+   },
+   "originalTitle": "One Flew Over the Cuckoo's Nest",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1975,
+   "runtime": 133,
+   "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Danny DeVito",
+      "William Redfield",
+      "Scatman Crothers",
+      "Brad Dourif",
+      "Christopher Lloyd"
+   ],
+   "significants": [
+      "Miloš Forman"
+   ],
+   "title": "One Flew Over the Cuckoo's Nest",
+   "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+   "tagline": "If he's crazy, what does that make you?",
+   "video": "OXrcDonY-B8",
+   "posterPath": "/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

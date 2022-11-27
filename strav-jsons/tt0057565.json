@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0057565",
+   "tmdbID": "12493",
+   "imdbRating": 84,
+   "imdbVoteCount": 45208,
+   "tmdbRating": 83,
+   "backdropPath": "/2xliq3zIrQPIWG66Fc0bgVoBUWc.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2xliq3zIrQPIWG66Fc0bgVoBUWc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2xliq3zIrQPIWG66Fc0bgVoBUWc.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2xliq3zIrQPIWG66Fc0bgVoBUWc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2xliq3zIrQPIWG66Fc0bgVoBUWc.jpg"
+   },
+   "originalTitle": "天国と地獄",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1963,
+   "runtime": 142,
+   "cast": [
+      "Toshirō Mifune",
+      "Tatsuya Nakadai",
+      "Kyōko Kagawa",
+      "Tatsuya Mihashi",
+      "Isao Kimura",
+      "Kenjirō Ishiyama",
+      "Takeshi Katō"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "High and Low",
+   "overview": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+   "tagline": "From Akira Kurosawa, director of \"Yojimbo\" and \"Sanjuro\" comes a tense, taut film of a modern \"perfect crime\" with more excitement than even Hitchcock could create.",
+   "video": "LV3z2Ytxu90",
+   "posterPath": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tgNjemQPG96uIezpiUiXFcer5ga.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYk3BOAL0lVPDwgEAAAAI:type:feature",
+            "added": 1655506371,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt3390572",
+   "tmdbID": "280795",
+   "imdbRating": 80,
+   "imdbVoteCount": 55275,
+   "tmdbRating": 71,
+   "backdropPath": "/tiyqwRBKVyLgKwVNicKjKvjaLXf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tiyqwRBKVyLgKwVNicKjKvjaLXf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tiyqwRBKVyLgKwVNicKjKvjaLXf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tiyqwRBKVyLgKwVNicKjKvjaLXf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tiyqwRBKVyLgKwVNicKjKvjaLXf.jpg"
+   },
+   "originalTitle": "हैदर",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2014,
+   "runtime": 150,
+   "cast": [
+      "Shahid Kapoor",
+      "Tabu",
+      "Shraddha Kapoor",
+      "Kay Kay Menon",
+      "Irrfan Khan",
+      "Narendra Jha",
+      "Kulbhushan Kharbanda"
+   ],
+   "significants": [
+      "Vishal Bhardwaj"
+   ],
+   "title": "Haider",
+   "overview": "A young man returns to Kashmir after his father's disappearance to confront his uncle - the man he suspects to have a role in his father's fate.",
+   "tagline": "",
+   "video": "ZmN_VSo8DOo",
+   "posterPath": "/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lOCotkHPODWdsRDMoLbSdLdVT3L.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70303432/",
+            "added": 1667882482,
+            "leaving": 0
+         }
+      },
+      "zee5": {
+         "us": {
+            "link": "https://www.zee5.com/global/movies/details/-/0-0-7582",
+            "added": 1652594278,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

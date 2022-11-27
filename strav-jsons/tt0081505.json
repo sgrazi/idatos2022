@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0081505",
+   "tmdbID": "694",
+   "imdbRating": 84,
+   "imdbVoteCount": 1016181,
+   "tmdbRating": 82,
+   "backdropPath": "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg"
+   },
+   "originalTitle": "The Shining",
+   "genres": [
+      27
+   ],
+   "countries": [
+      "US",
+      "GB"
+   ],
+   "year": 1980,
+   "runtime": 144,
+   "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd",
+      "Philip Stone",
+      "Scatman Crothers",
+      "Joe Turkel",
+      "Barry Nelson"
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "The Shining",
+   "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+   "tagline": "He came as the caretaker, but this hotel had its own guardians - who'd been there a long time",
+   "video": "FZQvIJxG9Xs",
+   "posterPath": "/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nRj5511mZdTl4saWEPoj9QroTIu.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmZ1WQgtCSLCHAEAABkh:type:feature",
+            "added": 1655510020,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

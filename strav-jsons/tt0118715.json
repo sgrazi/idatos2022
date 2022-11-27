@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0118715",
+   "tmdbID": "115",
+   "imdbRating": 81,
+   "imdbVoteCount": 806200,
+   "tmdbRating": 78,
+   "backdropPath": "/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lpTXHNKCozJgfUQZZJ1Xn3LKpIS.jpg"
+   },
+   "originalTitle": "The Big Lebowski",
+   "genres": [
+      35,
+      80
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1998,
+   "runtime": 117,
+   "cast": [
+      "Jeff Bridges",
+      "John Goodman",
+      "Steve Buscemi",
+      "Julianne Moore",
+      "David Huddleston",
+      "Philip Seymour Hoffman",
+      "John Turturro"
+   ],
+   "significants": [
+      "Joel Coen"
+   ],
+   "title": "The Big Lebowski",
+   "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+   "tagline": "Times like these call for a Big Lebowski.",
+   "video": "cd-go0oBF4Y",
+   "posterPath": "/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5DpmtMBXXNDujIuSlKW3WLKuqEd.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/comedy/the-big-lebowski/30c73b00-6c1e-3291-8629-7ea9c6671731",
+            "added": 1667316822,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

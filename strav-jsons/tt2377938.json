@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt2377938",
+   "tmdbID": "165904",
+   "imdbRating": 80,
+   "imdbVoteCount": 56595,
+   "tmdbRating": 73,
+   "backdropPath": "/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yQxYnMCIsjd0rXm5hyXZzmE549O.jpg"
+   },
+   "originalTitle": "स्पेशल 26",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2013,
+   "runtime": 144,
+   "cast": [
+      "Akshay Kumar",
+      "Anupam Kher",
+      "Manoj Bajpayee",
+      "Jimmy Shergill",
+      "Rajesh Sharma",
+      "Kishore Kadam",
+      "Kajal Agarwal"
+   ],
+   "significants": [
+      "Neeraj Pandey"
+   ],
+   "title": "Special 26",
+   "overview": "In the early 1980s in India, a group of con artists rob well-known businessmen and politicians by posing as officers of the Central Bureau of Intelligence or income tax officials. The gang stages fake raids during which they steal great amounts of money from their targets.",
+   "tagline": "Real power resides within the heart",
+   "video": "PiyQb28geOg",
+   "posterPath": "/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cOo6lOiZXO0zldPKsih9asKPWDo.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cOo6lOiZXO0zldPKsih9asKPWDo.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

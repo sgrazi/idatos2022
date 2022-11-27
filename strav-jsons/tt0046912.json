@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0046912",
+   "tmdbID": "521",
+   "imdbRating": 82,
+   "imdbVoteCount": 176362,
+   "tmdbRating": 80,
+   "backdropPath": "/uFZdPBbtJOJfuowufvpdVzhfyIw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uFZdPBbtJOJfuowufvpdVzhfyIw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uFZdPBbtJOJfuowufvpdVzhfyIw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uFZdPBbtJOJfuowufvpdVzhfyIw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uFZdPBbtJOJfuowufvpdVzhfyIw.jpg"
+   },
+   "originalTitle": "Dial M for Murder",
+   "genres": [
+      80,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1954,
+   "runtime": 105,
+   "cast": [
+      "Ray Milland",
+      "Grace Kelly",
+      "Robert Cummings",
+      "John Williams",
+      "Anthony Dawson",
+      "Leo Britt",
+      "Patrick Allen"
+   ],
+   "significants": [
+      "Alfred Hitchcock"
+   ],
+   "title": "Dial M for Murder",
+   "overview": "An ex-tennis pro carries out a plot to have his wife murdered after discovering she is having an affair, and assumes she will soon leave him for the other man anyway. When things go wrong, he improvises a new plan—to frame her for murder instead.",
+   "tagline": "If a woman answers... hang on for dear life!",
+   "video": "EVgiKPU50Ig",
+   "posterPath": "/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,57 @@
+{
+   "imdbID": "tt0253474",
+   "tmdbID": "423",
+   "imdbRating": 85,
+   "imdbVoteCount": 827231,
+   "tmdbRating": 83,
+   "backdropPath": "/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dVr11o9or7AS8AMPfwjSpEU83iU.jpg"
+   },
+   "originalTitle": "The Pianist",
+   "genres": [
+      1,
+      18,
+      10402
+   ],
+   "countries": [
+      "FR",
+      "DE",
+      "PL",
+      "GB"
+   ],
+   "year": 2002,
+   "runtime": 150,
+   "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay",
+      "Maureen Lipman",
+      "Emilia Fox",
+      "Ed Stoppard",
+      "Julia Rayner"
+   ],
+   "significants": [
+      "Roman Polanski"
+   ],
+   "title": "The Pianist",
+   "overview": "The true story of pianist Władysław Szpilman's experiences in Warsaw during the Nazi occupation. When the Jews of the city find themselves forced into a ghetto, Szpilman finds work playing in a café; and when his family is deported in 1942, he stays behind, works for a while as a laborer, and eventually goes into hiding in the ruins of the war-torn city.",
+   "tagline": "Music was his passion. Survival was his masterpiece.",
+   "video": "BFwGqLa_oAo",
+   "posterPath": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

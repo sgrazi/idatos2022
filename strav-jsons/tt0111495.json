@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt0111495",
+   "tmdbID": "110",
+   "imdbRating": 81,
+   "imdbVoteCount": 103648,
+   "tmdbRating": 79,
+   "backdropPath": "/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg"
+   },
+   "originalTitle": "Trois couleurs : Rouge",
+   "genres": [
+      18,
+      9648,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "PL",
+      "CH"
+   ],
+   "year": 1994,
+   "runtime": 100,
+   "cast": [
+      "Irène Jacob",
+      "Jean-Louis Trintignant",
+      "Jean-Pierre Lorit",
+      "Frédérique Feder",
+      "Samuel Le Bihan",
+      "Marion Stalens",
+      "Teco Celio"
+   ],
+   "significants": [
+      "Krzysztof Kieślowski"
+   ],
+   "title": "Three Colors: Red",
+   "overview": "Valentine, a student model in Geneva, struggles with a possessive boyfriend and a troubled family. When she runs over a dog, she discovers that its owner, a retired judge, is illegally wiretapping and eavesdropping on his neighbors' phone calls. Although Valentine is outraged, she develops a strange bond with the judge – and as the two become closer, she finds herself caught in the middle of events that could change her life.",
+   "tagline": "",
+   "video": "ZXNjdrYzxys",
+   "posterPath": "/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/JHmsBiX1tjCKqAul1lzC20WcAW.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoIAzJLJ4_wwEAAEnr:type:feature",
+            "added": 1655514142,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

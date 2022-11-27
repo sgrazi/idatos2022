@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0042192",
+   "tmdbID": "705",
+   "imdbRating": 82,
+   "imdbVoteCount": 131775,
+   "tmdbRating": 81,
+   "backdropPath": "/9LkOiz3fPTEhZbXr5IvdFbm01cj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9LkOiz3fPTEhZbXr5IvdFbm01cj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9LkOiz3fPTEhZbXr5IvdFbm01cj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9LkOiz3fPTEhZbXr5IvdFbm01cj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9LkOiz3fPTEhZbXr5IvdFbm01cj.jpg"
+   },
+   "originalTitle": "All About Eve",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1950,
+   "runtime": 139,
+   "cast": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders",
+      "Celeste Holm",
+      "Gary Merrill",
+      "Hugh Marlowe",
+      "Gregory Ratoff"
+   ],
+   "significants": [
+      "Joseph L. Mankiewicz"
+   ],
+   "title": "All About Eve",
+   "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+   "tagline": "It's all about women... and their men!",
+   "video": "ktG-ilbXbtI",
+   "posterPath": "/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6numIZH6uR3NlJgY9m7nGH0jhs.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

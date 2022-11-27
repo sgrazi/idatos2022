@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0042876",
+   "tmdbID": "548",
+   "imdbRating": 82,
+   "imdbVoteCount": 168947,
+   "tmdbRating": 81,
+   "backdropPath": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg"
+   },
+   "originalTitle": "羅生門",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1950,
+   "runtime": 88,
+   "cast": [
+      "Toshirō Mifune",
+      "Machiko Kyō",
+      "Takashi Shimura",
+      "Masayuki Mori",
+      "Minoru Chiaki",
+      "Kichijirô Ueda",
+      "Noriko Honma"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Rashomon",
+   "overview": "Brimming with action while incisively examining the nature of truth, \"Rashomon\" is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.",
+   "tagline": "The husband, the wife… or the bandit?",
+   "video": "Zqoyl2p8_lw",
+   "posterPath": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlSfwGJusNVoAEAAAQC:type:feature",
+            "added": 1655514822,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

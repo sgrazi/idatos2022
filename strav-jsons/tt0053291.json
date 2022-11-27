@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0053291",
+   "tmdbID": "239",
+   "imdbRating": 82,
+   "imdbVoteCount": 267455,
+   "tmdbRating": 81,
+   "backdropPath": "/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg"
+   },
+   "originalTitle": "Some Like It Hot",
+   "genres": [
+      35,
+      10402,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1959,
+   "runtime": 122,
+   "cast": [
+      "Tony Curtis",
+      "Jack Lemmon",
+      "Marilyn Monroe",
+      "George Raft",
+      "Pat O’Brien",
+      "Joe E. Brown",
+      "Nehemiah Persoff"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "Some Like It Hot",
+   "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
+   "tagline": "",
+   "video": "97TYs2YXbJw",
+   "posterPath": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

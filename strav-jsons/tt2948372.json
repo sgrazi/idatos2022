@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2948372",
+   "tmdbID": "508442",
+   "imdbRating": 80,
+   "imdbVoteCount": 327052,
+   "tmdbRating": 81,
+   "backdropPath": "/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rQaHA74pevnGsxcKGaoZVGWe9TC.jpg"
+   },
+   "originalTitle": "Soul",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2020,
+   "runtime": 101,
+   "cast": [
+      "Jamie Foxx",
+      "Tina Fey",
+      "Graham Norton",
+      "Rachel House",
+      "Alice Braga",
+      "Richard Ayoade",
+      "Phylicia Rashād"
+   ],
+   "significants": [
+      "Pete Docter"
+   ],
+   "title": "Soul",
+   "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+   "tagline": "Is all this living really worth dying for?",
+   "video": "Gs--6c7Hn_A",
+   "posterPath": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/77zlWrb9vRYp",
+            "added": 1652497089,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

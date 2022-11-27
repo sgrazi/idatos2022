@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1950186",
+   "tmdbID": "359724",
+   "imdbRating": 81,
+   "imdbVoteCount": 389963,
+   "tmdbRating": 80,
+   "backdropPath": "/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ydmZIafp66mHABs3QJDwvjRgZfE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ydmZIafp66mHABs3QJDwvjRgZfE.jpg"
+   },
+   "originalTitle": "Ford v Ferrari",
+   "genres": [
+      28,
+      1,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 153,
+   "cast": [
+      "Christian Bale",
+      "Matt Damon",
+      "Jon Bernthal",
+      "Caitríona Balfe",
+      "Josh Lucas",
+      "Noah Jupe",
+      "Tracy Letts"
+   ],
+   "significants": [
+      "James Mangold"
+   ],
+   "title": "Ford v Ferrari",
+   "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+   "tagline": "They took the American dream for a ride",
+   "video": "I3h9Z89U9ZA",
+   "posterPath": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/70ef7412-d40e-4902-99b9-c886d8eb6495",
+            "added": 1668814460,
+            "leaving": 1684393140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

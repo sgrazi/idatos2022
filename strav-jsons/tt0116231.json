@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0116231",
+   "tmdbID": "26900",
+   "imdbRating": 81,
+   "imdbVoteCount": 70230,
+   "tmdbRating": 73,
+   "backdropPath": "/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/A6Cq1Hjw8qe47DsLAi2nHmNcRyZ.jpg"
+   },
+   "originalTitle": "Eşkıya",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 1996,
+   "runtime": 128,
+   "cast": [
+      "Şener Şen",
+      "Uğur Yücel",
+      "Sermin Hürmeriç",
+      "Yeşim Salkım",
+      "Kamran Usluer",
+      "Kayhan Yıldızoğlu",
+      "Necdet Mahfi Ayral"
+   ],
+   "significants": [
+      "Yavuz Turgul"
+   ],
+   "title": "The Bandit",
+   "overview": "Baran the Bandit, released from prison after serving 35 years, searches for vengeance against his former best friend who betrayed him and stole his lover, teaming up with a young punk with his own demons along the way.",
+   "tagline": "",
+   "video": "OPJwwRUCQd4",
+   "posterPath": "/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/44KTRoayojxpzti2okBZGKmjEGM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/44KTRoayojxpzti2okBZGKmjEGM.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "tr"
+}

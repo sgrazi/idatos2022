@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0043338",
+   "tmdbID": "25364",
+   "imdbRating": 81,
+   "imdbVoteCount": 36346,
+   "tmdbRating": 79,
+   "backdropPath": "/7PcDKhXxbYDQLfecOp2ywgNBmNB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7PcDKhXxbYDQLfecOp2ywgNBmNB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7PcDKhXxbYDQLfecOp2ywgNBmNB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7PcDKhXxbYDQLfecOp2ywgNBmNB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7PcDKhXxbYDQLfecOp2ywgNBmNB.jpg"
+   },
+   "originalTitle": "Ace in the Hole",
+   "genres": [
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1951,
+   "runtime": 111,
+   "cast": [
+      "Kirk Douglas",
+      "Jan Sterling",
+      "Robert Arthur",
+      "Porter Hall",
+      "Frank Cady",
+      "Richard Benedict",
+      "Ray Teal"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "Ace in the Hole",
+   "overview": "An arrogant reporter exploits a story about a man trapped in a cave to revitalize his career.",
+   "tagline": "Rough, tough Chuck Tatum, who battered his way to the top... trampling everything in his path - men, women and morals !",
+   "video": "AX8GLtyWpOY",
+   "posterPath": "/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gPVPzHEsJBX02HtBtIQgYnfeqNQ.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

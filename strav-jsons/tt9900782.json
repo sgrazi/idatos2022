@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt9900782",
+   "tmdbID": "587030",
+   "imdbRating": 85,
+   "imdbVoteCount": 32152,
+   "tmdbRating": 74,
+   "backdropPath": "/AkO8hEXTTlaMt5tvSKNHwxrE9jt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AkO8hEXTTlaMt5tvSKNHwxrE9jt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AkO8hEXTTlaMt5tvSKNHwxrE9jt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AkO8hEXTTlaMt5tvSKNHwxrE9jt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AkO8hEXTTlaMt5tvSKNHwxrE9jt.jpg"
+   },
+   "originalTitle": "கைதி",
+   "genres": [
+      28,
+      12,
+      80
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2019,
+   "runtime": 147,
+   "cast": [
+      "Karthi",
+      "Narain",
+      "Arjun Das",
+      "Harish Uthaman",
+      "George Mariyan",
+      "KPY Dheena",
+      "Ramana"
+   ],
+   "significants": [
+      "Lokesh Kanagaraj"
+   ],
+   "title": "Kaithi",
+   "overview": "Dilli, a convicted criminal, is out on parole to meet his daughter. However, a drug bust sets him off on a mission to save the life of police officers.",
+   "tagline": "",
+   "video": "tP_dh_s27iw",
+   "posterPath": "/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "ta"
+}

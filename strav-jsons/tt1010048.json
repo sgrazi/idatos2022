@@ -1,0 +1,65 @@
+{
+   "imdbID": "tt1010048",
+   "tmdbID": "12405",
+   "imdbRating": 80,
+   "imdbVoteCount": 844345,
+   "tmdbRating": 77,
+   "backdropPath": "/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9IZvClXvhSxlp41eT0CyUEsyjqy.jpg"
+   },
+   "originalTitle": "Slumdog Millionaire",
+   "genres": [
+      80,
+      18,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "GB",
+      "US"
+   ],
+   "year": 2008,
+   "runtime": 120,
+   "cast": [
+      "Dev Patel",
+      "Saurabh Shukla",
+      "Anil Kapoor",
+      "Raj Zutshi",
+      "Jeneva Talwar",
+      "Freida Pinto",
+      "Irrfan Khan"
+   ],
+   "significants": [
+      "Danny Boyle",
+      "Loveleen Tandan"
+   ],
+   "title": "Slumdog Millionaire",
+   "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+   "tagline": "What does it take to find a lost love?",
+   "video": "AIzbwV7on6Q",
+   "posterPath": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWKuzZQIzBKzDcwEAAACs:type:feature",
+            "added": 1664829033,
+            "leaving": 16961436000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0064116",
+   "tmdbID": "335",
+   "imdbRating": 85,
+   "imdbVoteCount": 328939,
+   "tmdbRating": 83,
+   "backdropPath": "/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/h31SOVlekuHXsMWVGxI8nPPfY82.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h31SOVlekuHXsMWVGxI8nPPfY82.jpg"
+   },
+   "originalTitle": "C'era una volta il West",
+   "genres": [
+      37
+   ],
+   "countries": [
+      "IT",
+      "US"
+   ],
+   "year": 1968,
+   "runtime": 166,
+   "cast": [
+      "Claudia Cardinale",
+      "Henry Fonda",
+      "Jason Robards",
+      "Charles Bronson",
+      "Gabriele Ferzetti",
+      "Paolo Stoppa",
+      "Woody Strode"
+   ],
+   "significants": [
+      "Sergio Leone"
+   ],
+   "title": "Once Upon a Time in the West",
+   "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+   "tagline": "There were three men in her life. One to take her… one to love her —and one to kill her.",
+   "video": "Yw-Av9BpC-w",
+   "posterPath": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qbYgqOczabWNn2XKwgMtVrntD6P.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/pup_7qr8mPawX_YuJHjMGMMqnSO3EJQ2/",
+            "added": 1659406819,
+            "leaving": 1675227600
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

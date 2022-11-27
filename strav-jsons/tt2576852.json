@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2576852",
+   "tmdbID": "149871",
+   "imdbRating": 80,
+   "imdbVoteCount": 47171,
+   "tmdbRating": 81,
+   "backdropPath": "/imUJOrtNf8EWameChpaRLXSaX4w.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/imUJOrtNf8EWameChpaRLXSaX4w.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/imUJOrtNf8EWameChpaRLXSaX4w.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/imUJOrtNf8EWameChpaRLXSaX4w.jpg",
+      "original": "https://image.tmdb.org/t/p/original/imUJOrtNf8EWameChpaRLXSaX4w.jpg"
+   },
+   "originalTitle": "かぐや姫の物語",
+   "genres": [
+      16,
+      18,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 2013,
+   "runtime": 137,
+   "cast": [
+      "Aki Asakura",
+      "Kengo Kora",
+      "Takeo Chii",
+      "Nobuko Miyamoto",
+      "Atsuko Takahata",
+      "Tomoko Tabata",
+      "Shinosuke Tatekawa"
+   ],
+   "significants": [
+      "Isao Takahata"
+   ],
+   "title": "The Tale of The Princess Kaguya",
+   "overview": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate, the punishment for her crime.",
+   "tagline": "A princess's crime and punishment.",
+   "video": "ILVGna1QMkc",
+   "posterPath": "/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mWRQNlWXYYfd2z4FRm99MsgHgiA.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrS6Pgh76I5awgEAAAM5:type:feature",
+            "added": 1655503130,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

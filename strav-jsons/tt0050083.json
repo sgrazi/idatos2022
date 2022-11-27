@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0050083",
+   "tmdbID": "389",
+   "imdbRating": 90,
+   "imdbVoteCount": 785543,
+   "tmdbRating": 85,
+   "backdropPath": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qqHQsStV6exghCM7zbObuYBiYxw.jpg"
+   },
+   "originalTitle": "12 Angry Men",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1957,
+   "runtime": 97,
+   "cast": [
+      "Martin Balsam",
+      "John Fiedler",
+      "Lee J. Cobb",
+      "E.G. Marshall",
+      "Jack Klugman",
+      "Edward Binns",
+      "Jack Warden"
+   ],
+   "significants": [
+      "Sidney Lumet"
+   ],
+   "title": "12 Angry Men",
+   "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+   "tagline": "Life is in their hands. Death is on their minds.",
+   "video": "TEN-2uTi2c0",
+   "posterPath": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ppd84D2i9W8jXmsyInGyihiSyqz.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

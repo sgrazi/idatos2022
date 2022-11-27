@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0352248",
+   "tmdbID": "921",
+   "imdbRating": 80,
+   "imdbVoteCount": 188644,
+   "tmdbRating": 75,
+   "backdropPath": "/40PwKtiXIZhHS1NmDko6h8EA391.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/40PwKtiXIZhHS1NmDko6h8EA391.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/40PwKtiXIZhHS1NmDko6h8EA391.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/40PwKtiXIZhHS1NmDko6h8EA391.jpg",
+      "original": "https://image.tmdb.org/t/p/original/40PwKtiXIZhHS1NmDko6h8EA391.jpg"
+   },
+   "originalTitle": "Cinderella Man",
+   "genres": [
+      1,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2005,
+   "runtime": 144,
+   "cast": [
+      "Russell Crowe",
+      "Renée Zellweger",
+      "Paul Giamatti",
+      "Craig Bierko",
+      "Paddy Considine",
+      "Bruce McGill",
+      "David Huband"
+   ],
+   "significants": [
+      "Ron Howard"
+   ],
+   "title": "Cinderella Man",
+   "overview": "The true story of boxer Jim Braddock who, in the 1920s following his retirement, makes a surprise comeback in order to get him and his family out of a socially poor state.",
+   "tagline": "One man's extraordinary fight to save the family he loved.",
+   "video": "PpdRWplFjG8",
+   "posterPath": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/45031",
+            "added": 1664895729,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

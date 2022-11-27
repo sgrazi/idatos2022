@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2082197",
+   "tmdbID": "127501",
+   "imdbRating": 81,
+   "imdbVoteCount": 82459,
+   "tmdbRating": 75,
+   "backdropPath": "/lnNEmbGoxcSoO69NeavliNUxT3O.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lnNEmbGoxcSoO69NeavliNUxT3O.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lnNEmbGoxcSoO69NeavliNUxT3O.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lnNEmbGoxcSoO69NeavliNUxT3O.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lnNEmbGoxcSoO69NeavliNUxT3O.jpg"
+   },
+   "originalTitle": "बर्फी!",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2012,
+   "runtime": 151,
+   "cast": [
+      "Ranbir Kapoor",
+      "Priyanka Chopra Jonas",
+      "Ileana D'Cruz",
+      "Saurabh Shukla",
+      "Jisshu Sengupta",
+      "Ashish Vidhyarthi",
+      "Akash Khurana"
+   ],
+   "significants": [
+      "Anurag Basu"
+   ],
+   "title": "Barfi!",
+   "overview": "He is cute. He's shrewd. The girls love him. The cops hate him. He can't speak but is always talked about. His naughty antics will make you scream, but he will never listen. Cos he can't! Next summer ride a rollercoaster of emotions with Barfii - the Chalu Chaplin!",
+   "tagline": "",
+   "video": "nQ3FYUgSjC8",
+   "posterPath": "/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8lVuWmArvr41CvyvpgI3elD5iB1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8lVuWmArvr41CvyvpgI3elD5iB1.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70219525/",
+            "added": 1600283847,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

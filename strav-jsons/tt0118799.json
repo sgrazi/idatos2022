@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0118799",
+   "tmdbID": "637",
+   "imdbRating": 86,
+   "imdbVoteCount": 691859,
+   "tmdbRating": 85,
+   "backdropPath": "/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gavyCu1UaTaTNPsVaGXT6pe5u24.jpg"
+   },
+   "originalTitle": "La vita è bella",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "IT"
+   ],
+   "year": 1997,
+   "runtime": 116,
+   "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini",
+      "Giustino Durano",
+      "Sergio Bini Bustric",
+      "Lidia Alfonsi",
+      "Giuliana Lojodice"
+   ],
+   "significants": [
+      "Roberto Benigni"
+   ],
+   "title": "Life Is Beautiful",
+   "overview": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+   "tagline": "An unforgettable fable that proves love, family and imagination conquer all.",
+   "video": "pAYEQP8gx3w",
+   "posterPath": "/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/ICJy_nQVT6DCoYTc2ObFVSu3gbwqemsP/",
+            "added": 1662823391,
+            "leaving": 1678338000
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

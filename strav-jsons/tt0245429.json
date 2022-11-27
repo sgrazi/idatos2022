@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0245429",
+   "tmdbID": "129",
+   "imdbRating": 86,
+   "imdbVoteCount": 757826,
+   "tmdbRating": 85,
+   "backdropPath": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg"
+   },
+   "originalTitle": "千と千尋の神隠し",
+   "genres": [
+      16,
+      12,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 2001,
+   "runtime": 125,
+   "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Bunta Sugawara",
+      "Akio Nakamura",
+      "Yumi Tamai",
+      "Ryunosuke Kamiki"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "Spirited Away",
+   "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+   "tagline": "",
+   "video": "ByXuk9QqQkk",
+   "posterPath": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHanAQBunUYOAEAAAB3:type:feature",
+            "added": 1655510831,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

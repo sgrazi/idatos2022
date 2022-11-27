@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt12361178",
+   "tmdbID": "706872",
+   "imdbRating": 84,
+   "imdbVoteCount": 36847,
+   "tmdbRating": 77,
+   "backdropPath": "/umSt9k8VItNmdRGbrPrdyr5RmEa.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/umSt9k8VItNmdRGbrPrdyr5RmEa.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/umSt9k8VItNmdRGbrPrdyr5RmEa.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/umSt9k8VItNmdRGbrPrdyr5RmEa.jpg",
+      "original": "https://image.tmdb.org/t/p/original/umSt9k8VItNmdRGbrPrdyr5RmEa.jpg"
+   },
+   "originalTitle": "ദൃശ്യം 2",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2021,
+   "runtime": 153,
+   "cast": [
+      "Mohanlal",
+      "Meena",
+      "Murali Gopy",
+      "Asha Sarath",
+      "Siddique",
+      "Anjali Aneesh Upasana",
+      "Esther Anil"
+   ],
+   "significants": [
+      "Jeethu Joseph"
+   ],
+   "title": "Drishyam 2",
+   "overview": "7 years after the events of Drishyam, the family lives with the trauma from that fateful night. A gripping tale of an investigation and a family threatened by it. Will Georgekutty be able to protect his family this time?",
+   "tagline": "The Resumption",
+   "video": "",
+   "posterPath": "/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8RJBCUGE27LX06tAES4jTELN0KA.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0PI0IFOE2K9DGDC2N6YOLYBX4O/",
+            "added": 1636143183,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "ml"
+}

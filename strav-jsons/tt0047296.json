@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0047296",
+   "tmdbID": "654",
+   "imdbRating": 81,
+   "imdbVoteCount": 155613,
+   "tmdbRating": 79,
+   "backdropPath": "/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg"
+   },
+   "originalTitle": "On the Waterfront",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1954,
+   "runtime": 108,
+   "cast": [
+      "Marlon Brando",
+      "Karl Malden",
+      "Lee J. Cobb",
+      "Eva Marie Saint",
+      "Rod Steiger",
+      "Pat Henning",
+      "Leif Erickson"
+   ],
+   "significants": [
+      "Elia Kazan"
+   ],
+   "title": "On the Waterfront",
+   "overview": "Terry Malloy dreams about being a prize fighter, while tending his pigeons and running errands at the docks for Johnny Friendly, the corrupt boss of the dockers union. Terry witnesses a murder by two of Johnny's thugs, and later meets the dead man's sister and feels responsible for his death. She introduces him to Father Barry, who tries to force him to provide information for the courts that will smash the dock racketeers.",
+   "tagline": "The man lived by the jungle law of the docks!",
+   "video": "boekTHsOIY8",
+   "posterPath": "/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYjUhWwAp9sPCwgEAAADT:type:feature",
+            "added": 1655514674,
+            "leaving": 16803215400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,59 @@
+{
+   "imdbID": "tt0114787",
+   "tmdbID": "11902",
+   "imdbRating": 81,
+   "imdbVoteCount": 58722,
+   "tmdbRating": 77,
+   "backdropPath": "/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2nerKhF40OzjnGGOyzHcsAw8T53.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2nerKhF40OzjnGGOyzHcsAw8T53.jpg"
+   },
+   "originalTitle": "Подземље",
+   "genres": [
+      35,
+      18,
+      14
+   ],
+   "countries": [
+      "BG",
+      "CZ",
+      "FR",
+      "DE",
+      "HU",
+      "YU"
+   ],
+   "year": 1995,
+   "runtime": 170,
+   "cast": [
+      "Miki Manojlović",
+      "Lazar Ristovski",
+      "Mirjana Joković",
+      "Slavko Štimac",
+      "Ernst Stötzner",
+      "Srđan Todorović",
+      "Mirjana Karanović"
+   ],
+   "significants": [
+      "Emir Kusturica"
+   ],
+   "title": "Underground",
+   "overview": "Black marketeers Marko and Blacky manufacture and sell weapons to the Communist resistance in WWII Belgrade, living the good life along the way. Marko's surreal duplicity propels him up the ranks of the Communist Party, and he eventually abandons Blacky and steals his girlfriend. After a lengthy stay in a below-ground shelter, the couple reemerges during the Yugoslavian Civil War of the 1990s as Marko realizes that the situation is ripe for exploitation.",
+   "tagline": "ONCE UPON A TIME THERE WAS A COUNTRY",
+   "video": "rYTvmLvLchs",
+   "posterPath": "/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "sr"
+}

@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0070047",
+   "tmdbID": "9552",
+   "imdbRating": 81,
+   "imdbVoteCount": 407602,
+   "tmdbRating": 77,
+   "backdropPath": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xcjJ5khg2yzOa282mza39Lbrm7j.jpg"
+   },
+   "originalTitle": "The Exorcist",
+   "genres": [
+      27
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1973,
+   "runtime": 122,
+   "cast": [
+      "Ellen Burstyn",
+      "Linda Blair",
+      "Jason Miller",
+      "Max von Sydow",
+      "Lee J. Cobb",
+      "Kitty Winn",
+      "Jack MacGowran"
+   ],
+   "significants": [
+      "William Friedkin"
+   ],
+   "title": "The Exorcist",
+   "overview": "12-year-old Regan MacNeil begins to adapt an explicit new personality as strange events befall the local area of Georgetown. Her mother becomes torn between science and superstition in a desperate bid to save her daughter, and ultimately turns to her last hope: Father Damien Karras, a troubled priest who is struggling with his own faith.",
+   "tagline": "Something almost beyond comprehension is happening to a girl on this street, in this house… and a man has been sent for as a last resort. This man is The Exorcist.",
+   "video": "NIlR4QU4Kq8",
+   "posterPath": "/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXdu2RAwNtJuAuwEAADZy:type:feature",
+            "added": 1659600354,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

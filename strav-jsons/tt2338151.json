@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2338151",
+   "tmdbID": "297222",
+   "imdbRating": 81,
+   "imdbVoteCount": 188315,
+   "tmdbRating": 76,
+   "backdropPath": "/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gxfvtq5eYiClS2X7hxAAPBNrbWA.jpg"
+   },
+   "originalTitle": "पीके",
+   "genres": [
+      35,
+      18,
+      878
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2014,
+   "runtime": 153,
+   "cast": [
+      "Aamir Khan",
+      "Anushka Sharma",
+      "Sushant Singh Rajput",
+      "Saurabh Shukla",
+      "Boman Irani",
+      "Sanjay Dutt",
+      "Parikshat Sahni"
+   ],
+   "significants": [
+      "Rajkumar Hirani"
+   ],
+   "title": "PK",
+   "overview": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+   "tagline": "Peeke hai kya?",
+   "video": "SOXWc32k4zA",
+   "posterPath": "/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z2x2Y4tncefsIU7h82gmUM5vnBJ.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70303496/",
+            "added": 1667882517,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

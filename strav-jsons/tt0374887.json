@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0374887",
+   "tmdbID": "19625",
+   "imdbRating": 81,
+   "imdbVoteCount": 82510,
+   "tmdbRating": 72,
+   "backdropPath": "/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg",
+      "original": "https://image.tmdb.org/t/p/original/smaFFzbd1flJKUqDI2ylljQ8Pki.jpg"
+   },
+   "originalTitle": "मुन्ना भाई एम बी बी एस",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2003,
+   "runtime": 156,
+   "cast": [
+      "Sanjay Dutt",
+      "Arshad Warsi",
+      "Sunil Dutt",
+      "Gracy Singh",
+      "Rohini Hattangadi",
+      "Boman Irani",
+      "Jimmy Shergill"
+   ],
+   "significants": [
+      "Rajkumar Hirani"
+   ],
+   "title": "Munna Bhai M.B.B.S.",
+   "overview": "A gangster sets out to fulfill his father's dream of becoming a doctor.",
+   "tagline": "He Might Just Cure You",
+   "video": "6lCGvu-hwX4",
+   "posterPath": "/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nZNUTxGsSB4nLEC9Bpa2xfu81qV.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

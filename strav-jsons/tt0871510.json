@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0871510",
+   "tmdbID": "14163",
+   "imdbRating": 81,
+   "imdbVoteCount": 80777,
+   "tmdbRating": 72,
+   "backdropPath": "/2MBkAe0Ce3XcS8PxDW3OOXnIsxF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2MBkAe0Ce3XcS8PxDW3OOXnIsxF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2MBkAe0Ce3XcS8PxDW3OOXnIsxF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2MBkAe0Ce3XcS8PxDW3OOXnIsxF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2MBkAe0Ce3XcS8PxDW3OOXnIsxF.jpg"
+   },
+   "originalTitle": "चकदे! इंडिया",
+   "genres": [
+      18,
+      10751,
+      5
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2007,
+   "runtime": 153,
+   "cast": [
+      "Shah Rukh Khan",
+      "Anaitha Nair",
+      "Tanya Abrol",
+      "Shilpa Shukla",
+      "Arya Menon",
+      "Shubhi Mehta",
+      "Chitrashi Rawat"
+   ],
+   "significants": [
+      "Shimit Amin"
+   ],
+   "title": "Chak De! India",
+   "overview": "A team of rag-tag girls with their own agenda form Team India competing for international fame in field hockey. Their coach, the ex-men's Indian National team captain, returns from a life of shame after being unjustly accused of match fixing in his last match. Can he give the girls the motivation required to win, while dealing with the shadows of his own past?",
+   "tagline": "",
+   "video": "6a0-dSMWm5g",
+   "posterPath": "/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mmFMgEsTRCAGAtwffGpuo3mJsxN.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0ST8IWCMUO5NMQM3413WKVMWQS/",
+            "added": 1666048059,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

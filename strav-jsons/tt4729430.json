@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt4729430",
+   "tmdbID": "508965",
+   "imdbRating": 81,
+   "imdbVoteCount": 148712,
+   "tmdbRating": 82,
+   "backdropPath": "/2u1YG0pgm5bIOXO2OVWLNdMl23f.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2u1YG0pgm5bIOXO2OVWLNdMl23f.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2u1YG0pgm5bIOXO2OVWLNdMl23f.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2u1YG0pgm5bIOXO2OVWLNdMl23f.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2u1YG0pgm5bIOXO2OVWLNdMl23f.jpg"
+   },
+   "originalTitle": "Klaus",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "ES"
+   ],
+   "year": 2019,
+   "runtime": 96,
+   "cast": [
+      "Jason Schwartzman",
+      "J.K. Simmons",
+      "Rashida Jones",
+      "Joan Cusack",
+      "Norm Macdonald",
+      "Will Sasso",
+      "Sergio Pablos"
+   ],
+   "significants": [
+      "Sergio Pablos"
+   ],
+   "title": "Klaus",
+   "overview": "When Jesper distinguishes himself as the Postal Academy's worst student, he is sent to Smeerensburg, a small village located on an icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys.",
+   "tagline": "Welcome to the jingle",
+   "video": "taE3PwurhYM",
+   "posterPath": "/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80183187/",
+            "added": 1653411318,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

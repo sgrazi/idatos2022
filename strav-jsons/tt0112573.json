@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0112573",
+   "tmdbID": "197",
+   "imdbRating": 84,
+   "imdbVoteCount": 1034626,
+   "tmdbRating": 79,
+   "backdropPath": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8lBcqakI3F19NWkXdqE0M8W76b9.jpg"
+   },
+   "originalTitle": "Braveheart",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 178,
+   "cast": [
+      "Mel Gibson",
+      "Catherine McCormack",
+      "Sophie Marceau",
+      "Patrick McGoohan",
+      "Angus Macfadyen",
+      "Brendan Gleeson",
+      "James Robinson"
+   ],
+   "significants": [
+      "Mel Gibson"
+   ],
+   "title": "Braveheart",
+   "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+   "tagline": "Every man dies. Not every man truly lives.",
+   "video": "WtO3CsleMDg",
+   "posterPath": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/or1gBugydmjToAEq7OZY0owwFk.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrLp_wYCqa2brQEAAAHF:type:feature",
+            "added": 1664833546,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt2948356",
+   "tmdbID": "269149",
+   "imdbRating": 80,
+   "imdbVoteCount": 497002,
+   "tmdbRating": 77,
+   "backdropPath": "/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg"
+   },
+   "originalTitle": "Zootopia",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2016,
+   "runtime": 109,
+   "cast": [
+      "Jason Bateman",
+      "Ginnifer Goodwin",
+      "Idris Elba",
+      "Jenny Slate",
+      "Nate Torrence",
+      "Bonnie Hunt",
+      "Don Lake"
+   ],
+   "significants": [
+      "Byron Howard",
+      "Rich Moore"
+   ],
+   "title": "Zootopia",
+   "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+   "tagline": "Welcome to the urban jungle.",
+   "video": "jWM0ct-OLsM",
+   "posterPath": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/1QOxldhm1sKg",
+            "added": 1652639417,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

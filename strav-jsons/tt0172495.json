@@ -1,0 +1,70 @@
+{
+   "imdbID": "tt0172495",
+   "tmdbID": "98",
+   "imdbRating": 85,
+   "imdbVoteCount": 1491170,
+   "tmdbRating": 82,
+   "backdropPath": "/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg"
+   },
+   "originalTitle": "Gladiator",
+   "genres": [
+      28,
+      12,
+      18
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 155,
+   "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed",
+      "Richard Harris",
+      "Derek Jacobi",
+      "Djimon Hounsou"
+   ],
+   "significants": [
+      "Ridley Scott"
+   ],
+   "title": "Gladiator",
+   "overview": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+   "tagline": "A Hero Will Rise.",
+   "video": "P5ieIbInFpg",
+   "posterPath": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60000929/",
+            "added": 1668061752,
+            "leaving": 0
+         }
+      },
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/UAhaBnkT1Lm68ZAFQx1CgMeXalb4vxwz/",
+            "added": 1667595374,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0167261",
+   "tmdbID": "121",
+   "imdbRating": 88,
+   "imdbVoteCount": 1656551,
+   "tmdbRating": 83,
+   "backdropPath": "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg"
+   },
+   "originalTitle": "The Lord of the Rings: The Two Towers",
+   "genres": [
+      28,
+      12
+   ],
+   "countries": [
+      "NZ",
+      "US"
+   ],
+   "year": 2002,
+   "runtime": 179,
+   "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Liv Tyler",
+      "Viggo Mortensen",
+      "Andy Serkis",
+      "Sean Astin",
+      "Cate Blanchett"
+   ],
+   "significants": [
+      "Peter Jackson"
+   ],
+   "title": "The Lord of the Rings: The Two Towers",
+   "overview": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+   "tagline": "A New Power Is Rising.",
+   "video": "nuTU5XcZTLA",
+   "posterPath": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXeXFng63dpuAuwEAADzN:type:feature",
+            "added": 1655500475,
+            "leaving": 0
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0KRD5PTQI0XSY32XRYNNKVB4MA/",
+            "added": 1659601357,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

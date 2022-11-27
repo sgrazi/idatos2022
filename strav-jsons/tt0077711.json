@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0077711",
+   "tmdbID": "12761",
+   "imdbRating": 81,
+   "imdbVoteCount": 34701,
+   "tmdbRating": 80,
+   "backdropPath": "/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ozNapY9iczRr6FYKRbLLM00szCW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ozNapY9iczRr6FYKRbLLM00szCW.jpg"
+   },
+   "originalTitle": "Höstsonaten",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "DE",
+      "SE"
+   ],
+   "year": 1978,
+   "runtime": 93,
+   "cast": [
+      "Ingrid Bergman",
+      "Liv Ullmann",
+      "Lena Nyman",
+      "Halvar Björk",
+      "Marianne Aminoff",
+      "Arne Bang-Hansen",
+      "Gunnar Björnstrand"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "Autumn Sonata",
+   "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
+   "tagline": "",
+   "video": "WDOTDB2cTSg",
+   "posterPath": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRlggTWJ4_wwEAAC8C:type:feature",
+            "added": 1655503276,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

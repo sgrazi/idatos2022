@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0120586",
+   "tmdbID": "73",
+   "imdbRating": 85,
+   "imdbVoteCount": 1117983,
+   "tmdbRating": 83,
+   "backdropPath": "/9LSsSPbP715XT9B7acIZzantPyX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9LSsSPbP715XT9B7acIZzantPyX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9LSsSPbP715XT9B7acIZzantPyX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9LSsSPbP715XT9B7acIZzantPyX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9LSsSPbP715XT9B7acIZzantPyX.jpg"
+   },
+   "originalTitle": "American History X",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1998,
+   "runtime": 119,
+   "cast": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo",
+      "Jennifer Lien",
+      "Ethan Suplee",
+      "Fairuza Balk",
+      "Avery Brooks"
+   ],
+   "significants": [
+      "Tony Kaye"
+   ],
+   "title": "American History X",
+   "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+   "tagline": "Some Legacies Must End.",
+   "video": "ZVAfE5cT59c",
+   "posterPath": "/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c2gsmSQ2Cqv8zosqKOCwRS0GFBS.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXtlFYg2AbMPCwgEAAAUM:type:feature",
+            "added": 1668846624,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

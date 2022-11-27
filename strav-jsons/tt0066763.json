@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0066763",
+   "tmdbID": "26237",
+   "imdbRating": 81,
+   "imdbVoteCount": 33987,
+   "tmdbRating": 72,
+   "backdropPath": "/e2k7DsHGMaWCNlS44ysPkT2E0fe.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/e2k7DsHGMaWCNlS44ysPkT2E0fe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/e2k7DsHGMaWCNlS44ysPkT2E0fe.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/e2k7DsHGMaWCNlS44ysPkT2E0fe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/e2k7DsHGMaWCNlS44ysPkT2E0fe.jpg"
+   },
+   "originalTitle": "आनन्द",
+   "genres": [
+      18,
+      4
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 1971,
+   "runtime": 122,
+   "cast": [
+      "Rajesh Khanna",
+      "Amitabh Bachchan",
+      "Sumita Sanyal",
+      "Johnny Walker",
+      "Asit Sen",
+      "Lalita Pawar",
+      "Dara Singh"
+   ],
+   "significants": [
+      "Hrishikesh Mukherjee"
+   ],
+   "title": "Anand",
+   "overview": "Dr. Bhaskar Bannerjee struggles with his patients' suffering and the darkness and poverty he confronts daily. He treats cancer patient Anand who upon learning of his impending death determines to use the time he has left to the absolute fullest.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/peVm6iuPooa9xddS6JT3w537Kx4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/peVm6iuPooa9xddS6JT3w537Kx4.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

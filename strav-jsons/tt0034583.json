@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0034583",
+   "tmdbID": "289",
+   "imdbRating": 85,
+   "imdbVoteCount": 570107,
+   "tmdbRating": 81,
+   "backdropPath": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg"
+   },
+   "originalTitle": "Casablanca",
+   "genres": [
+      18,
+      10749,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1942,
+   "runtime": 102,
+   "cast": [
+      "Humphrey Bogart",
+      "Ingrid Bergman",
+      "Paul Henreid",
+      "Claude Rains",
+      "Conrad Veidt",
+      "Sydney Greenstreet",
+      "Peter Lorre"
+   ],
+   "significants": [
+      "Michael Curtiz"
+   ],
+   "title": "Casablanca",
+   "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+   "tagline": "They had a date with fate in Casablanca!",
+   "video": "MF7JH_54d8c",
+   "posterPath": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXdu2UQAP-qXCPQEAADfL:type:feature",
+            "added": 1655510456,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

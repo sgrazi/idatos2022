@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt8613070",
+   "tmdbID": "531428",
+   "imdbRating": 81,
+   "imdbVoteCount": 91395,
+   "tmdbRating": 81,
+   "backdropPath": "/omB1Cdt2jbOjdgPb3pJwDIIZCf0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/omB1Cdt2jbOjdgPb3pJwDIIZCf0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/omB1Cdt2jbOjdgPb3pJwDIIZCf0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/omB1Cdt2jbOjdgPb3pJwDIIZCf0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/omB1Cdt2jbOjdgPb3pJwDIIZCf0.jpg"
+   },
+   "originalTitle": "Portrait de la jeune fille en feu",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 2019,
+   "runtime": 120,
+   "cast": [
+      "Noémie Merlant",
+      "Adèle Haenel",
+      "Luàna Bajrami",
+      "Valeria Golino",
+      "Christel Baras",
+      "Armande Boulanger",
+      "Guy Delamarche"
+   ],
+   "significants": [
+      "Céline Sciamma"
+   ],
+   "title": "Portrait of a Lady on Fire",
+   "overview": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+   "tagline": "Don't regret. Remember.",
+   "video": "R-fQPTwma9o",
+   "posterPath": "/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/d514447d-1954-4bf8-8164-fa3d6fdfe73f",
+            "added": 1668989701,
+            "leaving": 1743058800
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

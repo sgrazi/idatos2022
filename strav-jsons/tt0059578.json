@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0059578",
+   "tmdbID": "938",
+   "imdbRating": 82,
+   "imdbVoteCount": 256910,
+   "tmdbRating": 80,
+   "backdropPath": "/f61COvOzOOIwx7whPl5Yj78s9gY.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/f61COvOzOOIwx7whPl5Yj78s9gY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f61COvOzOOIwx7whPl5Yj78s9gY.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/f61COvOzOOIwx7whPl5Yj78s9gY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f61COvOzOOIwx7whPl5Yj78s9gY.jpg"
+   },
+   "originalTitle": "Per qualche dollaro in più",
+   "genres": [
+      37
+   ],
+   "countries": [
+      "DE",
+      "ES",
+      "IT"
+   ],
+   "year": 1965,
+   "runtime": 132,
+   "cast": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Gian Maria Volonté",
+      "Luigi Pistilli",
+      "Klaus Kinski",
+      "Joseph Egger",
+      "Panos Papadopulos"
+   ],
+   "significants": [
+      "Sergio Leone"
+   ],
+   "title": "For a Few Dollars More",
+   "overview": "Two bounty hunters are in pursuit of \"El Indio,\" one of the most wanted fugitives in the western territories, and his gang.",
+   "tagline": "The man with no name is back... the man in black is waiting... a walking arsenal - he uncoils, strikes and kills!",
+   "video": "dP3fxZfYpSo",
+   "posterPath": "/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

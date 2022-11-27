@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1798709",
+   "tmdbID": "152601",
+   "imdbRating": 80,
+   "imdbVoteCount": 610976,
+   "tmdbRating": 78,
+   "backdropPath": "/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg"
+   },
+   "originalTitle": "Her",
+   "genres": [
+      18,
+      10749,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 126,
+   "cast": [
+      "Joaquin Phoenix",
+      "Scarlett Johansson",
+      "Amy Adams",
+      "Rooney Mara",
+      "Chris Pratt",
+      "Olivia Wilde",
+      "Matt Letscher"
+   ],
+   "significants": [
+      "Spike Jonze"
+   ],
+   "title": "Her",
+   "overview": "In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user's every needs. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+   "tagline": "A Spike Jonze Love Story",
+   "video": "ne6p6MfLBxc",
+   "posterPath": "/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yk4J4aewWYNiBhD49WD7UaBBn37.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yk4J4aewWYNiBhD49WD7UaBBn37.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

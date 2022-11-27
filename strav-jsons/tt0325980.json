@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0325980",
+   "tmdbID": "22",
+   "imdbRating": 81,
+   "imdbVoteCount": 1122599,
+   "tmdbRating": 77,
+   "backdropPath": "/jOh79POQu4hyVIseUxdQxTW7vOf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jOh79POQu4hyVIseUxdQxTW7vOf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jOh79POQu4hyVIseUxdQxTW7vOf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jOh79POQu4hyVIseUxdQxTW7vOf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jOh79POQu4hyVIseUxdQxTW7vOf.jpg"
+   },
+   "originalTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "genres": [
+      28,
+      12,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2003,
+   "runtime": 143,
+   "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Geoffrey Rush",
+      "Jack Davenport",
+      "Jonathan Pryce",
+      "Lee Arenberg"
+   ],
+   "significants": [
+      "Gore Verbinski"
+   ],
+   "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+   "overview": "Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.",
+   "tagline": "Prepare to be blown out of the water.",
+   "video": "naQr0uTrH_s",
+   "posterPath": "/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/2XuO7Cc1YEau",
+            "added": 1606703526,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1639426",
+   "tmdbID": "45316",
+   "imdbRating": 81,
+   "imdbVoteCount": 45292,
+   "tmdbRating": 72,
+   "backdropPath": "",
+   "backdropURLs": {},
+   "originalTitle": "उड़ान",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2010,
+   "runtime": 138,
+   "cast": [
+      "Ronit Roy",
+      "Rajat Barmecha",
+      "Aayan Boradia",
+      "Ram Kapoor",
+      "Manjot Singh",
+      "Anand Tiwari"
+   ],
+   "significants": [
+      "Vikramaditya Motwane"
+   ],
+   "title": "Udaan",
+   "overview": "Upon returning to his industrial hometown, a young man must decide whether to follow his own dreams or acquiesce to his father's plans for his future.",
+   "tagline": "",
+   "video": "wEJxe2bE-cE",
+   "posterPath": "/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8dQmrGk0WRPiCwiiGdIxnY5s8Pc.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70139542/",
+            "added": 1654023634,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

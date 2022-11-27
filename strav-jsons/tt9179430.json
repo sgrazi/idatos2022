@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt9179430",
+   "tmdbID": "743563",
+   "imdbRating": 84,
+   "imdbVoteCount": 56513,
+   "tmdbRating": 70,
+   "backdropPath": "/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1GGc5XXaFgNBoJnOEBJCnXSMwhx.jpg"
+   },
+   "originalTitle": "விக்ரம்",
+   "genres": [
+      28,
+      53
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2022,
+   "runtime": 174,
+   "cast": [
+      "Kamal Haasan",
+      "Fahadh Faasil",
+      "Vijay Sethupathi",
+      "Narain",
+      "Chemban Vinod Jose",
+      "Santhana Bharathi",
+      "Elango Kumaravel"
+   ],
+   "significants": [
+      "Lokesh Kanagaraj"
+   ],
+   "title": "Vikram",
+   "overview": "Amar is assigned to investigate a case of serial killings. When Amar investigates the case, he realizes it is not what it seems to be and following down this path will lead to nothing but war between everyone involved.",
+   "tagline": "Once upon a time there lived a ghost...",
+   "video": "",
+   "posterPath": "/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "ta"
+}

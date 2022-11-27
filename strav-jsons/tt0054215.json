@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0054215",
+   "tmdbID": "539",
+   "imdbRating": 85,
+   "imdbVoteCount": 669601,
+   "tmdbRating": 84,
+   "backdropPath": "/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg"
+   },
+   "originalTitle": "Psycho",
+   "genres": [
+      27,
+      9648,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1960,
+   "runtime": 109,
+   "cast": [
+      "Anthony Perkins",
+      "Janet Leigh",
+      "Vera Miles",
+      "John Gavin",
+      "Martin Balsam",
+      "John McIntire",
+      "Simon Oakland"
+   ],
+   "significants": [
+      "Alfred Hitchcock"
+   ],
+   "title": "Psycho",
+   "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+   "tagline": "A new—and altogether different—screen excitement!",
+   "video": "D90QhegiVvo",
+   "posterPath": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0050986",
+   "tmdbID": "614",
+   "imdbRating": 81,
+   "imdbVoteCount": 107763,
+   "tmdbRating": 81,
+   "backdropPath": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/BBVAUchYvkmPThVIqipgAfabfl.jpg"
+   },
+   "originalTitle": "Smultronstället",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "SE"
+   ],
+   "year": 1957,
+   "runtime": 91,
+   "cast": [
+      "Victor Sjöström",
+      "Bibi Andersson",
+      "Ingrid Thulin",
+      "Gunnar Björnstrand",
+      "Jullan Kindahl",
+      "Folke Sundquist",
+      "Björn Bjelfvenstam"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "Wild Strawberries",
+   "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his pregnant and unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+   "tagline": "",
+   "video": "EwMgTyVbCS0",
+   "posterPath": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iyTD2QnySNMPUPE3IedZQipSWfz.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoKwfZFg4eoAEAABa8:type:feature",
+            "added": 1655513250,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

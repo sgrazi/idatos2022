@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0050976",
+   "tmdbID": "490",
+   "imdbRating": 81,
+   "imdbVoteCount": 185588,
+   "tmdbRating": 82,
+   "backdropPath": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg"
+   },
+   "originalTitle": "Det sjunde inseglet",
+   "genres": [
+      18,
+      14
+   ],
+   "countries": [
+      "SE"
+   ],
+   "year": 1957,
+   "runtime": 96,
+   "cast": [
+      "Max von Sydow",
+      "Gunnar Björnstrand",
+      "Bengt Ekerot",
+      "Nils Poppe",
+      "Bibi Andersson",
+      "Inga Gill",
+      "Maud Hansson"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "The Seventh Seal",
+   "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+   "tagline": "",
+   "video": "vZucwtdSvJ8",
+   "posterPath": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wcZ21zrOsy0b52AfAF50XpTiv75.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoIQt11Z4_wwEAAEoM:type:feature",
+            "added": 1655514279,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

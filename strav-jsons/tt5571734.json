@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt5571734",
+   "tmdbID": "415358",
+   "imdbRating": 81,
+   "imdbVoteCount": 45461,
+   "tmdbRating": 74,
+   "backdropPath": "/cbzpBT9hAFcBfArUIinaRau93UP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/cbzpBT9hAFcBfArUIinaRau93UP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cbzpBT9hAFcBfArUIinaRau93UP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/cbzpBT9hAFcBfArUIinaRau93UP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cbzpBT9hAFcBfArUIinaRau93UP.jpg"
+   },
+   "originalTitle": "पिंक",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2016,
+   "runtime": 136,
+   "cast": [
+      "Amitabh Bachchan",
+      "Taapsee Pannu",
+      "Kirti Kulhari",
+      "Andrea Tariang",
+      "Angad Bedi",
+      "Dhritiman Chatterjee",
+      "Piyush Mishra"
+   ],
+   "significants": [
+      "Aniruddha Roy Chowdhury"
+   ],
+   "title": "Pink",
+   "overview": "A sexual assault victim, unjustly tried for the attempted murder of her attacker, is defended by a retired lawyer who challenges India's rape culture.",
+   "tagline": "",
+   "video": "AL2TShb6fFs",
+   "posterPath": "/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6xNhnyKm2M5FEOY7xv5iKiQ5P3.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

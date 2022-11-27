@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt2758880",
+   "tmdbID": "265169",
+   "imdbRating": 81,
+   "imdbVoteCount": 51929,
+   "tmdbRating": 76,
+   "backdropPath": "/xiRjvpk7UhEqoKlzeCak56YkEmD.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xiRjvpk7UhEqoKlzeCak56YkEmD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xiRjvpk7UhEqoKlzeCak56YkEmD.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xiRjvpk7UhEqoKlzeCak56YkEmD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xiRjvpk7UhEqoKlzeCak56YkEmD.jpg"
+   },
+   "originalTitle": "Kış Uykusu",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "TR",
+      "FR",
+      "DE"
+   ],
+   "year": 2014,
+   "runtime": 196,
+   "cast": [
+      "Haluk Bilginer",
+      "Melisa Sözen",
+      "Demet Akbağ",
+      "Ayberk Pekcan",
+      "Serhat Kılıç",
+      "Tamer Levent",
+      "Nejat İşler"
+   ],
+   "significants": [
+      "Nuri Bilge Ceylan"
+   ],
+   "title": "Winter Sleep",
+   "overview": "Aydin, a retired actor, owns a small hotel in central Anatolia with his young wife Nihal and his sister Necla, who is coping with her recent divorce. During the winter, snow covers the ground and boredom brings the return of old memories, pushing Aydin to flee…",
+   "tagline": "",
+   "video": "IMN4KX6BIpY",
+   "posterPath": "/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c4OKvnYOHlKdMvLh8DhoabtAwnR.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "tr"
+}

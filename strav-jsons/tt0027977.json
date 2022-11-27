@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0027977",
+   "tmdbID": "3082",
+   "imdbRating": 85,
+   "imdbVoteCount": 242364,
+   "tmdbRating": 83,
+   "backdropPath": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg"
+   },
+   "originalTitle": "Modern Times",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1936,
+   "runtime": 87,
+   "cast": [
+      "Charlie Chaplin",
+      "Paulette Goddard",
+      "Henry Bergman",
+      "Tiny Sandford",
+      "Chester Conklin",
+      "Hank Mann",
+      "Stanley Blystone"
+   ],
+   "significants": [
+      "Charlie Chaplin"
+   ],
+   "title": "Modern Times",
+   "overview": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+   "tagline": "He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!",
+   "video": "NNznUyDmSFc",
+   "posterPath": "/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9xeglIbChLIe0P4fTQNAdlG2v0C.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk3juwcBFTC3wwEAAAfD:type:feature",
+            "added": 1655509206,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

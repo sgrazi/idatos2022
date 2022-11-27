@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0015864",
+   "tmdbID": "962",
+   "imdbRating": 82,
+   "imdbVoteCount": 111760,
+   "tmdbRating": 80,
+   "backdropPath": "/jIqp5xXY2aw1kxnBPyCXkKQBOJ3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jIqp5xXY2aw1kxnBPyCXkKQBOJ3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jIqp5xXY2aw1kxnBPyCXkKQBOJ3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jIqp5xXY2aw1kxnBPyCXkKQBOJ3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jIqp5xXY2aw1kxnBPyCXkKQBOJ3.jpg"
+   },
+   "originalTitle": "The Gold Rush",
+   "genres": [
+      12,
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1925,
+   "runtime": 89,
+   "cast": [
+      "Charlie Chaplin",
+      "Georgia Hale",
+      "Mack Swain",
+      "Tom Murray",
+      "Henry Bergman",
+      "Malcolm Waite",
+      "Harry Arras"
+   ],
+   "significants": [
+      "Charlie Chaplin"
+   ],
+   "title": "The Gold Rush",
+   "overview": "A lone prospector ventures into Alaska looking for gold. He soon gets mixed up with some burly characters, falls in love with the beautiful Georgia, and tries to win her heart with his singular charm.",
+   "tagline": "The World's Greatest Laughing Picture!",
+   "video": "cSSZiPHkXio",
+   "posterPath": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+      "original": "https://image.tmdb.org/t/p/original/eQRFo1qwRREYwj47Yoe1PisgOle.jpg"
+   },
+   "age": 1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXn0QGgRPw1SpjQEAAAWA:type:feature",
+            "added": 1655515033,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

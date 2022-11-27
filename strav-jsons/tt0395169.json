@@ -1,0 +1,65 @@
+{
+   "imdbID": "tt0395169",
+   "tmdbID": "205",
+   "imdbRating": 81,
+   "imdbVoteCount": 355937,
+   "tmdbRating": 77,
+   "backdropPath": "/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ljEdpkceJ9b3TEcTVQISS0Goft0.jpg"
+   },
+   "originalTitle": "Hotel Rwanda",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "IT",
+      "ZA",
+      "GB",
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 121,
+   "cast": [
+      "Don Cheadle",
+      "Sophie Okonedo",
+      "Nick Nolte",
+      "Fana Mokoena",
+      "Joaquin Phoenix",
+      "Jean Reno",
+      "Desmond Dube"
+   ],
+   "significants": [
+      "Terry George"
+   ],
+   "title": "Hotel Rwanda",
+   "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+   "tagline": "When the world closed its eyes, he opened his arms.",
+   "video": "2x8UzELvKlY",
+   "posterPath": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p3pHw85UMZPegfMZBA6dZ06yarm.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYVt_xwiFQC-ghgEAAABA:type:feature",
+            "added": 1655510052,
+            "leaving": 16829244000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

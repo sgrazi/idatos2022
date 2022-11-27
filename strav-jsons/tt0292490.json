@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0292490",
+   "tmdbID": "14752",
+   "imdbRating": 81,
+   "imdbVoteCount": 72585,
+   "tmdbRating": 69,
+   "backdropPath": "/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fJ3k4ctIvIyeQxyNhUWZaLwKeP5.jpg"
+   },
+   "originalTitle": "दिल चाहता है",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2001,
+   "runtime": 183,
+   "cast": [
+      "Aamir Khan",
+      "Saif Ali Khan",
+      "Akshaye Khanna",
+      "Preity Zinta",
+      "Sonali Kulkarni",
+      "Dimple Kapadia",
+      "Rajat Kapoor"
+   ],
+   "significants": [
+      "Farhan Akhtar"
+   ],
+   "title": "Dil Chahta Hai",
+   "overview": "Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.",
+   "tagline": "Welcome To A Summer Of Their Lives You Will Never Forget",
+   "video": "m13b25V0B10",
+   "posterPath": "/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3Rwy4UjWBGEbD23xjyeBsL3OnXQ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60021525/",
+            "added": 1600283847,
+            "leaving": 0
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0GUPSYRY1MTBUBAJMLTKNYIC7E/",
+            "added": 1642182392,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

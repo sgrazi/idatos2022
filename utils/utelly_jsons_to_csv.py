@@ -27,19 +27,14 @@ for json_file in json_list:
         locations.drop(["icon"], axis=1, inplace=True)
         locations.drop(["id"], axis=1, inplace=True)
         locations.drop(["name"], axis=1, inplace=True)
-        data.drop(["collection.locations"], axis=1, inplace=True)
-        row = data
-        # uso concat (merge no me funciona), tengo que tener misma cant de tuplas en ambos dataframes
-        for x in range(0,locations.shape[0]-1):
-            data = pd.concat([data,row],axis=0)
-        data.reset_index(drop=True, inplace=True)
-        data = pd.concat([locations,data],axis=1)
+        services = locations['display_name'].tolist()
+        data["streaming_services"] = ', '.join(services)
     else:
         # si no existe la columna, se crea con valores vacios
         data["collection.locations"] = ""
+    data.drop(["collection.locations"], axis=1, inplace=True)
     dfs.append(data)
 
 df = pd.concat(dfs, ignore_index=True)
-df = df[["id", "collection.name", "display_name"]]
-df.rename(columns = {'collection.name':'name', 'display_name':'streaming_service'}, inplace = True)
+df.rename(columns = {'collection.name':'name'}, inplace = True)
 df.to_csv(csv_path, index=False)

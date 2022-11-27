@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0073195",
+   "tmdbID": "578",
+   "imdbRating": 81,
+   "imdbVoteCount": 604712,
+   "tmdbRating": 76,
+   "backdropPath": "/shSCarLTK01PfeFnq9WmRrzRcdl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/shSCarLTK01PfeFnq9WmRrzRcdl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/shSCarLTK01PfeFnq9WmRrzRcdl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/shSCarLTK01PfeFnq9WmRrzRcdl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/shSCarLTK01PfeFnq9WmRrzRcdl.jpg"
+   },
+   "originalTitle": "Jaws",
+   "genres": [
+      12,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1975,
+   "runtime": 124,
+   "cast": [
+      "Roy Scheider",
+      "Robert Shaw",
+      "Richard Dreyfuss",
+      "Murray Hamilton",
+      "Lorraine Gary",
+      "Chris Rebello",
+      "Jay Mello"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "Jaws",
+   "overview": "When an insatiable great white shark terrorizes the townspeople of Amity Island, the police chief, an oceanographer and a grizzled shark hunter seek to destroy the blood-thirsty beast.",
+   "tagline": "Don't go in the water",
+   "video": "WKuZJjPSLXQ",
+   "posterPath": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

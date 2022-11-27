@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0053198",
+   "tmdbID": "147",
+   "imdbRating": 81,
+   "imdbVoteCount": 118405,
+   "tmdbRating": 80,
+   "backdropPath": "/63HcRYJI4LKeo8sINlL71ZtlUFY.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/63HcRYJI4LKeo8sINlL71ZtlUFY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/63HcRYJI4LKeo8sINlL71ZtlUFY.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/63HcRYJI4LKeo8sINlL71ZtlUFY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/63HcRYJI4LKeo8sINlL71ZtlUFY.jpg"
+   },
+   "originalTitle": "Les Quatre Cents Coups",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1959,
+   "runtime": 99,
+   "cast": [
+      "Jean-Pierre Léaud",
+      "Claire Maurier",
+      "Albert Rémy",
+      "Georges Flamant",
+      "Patrick Auffay",
+      "Robert Beauvais",
+      "Yvonne Claudie"
+   ],
+   "significants": [
+      "François Truffaut"
+   ],
+   "title": "The 400 Blows",
+   "overview": "For young Parisian boy Antoine Doinel, life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents, Antoine spends his days with his best friend, Rene, trying to plan for a better life. When one of their schemes goes awry, Antoine ends up in trouble with the law, leading to even more conflicts with unsympathetic authority figures.",
+   "tagline": "Angel faces hell-bent for violence.",
+   "video": "ICGZfU-9Yl0",
+   "posterPath": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/12PuU23kkDLvTd0nb8hMlE3oShB.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRjAm2KiLCHAEAAB0M:type:feature",
+            "added": 1655501778,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0097223",
+   "tmdbID": "20123",
+   "imdbRating": 81,
+   "imdbVoteCount": 30990,
+   "tmdbRating": 77,
+   "backdropPath": "/nYpAjQbtYG11PlQN6mVHDCSHS4X.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nYpAjQbtYG11PlQN6mVHDCSHS4X.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nYpAjQbtYG11PlQN6mVHDCSHS4X.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nYpAjQbtYG11PlQN6mVHDCSHS4X.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nYpAjQbtYG11PlQN6mVHDCSHS4X.jpg"
+   },
+   "originalTitle": "Dom za vešanje",
+   "genres": [
+      35,
+      80,
+      18
+   ],
+   "countries": [
+      "IT",
+      "GB",
+      "YU"
+   ],
+   "year": 1988,
+   "runtime": 142,
+   "cast": [
+      "Davor Dujmović",
+      "Borivoje Todorović",
+      "Ljubica Adzovic",
+      "Husnija Hasimovic",
+      "Sinolichka Trpkova",
+      "Zabit Memedov",
+      "Elvira Sali"
+   ],
+   "significants": [
+      "Emir Kusturica"
+   ],
+   "title": "Time of the Gypsies",
+   "overview": "In this luminous tale set in the former Yugoslavia, Perhan, an engaging young Romany with telekinetic powers, is seduced by the quick-cash world of petty crime that threatens to destroy him and those he loves.",
+   "tagline": "",
+   "video": "J9K1iQ57LbQ",
+   "posterPath": "/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fF9kWNMjiXC6f4YrdVFA0ScnWgQ.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "sh"
+}

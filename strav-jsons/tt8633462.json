@@ -1,0 +1,70 @@
+{
+   "imdbID": "tt8633462",
+   "tmdbID": "728118",
+   "imdbRating": 80,
+   "imdbVoteCount": 33596,
+   "tmdbRating": 76,
+   "backdropPath": "/sIQHwBWIeTEJlZjOzUQylNFVYaR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sIQHwBWIeTEJlZjOzUQylNFVYaR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sIQHwBWIeTEJlZjOzUQylNFVYaR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sIQHwBWIeTEJlZjOzUQylNFVYaR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sIQHwBWIeTEJlZjOzUQylNFVYaR.jpg"
+   },
+   "originalTitle": "Quo Vadis, Aida?",
+   "genres": [
+      18,
+      36,
+      10752
+   ],
+   "countries": [
+      "DE",
+      "AT",
+      "BA",
+      "FR",
+      "NL",
+      "NO",
+      "PL",
+      "RO",
+      "TR"
+   ],
+   "year": 2021,
+   "runtime": 104,
+   "cast": [
+      "Jasna Đuričić",
+      "Izudin Bajrović",
+      "Boris Ler",
+      "Dino Bajrović",
+      "Johan Heldenbergh",
+      "Raymond Thiry",
+      "Boris Isaković"
+   ],
+   "significants": [
+      "Jasmila Žbanić"
+   ],
+   "title": "Quo Vadis, Aida?",
+   "overview": "Bosnia, July 1995. Aida is a translator for the UN in the small town of Srebrenica. When the Serbian army takes over the town, her family is among the thousands of citizens looking for shelter in the UN camp. As an insider to the negotiations Aida has access to crucial information that she needs to interpret. What is at the horizon for her family and people – rescue or death? Which move should she take?",
+   "tagline": "",
+   "video": "ErLD8P4VUjY",
+   "posterPath": "/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qDI0jKg1mFtsfoUnwhH7OX1om1L.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/9d6d3e3c-8c10-4abd-8ace-d791d41f5430",
+            "added": 1652642277,
+            "leaving": 1712646000
+         }
+      }
+   },
+   "originalLanguage": "sr"
+}

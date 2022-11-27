@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0169102",
+   "tmdbID": "19666",
+   "imdbRating": 81,
+   "imdbVoteCount": 114819,
+   "tmdbRating": 72,
+   "backdropPath": "/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg",
+      "original": "https://image.tmdb.org/t/p/original/u4YATs3X5PLcwCb4j4M6xJcgbty.jpg"
+   },
+   "originalTitle": "लगान",
+   "genres": [
+      18,
+      4,
+      5
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2001,
+   "runtime": 224,
+   "cast": [
+      "Aamir Khan",
+      "Gracy Singh",
+      "Rachel Shelley",
+      "Paul Blackthorne",
+      "Kulbhushan Kharbanda",
+      "Suhasini Mulay",
+      "Yashpal Sharma"
+   ],
+   "significants": [
+      "Ashutosh Gowariker"
+   ],
+   "title": "Lagaan: Once Upon a Time in India",
+   "overview": "In 1890s India, an arrogant British commander challenges the harshly taxed residents of Champaner to a high-stakes cricket match.",
+   "tagline": "",
+   "video": "AqVjWevMrAg",
+   "posterPath": "/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ldJtjnulba43rti5R3ngnkpZq1H.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ldJtjnulba43rti5R3ngnkpZq1H.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60020906/",
+            "added": 1652580201,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

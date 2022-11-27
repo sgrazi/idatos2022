@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0073707",
+   "tmdbID": "12259",
+   "imdbRating": 81,
+   "imdbVoteCount": 56079,
+   "tmdbRating": 70,
+   "backdropPath": "/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg"
+   },
+   "originalTitle": "शोले",
+   "genres": [
+      28,
+      12
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 1975,
+   "runtime": 204,
+   "cast": [
+      "Amitabh Bachchan",
+      "Dharmendra",
+      "Sanjeev Kumar",
+      "Hema Malini",
+      "Jaya Bachchan",
+      "Amjad Khan",
+      "Asrani"
+   ],
+   "significants": [
+      "Ramesh Sippy"
+   ],
+   "title": "Sholay",
+   "overview": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+   "tagline": "The greatest cast ever assembled! The greatest story ever told!",
+   "video": "XjiluhItzIA",
+   "posterPath": "/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

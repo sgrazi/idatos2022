@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt0169547",
+   "tmdbID": "14",
+   "imdbRating": 84,
+   "imdbVoteCount": 1151169,
+   "tmdbRating": 80,
+   "backdropPath": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/DztBnZaqmla2sGUW9s8AyOmskT.jpg"
+   },
+   "originalTitle": "American Beauty",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1999,
+   "runtime": 122,
+   "cast": [
+      "Kevin Spacey",
+      "Annette Bening",
+      "Thora Birch",
+      "Wes Bentley",
+      "Mena Suvari",
+      "Chris Cooper",
+      "Allison Janney"
+   ],
+   "significants": [
+      "Sam Mendes"
+   ],
+   "title": "American Beauty",
+   "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+   "tagline": "Look closer.",
+   "video": "IJM3cZlqwlA",
+   "posterPath": "/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60000407/",
+            "added": 1668191816,
+            "leaving": 0
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0GDNEQSW7026ONAVCFL5THHSMJ/",
+            "added": 1663668891,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

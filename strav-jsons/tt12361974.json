@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt12361974",
+   "tmdbID": "791373",
+   "imdbRating": 80,
+   "imdbVoteCount": 395078,
+   "tmdbRating": 82,
+   "backdropPath": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg"
+   },
+   "originalTitle": "Zack Snyder's Justice League",
+   "genres": [
+      28,
+      12,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2021,
+   "runtime": 242,
+   "cast": [
+      "Ben Affleck",
+      "Henry Cavill",
+      "Gal Gadot",
+      "Jason Momoa",
+      "Ezra Miller",
+      "Ray Fisher",
+      "Amy Adams"
+   ],
+   "significants": [
+      "Zack Snyder"
+   ],
+   "title": "Zack Snyder's Justice League",
+   "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+   "tagline": "",
+   "video": "ZrdQSAX2kyw",
+   "posterPath": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYDAnZgCFQ8IJpQEAAAAN:type:feature",
+            "added": 1668841056,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt8503618",
+   "tmdbID": "556574",
+   "imdbRating": 84,
+   "imdbVoteCount": 93971,
+   "tmdbRating": 83,
+   "backdropPath": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uWVkEo9PWHu9algZsiLPi6sRU64.jpg"
+   },
+   "originalTitle": "Hamilton",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2020,
+   "runtime": 160,
+   "cast": [
+      "Lin-Manuel Miranda",
+      "Leslie Odom Jr.",
+      "Renée Elise Goldsberry",
+      "Phillipa Soo",
+      "Daveed Diggs",
+      "Christopher Jackson",
+      "Jasmine Cephas Jones"
+   ],
+   "significants": [
+      "Thomas Kail"
+   ],
+   "title": "Hamilton",
+   "overview": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+   "tagline": "An American Musical.",
+   "video": "DSCKfXpAGHc",
+   "posterPath": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h1B7tW0t399VDjAcWJh8m87469b.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/3uPmBHWlO6HJ",
+            "added": 1652523258,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

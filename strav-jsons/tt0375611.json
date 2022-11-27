@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0375611",
+   "tmdbID": "31977",
+   "imdbRating": 81,
+   "imdbVoteCount": 35132,
+   "tmdbRating": 77,
+   "backdropPath": "/c8Jpcdk6ROqqy9CSv1j9PLehyXi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c8Jpcdk6ROqqy9CSv1j9PLehyXi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c8Jpcdk6ROqqy9CSv1j9PLehyXi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c8Jpcdk6ROqqy9CSv1j9PLehyXi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c8Jpcdk6ROqqy9CSv1j9PLehyXi.jpg"
+   },
+   "originalTitle": "Black",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2005,
+   "runtime": 122,
+   "cast": [
+      "Amitabh Bachchan",
+      "Rani Mukerji",
+      "Ayesha Kapoor",
+      "Shernaz Patel",
+      "Dhritiman Chatterjee",
+      "Nandana Sen",
+      "Sillo Mahava"
+   ],
+   "significants": [
+      "Sanjay Leela Bhansali"
+   ],
+   "title": "Black",
+   "overview": "Black is an adaptation of Helen Keller's autobiography. Black revolves around a blind and deaf girl, and her relationship with her teacher who himself later develops Alzheimer's disease.",
+   "tagline": "An unending darkness... A world of shadows... A ray of light that found its way... A teacher's dream... A student's miracle... A valiant journey... From ignorance to knowledge... From darkness to light... An extraordinary story of an ordinary life.",
+   "video": "Smd_xZHCCzI",
+   "posterPath": "/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7RtfmW00zS4bgMECJYo32fxaAhL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7RtfmW00zS4bgMECJYo32fxaAhL.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0079944",
+   "tmdbID": "1398",
+   "imdbRating": 81,
+   "imdbVoteCount": 134561,
+   "tmdbRating": 82,
+   "backdropPath": "/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xhet9FxP6VoRdlBSsfc9FhCsKSW.jpg"
+   },
+   "originalTitle": "Сталкер",
+   "genres": [
+      18,
+      878
+   ],
+   "countries": [
+      "SU"
+   ],
+   "year": 1979,
+   "runtime": 162,
+   "cast": [
+      "Aleksandr Kaydanovskiy",
+      "Anatoliy Solonitsyn",
+      "Nikolay Grinko",
+      "Alisa Freyndlikh",
+      "Natasha Abramova",
+      "Faime Jurno",
+      "Evgeniy Kostin"
+   ],
+   "significants": [
+      "Andrei Tarkovsky"
+   ],
+   "title": "Stalker",
+   "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+   "tagline": "",
+   "video": "nFLQEuQuNKM",
+   "posterPath": "/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lUE0Bp7wH0EterJ44qMRsqtKFnp.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYTql5wQFQG03SAEAAACp:type:feature",
+            "added": 1655509688,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "ru"
+}

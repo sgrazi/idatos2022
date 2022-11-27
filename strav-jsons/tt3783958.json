@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt3783958",
+   "tmdbID": "313369",
+   "imdbRating": 80,
+   "imdbVoteCount": 584205,
+   "tmdbRating": 78,
+   "backdropPath": "/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qJeU7KM4nT2C1WpOrwPcSDGFUWE.jpg"
+   },
+   "originalTitle": "La La Land",
+   "genres": [
+      35,
+      18,
+      10402
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2016,
+   "runtime": 129,
+   "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend",
+      "Rosemarie DeWitt",
+      "J.K. Simmons",
+      "Amiée Conn",
+      "Terry Walters"
+   ],
+   "significants": [
+      "Damien Chazelle"
+   ],
+   "title": "La La Land",
+   "overview": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+   "tagline": "Here's to the fools who dream.",
+   "video": "0pdqf4P9MB8",
+   "posterPath": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

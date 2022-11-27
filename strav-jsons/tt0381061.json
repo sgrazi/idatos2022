@@ -1,0 +1,66 @@
+{
+   "imdbID": "tt0381061",
+   "tmdbID": "36557",
+   "imdbRating": 80,
+   "imdbVoteCount": 656841,
+   "tmdbRating": 75,
+   "backdropPath": "/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg"
+   },
+   "originalTitle": "Casino Royale",
+   "genres": [
+      28,
+      12,
+      53
+   ],
+   "countries": [
+      "DE",
+      "BS",
+      "US",
+      "GB",
+      "CZ"
+   ],
+   "year": 2006,
+   "runtime": 144,
+   "cast": [
+      "Daniel Craig",
+      "Eva Green",
+      "Mads Mikkelsen",
+      "Judi Dench",
+      "Jeffrey Wright",
+      "Giancarlo Giannini",
+      "Caterina Murino"
+   ],
+   "significants": [
+      "Martin Campbell"
+   ],
+   "title": "Casino Royale",
+   "overview": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+   "tagline": "Everyone has a past. Every legend has a beginning.",
+   "video": "U4NT78c-pYs",
+   "posterPath": "/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70044604/",
+            "added": 1641244482,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

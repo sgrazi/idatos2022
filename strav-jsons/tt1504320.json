@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt1504320",
+   "tmdbID": "45269",
+   "imdbRating": 80,
+   "imdbVoteCount": 680349,
+   "tmdbRating": 77,
+   "backdropPath": "/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5eb7l7AE2yU0mvb38fR5qLNhDDH.jpg"
+   },
+   "originalTitle": "The King's Speech",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 118,
+   "cast": [
+      "Colin Firth",
+      "Geoffrey Rush",
+      "Helena Bonham Carter",
+      "Guy Pearce",
+      "Timothy Spall",
+      "Michael Gambon",
+      "Jennifer Ehle"
+   ],
+   "significants": [
+      "Tom Hooper"
+   ],
+   "title": "The King's Speech",
+   "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+   "tagline": "Find your voice.",
+   "video": "OpH8kO1AyVA",
+   "posterPath": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

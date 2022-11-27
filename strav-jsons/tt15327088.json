@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt15327088",
+   "tmdbID": "858485",
+   "imdbRating": 91,
+   "imdbVoteCount": 65490,
+   "tmdbRating": 83,
+   "backdropPath": "/g4EccIilvUXEGDLcGozUbodgtvn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/g4EccIilvUXEGDLcGozUbodgtvn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g4EccIilvUXEGDLcGozUbodgtvn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/g4EccIilvUXEGDLcGozUbodgtvn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g4EccIilvUXEGDLcGozUbodgtvn.jpg"
+   },
+   "originalTitle": "ಕಾಂತಾರ",
+   "genres": [
+      28,
+      12
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2022,
+   "runtime": 150,
+   "cast": [
+      "Rishab Shetty",
+      "Sapthami Gowda",
+      "Kishore",
+      "Pramod Shetty",
+      "Achyuth Kumar",
+      "Vinay Bidappa",
+      "Manasi Sudhir"
+   ],
+   "significants": [
+      "Rishab Shetty"
+   ],
+   "title": "Kantara",
+   "overview": "Shiva, a tribal vagabond lives with his mother in hamlet, stays away from the traditional Daivaradhane and Bhoota Kola legacy due to an unforgettable childhood incident. He is happy loafing around with his friends and doing petty jobs for his landlord. When Forest officer Murali enters the scene, it gives a fresh dimension to the man-vs-nature fight. Can Shiva save the forest from Murali? Or is Murali just a dummy bait cast by bigger fish?",
+   "tagline": "A Legend",
+   "video": "",
+   "posterPath": "/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9fVBhpOnTXElQGyRiGM9PJfUolD.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "kn"
+}

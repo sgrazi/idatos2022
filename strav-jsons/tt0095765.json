@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0095765",
+   "tmdbID": "11216",
+   "imdbRating": 85,
+   "imdbVoteCount": 260744,
+   "tmdbRating": 84,
+   "backdropPath": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg"
+   },
+   "originalTitle": "Nuovo Cinema Paradiso",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "IT"
+   ],
+   "year": 1988,
+   "runtime": 124,
+   "cast": [
+      "Philippe Noiret",
+      "Jacques Perrin",
+      "Marco Leonardi",
+      "Salvatore Cascio",
+      "Agnese Nano",
+      "Antonella Attili",
+      "Enzo Cannavale"
+   ],
+   "significants": [
+      "Giuseppe Tornatore"
+   ],
+   "title": "Cinema Paradiso",
+   "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+   "tagline": "An enchanted village. A wonderful friendship. Star-crossed lovers. And the magic of the movies.",
+   "video": "JMyVSD6OvO8",
+   "posterPath": "/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

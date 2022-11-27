@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0242519",
+   "tmdbID": "21614",
+   "imdbRating": 81,
+   "imdbVoteCount": 67250,
+   "tmdbRating": 70,
+   "backdropPath": "/4awpqEzHTaubD2H7iu1gEfTSxCZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4awpqEzHTaubD2H7iu1gEfTSxCZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4awpqEzHTaubD2H7iu1gEfTSxCZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4awpqEzHTaubD2H7iu1gEfTSxCZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4awpqEzHTaubD2H7iu1gEfTSxCZ.jpg"
+   },
+   "originalTitle": "Hera Pheri",
+   "genres": [
+      28,
+      35,
+      80
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2000,
+   "runtime": 156,
+   "cast": [
+      "Akshay Kumar",
+      "Suniel Shetty",
+      "Paresh Rawal",
+      "Tabu",
+      "Gulshan Grover",
+      "Kulbhushan Kharbanda",
+      "Om Puri"
+   ],
+   "significants": [
+      "Priyadarshan"
+   ],
+   "title": "Hera Pheri",
+   "overview": "Three unemployed men find the answer to all their money problems when they receive a call from a kidnapper. However, things do not go as planned.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jSnwHZTkSufd5rFenTm2jUP03wV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jSnwHZTkSufd5rFenTm2jUP03wV.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

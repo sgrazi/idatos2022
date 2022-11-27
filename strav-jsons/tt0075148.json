@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0075148",
+   "tmdbID": "1366",
+   "imdbRating": 81,
+   "imdbVoteCount": 574157,
+   "tmdbRating": 77,
+   "backdropPath": "/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yPgAHVzCF0yJGhxupwVwknOHdJj.jpg"
+   },
+   "originalTitle": "Rocky",
+   "genres": [
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1976,
+   "runtime": 120,
+   "cast": [
+      "Sylvester Stallone",
+      "Talia Shire",
+      "Burt Young",
+      "Carl Weathers",
+      "Burgess Meredith",
+      "Thayer David",
+      "Joe Spinell"
+   ],
+   "significants": [
+      "John G. Avildsen"
+   ],
+   "title": "Rocky",
+   "overview": "When world heavyweight boxing champion, Apollo Creed wants to give an unknown fighter a shot at the title as a publicity stunt, his handlers choose palooka Rocky Balboa, an uneducated collector for a Philadelphia loan shark. Rocky teams up with trainer  Mickey Goldmill to make the most of this once in a lifetime break.",
+   "tagline": "His whole life was a million-to-one shot.",
+   "video": "qqur-mdN69k",
+   "posterPath": "/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

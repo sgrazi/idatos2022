@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1555149",
+   "tmdbID": "47931",
+   "imdbRating": 80,
+   "imdbVoteCount": 83480,
+   "tmdbRating": 78,
+   "backdropPath": "/jkkw7YyfWO1Vc0i6YFU1JQef8DV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jkkw7YyfWO1Vc0i6YFU1JQef8DV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jkkw7YyfWO1Vc0i6YFU1JQef8DV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jkkw7YyfWO1Vc0i6YFU1JQef8DV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jkkw7YyfWO1Vc0i6YFU1JQef8DV.jpg"
+   },
+   "originalTitle": "Tropa de Elite 2",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "BR"
+   ],
+   "year": 2010,
+   "runtime": 115,
+   "cast": [
+      "Wagner Moura",
+      "Irandhir Santos",
+      "André Ramiro",
+      "Pedro Van-Held",
+      "Maria Ribeiro",
+      "Sandro Rocha",
+      "Milhem Cortaz"
+   ],
+   "significants": [
+      "José Padilha"
+   ],
+   "title": "Elite Squad: The Enemy Within",
+   "overview": "After a bloody invasion of the BOPE in the High-Security Penitentiary Bangu 1 in Rio de Janeiro to control a rebellion of interns, the Lieutenant-Colonel Roberto Nascimento and the second in command Captain André Matias are accused by the Human Right Aids member Diogo Fraga of execution of prisoners. Matias is transferred to the corrupted Military Police and Nascimento is exonerated from the BOPE by the Governor.",
+   "tagline": "",
+   "video": "_gnJB10WTpE",
+   "posterPath": "/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/89nThdmRxWYqglPRtJt1kZjP6UE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/89nThdmRxWYqglPRtJt1kZjP6UE.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "pt"
+}

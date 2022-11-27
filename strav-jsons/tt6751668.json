@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt6751668",
+   "tmdbID": "496243",
+   "imdbRating": 85,
+   "imdbVoteCount": 790016,
+   "tmdbRating": 85,
+   "backdropPath": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
+   },
+   "originalTitle": "기생충",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "KR"
+   ],
+   "year": 2019,
+   "runtime": 133,
+   "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam",
+      "Lee Jung-eun",
+      "Jang Hye-jin"
+   ],
+   "significants": [
+      "Bong Joon-ho"
+   ],
+   "title": "Parasite",
+   "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+   "tagline": "Act like you own the place.",
+   "video": "tBfgTZsBeFM",
+   "posterPath": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/2fd691a0-f66b-467f-8635-00d7f151f3d4",
+            "added": 1652641943,
+            "leaving": 1680937200
+         }
+      }
+   },
+   "originalLanguage": "ko"
+}

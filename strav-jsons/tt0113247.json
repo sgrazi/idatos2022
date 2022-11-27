@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0113247",
+   "tmdbID": "406",
+   "imdbRating": 81,
+   "imdbVoteCount": 173898,
+   "tmdbRating": 80,
+   "backdropPath": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+      "original": "https://image.tmdb.org/t/p/original/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg"
+   },
+   "originalTitle": "La Haine",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1995,
+   "runtime": 98,
+   "cast": [
+      "Vincent Cassel",
+      "Hubert Koundé",
+      "Saïd Taghmaoui",
+      "Abdel Ahmed Ghili",
+      "Souleymane Dicko",
+      "Joseph Momo",
+      "Héloïse Rauth"
+   ],
+   "significants": [
+      "Mathieu Kassovitz"
+   ],
+   "title": "La Haine",
+   "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+   "tagline": "How far you fall doesn't matter, it's how you land…",
+   "video": "MjEVNWNhA1o",
+   "posterPath": "/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8rgPyWjYZhsphSSxbXguMnhN7H0.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

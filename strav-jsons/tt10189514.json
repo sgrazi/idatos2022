@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt10189514",
+   "tmdbID": "595228",
+   "imdbRating": 87,
+   "imdbVoteCount": 116362,
+   "tmdbRating": 77,
+   "backdropPath": "/h8ocFPRoz2NZPFCftdiUrjNUSyX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/h8ocFPRoz2NZPFCftdiUrjNUSyX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h8ocFPRoz2NZPFCftdiUrjNUSyX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/h8ocFPRoz2NZPFCftdiUrjNUSyX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h8ocFPRoz2NZPFCftdiUrjNUSyX.jpg"
+   },
+   "originalTitle": "சூரரைப் போற்று",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2020,
+   "runtime": 149,
+   "cast": [
+      "Suriya",
+      "Aparna Balamurali",
+      "Paresh Rawal",
+      "Mohan Babu",
+      "Urvashi",
+      "Karunas",
+      "'Poo' Ram"
+   ],
+   "significants": [
+      "Sudha Kongara Prasad"
+   ],
+   "title": "Soorarai Pottru",
+   "overview": "Nedumaaran Rajangam \"Maara\" sets out to make the common man fly and in the process takes on the world's most capital intensive industry and several enemies who stand in his way.",
+   "tagline": "",
+   "video": "mQGO69qjPak",
+   "posterPath": "/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/83AFk8uxCpzAcCnVEnEw3sIKiiE.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0LH3CJ90HIAOAZWO6DDWIURS3D/",
+            "added": 1636971794,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "ta"
+}

@@ -1,0 +1,59 @@
+{
+   "imdbID": "tt0060827",
+   "tmdbID": "797",
+   "imdbRating": 81,
+   "imdbVoteCount": 119139,
+   "tmdbRating": 82,
+   "backdropPath": "/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg"
+   },
+   "originalTitle": "Persona",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "SE"
+   ],
+   "year": 1966,
+   "runtime": 83,
+   "cast": [
+      "Bibi Andersson",
+      "Liv Ullmann",
+      "Margaretha Krook",
+      "Gunnar Björnstrand",
+      "Jörgen Lindström"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "Persona",
+   "overview": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer. The time they spend together only strengthens the crushing realization that one does not exist.",
+   "tagline": "",
+   "video": "YEfJopPIbQg",
+   "posterPath": "/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bdXbfUir63TQHA5NTNcXPICZCW8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bdXbfUir63TQHA5NTNcXPICZCW8.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlSfgbRNsNVoAEAAAPr:type:feature",
+            "added": 1655508628,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt2024544",
+   "tmdbID": "76203",
+   "imdbRating": 81,
+   "imdbVoteCount": 699316,
+   "tmdbRating": 79,
+   "backdropPath": "/umUyVxJ4HeNebLMAcScdhF0QB3h.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/umUyVxJ4HeNebLMAcScdhF0QB3h.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/umUyVxJ4HeNebLMAcScdhF0QB3h.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/umUyVxJ4HeNebLMAcScdhF0QB3h.jpg",
+      "original": "https://image.tmdb.org/t/p/original/umUyVxJ4HeNebLMAcScdhF0QB3h.jpg"
+   },
+   "originalTitle": "12 Years a Slave",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US",
+      "GB"
+   ],
+   "year": 2013,
+   "runtime": 134,
+   "cast": [
+      "Chiwetel Ejiofor",
+      "Michael Fassbender",
+      "Lupita Nyong'o",
+      "Benedict Cumberbatch",
+      "Paul Dano",
+      "Sarah Paulson",
+      "Adepero Oduye"
+   ],
+   "significants": [
+      "Steve McQueen"
+   ],
+   "title": "12 Years a Slave",
+   "overview": "In the pre-Civil War United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery. Facing cruelty as well as unexpected kindnesses Solomon struggles not only to stay alive, but to retain his dignity. In the twelfth year of his unforgettable odyssey, Solomon’s chance meeting with a Canadian abolitionist will forever alter his life.",
+   "tagline": "The extraordinary true story of Solomon Northup",
+   "video": "z02Ie8wKKRg",
+   "posterPath": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xdANQijuNrJaw1HA61rDccME4Tm.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYSUuJAZV121AigEAAACE:type:feature",
+            "added": 1655500492,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}
