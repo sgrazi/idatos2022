@@ -25,7 +25,7 @@ genres = {
 }
 
 dfs = []
-jsons_paths = os.path.join("../tmdb-jsons/","*.json")
+jsons_paths = os.path.join("../tmdb-jsons/", "*.json")
 csv_path = Path("../datasets/tmdb_dataset.csv")
 json_list = glob.glob(jsons_paths)
 for json_file in json_list:

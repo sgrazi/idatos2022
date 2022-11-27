@@ -3,14 +3,14 @@ import pandas as pd
 from pathlib import Path
 
 dfs = []
-jsons_paths = os.path.join("../utelly-jsons/","*.json")
+jsons_paths = os.path.join("../utelly-jsons/", "*.json")
 csv_path = Path("../datasets/utelly_dataset.csv")
 json_list = glob.glob(jsons_paths)
 for json_file in json_list:
     f = open(json_file)
     json_data = json.load(f)
     f.close()
-    data = pd.json_normalize(json_data,max_level=2)
+    data = pd.json_normalize(json_data, max_level=2)
     data.drop(["variant"], axis=1, inplace=True)
     data.drop(["status_code"], axis=1, inplace=True)
     data.drop(["type"], axis=1, inplace=True)
