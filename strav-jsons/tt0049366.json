@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0049366",
+   "tmdbID": "11549",
+   "imdbRating": 77,
+   "imdbVoteCount": 50657,
+   "tmdbRating": 75,
+   "backdropPath": "/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg"
+   },
+   "originalTitle": "Invasion of the Body Snatchers",
+   "genres": [
+      27,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1956,
+   "runtime": 80,
+   "cast": [
+      "Kevin McCarthy",
+      "Dana Wynter",
+      "King Donovan",
+      "Carolyn Jones",
+      "Larry Gates",
+      "Kenneth Patterson",
+      "Virginia Christine"
+   ],
+   "significants": [
+      "Don Siegel"
+   ],
+   "title": "Invasion of the Body Snatchers",
+   "overview": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+   "tagline": "There was nothing to hold onto - except each other.",
+   "video": "9SqN8wHry2M",
+   "posterPath": "/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wVXt7h98sTKhLjq1TdvdGwdyJo8.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

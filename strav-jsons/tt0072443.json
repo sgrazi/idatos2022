@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0072443",
+   "tmdbID": "1396",
+   "imdbRating": 80,
+   "imdbVoteCount": 47172,
+   "tmdbRating": 80,
+   "backdropPath": "/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5t3ObSn7mRi2QpV9Rs7heb3y9rJ.jpg"
+   },
+   "originalTitle": "Зеркало",
+   "genres": [
+      1,
+      18
+   ],
+   "countries": [
+      "SU"
+   ],
+   "year": 1975,
+   "runtime": 107,
+   "cast": [
+      "Margarita Terekhova",
+      "Ignat Daniltsev",
+      "Larisa Tarkovskaya",
+      "Alla Demidova",
+      "Anatoliy Solonitsyn",
+      "Nikolay Grinko",
+      "Tamara Ogorodnikova"
+   ],
+   "significants": [
+      "Andrei Tarkovsky"
+   ],
+   "title": "Mirror",
+   "overview": "A dying man in his forties recalls his childhood, his mother, the war and personal moments that tell of and juxtapose pivotal moments in Soviet history with daily life.",
+   "tagline": "",
+   "video": "S2U9TXmYJ94",
+   "posterPath": "/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AttDP5OEsMxtHPPN7Z92p2Ntnmd.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

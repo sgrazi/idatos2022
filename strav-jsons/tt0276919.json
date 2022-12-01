@@ -1,0 +1,59 @@
+{
+   "imdbID": "tt0276919",
+   "tmdbID": "553",
+   "imdbRating": 80,
+   "imdbVoteCount": 149570,
+   "tmdbRating": 77,
+   "backdropPath": "/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/r3xsFBD1VTUusk393bBc7SsDUJe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r3xsFBD1VTUusk393bBc7SsDUJe.jpg"
+   },
+   "originalTitle": "Dogville",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "DK",
+      "FR",
+      "DE",
+      "NL",
+      "NO",
+      "SE",
+      "GB"
+   ],
+   "year": 2003,
+   "runtime": 178,
+   "cast": [
+      "Nicole Kidman",
+      "Harriet Andersson",
+      "Lauren Bacall",
+      "Jean-Marc Barr",
+      "Paul Bettany",
+      "Blair Brown",
+      "James Caan"
+   ],
+   "significants": [
+      "Lars von Trier"
+   ],
+   "title": "Dogville",
+   "overview": "A barren soundstage is stylishly utilized to create a minimalist small-town setting in which a mysterious woman named Grace hides from the criminals who pursue her. The town is two-faced and offers to harbor Grace as long as she can make it worth their effort, so Grace works hard under the employ of various townspeople to win their favor. Tensions flare, however, and Grace's status as a helpless outsider provokes vicious contempt and abuse from the citizens of Dogville.",
+   "tagline": "A quiet little town not far from here.",
+   "video": "J5-LqwUHTaM",
+   "posterPath": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lraVawavIXh5geMlVjpzCw9TGwR.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

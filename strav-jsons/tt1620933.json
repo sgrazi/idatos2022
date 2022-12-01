@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1620933",
+   "tmdbID": "96398",
+   "imdbRating": 82,
+   "imdbVoteCount": 36531,
+   "tmdbRating": 72,
+   "backdropPath": "/5d0bSvsQaHm7lOMcEnbSLzjYirn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5d0bSvsQaHm7lOMcEnbSLzjYirn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5d0bSvsQaHm7lOMcEnbSLzjYirn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5d0bSvsQaHm7lOMcEnbSLzjYirn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5d0bSvsQaHm7lOMcEnbSLzjYirn.jpg"
+   },
+   "originalTitle": "पान सिंह तोमर",
+   "genres": [
+      28,
+      1,
+      80
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2012,
+   "runtime": 135,
+   "cast": [
+      "Irrfan Khan",
+      "Mahie Gill",
+      "Vipin Sharma",
+      "Nawazuddin Siddiqui",
+      "Imran Hasnee",
+      "Zakir Hussain",
+      "Rajendra Gupta"
+   ],
+   "significants": [
+      "Tigmanshu Dhulia"
+   ],
+   "title": "Paan Singh Tomar",
+   "overview": "Paan Singh Tomar goes from celebrated runner to star brigand and rebel when life after sports fails to unfold as planned.",
+   "tagline": "",
+   "video": "TT--NbNqiHE",
+   "posterPath": "/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ii2KMVvGmcmJrqwYcT5nKn92bD5.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70123126/",
+            "added": 1645604314,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

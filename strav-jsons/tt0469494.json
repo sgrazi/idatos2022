@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0469494",
+   "tmdbID": "7345",
+   "imdbRating": 82,
+   "imdbVoteCount": 584976,
+   "tmdbRating": 80,
+   "backdropPath": "/GN0OwAPeIPu5rf3h1qVKov6NZ8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/GN0OwAPeIPu5rf3h1qVKov6NZ8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/GN0OwAPeIPu5rf3h1qVKov6NZ8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/GN0OwAPeIPu5rf3h1qVKov6NZ8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/GN0OwAPeIPu5rf3h1qVKov6NZ8.jpg"
+   },
+   "originalTitle": "There Will Be Blood",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2007,
+   "runtime": 158,
+   "cast": [
+      "Daniel Day-Lewis",
+      "Paul Dano",
+      "Kevin J. O'Connor",
+      "Ciarán Hinds",
+      "Dillon Freasier",
+      "Hope Elizabeth Reeves",
+      "Colleen Foy"
+   ],
+   "significants": [
+      "Paul Thomas Anderson"
+   ],
+   "title": "There Will Be Blood",
+   "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+   "tagline": "There Will Be Greed. There Will Be Vengeance.",
+   "video": "0FIm5ATyAY0",
+   "posterPath": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fa0RDkAlCec0STeMNAhPaF89q6U.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/GmreDvX9oZ8lfCfwXiFsZhjR0tTEdn4Y/",
+            "added": 1659407367,
+            "leaving": 1669438800
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

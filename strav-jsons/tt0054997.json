@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0054997",
+   "tmdbID": "990",
+   "imdbRating": 80,
+   "imdbVoteCount": 82453,
+   "tmdbRating": 77,
+   "backdropPath": "/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg"
+   },
+   "originalTitle": "The Hustler",
+   "genres": [
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1961,
+   "runtime": 134,
+   "cast": [
+      "Paul Newman",
+      "Jackie Gleason",
+      "Piper Laurie",
+      "George C. Scott",
+      "Myron McCormick",
+      "Murray Hamilton",
+      "Michael Constantine"
+   ],
+   "significants": [
+      "Robert Rossen"
+   ],
+   "title": "The Hustler",
+   "overview": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+   "tagline": "They called him Fast Eddie. He was a winner. He was a loser. He was a hustler.",
+   "video": "n7aFFqz2bXU",
+   "posterPath": "/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bUZiJFrC1Zp3zXHmOpR7gxR5VKy.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,70 @@
+{
+   "imdbID": "tt0330373",
+   "tmdbID": "674",
+   "imdbRating": 77,
+   "imdbVoteCount": 623726,
+   "tmdbRating": 78,
+   "backdropPath": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg"
+   },
+   "originalTitle": "Harry Potter and the Goblet of Fire",
+   "genres": [
+      12,
+      10751,
+      14
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2005,
+   "runtime": 157,
+   "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Ralph Fiennes",
+      "Michael Gambon",
+      "Brendan Gleeson"
+   ],
+   "significants": [
+      "Mike Newell"
+   ],
+   "title": "Harry Potter and the Goblet of Fire",
+   "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+   "tagline": "Dark And Difficult Times Lie Ahead.",
+   "video": "4xkFJgcCQRE",
+   "posterPath": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXssOeAtVmlVGwwEAAABR:type:feature",
+            "added": 1665945057,
+            "leaving": 0
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/sci-fi-and-fantasy/harry-potter-and-the-goblet-of-fire/ecbd3cce-9f35-3f40-bb37-cad7ac54e166",
+            "added": 1656709721,
+            "leaving": 1675245540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

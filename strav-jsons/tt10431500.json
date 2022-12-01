@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt10431500",
+   "tmdbID": "637920",
+   "imdbRating": 82,
+   "imdbVoteCount": 49114,
+   "tmdbRating": 82,
+   "backdropPath": "/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4YbHir4Ka4kG7WOdh0anXv1iT8s.jpg"
+   },
+   "originalTitle": "7. Koğuştaki Mucize",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 2019,
+   "runtime": 132,
+   "cast": [
+      "Aras Bulut İynemli",
+      "Nisa Sofiya Aksongur",
+      "İlker Aksum",
+      "Mesut Akusta",
+      "Yıldıray Şahinler",
+      "Yurdaer Okur",
+      "Sarp Akkaya"
+   ],
+   "significants": [
+      "Mehmet Ada Öztekin"
+   ],
+   "title": "Miracle in Cell No. 7",
+   "overview": "Separated from his daughter, a father with an intellectual disability must prove his innocence when he is jailed for the death of a commander's child.",
+   "tagline": "",
+   "video": "bDAkHkR6fwA",
+   "posterPath": "/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bOth4QmNyEkalwahfPCfiXjNh1r.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81239779/",
+            "added": 1645556073,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "tr"
+}

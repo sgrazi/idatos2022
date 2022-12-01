@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0454848",
+   "tmdbID": "388",
+   "imdbRating": 76,
+   "imdbVoteCount": 373811,
+   "tmdbRating": 74,
+   "backdropPath": "/cd1LVxvax4P4QMusXR9prD8BPwo.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/cd1LVxvax4P4QMusXR9prD8BPwo.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cd1LVxvax4P4QMusXR9prD8BPwo.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/cd1LVxvax4P4QMusXR9prD8BPwo.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cd1LVxvax4P4QMusXR9prD8BPwo.jpg"
+   },
+   "originalTitle": "Inside Man",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2006,
+   "runtime": 129,
+   "cast": [
+      "Denzel Washington",
+      "Clive Owen",
+      "Jodie Foster",
+      "Christopher Plummer",
+      "Willem Dafoe",
+      "Chiwetel Ejiofor",
+      "Carlos Andrés Gómez"
+   ],
+   "significants": [
+      "Spike Lee"
+   ],
+   "title": "Inside Man",
+   "overview": "When an armed, masked gang enter a Manhattan bank, lock the doors and take hostages, the detective assigned to effect their release enters negotiations preoccupied with corruption charges he is facing.",
+   "tagline": "It looked like the perfect bank robbery. But you can’t judge a crime by its cover.",
+   "video": "FSH-dbbiroI",
+   "posterPath": "/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mf4i9zZVXMmqWsEb9D0OAY7k3t.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYVt-rgjCUsMrZgEAAADj:type:feature",
+            "added": 1655512245,
+            "leaving": 16694496000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt9071322",
+   "tmdbID": "552178",
+   "imdbRating": 76,
+   "imdbVoteCount": 89032,
+   "tmdbRating": 75,
+   "backdropPath": "/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4ZSlTfkHtgTTupCaLbseXQQzZha.jpg"
+   },
+   "originalTitle": "Dark Waters",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 127,
+   "cast": [
+      "Mark Ruffalo",
+      "Anne Hathaway",
+      "Tim Robbins",
+      "Bill Pullman",
+      "Bill Camp",
+      "Victor Garber",
+      "Mare Winningham"
+   ],
+   "significants": [
+      "Todd Haynes"
+   ],
+   "title": "Dark Waters",
+   "overview": "A tenacious attorney uncovers a dark secret that connects a growing number of unexplained deaths to one of the world's largest corporations. In the process, he risks everything — his future, his family, and his own life — to expose the truth.",
+   "tagline": "The truth has a man on the inside",
+   "video": "RvAOuhyunhY",
+   "posterPath": "/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yV6edeSb1ykiNpJ1ekRz8GPhENr.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

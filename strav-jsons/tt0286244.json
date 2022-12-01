@@ -1,0 +1,58 @@
+{
+   "imdbID": "tt0286244",
+   "tmdbID": "9662",
+   "imdbRating": 77,
+   "imdbVoteCount": 54744,
+   "tmdbRating": 73,
+   "backdropPath": "/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/umvgkmn3k7Ac3E74IlhCGQpoqgS.jpg"
+   },
+   "originalTitle": "Les Triplettes de Belleville",
+   "genres": [
+      16,
+      35,
+      18
+   ],
+   "countries": [
+      "BE",
+      "CA",
+      "FR",
+      "LV",
+      "GB"
+   ],
+   "year": 2003,
+   "runtime": 80,
+   "cast": [
+      "Suzy Falk",
+      "Lina Boudreau",
+      "Betty Bonifassi",
+      "Michèle Caucheteux",
+      "Jean-Claude Donda",
+      "Mari-Lou Gauthier",
+      "Charles Linton"
+   ],
+   "significants": [
+      "Sylvain Chomet"
+   ],
+   "title": "The Triplets of Belleville",
+   "overview": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters—an aged song-and-dance team from the days of Fred Astaire—to rescue him.",
+   "tagline": "",
+   "video": "Npro9kjyaJk",
+   "posterPath": "/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/flHYQswYEIvBL2QsQLEJJzTJDyS.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

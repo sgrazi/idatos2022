@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt5074352",
+   "tmdbID": "360814",
+   "imdbRating": 83,
+   "imdbVoteCount": 191045,
+   "tmdbRating": 79,
+   "backdropPath": "/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg"
+   },
+   "originalTitle": "दंगल",
+   "genres": [
+      28,
+      1,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2016,
+   "runtime": 161,
+   "cast": [
+      "Aamir Khan",
+      "Fatima Sana Shaikh",
+      "Sanya Malhotra",
+      "Sakshi Tanwar",
+      "Aparshakti Khurana",
+      "Zaira Wasim",
+      "Suhani Bhatnagar"
+   ],
+   "significants": [
+      "Nitesh Tiwari"
+   ],
+   "title": "Dangal",
+   "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+   "tagline": "",
+   "video": "x_7YlGv9u1g",
+   "posterPath": "/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p2lVAcPuRPSO8Al6hDDGw0OgMi8.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0476735",
+   "tmdbID": "13393",
+   "imdbRating": 82,
+   "imdbVoteCount": 87011,
+   "tmdbRating": 75,
+   "backdropPath": "/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg"
+   },
+   "originalTitle": "Babam ve Oğlum",
+   "genres": [
+      18,
+      10751
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 2005,
+   "runtime": 112,
+   "cast": [
+      "Çetin Tekindor",
+      "Fikret Kuşkan",
+      "Binnur Kaya",
+      "Ege Tanman",
+      "Özge Özberk",
+      "Tuba Büyüküstün",
+      "Hümeyra"
+   ],
+   "significants": [
+      "Çağan Irmak"
+   ],
+   "title": "My Father and My Son",
+   "overview": "A left-wing journalist whose wife died while giving birth to his son during a military coup returns to his family's farm. Estranged from his father for turning his back on the family and wasting his life with political activism instead, he tries to reconnect with him so that his son will have a place to live as his health is deteriorating due to the extensive torture he had to endure.",
+   "tagline": "",
+   "video": "KTmrUXNxwWI",
+   "posterPath": "/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dcKY23xowYTU9B1cagUdHQwsxOB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dcKY23xowYTU9B1cagUdHQwsxOB.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "tr"
+}

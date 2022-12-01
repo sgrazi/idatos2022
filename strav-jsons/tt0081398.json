@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0081398",
+   "tmdbID": "1578",
+   "imdbRating": 82,
+   "imdbVoteCount": 353894,
+   "tmdbRating": 79,
+   "backdropPath": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg"
+   },
+   "originalTitle": "Raging Bull",
+   "genres": [
+      1,
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1980,
+   "runtime": 129,
+   "cast": [
+      "Robert De Niro",
+      "Cathy Moriarty",
+      "Joe Pesci",
+      "Frank Vincent",
+      "Nicholas Colasanto",
+      "Theresa Saldana",
+      "Mario Gallo"
+   ],
+   "significants": [
+      "Martin Scorsese"
+   ],
+   "title": "Raging Bull",
+   "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+   "tagline": "",
+   "video": "F2UKuKxCJqc",
+   "posterPath": "/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rEviyDWNbAFmvvCPlkMRPAGUElG.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWGwjvQHvEpfDXwEAAAAL:type:feature",
+            "added": 1667456323,
+            "leaving": 16988220000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

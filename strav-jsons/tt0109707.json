@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0109707",
+   "tmdbID": "522",
+   "imdbRating": 78,
+   "imdbVoteCount": 177072,
+   "tmdbRating": 75,
+   "backdropPath": "/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg"
+   },
+   "originalTitle": "Ed Wood",
+   "genres": [
+      1,
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1994,
+   "runtime": 127,
+   "cast": [
+      "Johnny Depp",
+      "Martin Landau",
+      "Sarah Jessica Parker",
+      "Patricia Arquette",
+      "Jeffrey Jones",
+      "Bill Murray",
+      "Lisa Marie"
+   ],
+   "significants": [
+      "Tim Burton"
+   ],
+   "title": "Ed Wood",
+   "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+   "tagline": "When it came to making bad movies, Ed Wood was the best.",
+   "video": "CawVaHxWvnA",
+   "posterPath": "/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ab28VMfoYOJcHipIVFmd7hYW029.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ab28VMfoYOJcHipIVFmd7hYW029.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

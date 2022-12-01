@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1022603",
+   "tmdbID": "19913",
+   "imdbRating": 77,
+   "imdbVoteCount": 515424,
+   "tmdbRating": 72,
+   "backdropPath": "/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/etBZfuOie3uODTKTV5xnbAKB4Fr.jpg"
+   },
+   "originalTitle": "(500) Days of Summer",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2009,
+   "runtime": 95,
+   "cast": [
+      "Joseph Gordon-Levitt",
+      "Zooey Deschanel",
+      "Chloë Grace Moretz",
+      "Geoffrey Arend",
+      "Matthew Gray Gubler",
+      "Clark Gregg",
+      "Patricia Belcher"
+   ],
+   "significants": [
+      "Marc Webb"
+   ],
+   "title": "(500) Days of Summer",
+   "overview": "Tom, greeting-card writer and hopeless romantic, is caught completely off-guard when his girlfriend, Summer, suddenly dumps him. He reflects on their 500 days together to try to figure out where their love affair went sour, and in doing so, Tom rediscovers his true passions in life.",
+   "tagline": "This is not a love story. This is a story about love.",
+   "video": "oBxR8cEt2xM",
+   "posterPath": "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWguNqA1Yl8MgNAEAAAGc:type:feature",
+            "added": 1667468127,
+            "leaving": 17067744000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

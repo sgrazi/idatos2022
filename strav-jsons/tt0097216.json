@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0097216",
+   "tmdbID": "925",
+   "imdbRating": 79,
+   "imdbVoteCount": 102807,
+   "tmdbRating": 77,
+   "backdropPath": "/leT6tupwfYea4T0zYBafP73gXj9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/leT6tupwfYea4T0zYBafP73gXj9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/leT6tupwfYea4T0zYBafP73gXj9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/leT6tupwfYea4T0zYBafP73gXj9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/leT6tupwfYea4T0zYBafP73gXj9.jpg"
+   },
+   "originalTitle": "Do the Right Thing",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1989,
+   "runtime": 120,
+   "cast": [
+      "Danny Aiello",
+      "Ossie Davis",
+      "Ruby Dee",
+      "Richard Edson",
+      "Giancarlo Esposito",
+      "Rosie Perez",
+      "Martin Lawrence"
+   ],
+   "significants": [
+      "Spike Lee"
+   ],
+   "title": "Do the Right Thing",
+   "overview": "Salvatore \"Sal\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+   "tagline": "It's the hottest day of the summer. You can do nothing, you can do something, or you can …",
+   "video": "muc7xqdHudI",
+   "posterPath": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "original": "https://image.tmdb.org/t/p/original/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

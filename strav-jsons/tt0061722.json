@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0061722",
+   "tmdbID": "37247",
+   "imdbRating": 80,
+   "imdbVoteCount": 273765,
+   "tmdbRating": 76,
+   "backdropPath": "/kKktbfc437lKmOazPYKTTEGhkBh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kKktbfc437lKmOazPYKTTEGhkBh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kKktbfc437lKmOazPYKTTEGhkBh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kKktbfc437lKmOazPYKTTEGhkBh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kKktbfc437lKmOazPYKTTEGhkBh.jpg"
+   },
+   "originalTitle": "The Graduate",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1967,
+   "runtime": 106,
+   "cast": [
+      "Anne Bancroft",
+      "Dustin Hoffman",
+      "Katharine Ross",
+      "Murray Hamilton",
+      "William Daniels",
+      "Elizabeth Wilson",
+      "Buck Henry"
+   ],
+   "significants": [
+      "Mike Nichols"
+   ],
+   "title": "The Graduate",
+   "overview": "Benjamin, a recent college graduate very worried about his future, finds himself in a love triangle with an older woman and her daughter.",
+   "tagline": "This is Benjamin. He’s a little worried about his future.",
+   "video": "bBDKsGH5fB8",
+   "posterPath": "/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AuFvrbtWSPiBPIv9ewH2DV4nhCD.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0067116",
+   "tmdbID": "1051",
+   "imdbRating": 77,
+   "imdbVoteCount": 123602,
+   "tmdbRating": 75,
+   "backdropPath": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg"
+   },
+   "originalTitle": "The French Connection",
+   "genres": [
+      28,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1971,
+   "runtime": 104,
+   "cast": [
+      "Gene Hackman",
+      "Fernando Rey",
+      "Roy Scheider",
+      "Tony Lo Bianco",
+      "Marcel Bozzuffi",
+      "Frédéric de Pasquale",
+      "Bill Hickman"
+   ],
+   "significants": [
+      "William Friedkin"
+   ],
+   "title": "The French Connection",
+   "overview": "Tough narcotics detective 'Popeye' Doyle is in hot pursuit of a suave French drug dealer who may be the key to a huge heroin-smuggling operation.",
+   "tagline": "There are no rules and no holds barred when Popeye cuts loose!",
+   "video": "T76K3RxJY0A",
+   "posterPath": "/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5XSGvIKl2yPvOkieFjc3rzLw7x0.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

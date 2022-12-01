@@ -1,0 +1,65 @@
+{
+   "imdbID": "tt0168629",
+   "tmdbID": "16",
+   "imdbRating": 79,
+   "imdbVoteCount": 110551,
+   "tmdbRating": 78,
+   "backdropPath": "/ikR2qy9xJCHX7M8i5rcvuNfdYXs.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ikR2qy9xJCHX7M8i5rcvuNfdYXs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ikR2qy9xJCHX7M8i5rcvuNfdYXs.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ikR2qy9xJCHX7M8i5rcvuNfdYXs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ikR2qy9xJCHX7M8i5rcvuNfdYXs.jpg"
+   },
+   "originalTitle": "Dancer in the Dark",
+   "genres": [
+      80,
+      18,
+      4
+   ],
+   "countries": [
+      "AR",
+      "DK",
+      "FI",
+      "FR",
+      "DE",
+      "IS",
+      "IT",
+      "NL",
+      "NO",
+      "SE",
+      "GB",
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 141,
+   "cast": [
+      "Björk",
+      "Catherine Deneuve",
+      "David Morse",
+      "Peter Stormare",
+      "Joel Grey",
+      "Cara Seymour",
+      "Vladica Kostic"
+   ],
+   "significants": [
+      "Lars von Trier"
+   ],
+   "title": "Dancer in the Dark",
+   "overview": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, escaping life's troubles - even if just for a moment - by dreaming up little numbers to the rhythmic beats of her surroundings.",
+   "tagline": "You don't need eyes to see.",
+   "video": "fJfdGuCca2k",
+   "posterPath": "/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uXvyCRpoTRLSEia59Yj7nAZOSej.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

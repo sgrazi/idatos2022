@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0073341",
+   "tmdbID": "983",
+   "imdbRating": 78,
+   "imdbVoteCount": 49411,
+   "tmdbRating": 75,
+   "backdropPath": "/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1Jgefbg5cKfCrppNbP0nPJm2TdR.jpg"
+   },
+   "originalTitle": "The Man Who Would Be King",
+   "genres": [
+      12,
+      36,
+      10752
+   ],
+   "countries": [
+      "US",
+      "GB"
+   ],
+   "year": 1975,
+   "runtime": 129,
+   "cast": [
+      "Sean Connery",
+      "Michael Caine",
+      "Christopher Plummer",
+      "Saeed Jaffrey",
+      "Doghmi Larbi",
+      "Jack May",
+      "Karroom Ben Bouih"
+   ],
+   "significants": [
+      "John Huston"
+   ],
+   "title": "The Man Who Would Be King",
+   "overview": "A robust adventure about two British adventurers who take over primitive Kafiristan as \"godlike\" rulers, meeting a tragic end through their desire for a native girl. Based on a short story by Rudyard Kipling.",
+   "tagline": "Rudyard Kipling's epic of splendor, spectacle and high adventure at the top of a legendary world.",
+   "video": "gjAi5ER5FOU",
+   "posterPath": "/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/21BANIzXEKyZDUFOr9NdUEgP4EA.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

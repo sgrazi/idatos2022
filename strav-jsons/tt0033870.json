@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0033870",
+   "tmdbID": "963",
+   "imdbRating": 80,
+   "imdbVoteCount": 159161,
+   "tmdbRating": 77,
+   "backdropPath": "/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg"
+   },
+   "originalTitle": "The Maltese Falcon",
+   "genres": [
+      80,
+      2,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1941,
+   "runtime": 100,
+   "cast": [
+      "Humphrey Bogart",
+      "Mary Astor",
+      "Peter Lorre",
+      "Sydney Greenstreet",
+      "Lee Patrick",
+      "Gladys George",
+      "Elisha Cook Jr."
+   ],
+   "significants": [
+      "John Huston"
+   ],
+   "title": "The Maltese Falcon",
+   "overview": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+   "tagline": "A story as EXPLOSIVE as his BLAZING automatics!",
+   "video": "QrTJhmDC9UY",
+   "posterPath": "/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wcGLnRsuKyCYg3WLXQqIuB0lsJB.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXjS6IA07c47CZgEAAAY4:type:feature",
+            "added": 1655501662,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

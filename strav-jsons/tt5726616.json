@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt5726616",
+   "tmdbID": "398818",
+   "imdbRating": 78,
+   "imdbVoteCount": 271708,
+   "tmdbRating": 81,
+   "backdropPath": "/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zvOJawrnmgK0sL293mOXOdLvTXQ.jpg"
+   },
+   "originalTitle": "Call Me by Your Name",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "BR",
+      "FR",
+      "IT",
+      "US"
+   ],
+   "year": 2017,
+   "runtime": 132,
+   "cast": [
+      "Timothée Chalamet",
+      "Armie Hammer",
+      "Michael Stuhlbarg",
+      "Amira Casar",
+      "Esther Garrel",
+      "Victoire Du Bois",
+      "Vanda Capriolo"
+   ],
+   "significants": [
+      "Luca Guadagnino"
+   ],
+   "title": "Call Me by Your Name",
+   "overview": "In 1980s Italy, a relationship begins between seventeen-year-old teenage Elio and the older adult man hired as his father's research assistant.",
+   "tagline": "Is it better to speak or die?",
+   "video": "Z9AYPxH5NTM",
+   "posterPath": "/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gXiE0WveDnT0n5J4sW9TMxXF4oT.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYWkQzQtxQ1VAXQEAAACO:type:feature",
+            "added": 1664789764,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

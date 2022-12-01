@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0038355",
+   "tmdbID": "910",
+   "imdbRating": 79,
+   "imdbVoteCount": 86210,
+   "tmdbRating": 76,
+   "backdropPath": "/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg"
+   },
+   "originalTitle": "The Big Sleep",
+   "genres": [
+      80,
+      2,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1946,
+   "runtime": 114,
+   "cast": [
+      "Humphrey Bogart",
+      "Lauren Bacall",
+      "John Ridgely",
+      "Martha Vickers",
+      "Dorothy Malone",
+      "Peggy Knudsen",
+      "Regis Toomey"
+   ],
+   "significants": [
+      "Howard Hawks"
+   ],
+   "title": "The Big Sleep",
+   "overview": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+   "tagline": "The picture they were born for!",
+   "video": "HiAEX4Y6jEs",
+   "posterPath": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

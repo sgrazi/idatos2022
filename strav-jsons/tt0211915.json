@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0211915",
+   "tmdbID": "194",
+   "imdbRating": 83,
+   "imdbVoteCount": 755138,
+   "tmdbRating": 79,
+   "backdropPath": "/9Y9K6LeLrMeofOvX7hZW36Aj3OG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9Y9K6LeLrMeofOvX7hZW36Aj3OG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9Y9K6LeLrMeofOvX7hZW36Aj3OG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9Y9K6LeLrMeofOvX7hZW36Aj3OG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9Y9K6LeLrMeofOvX7hZW36Aj3OG.jpg"
+   },
+   "originalTitle": "Le Fabuleux Destin d'Amélie Poulain",
+   "genres": [
+      35,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "DE"
+   ],
+   "year": 2001,
+   "runtime": 122,
+   "cast": [
+      "Audrey Tautou",
+      "Mathieu Kassovitz",
+      "Rufus",
+      "Lorella Cravotta",
+      "Serge Merlin",
+      "Jamel Debbouze",
+      "Clotilde Mollet"
+   ],
+   "significants": [
+      "Jean-Pierre Jeunet"
+   ],
+   "title": "Amélie",
+   "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+   "tagline": "One person can change your life forever.",
+   "video": "HUECWi5pX7o",
+   "posterPath": "/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

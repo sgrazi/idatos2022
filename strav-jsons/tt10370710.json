@@ -1,0 +1,65 @@
+{
+   "imdbID": "tt10370710",
+   "tmdbID": "660120",
+   "imdbRating": 78,
+   "imdbVoteCount": 64520,
+   "tmdbRating": 75,
+   "backdropPath": "/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iTPTdfEGYGwbELLLvNnmgKZpVZj.jpg"
+   },
+   "originalTitle": "Verdens verste menneske",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "DK",
+      "FR",
+      "NO",
+      "SE"
+   ],
+   "year": 2021,
+   "runtime": 128,
+   "cast": [
+      "Renate Reinsve",
+      "Anders Danielsen Lie",
+      "Herbert Nordrum",
+      "Hans Olav Brenner",
+      "Helene Bjørnebye",
+      "Vidar Sandem",
+      "Maria Grazia Di Meo"
+   ],
+   "significants": [
+      "Joachim Trier"
+   ],
+   "title": "The Worst Person in the World",
+   "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+   "tagline": "",
+   "video": "gpkQgk1Fi1Q",
+   "posterPath": "/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/e30177ce-5201-402d-a346-6333ca2fe5b8",
+            "added": 1668244839,
+            "leaving": 1718262000
+         }
+      }
+   },
+   "originalLanguage": "no"
+}

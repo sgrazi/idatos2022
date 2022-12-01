@@ -1,0 +1,58 @@
+{
+   "imdbID": "tt0283509",
+   "tmdbID": "8342",
+   "imdbRating": 79,
+   "imdbVoteCount": 47346,
+   "tmdbRating": 74,
+   "backdropPath": "/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/e86j48mkpIzFSNutRGcNiltWCNt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/e86j48mkpIzFSNutRGcNiltWCNt.jpg"
+   },
+   "originalTitle": "No Man's Land",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "BE",
+      "BA",
+      "FR",
+      "IT",
+      "GB",
+      "SI"
+   ],
+   "year": 2001,
+   "runtime": 98,
+   "cast": [
+      "Branko Đurić",
+      "Rene Bitorajac",
+      "Filip Šovagović",
+      "Georges Siatidis",
+      "Sacha Kremer",
+      "Alain Eloy",
+      "Katrin Cartlidge"
+   ],
+   "significants": [
+      "Danis Tanović"
+   ],
+   "title": "No Man's Land",
+   "overview": "Two soldiers from opposite sites get stuck between the front lines in the same trench. The UN is asked to free them and both sides agree on a ceasefire, but will they stick to it?",
+   "tagline": "A lot can happen between the lines",
+   "video": "Ypsnv50Af_I",
+   "posterPath": "/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jRffyv5gaJb6Sna1S6UMRCPHuso.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "bs"
+}

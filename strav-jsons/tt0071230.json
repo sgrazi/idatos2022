@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0071230",
+   "tmdbID": "11072",
+   "imdbRating": 77,
+   "imdbVoteCount": 140340,
+   "tmdbRating": 72,
+   "backdropPath": "/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg"
+   },
+   "originalTitle": "Blazing Saddles",
+   "genres": [
+      35,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1974,
+   "runtime": 93,
+   "cast": [
+      "Cleavon Little",
+      "Gene Wilder",
+      "Slim Pickens",
+      "Harvey Korman",
+      "Madeline Kahn",
+      "Mel Brooks",
+      "Burton Gilliam"
+   ],
+   "significants": [
+      "Mel Brooks"
+   ],
+   "title": "Blazing Saddles",
+   "overview": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lemar sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+   "tagline": "Never give a saga an even break!",
+   "video": "VKayG1TrfuE",
+   "posterPath": "/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/49b83348-04c7-47dd-b10d-fab2dfc3d640",
+            "added": 1668149142,
+            "leaving": 1672559940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

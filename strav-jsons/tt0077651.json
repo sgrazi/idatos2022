@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0077651",
+   "tmdbID": "948",
+   "imdbRating": 77,
+   "imdbVoteCount": 281306,
+   "tmdbRating": 75,
+   "backdropPath": "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg"
+   },
+   "originalTitle": "Halloween",
+   "genres": [
+      27,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1978,
+   "runtime": 91,
+   "cast": [
+      "Donald Pleasence",
+      "Jamie Lee Curtis",
+      "Nancy Kyes",
+      "P.J. Soles",
+      "Charles Cyphers",
+      "Kyle Richards",
+      "Brian Andrews"
+   ],
+   "significants": [
+      "John Carpenter"
+   ],
+   "title": "Halloween",
+   "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+   "tagline": "The Night He Came Home!",
+   "video": "idXwM4FXpDs",
+   "posterPath": "/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

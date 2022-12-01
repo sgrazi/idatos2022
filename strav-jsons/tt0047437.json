@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0047437",
+   "tmdbID": "6620",
+   "imdbRating": 76,
+   "imdbVoteCount": 65634,
+   "tmdbRating": 75,
+   "backdropPath": "/p1mr2xCu4VSl7y41wDOV3swGQJf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/p1mr2xCu4VSl7y41wDOV3swGQJf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p1mr2xCu4VSl7y41wDOV3swGQJf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/p1mr2xCu4VSl7y41wDOV3swGQJf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p1mr2xCu4VSl7y41wDOV3swGQJf.jpg"
+   },
+   "originalTitle": "Sabrina",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1954,
+   "runtime": 113,
+   "cast": [
+      "Audrey Hepburn",
+      "William Holden",
+      "Humphrey Bogart",
+      "Walter Hampden",
+      "John Williams",
+      "Martha Hyer",
+      "Joan Vohs"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "Sabrina",
+   "overview": "Linus and David Larrabee are the two sons of a very wealthy family. Linus is all work – busily running the family corporate empire, he has no time for a wife and family. David is all play – technically he is employed by the family business, but never shows up for work, spends all his time entertaining, and has been married and divorced three times. Meanwhile, Sabrina Fairchild is the young, shy, and awkward daughter of the household chauffeur, who goes away to Paris for two years, and returns to capture David's attention, while falling in love with Linus.",
+   "tagline": "...the chauffeur's daughter who learned her stuff in Paris",
+   "video": "AOZuxReeNTk",
+   "posterPath": "/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r8woenvB9eqnlgXDzSt3pWTfWzq.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

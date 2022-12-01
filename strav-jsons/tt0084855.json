@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0084855",
+   "tmdbID": "24226",
+   "imdbRating": 77,
+   "imdbVoteCount": 40930,
+   "tmdbRating": 74,
+   "backdropPath": "/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zsO3VwaTrMMoo6zWrzUFnHcIGjh.jpg"
+   },
+   "originalTitle": "The Verdict",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1982,
+   "runtime": 129,
+   "cast": [
+      "Paul Newman",
+      "Charlotte Rampling",
+      "Jack Warden",
+      "James Mason",
+      "Milo O’Shea",
+      "Lindsay Crouse",
+      "Edward Binns"
+   ],
+   "significants": [
+      "Sidney Lumet"
+   ],
+   "title": "The Verdict",
+   "overview": "Frank Galvin is a down-on-his-luck lawyer and reduced to drinking and ambulance chasing, when a former associate reminds him of his obligations in a medical malpractice suit by serving it to Galvin on a silver platter—all parties are willing to settle out of court. Blundering his way through the preliminaries, Galvin suddenly realizes that the case should actually go to court—to punish the guilty, to get a decent settlement for his clients... and to restore his standing as a lawyer.",
+   "tagline": "The doctors want to settle, the Church wants to settle, their lawyers want to settle, and even his own clients are desperate to settle. But Galvin is determined to defy them all. He will try the case.",
+   "video": "wwqUtCeODOk",
+   "posterPath": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0102138",
+   "tmdbID": "820",
+   "imdbRating": 80,
+   "imdbVoteCount": 156803,
+   "tmdbRating": 76,
+   "backdropPath": "/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lGJxJQCiEeaoXAoQUvBcv6lRa7U.jpg"
+   },
+   "originalTitle": "JFK",
+   "genres": [
+      18,
+      36,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1991,
+   "runtime": 189,
+   "cast": [
+      "Kevin Costner",
+      "Tommy Lee Jones",
+      "Gary Oldman",
+      "Kevin Bacon",
+      "Michael Rooker",
+      "Jack Lemmon",
+      "Laurie Metcalf"
+   ],
+   "significants": [
+      "Oliver Stone"
+   ],
+   "title": "JFK",
+   "overview": "Follows the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison.",
+   "tagline": "The story that won't go away.",
+   "video": "s8az13Y1rUM",
+   "posterPath": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmmuWwZSL54_wwEAADGh:type:feature",
+            "added": 1659593583,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1016150",
+   "tmdbID": "49046",
+   "imdbRating": 79,
+   "imdbVoteCount": 52127,
+   "tmdbRating": 78,
+   "backdropPath": "/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mqsPyyeDCBAghXyjbw4TfEYwljw.jpg"
+   },
+   "originalTitle": "Im Westen nichts Neues",
+   "genres": [
+      28,
+      18,
+      10752
+   ],
+   "countries": [
+      "DE",
+      "GB"
+   ],
+   "year": 2022,
+   "runtime": 147,
+   "cast": [
+      "Felix Kammerer",
+      "Albrecht Schuch",
+      "Aaron Hilmer",
+      "Edin Hasanović",
+      "Devid Striesow",
+      "Daniel Brühl",
+      "Moritz Klaus"
+   ],
+   "significants": [
+      "Edward Berger"
+   ],
+   "title": "All Quiet on the Western Front",
+   "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
+   "tagline": "",
+   "video": "hf8EYbVxtCY",
+   "posterPath": "/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hYqOjJ7Gh1fbqXrxlIao1g8ZehF.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81260280/",
+            "added": 1668180981,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "de"
+}

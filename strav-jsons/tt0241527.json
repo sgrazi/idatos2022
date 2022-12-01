@@ -1,0 +1,70 @@
+{
+   "imdbID": "tt0241527",
+   "tmdbID": "671",
+   "imdbRating": 76,
+   "imdbVoteCount": 775251,
+   "tmdbRating": 79,
+   "backdropPath": "/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg"
+   },
+   "originalTitle": "Harry Potter and the Philosopher's Stone",
+   "genres": [
+      12,
+      10751,
+      14
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 152,
+   "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Richard Harris",
+      "Tom Felton",
+      "Alan Rickman",
+      "Robbie Coltrane"
+   ],
+   "significants": [
+      "Chris Columbus"
+   ],
+   "title": "Harry Potter and the Philosopher's Stone",
+   "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+   "tagline": "Let the magic begin.",
+   "video": "k71hjl3zWsA",
+   "posterPath": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXssCvwxYD76jiAEAAAAy:type:feature",
+            "added": 1665991752,
+            "leaving": 16725491990
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/kids/harry-potter-and-the-sorcerers-stone/1c8810f1-d0fb-3338-a39d-cc1f579186e1",
+            "added": 1656709721,
+            "leaving": 1675245540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

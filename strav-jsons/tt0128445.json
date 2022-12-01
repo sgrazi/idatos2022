@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0128445",
+   "tmdbID": "11545",
+   "imdbRating": 76,
+   "imdbVoteCount": 186337,
+   "tmdbRating": 74,
+   "backdropPath": "/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg"
+   },
+   "originalTitle": "Rushmore",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1998,
+   "runtime": 93,
+   "cast": [
+      "Jason Schwartzman",
+      "Bill Murray",
+      "Olivia Williams",
+      "Seymour Cassel",
+      "Brian Cox",
+      "Mason Gamble",
+      "Sara Tanaka"
+   ],
+   "significants": [
+      "Wes Anderson"
+   ],
+   "title": "Rushmore",
+   "overview": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+   "tagline": "Love. Expulsion. Revolution.",
+   "video": "846UzdeHI1g",
+   "posterPath": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt3460252",
+   "tmdbID": "273248",
+   "imdbRating": 78,
+   "imdbVoteCount": 597375,
+   "tmdbRating": 77,
+   "backdropPath": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg"
+   },
+   "originalTitle": "The Hateful Eight",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2015,
+   "runtime": 188,
+   "cast": [
+      "Samuel L. Jackson",
+      "Kurt Russell",
+      "Jennifer Jason Leigh",
+      "Walton Goggins",
+      "Demián Bichir",
+      "Tim Roth",
+      "Michael Madsen"
+   ],
+   "significants": [
+      "Quentin Tarantino"
+   ],
+   "title": "The Hateful Eight",
+   "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+   "tagline": "No one comes up here without a damn good reason.",
+   "video": "IMGwqSA9rww",
+   "posterPath": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80174683/",
+            "added": 1663758920,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

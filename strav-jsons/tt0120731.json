@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0120731",
+   "tmdbID": "10376",
+   "imdbRating": 80,
+   "imdbVoteCount": 64781,
+   "tmdbRating": 82,
+   "backdropPath": "/6rmb35g7XoMCMQtnbH0rUecFZlV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6rmb35g7XoMCMQtnbH0rUecFZlV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6rmb35g7XoMCMQtnbH0rUecFZlV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6rmb35g7XoMCMQtnbH0rUecFZlV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6rmb35g7XoMCMQtnbH0rUecFZlV.jpg"
+   },
+   "originalTitle": "La leggenda del pianista sull'oceano",
+   "genres": [
+      18,
+      10402,
+      10749
+   ],
+   "countries": [
+      "IT"
+   ],
+   "year": 1998,
+   "runtime": 170,
+   "cast": [
+      "Tim Roth",
+      "Pruitt Taylor Vince",
+      "Mélanie Thierry",
+      "Bill Nunn",
+      "Gabriele Lavia",
+      "Clarence Williams III",
+      "Peter Vaughan"
+   ],
+   "significants": [
+      "Giuseppe Tornatore"
+   ],
+   "title": "The Legend of 1900",
+   "overview": "The story of a virtuoso piano player who lives his entire life aboard an ocean liner. Born and raised on the ship, 1900 (Tim Roth) learned about the outside world through interactions with passengers, never setting foot on land, even for the love of his life. Years later, the ship may be destroyed, and a former band member fears that 1900 may still be aboard, willing to go down with the ship.",
+   "tagline": "An epic story of a man who could do anything... except be ordinary",
+   "video": "2uf-LDlZMFE",
+   "posterPath": "/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iOcbJ5pxokOPDRgieVDbsFMrCc6.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

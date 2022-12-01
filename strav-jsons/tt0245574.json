@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0245574",
+   "tmdbID": "1391",
+   "imdbRating": 77,
+   "imdbVoteCount": 123561,
+   "tmdbRating": 74,
+   "backdropPath": "/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9G6m2ZFmtiX7IfbJ7b794UyDI80.jpg"
+   },
+   "originalTitle": "Y tu mamá también",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "MX"
+   ],
+   "year": 2001,
+   "runtime": 106,
+   "cast": [
+      "Gael García Bernal",
+      "Diego Luna",
+      "Maribel Verdú",
+      "Daniel Giménez Cacho",
+      "Diana Bracho",
+      "Verónica Langer",
+      "María Aura"
+   ],
+   "significants": [
+      "Alfonso Cuarón"
+   ],
+   "title": "Y Tu Mamá También",
+   "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+   "tagline": "Life has its ways of teaching",
+   "video": "inc0vS58ZKg",
+   "posterPath": "/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/izw41PkE8y891yraO6fN1tCNmOG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/izw41PkE8y891yraO6fN1tCNmOG.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "es"
+}

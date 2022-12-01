@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1562872",
+   "tmdbID": "61202",
+   "imdbRating": 82,
+   "imdbVoteCount": 78859,
+   "tmdbRating": 75,
+   "backdropPath": "/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z4k7b66jAHP8sQbEahxss6Ct8BW.jpg"
+   },
+   "originalTitle": "ज़िन्दगी ना मिलेगी दोबारा",
+   "genres": [
+      35,
+      18,
+      4
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2011,
+   "runtime": 166,
+   "cast": [
+      "Hrithik Roshan",
+      "Farhan Akhtar",
+      "Abhay Deol",
+      "Katrina Kaif",
+      "Kalki Koechlin",
+      "Naseeruddin Shah",
+      "Ariadna Cabrol"
+   ],
+   "significants": [
+      "Zoya Akhtar"
+   ],
+   "title": "Zindagi Na Milegi Dobara",
+   "overview": "Three friends who were inseparable in childhood decide to go on a three-week-long bachelor road trip to Spain, in order to re-establish their bond and explore thrilling adventures, before one of them gets married. What will they learn of themselves and each other during the adventure?",
+   "tagline": "Lets Make This The Most Memorable Road Trip Ever",
+   "video": "FJrpcDgC3zU",
+   "posterPath": "/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hKO9O715wYxjkQSEv47giCYcyO8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hKO9O715wYxjkQSEv47giCYcyO8.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70202336/",
+            "added": 1659015553,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

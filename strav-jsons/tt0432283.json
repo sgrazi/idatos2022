@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0432283",
+   "tmdbID": "10315",
+   "imdbRating": 79,
+   "imdbVoteCount": 232323,
+   "tmdbRating": 77,
+   "backdropPath": "/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qU4HDNKv7gjdlvMu74r70rISPwn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qU4HDNKv7gjdlvMu74r70rISPwn.jpg"
+   },
+   "originalTitle": "Fantastic Mr. Fox",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2009,
+   "runtime": 87,
+   "cast": [
+      "George Clooney",
+      "Meryl Streep",
+      "Jason Schwartzman",
+      "Bill Murray",
+      "Willem Dafoe",
+      "Owen Wilson",
+      "Wallace Wolodarsky"
+   ],
+   "significants": [
+      "Wes Anderson"
+   ],
+   "title": "Fantastic Mr. Fox",
+   "overview": "The Fantastic Mr. Fox bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+   "tagline": "Dig the life fantastic!",
+   "video": "VuIaCvIFWIA",
+   "posterPath": "/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/njbTizADSZg4PqeyJdDzZGooikv.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/4cna09XI2gqn",
+            "added": 1606704774,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

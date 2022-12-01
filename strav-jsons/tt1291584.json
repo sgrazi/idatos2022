@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1291584",
+   "tmdbID": "59440",
+   "imdbRating": 82,
+   "imdbVoteCount": 472189,
+   "tmdbRating": 78,
+   "backdropPath": "/1PnRPz4A4AguUEVOTcprIyctrax.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1PnRPz4A4AguUEVOTcprIyctrax.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1PnRPz4A4AguUEVOTcprIyctrax.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1PnRPz4A4AguUEVOTcprIyctrax.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1PnRPz4A4AguUEVOTcprIyctrax.jpg"
+   },
+   "originalTitle": "Warrior",
+   "genres": [
+      28,
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2011,
+   "runtime": 140,
+   "cast": [
+      "Joel Edgerton",
+      "Tom Hardy",
+      "Jennifer Morrison",
+      "Frank Grillo",
+      "Nick Nolte",
+      "Denzel Whitaker",
+      "Bryan Callen"
+   ],
+   "significants": [
+      "Gavin O'Connor"
+   ],
+   "title": "Warrior",
+   "overview": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament – a path that puts the fighter on a collision course with his estranged, older brother.",
+   "tagline": "Family is worth fighting for.",
+   "video": "I5kzcwcQA1Q",
+   "posterPath": "/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYF5LGArS1MPDwgEAAABj:type:feature",
+            "added": 1656904455,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0099674",
+   "tmdbID": "242",
+   "imdbRating": 76,
+   "imdbVoteCount": 396929,
+   "tmdbRating": 74,
+   "backdropPath": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zNnjHLDtV8Ti3aworltaeaLMov4.jpg"
+   },
+   "originalTitle": "The Godfather Part III",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1990,
+   "runtime": 170,
+   "cast": [
+      "Al Pacino",
+      "Diane Keaton",
+      "Talia Shire",
+      "Andy García",
+      "Eli Wallach",
+      "Joe Mantegna",
+      "George Hamilton"
+   ],
+   "significants": [
+      "Francis Ford Coppola"
+   ],
+   "title": "The Godfather Part III",
+   "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+   "tagline": "All the power on earth can't change destiny.",
+   "video": "ipLJ2_fgmgk",
+   "posterPath": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lm3pQ2QoQ16pextRsmnUbG2onES.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

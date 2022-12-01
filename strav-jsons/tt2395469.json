@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt2395469",
+   "tmdbID": "491625",
+   "imdbRating": 79,
+   "imdbVoteCount": 40009,
+   "tmdbRating": 74,
+   "backdropPath": "/gcZbciueHH7WmD03GcVZX7LYqmR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gcZbciueHH7WmD03GcVZX7LYqmR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gcZbciueHH7WmD03GcVZX7LYqmR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gcZbciueHH7WmD03GcVZX7LYqmR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gcZbciueHH7WmD03GcVZX7LYqmR.jpg"
+   },
+   "originalTitle": "गल्ली बॉय",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2019,
+   "runtime": 156,
+   "cast": [
+      "Ranveer Singh",
+      "Alia Bhatt",
+      "Siddhant Chaturvedi",
+      "Mona Ghosh Shetty",
+      "Vijay Raaz",
+      "Vijay Varma",
+      "Amruta Subhash"
+   ],
+   "significants": [
+      "Zoya Akhtar"
+   ],
+   "title": "Gully Boy",
+   "overview": "A coming-of-age story based on the lives of street rappers in Mumbai.",
+   "tagline": "",
+   "video": "JfbxcD6biOk",
+   "posterPath": "/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0I5OF8K1O8JNLUPOQ3VU3MBR5I/",
+            "added": 1635744112,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

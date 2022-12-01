@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0036855",
+   "tmdbID": "13528",
+   "imdbRating": 78,
+   "imdbVoteCount": 29708,
+   "tmdbRating": 75,
+   "backdropPath": "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg"
+   },
+   "originalTitle": "Gaslight",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1944,
+   "runtime": 114,
+   "cast": [
+      "Charles Boyer",
+      "Ingrid Bergman",
+      "Joseph Cotten",
+      "May Whitty",
+      "Angela Lansbury",
+      "Barbara Everest",
+      "Emil Rameau"
+   ],
+   "significants": [
+      "George Cukor"
+   ],
+   "title": "Gaslight",
+   "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+   "tagline": "Strange drama of a captive sweetheart!",
+   "video": "0ToLfQU2xmg",
+   "posterPath": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYsYs0gAvKsLCwgEAAAOm:type:feature",
+            "added": 1659612215,
+            "leaving": 16698707400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

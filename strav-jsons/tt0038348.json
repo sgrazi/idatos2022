@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0038348",
+   "tmdbID": "648",
+   "imdbRating": 79,
+   "imdbVoteCount": 26687,
+   "tmdbRating": 74,
+   "backdropPath": "/2Ae0iV2HR3Raoras8G40MjBtJnn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2Ae0iV2HR3Raoras8G40MjBtJnn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2Ae0iV2HR3Raoras8G40MjBtJnn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2Ae0iV2HR3Raoras8G40MjBtJnn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2Ae0iV2HR3Raoras8G40MjBtJnn.jpg"
+   },
+   "originalTitle": "La Belle et la Bête",
+   "genres": [
+      18,
+      14,
+      10749
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1946,
+   "runtime": 96,
+   "cast": [
+      "Jean Marais",
+      "Josette Day",
+      "Marcel André",
+      "Mila Parély",
+      "Nane Germon",
+      "Michel Auclair",
+      "Raoul Marco"
+   ],
+   "significants": [
+      "Jean Cocteau"
+   ],
+   "title": "Beauty and the Beast",
+   "overview": "The story of a gentle-hearted beast in love with a simple and beautiful girl. She is drawn to the repellent but strangely fascinating Beast, who tests her fidelity by giving her a key, telling her that if she doesn't return it to him by a specific time, he will die of grief. She is unable to return the key on time, but it is revealed that the Beast is the genuinely handsome one. A simple tale of tragic love that turns into a surreal vision of death, desire, and beauty.",
+   "tagline": "Once upon a time",
+   "video": "IsXkv1mpRUk",
+   "posterPath": "/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8asbxUhxKAbinFQimQZvHQMwojd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8asbxUhxKAbinFQimQZvHQMwojd.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnqY5Au1yYCgwwEAAAyo:type:feature",
+            "added": 1655508464,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

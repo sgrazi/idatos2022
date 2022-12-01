@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt5463162",
+   "tmdbID": "383498",
+   "imdbRating": 77,
+   "imdbVoteCount": 578976,
+   "tmdbRating": 74,
+   "backdropPath": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg"
+   },
+   "originalTitle": "Deadpool 2",
+   "genres": [
+      28,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2018,
+   "runtime": 120,
+   "cast": [
+      "Ryan Reynolds",
+      "Josh Brolin",
+      "Morena Baccarin",
+      "Julian Dennison",
+      "Zazie Beetz",
+      "T.J. Miller",
+      "Leslie Uggams"
+   ],
+   "significants": [
+      "David Leitch"
+   ],
+   "title": "Deadpool 2",
+   "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+   "tagline": "Prepare for the Second Coming.",
+   "video": "20bpjtCbCz0",
+   "posterPath": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/LSuXSQ3S5mxU",
+            "added": 1658599822,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

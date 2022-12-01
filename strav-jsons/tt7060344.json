@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt7060344",
+   "tmdbID": "412862",
+   "imdbRating": 83,
+   "imdbVoteCount": 44670,
+   "tmdbRating": 76,
+   "backdropPath": "/qtEFSaBbvOhO8FQ7mrhqnSN3l0r.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qtEFSaBbvOhO8FQ7mrhqnSN3l0r.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qtEFSaBbvOhO8FQ7mrhqnSN3l0r.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qtEFSaBbvOhO8FQ7mrhqnSN3l0r.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qtEFSaBbvOhO8FQ7mrhqnSN3l0r.jpg"
+   },
+   "originalTitle": "ராட்சசன்",
+   "genres": [
+      80,
+      9648
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2018,
+   "runtime": 170,
+   "cast": [
+      "Vishnu Vishal",
+      "Amala Paul",
+      "Suzane George",
+      "Kaali Venkat",
+      "Radha Ravi",
+      "Sangili Murugan",
+      "Nizhalgal Ravi"
+   ],
+   "significants": [
+      "Ram Kumar"
+   ],
+   "title": "Ratsasan",
+   "overview": "A serial killer is murdering school girls, and a newbie cop has to track him down before the victim count increases.",
+   "tagline": "",
+   "video": "GsrN7rNch9Y",
+   "posterPath": "/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0PD5TIRS8XPWZVCWKD73AVZPHC/",
+            "added": 1653186274,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "ta"
+}

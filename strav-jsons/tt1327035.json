@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1327035",
+   "tmdbID": "15977",
+   "imdbRating": 79,
+   "imdbVoteCount": 30916,
+   "tmdbRating": 68,
+   "backdropPath": "/rACXg4zadOTEQKceu0zViohXwCb.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rACXg4zadOTEQKceu0zViohXwCb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rACXg4zadOTEQKceu0zViohXwCb.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rACXg4zadOTEQKceu0zViohXwCb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rACXg4zadOTEQKceu0zViohXwCb.jpg"
+   },
+   "originalTitle": "देव .डी",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2009,
+   "runtime": 144,
+   "cast": [
+      "Abhay Deol",
+      "Mahie Gill",
+      "Kalki Koechlin",
+      "Parakh Madan",
+      "Kuldeep Singh",
+      "Gurkirtan",
+      "Sanjay Kumar"
+   ],
+   "significants": [
+      "Anurag Kashyap"
+   ],
+   "title": "Dev.D",
+   "overview": "Because they come from different castes, the son of a tax collector and his true love are not allowed to marry, sending them down divergent paths.",
+   "tagline": "Get Ready for Emotional Atyachar",
+   "video": "ATZB8mwU3M0",
+   "posterPath": "/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uNdSUb9JOitGPTk2wdc8ykOBJHb.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70113305/",
+            "added": 1653740830,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

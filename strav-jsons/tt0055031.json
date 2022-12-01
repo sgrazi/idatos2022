@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0055031",
+   "tmdbID": "821",
+   "imdbRating": 83,
+   "imdbVoteCount": 78038,
+   "tmdbRating": 80,
+   "backdropPath": "/g8yVrnJ72eOt1Xw4uyYBIsBBE2g.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/g8yVrnJ72eOt1Xw4uyYBIsBBE2g.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g8yVrnJ72eOt1Xw4uyYBIsBBE2g.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/g8yVrnJ72eOt1Xw4uyYBIsBBE2g.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g8yVrnJ72eOt1Xw4uyYBIsBBE2g.jpg"
+   },
+   "originalTitle": "Judgment at Nuremberg",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1961,
+   "runtime": 179,
+   "cast": [
+      "Spencer Tracy",
+      "Burt Lancaster",
+      "Richard Widmark",
+      "Marlene Dietrich",
+      "Maximilian Schell",
+      "Judy Garland",
+      "Montgomery Clift"
+   ],
+   "significants": [
+      "Stanley Kramer"
+   ],
+   "title": "Judgment at Nuremberg",
+   "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+   "tagline": "The event the world will never forget",
+   "video": "jG8JsLy_aTI",
+   "posterPath": "/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cqumfgd74ftVzOKJpFGOG64WlXL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cqumfgd74ftVzOKJpFGOG64WlXL.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

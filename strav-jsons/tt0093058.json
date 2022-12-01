@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0093058",
+   "tmdbID": "600",
+   "imdbRating": 83,
+   "imdbVoteCount": 740326,
+   "tmdbRating": 81,
+   "backdropPath": "/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jqfCHNmjJVo5nJnLPM3ww7yqfNm.jpg"
+   },
+   "originalTitle": "Full Metal Jacket",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1987,
+   "runtime": 117,
+   "cast": [
+      "Matthew Modine",
+      "Adam Baldwin",
+      "Vincent D'Onofrio",
+      "R. Lee Ermey",
+      "Dorian Harewood",
+      "Arliss Howard",
+      "Kevyn Major Howard"
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "Full Metal Jacket",
+   "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+   "tagline": "Vietnam can kill me, but it can’t make me care.",
+   "video": "n2i917l5RFc",
+   "posterPath": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXdu2cQzfysPCwwEAADXM:type:feature",
+            "added": 1664791626,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

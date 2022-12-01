@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0379786",
+   "tmdbID": "16320",
+   "imdbRating": 78,
+   "imdbVoteCount": 296764,
+   "tmdbRating": 73,
+   "backdropPath": "/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/csGprKcRxt7SDpsrKiwxpgLdEsx.jpg"
+   },
+   "originalTitle": "Serenity",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2005,
+   "runtime": 119,
+   "cast": [
+      "Nathan Fillion",
+      "Summer Glau",
+      "Gina Torres",
+      "Alan Tudyk",
+      "Morena Baccarin",
+      "Adam Baldwin",
+      "Jewel Staite"
+   ],
+   "significants": [
+      "Joss Whedon"
+   ],
+   "title": "Serenity",
+   "overview": "When the renegade crew of Serenity agrees to hide a fugitive on their ship, they find themselves in an action-packed battle between the relentless military might of a totalitarian regime who will destroy anything – or anyone – to get the girl back and the bloodthirsty creatures who roam the uncharted areas of space. But... the greatest danger of all may be on their ship.",
+   "tagline": "They aim to misbehave.",
+   "video": "JY3u7bB7dZk",
+   "posterPath": "/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ckDo5vnRKehJ2qu8U95c7QcvGUm.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/45251",
+            "added": 1664895409,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

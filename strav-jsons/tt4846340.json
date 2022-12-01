@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt4846340",
+   "tmdbID": "381284",
+   "imdbRating": 78,
+   "imdbVoteCount": 230108,
+   "tmdbRating": 80,
+   "backdropPath": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg"
+   },
+   "originalTitle": "Hidden Figures",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2016,
+   "runtime": 127,
+   "cast": [
+      "Taraji P. Henson",
+      "Octavia Spencer",
+      "Janelle Monáe",
+      "Kevin Costner",
+      "Kirsten Dunst",
+      "Jim Parsons",
+      "Mahershala Ali"
+   ],
+   "significants": [
+      "Theodore Melfi"
+   ],
+   "title": "Hidden Figures",
+   "overview": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+   "tagline": "Meet the women you don't know, behind the mission you do.",
+   "video": "5wfrDhgUMGI",
+   "posterPath": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/2xa2YdiOJXQt",
+            "added": 1606705424,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

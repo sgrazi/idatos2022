@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0457655",
+   "tmdbID": "3549",
+   "imdbRating": 77,
+   "imdbVoteCount": 35005,
+   "tmdbRating": 71,
+   "backdropPath": "/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c2nxaEE0yBcg9qeqrisbkvBxTNh.jpg"
+   },
+   "originalTitle": "Efter brylluppet",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "DK",
+      "SE"
+   ],
+   "year": 2006,
+   "runtime": 124,
+   "cast": [
+      "Mads Mikkelsen",
+      "Stine Fischer Christensen",
+      "Sidse Babett Knudsen",
+      "Rolf Lassgård",
+      "Christian Tafdrup",
+      "Frederik Gullits Ernst",
+      "Kristian Gullits Ernst"
+   ],
+   "significants": [
+      "Susanne Bier"
+   ],
+   "title": "After the Wedding",
+   "overview": "A manager of an orphanage in India is sent to Copenhagen, Denmark, where he discovers a life-altering family secret.",
+   "tagline": "",
+   "video": "-lKCRdGXCeM",
+   "posterPath": "/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/29t5x0Aj4cQJJC9jNR3VWS7l3JL.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "da"
+}

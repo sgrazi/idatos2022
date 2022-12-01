@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt0115751",
+   "tmdbID": "145",
+   "imdbRating": 78,
+   "imdbVoteCount": 67523,
+   "tmdbRating": 74,
+   "backdropPath": "/yCxuILdReGFK948mfUOAX75xb5Z.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yCxuILdReGFK948mfUOAX75xb5Z.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yCxuILdReGFK948mfUOAX75xb5Z.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yCxuILdReGFK948mfUOAX75xb5Z.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yCxuILdReGFK948mfUOAX75xb5Z.jpg"
+   },
+   "originalTitle": "Breaking the Waves",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "DK",
+      "FR",
+      "IS",
+      "NL",
+      "NO",
+      "ES",
+      "SE",
+      "GB"
+   ],
+   "year": 1996,
+   "runtime": 159,
+   "cast": [
+      "Emily Watson",
+      "Stellan Skarsgård",
+      "Katrin Cartlidge",
+      "Jean-Marc Barr",
+      "Adrian Rawlins",
+      "Jonathan Hackett",
+      "Sandra Voe"
+   ],
+   "significants": [
+      "Lars von Trier"
+   ],
+   "title": "Breaking the Waves",
+   "overview": "In a small and conservative Scottish village, a woman's paralytic husband convinces her to have extramarital intercourse so she can tell him about it and give him a reason for living.",
+   "tagline": "Love is a mighty power.",
+   "video": "dPmWixRLFPQ",
+   "posterPath": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk3jxgPJ8I7CZgEAACYs:type:feature",
+            "added": 1655505836,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "da"
+}

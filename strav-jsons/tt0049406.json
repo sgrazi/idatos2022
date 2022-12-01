@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0049406",
+   "tmdbID": "247",
+   "imdbRating": 80,
+   "imdbVoteCount": 90397,
+   "tmdbRating": 76,
+   "backdropPath": "/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dY0suaAdGpOqh7JkLeIN6lT7k9d.jpg"
+   },
+   "originalTitle": "The Killing",
+   "genres": [
+      80,
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1956,
+   "runtime": 85,
+   "cast": [
+      "Sterling Hayden",
+      "Coleen Gray",
+      "Vince Edwards",
+      "Jay C. Flippen",
+      "Ted de Corsia",
+      "Marie Windsor",
+      "Elisha Cook Jr."
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "The Killing",
+   "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own.",
+   "tagline": "In All Its Fury and Violence...",
+   "video": "m9wMEDJuGnE",
+   "posterPath": "/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lnbuDjMNw2mUeJ2NsGF7HMMTWfU.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

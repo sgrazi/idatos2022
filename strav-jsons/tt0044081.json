@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0044081",
+   "tmdbID": "702",
+   "imdbRating": 79,
+   "imdbVoteCount": 108831,
+   "tmdbRating": 76,
+   "backdropPath": "/s7C6PsfHfu983wrhp7GgLUIN3Cj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/s7C6PsfHfu983wrhp7GgLUIN3Cj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s7C6PsfHfu983wrhp7GgLUIN3Cj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/s7C6PsfHfu983wrhp7GgLUIN3Cj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s7C6PsfHfu983wrhp7GgLUIN3Cj.jpg"
+   },
+   "originalTitle": "A Streetcar Named Desire",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1951,
+   "runtime": 125,
+   "cast": [
+      "Vivien Leigh",
+      "Marlon Brando",
+      "Kim Hunter",
+      "Karl Malden",
+      "Rudy Bond",
+      "Nick Dennis",
+      "Peg Hillias"
+   ],
+   "significants": [
+      "Elia Kazan"
+   ],
+   "title": "A Streetcar Named Desire",
+   "overview": "A fading southern belle tries to build a new life with her sister in New Orleans.",
+   "tagline": "...Blanche, who wanted so much to stay a lady...",
+   "video": "U3CXLHLFvyM",
+   "posterPath": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXqdDzQ8csMLDwgEAAAtp:type:feature",
+            "added": 1655505832,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

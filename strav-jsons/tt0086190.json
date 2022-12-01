@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0086190",
+   "tmdbID": "1892",
+   "imdbRating": 83,
+   "imdbVoteCount": 1048883,
+   "tmdbRating": 79,
+   "backdropPath": "/8vG0vicedQKdmpNggqyHgYH8T0t.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8vG0vicedQKdmpNggqyHgYH8T0t.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8vG0vicedQKdmpNggqyHgYH8T0t.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8vG0vicedQKdmpNggqyHgYH8T0t.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8vG0vicedQKdmpNggqyHgYH8T0t.jpg"
+   },
+   "originalTitle": "Return of the Jedi",
+   "genres": [
+      28,
+      12,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1983,
+   "runtime": 135,
+   "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels",
+      "Peter Mayhew",
+      "Sebastian Shaw"
+   ],
+   "significants": [
+      "Richard Marquand"
+   ],
+   "title": "Return of the Jedi",
+   "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, while the Emperor seeks to destroy the Rebellion once and for all with a second dreaded Death Star.",
+   "tagline": "The Empire Falls...",
+   "video": "1x4OmSgR714",
+   "posterPath": "/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg",
+      "original": "https://image.tmdb.org/t/p/original/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/6QGKo5mjDBS8",
+            "added": 1606709630,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

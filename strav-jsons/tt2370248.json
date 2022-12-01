@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt2370248",
+   "tmdbID": "169813",
+   "imdbRating": 79,
+   "imdbVoteCount": 88243,
+   "tmdbRating": 77,
+   "backdropPath": "/gTDSid6kZT7vNp1vSNB0nLAnSeG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gTDSid6kZT7vNp1vSNB0nLAnSeG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gTDSid6kZT7vNp1vSNB0nLAnSeG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gTDSid6kZT7vNp1vSNB0nLAnSeG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gTDSid6kZT7vNp1vSNB0nLAnSeG.jpg"
+   },
+   "originalTitle": "Short Term 12",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 96,
+   "cast": [
+      "Brie Larson",
+      "John Gallagher Jr.",
+      "Kaitlyn Dever",
+      "Rami Malek",
+      "Lakeith Stanfield",
+      "Kevin Hernandez",
+      "Melora Walters"
+   ],
+   "significants": [
+      "Destin Daniel Cretton"
+   ],
+   "title": "Short Term 12",
+   "overview": "Grace, a compassionate young supervisor at a foster care facility, helps at-risk teens. But when a new charge dredges up memories of her own troubled past, Grace's tough exterior begins eroding.",
+   "tagline": "Support them. Take care of them. But don't become their friend.",
+   "video": "qhS6tvSb0UQ",
+   "posterPath": "/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qKnsyaJZLXfiL2JhIJEkpA8C3LU.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

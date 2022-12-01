@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt1832382",
+   "tmdbID": "60243",
+   "imdbRating": 83,
+   "imdbVoteCount": 245291,
+   "tmdbRating": 79,
+   "backdropPath": "/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg"
+   },
+   "originalTitle": "جدایی نادر از سیمین",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IR"
+   ],
+   "year": 2011,
+   "runtime": 123,
+   "cast": [
+      "Leila Hatami",
+      "Payman Maadi",
+      "Shahab Hosseini",
+      "Sare Bayat",
+      "Sarina Farhadi",
+      "Babak Karimi",
+      "Ali-Asghar Shahbazi"
+   ],
+   "significants": [
+      "Asghar Farhadi"
+   ],
+   "title": "A Separation",
+   "overview": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+   "tagline": "Ugly truth, sweet lies.",
+   "video": "58Onuy5USTc",
+   "posterPath": "/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "fa"
+}

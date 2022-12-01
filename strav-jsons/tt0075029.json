@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0075029",
+   "tmdbID": "10747",
+   "imdbRating": 78,
+   "imdbVoteCount": 74404,
+   "tmdbRating": 75,
+   "backdropPath": "/tamfZRkdVzl7H89i3tdSOHckI4A.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tamfZRkdVzl7H89i3tdSOHckI4A.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tamfZRkdVzl7H89i3tdSOHckI4A.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tamfZRkdVzl7H89i3tdSOHckI4A.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tamfZRkdVzl7H89i3tdSOHckI4A.jpg"
+   },
+   "originalTitle": "The Outlaw Josey Wales",
+   "genres": [
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1976,
+   "runtime": 135,
+   "cast": [
+      "Clint Eastwood",
+      "Chief Dan George",
+      "Sondra Locke",
+      "Bill McKinney",
+      "John Vernon",
+      "Paula Trueman",
+      "Sam Bottoms"
+   ],
+   "significants": [
+      "Clint Eastwood"
+   ],
+   "title": "The Outlaw Josey Wales",
+   "overview": "After avenging his family's brutal murder, Wales is pursued by a pack of soldiers. He prefers to travel alone, but ragtag outcasts are drawn to him - and Wales can't bring himself to leave them unprotected.",
+   "tagline": "...an army of one.",
+   "video": "UQLqIzoCzpY",
+   "posterPath": "/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/92BZIFPbyCPNhExyFScxA3xF1dy.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

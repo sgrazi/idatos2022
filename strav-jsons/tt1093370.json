@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1093370",
+   "tmdbID": "11807",
+   "imdbRating": 79,
+   "imdbVoteCount": 53600,
+   "tmdbRating": 73,
+   "backdropPath": "/hSnSV1qcIiWIxxrolnlWd2dBApz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hSnSV1qcIiWIxxrolnlWd2dBApz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hSnSV1qcIiWIxxrolnlWd2dBApz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hSnSV1qcIiWIxxrolnlWd2dBApz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hSnSV1qcIiWIxxrolnlWd2dBApz.jpg"
+   },
+   "originalTitle": "जब वी मेट",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2007,
+   "runtime": 138,
+   "cast": [
+      "Shahid Kapoor",
+      "Kareena Kapoor Khan",
+      "Tarun Arora",
+      "Dara Singh",
+      "Pavan Malhotra",
+      "Kiran Juneja",
+      "Divya Shah"
+   ],
+   "significants": [
+      "Imtiaz Ali"
+   ],
+   "title": "Jab We Met",
+   "overview": "A depressed wealthy businessman and a spunky and care-free young woman embark on an unexpected journey that changes their lives.",
+   "tagline": "Don't miss the train!",
+   "video": "VoaKuOjez9k",
+   "posterPath": "/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/reEzvhfp85DTapHSPRzBULCXUuz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/reEzvhfp85DTapHSPRzBULCXUuz.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70085612/",
+            "added": 1645586012,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0119822",
+   "tmdbID": "2898",
+   "imdbRating": 77,
+   "imdbVoteCount": 299545,
+   "tmdbRating": 74,
+   "backdropPath": "/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vj5PrTrnHVNPDSfd3vXXJpNUT0N.jpg"
+   },
+   "originalTitle": "As Good as It Gets",
+   "genres": [
+      35,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1997,
+   "runtime": 139,
+   "cast": [
+      "Jack Nicholson",
+      "Helen Hunt",
+      "Greg Kinnear",
+      "Cuba Gooding Jr.",
+      "Skeet Ulrich",
+      "Shirley Knight",
+      "Yeardley Smith"
+   ],
+   "significants": [
+      "James L. Brooks"
+   ],
+   "title": "As Good as It Gets",
+   "overview": "New York City. Melvin Udall, a cranky, bigoted, obsessive-compulsive writer, finds his life turned upside down when neighboring gay artist Simon is hospitalized and his dog is entrusted to Melvin. In addition, Carol, the only waitress who will tolerate him, must leave work to care for her sick son, making it impossible for Melvin to eat breakfast.",
+   "tagline": "A comedy from the heart that goes for the throat.",
+   "video": "rrRl2QQKkI8",
+   "posterPath": "/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nXkrgheDcVRbND9QjkVUseqBzTj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nXkrgheDcVRbND9QjkVUseqBzTj.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

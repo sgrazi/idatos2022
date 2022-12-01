@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0277027",
+   "tmdbID": "10950",
+   "imdbRating": 76,
+   "imdbVoteCount": 150685,
+   "tmdbRating": 75,
+   "backdropPath": "/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mOsg2l9zq315ouw55rbNATSwgU1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mOsg2l9zq315ouw55rbNATSwgU1.jpg"
+   },
+   "originalTitle": "I Am Sam",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 132,
+   "cast": [
+      "Sean Penn",
+      "Michelle Pfeiffer",
+      "Dianne Wiest",
+      "Dakota Fanning",
+      "Richard Schiff",
+      "Loretta Devine",
+      "Marin Hinkle"
+   ],
+   "significants": [
+      "Jessie Nelson"
+   ],
+   "title": "I Am Sam",
+   "overview": "Sam, a neurodivergent man, has a daughter with a homeless woman who abandons them when they leave the hospital, leaving Sam to raise Lucy on his own. But as Lucy grows up, Sam's limitations as a parent start to become a problem and the authorities take her away. Sam convinces high-priced lawyer Rita to take his case pro bono and in turn teaches her the value of love and family.",
+   "tagline": "Love is all you need.",
+   "video": "z_AguDqCBvo",
+   "posterPath": "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

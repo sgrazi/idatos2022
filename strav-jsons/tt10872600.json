@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt10872600",
+   "tmdbID": "634649",
+   "imdbRating": 83,
+   "imdbVoteCount": 742520,
+   "tmdbRating": 80,
+   "backdropPath": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg"
+   },
+   "originalTitle": "Spider-Man: No Way Home",
+   "genres": [
+      28,
+      12,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2021,
+   "runtime": 148,
+   "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch",
+      "Jacob Batalon",
+      "Jon Favreau",
+      "Jamie Foxx",
+      "Willem Dafoe"
+   ],
+   "significants": [
+      "Jon Watts"
+   ],
+   "title": "Spider-Man: No Way Home",
+   "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+   "tagline": "The Multiverse unleashed.",
+   "video": "1mTjfMFyPi8",
+   "posterPath": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/59983",
+            "added": 1657905910,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

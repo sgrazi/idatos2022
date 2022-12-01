@@ -1,0 +1,57 @@
+{
+   "imdbID": "tt0092965",
+   "tmdbID": "10110",
+   "imdbRating": 77,
+   "imdbVoteCount": 126465,
+   "tmdbRating": 75,
+   "backdropPath": "/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/k1ppJC3h2qgHES2E17KPUhAcOBx.jpg"
+   },
+   "originalTitle": "Empire of the Sun",
+   "genres": [
+      18,
+      36,
+      10752
+   ],
+   "countries": [
+      "CN",
+      "ES",
+      "GB",
+      "US"
+   ],
+   "year": 1987,
+   "runtime": 153,
+   "cast": [
+      "Christian Bale",
+      "John Malkovich",
+      "Miranda Richardson",
+      "Nigel Havers",
+      "Joe Pantoliano",
+      "Leslie Phillips",
+      "Masatō Ibu"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "Empire of the Sun",
+   "overview": "Jamie Graham, a privileged English boy, is living in Shanghai when the Japanese invade and force all foreigners into prison camps. Jamie is captured with an American sailor, who looks out for him while they are in the camp together. Even though he is separated from his parents and in a hostile environment, Jamie maintains his dignity and youthful spirits, providing a beacon of hope for the others held captive with him.",
+   "tagline": "To survive in a world at war, he must find a strength greater than all the events that surround him.",
+   "video": "-tHigCYpoOo",
+   "posterPath": "/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tU7NpwxpX3W6Vpgu2hWQfQKizMo.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

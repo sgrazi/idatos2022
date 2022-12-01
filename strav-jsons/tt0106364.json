@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0106364",
+   "tmdbID": "14919",
+   "imdbRating": 78,
+   "imdbVoteCount": 51528,
+   "tmdbRating": 75,
+   "backdropPath": "/9BtUWZhigispqSUYhrS6cJHpvwx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9BtUWZhigispqSUYhrS6cJHpvwx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9BtUWZhigispqSUYhrS6cJHpvwx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9BtUWZhigispqSUYhrS6cJHpvwx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9BtUWZhigispqSUYhrS6cJHpvwx.jpg"
+   },
+   "originalTitle": "Batman: Mask of the Phantasm",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 76,
+   "cast": [
+      "Kevin Conroy",
+      "Dana Delany",
+      "Hart Bochner",
+      "Stacy Keach",
+      "Abe Vigoda",
+      "Dick Miller",
+      "John P. Ryan"
+   ],
+   "significants": [
+      "Bruce Timm",
+      "Eric Radomski"
+   ],
+   "title": "Batman: Mask of the Phantasm",
+   "overview": "When a powerful criminal, who is connected to Bruce Wayne's ex-girlfriend, blames the Dark Knight for killing a crime lord, Batman decides to fight against him.",
+   "tagline": "The Dark Knight fights to save Gotham city from its deadliest enemy.",
+   "video": "4PK5CYZlHMA",
+   "posterPath": "/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/l4jaQjkgznu2Rz05X18f24UjPNW.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX9emIAXiyK2ikQEAAABG:type:feature",
+            "added": 1655501305,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

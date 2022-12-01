@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt2582846",
+   "tmdbID": "222935",
+   "imdbRating": 77,
+   "imdbVoteCount": 377299,
+   "tmdbRating": 76,
+   "backdropPath": "/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oQaVV7p916HO5MDI820zzs1pin9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oQaVV7p916HO5MDI820zzs1pin9.jpg"
+   },
+   "originalTitle": "The Fault in Our Stars",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 126,
+   "cast": [
+      "Shailene Woodley",
+      "Ansel Elgort",
+      "Nat Wolff",
+      "Laura Dern",
+      "Sam Trammell",
+      "Willem Dafoe",
+      "Lotte Verbeek"
+   ],
+   "significants": [
+      "Josh Boone"
+   ],
+   "title": "The Fault in Our Stars",
+   "overview": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+   "tagline": "",
+   "video": "9ItBvH5J6ss",
+   "posterPath": "/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ep7dF4QR4Mm39LI958V0XbwE0hK.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/54mG9tD7cU2q",
+            "added": 1632496587,
+            "leaving": 0
+         }
+      },
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYr0GqwyOz5yTjQEAAAAf:type:feature",
+            "added": 1659585954,
+            "leaving": 16908732000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0112579",
+   "tmdbID": "688",
+   "imdbRating": 76,
+   "imdbVoteCount": 82404,
+   "tmdbRating": 76,
+   "backdropPath": "/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg"
+   },
+   "originalTitle": "The Bridges of Madison County",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 135,
+   "cast": [
+      "Clint Eastwood",
+      "Meryl Streep",
+      "Annie Corley",
+      "Victor Slezak",
+      "Jim Haynie",
+      "Sarah Kathryn Schmitt",
+      "Christopher Kroon"
+   ],
+   "significants": [
+      "Clint Eastwood"
+   ],
+   "title": "The Bridges of Madison County",
+   "overview": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
+   "tagline": "The path of Francesca Johnson's future seems destined due to an unexpected fork in the road...",
+   "video": "ZoJJkAQV0Bg",
+   "posterPath": "/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8TfLAfIh5Qxp2J4ZjOafHYhWtDb.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70150462/",
+            "added": 1668564716,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

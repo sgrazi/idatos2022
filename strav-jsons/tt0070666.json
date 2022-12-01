@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0070666",
+   "tmdbID": "9040",
+   "imdbRating": 77,
+   "imdbVoteCount": 123956,
+   "tmdbRating": 75,
+   "backdropPath": "/mQVS26WdILNYCoTYkdwTAafp11R.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mQVS26WdILNYCoTYkdwTAafp11R.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mQVS26WdILNYCoTYkdwTAafp11R.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mQVS26WdILNYCoTYkdwTAafp11R.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mQVS26WdILNYCoTYkdwTAafp11R.jpg"
+   },
+   "originalTitle": "Serpico",
+   "genres": [
+      1,
+      80
+   ],
+   "countries": [
+      "IT",
+      "US"
+   ],
+   "year": 1973,
+   "runtime": 130,
+   "cast": [
+      "Al Pacino",
+      "John Randolph",
+      "Jack Kehoe",
+      "Biff McGuire",
+      "Barbara Eda-Young",
+      "Cornelia Sharpe",
+      "Tony Roberts"
+   ],
+   "significants": [
+      "Sidney Lumet"
+   ],
+   "title": "Serpico",
+   "overview": "Frank Serpico is an idealistic New York City cop who refuses to take bribes, unlike the rest of the force. His actions get Frank shunned by the other officers, and often placed in dangerous situations by his partners. When his superiors ignore Frank's accusations of corruption, he decides to go public with the allegations. Although this causes the Knapp Commission to investigate his claims, Frank has also placed a target on himself.",
+   "tagline": "Many of his fellow officers considered him the most dangerous man alive - An honest cop.",
+   "video": "eoP6bH2ymFo",
+   "posterPath": "/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c7fENg2o6SBBtL3z4V9xTAnEoDJ.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0N8VNXBM5ERV87J4S65OKIL4J3/",
+            "added": 1659619403,
+            "leaving": 0
+         }
+      },
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/37297",
+            "added": 1667594860,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

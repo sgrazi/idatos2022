@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0038890",
+   "tmdbID": "307",
+   "imdbRating": 80,
+   "imdbVoteCount": 26862,
+   "tmdbRating": 80,
+   "backdropPath": "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg"
+   },
+   "originalTitle": "Roma città aperta",
+   "genres": [
+      18,
+      53,
+      10752
+   ],
+   "countries": [
+      "IT"
+   ],
+   "year": 1945,
+   "runtime": 103,
+   "cast": [
+      "Aldo Fabrizi",
+      "Anna Magnani",
+      "Marcello Pagliero",
+      "Francesco Grandjacquet",
+      "Harry Feist",
+      "Maria Michi",
+      "Vito Annichiarico"
+   ],
+   "significants": [
+      "Roberto Rossellini"
+   ],
+   "title": "Rome, Open City",
+   "overview": "During the Nazi occupation of Rome in 1944, the leader of the Resistance is chased by the Nazis as he seeks refuge and a way to escape.",
+   "tagline": "Our battle has barely begun.",
+   "video": "JM_KpDmdF98",
+   "posterPath": "/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoKwrggQ4eoAEAABbJ:type:feature",
+            "added": 1655508659,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt8108198",
+   "tmdbID": "534780",
+   "imdbRating": 82,
+   "imdbVoteCount": 93419,
+   "tmdbRating": 76,
+   "backdropPath": "/wJLV2ygHhTHG0nRTXlvA6wS8ubL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wJLV2ygHhTHG0nRTXlvA6wS8ubL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wJLV2ygHhTHG0nRTXlvA6wS8ubL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wJLV2ygHhTHG0nRTXlvA6wS8ubL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wJLV2ygHhTHG0nRTXlvA6wS8ubL.jpg"
+   },
+   "originalTitle": "अंधाधुन",
+   "genres": [
+      35,
+      80,
+      10402
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2018,
+   "runtime": 139,
+   "cast": [
+      "Ayushmann Khurrana",
+      "Radhika Apte",
+      "Tabu",
+      "Anil Dhawan",
+      "Rashmi Agdekar",
+      "Zakir Hussain",
+      "Ashwini Kalsekar"
+   ],
+   "significants": [
+      "Sriram Raghavan"
+   ],
+   "title": "Andhadhun",
+   "overview": "A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.",
+   "tagline": "Every artist has a secret.",
+   "video": "2iVYI99VGaw",
+   "posterPath": "/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kbqTKqz3amub4GUE5qLEQFFR8Ro.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81039381/",
+            "added": 1668336535,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

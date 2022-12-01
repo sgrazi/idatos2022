@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0069762",
+   "tmdbID": "3133",
+   "imdbRating": 77,
+   "imdbVoteCount": 73547,
+   "tmdbRating": 75,
+   "backdropPath": "/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5rp9Jydh9RxrvVBW2lr27B8NYiT.jpg"
+   },
+   "originalTitle": "Badlands",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1973,
+   "runtime": 94,
+   "cast": [
+      "Martin Sheen",
+      "Sissy Spacek",
+      "Warren Oates",
+      "Ramon Bieri",
+      "Alan Vint",
+      "Gary Littlejohn",
+      "John Carter"
+   ],
+   "significants": [
+      "Terrence Malick"
+   ],
+   "title": "Badlands",
+   "overview": "An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.",
+   "tagline": "Burning Love on the Great Plains in 1959!",
+   "video": "qKykxE7CBbc",
+   "posterPath": "/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/eJiVU3sTv9iYbytBzdaPijXsyIk.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

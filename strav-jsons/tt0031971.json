@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0031971",
+   "tmdbID": "995",
+   "imdbRating": 78,
+   "imdbVoteCount": 49505,
+   "tmdbRating": 76,
+   "backdropPath": "/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nkUbnGJZI5Pv9V58hUTgjrwc7tO.jpg"
+   },
+   "originalTitle": "Stagecoach",
+   "genres": [
+      12,
+      18,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1939,
+   "runtime": 96,
+   "cast": [
+      "John Wayne",
+      "Claire Trevor",
+      "Andy Devine",
+      "John Carradine",
+      "Thomas Mitchell",
+      "Louise Platt",
+      "George Bancroft"
+   ],
+   "significants": [
+      "John Ford"
+   ],
+   "title": "Stagecoach",
+   "overview": "A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.",
+   "tagline": "A powerful story of nine strange people",
+   "video": "OE-VWDsdkwM",
+   "posterPath": "/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kXJISFExDX9MbI9YzJznvUs9unY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kXJISFExDX9MbI9YzJznvUs9unY.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlSxAEgCCLCHAEAACA8:type:feature",
+            "added": 1655509105,
+            "leaving": 17277551400
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0PQGLAHH6XDJVS4KP1422RINL2/",
+            "added": 1654727499,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

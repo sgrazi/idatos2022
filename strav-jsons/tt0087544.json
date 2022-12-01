@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0087544",
+   "tmdbID": "81",
+   "imdbRating": 80,
+   "imdbVoteCount": 169685,
+   "tmdbRating": 79,
+   "backdropPath": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg"
+   },
+   "originalTitle": "風の谷のナウシカ",
+   "genres": [
+      16,
+      12,
+      878
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1984,
+   "runtime": 117,
+   "cast": [
+      "Sumi Shimamoto",
+      "Ichirō Nagai",
+      "Gorō Naya",
+      "Youji Matsuda",
+      "Yoshiko Sakakibara",
+      "Iemasa Kayumi",
+      "Hisako Kyoda"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "Nausicaä of the Valley of the Wind",
+   "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+   "tagline": "A young girl's love called forth miracles…",
+   "video": "6zhLBe319KE",
+   "posterPath": "/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHVaQyRPXUYOAEAAABO:type:feature",
+            "added": 1655513046,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

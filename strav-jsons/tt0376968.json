@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0376968",
+   "tmdbID": "11190",
+   "imdbRating": 79,
+   "imdbVoteCount": 45759,
+   "tmdbRating": 75,
+   "backdropPath": "/mn1YEB7D9JLIevqD0ktR1byrVMO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mn1YEB7D9JLIevqD0ktR1byrVMO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mn1YEB7D9JLIevqD0ktR1byrVMO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mn1YEB7D9JLIevqD0ktR1byrVMO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mn1YEB7D9JLIevqD0ktR1byrVMO.jpg"
+   },
+   "originalTitle": "Возвращение",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "RU"
+   ],
+   "year": 2003,
+   "runtime": 110,
+   "cast": [
+      "Vladimir Garin",
+      "Konstantin Lavronenko",
+      "Nataliya Vdovina",
+      "Ivan Dobronravov",
+      "Lazar Dubovik",
+      "Lyubov Kazakova",
+      "Galina Petrova"
+   ],
+   "significants": [
+      "Andrey Zvyagintsev"
+   ],
+   "title": "The Return",
+   "overview": "A story of two Russian boys whose father suddenly returns home after a 12-year absence. He takes the boys on a holiday to a remote island on a lake that turns into a test of manhood of almost mythic proportions.",
+   "tagline": "",
+   "video": "qNR4ER9tC6A",
+   "posterPath": "/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7V8iHBs34cPYw7ohpLqliF9x8Gv.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0107943",
+   "tmdbID": "1245",
+   "imdbRating": 78,
+   "imdbVoteCount": 75087,
+   "tmdbRating": 73,
+   "backdropPath": "/6fQMuCjxdaezTAWVP3MOp3YOhaa.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6fQMuCjxdaezTAWVP3MOp3YOhaa.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6fQMuCjxdaezTAWVP3MOp3YOhaa.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6fQMuCjxdaezTAWVP3MOp3YOhaa.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6fQMuCjxdaezTAWVP3MOp3YOhaa.jpg"
+   },
+   "originalTitle": "The Remains of the Day",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 134,
+   "cast": [
+      "Anthony Hopkins",
+      "Emma Thompson",
+      "James Fox",
+      "Christopher Reeve",
+      "Hugh Grant",
+      "Peter Vaughan",
+      "Ben Chaplin"
+   ],
+   "significants": [
+      "James Ivory"
+   ],
+   "title": "The Remains of the Day",
+   "overview": "A rule bound head butler's world of manners and decorum in the household he maintains is tested by the arrival of a housekeeper who falls in love with him in post-WWI Britain. The possibility of romance and his master's cultivation of ties with the Nazi cause challenge his carefully maintained veneer of servitude.",
+   "tagline": "Diamond in the Rough.",
+   "video": "V6q0dk-GdY4",
+   "posterPath": "/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qtwipjmSypSQuSvz5BNirSxZqbg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qtwipjmSypSQuSvz5BNirSxZqbg.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

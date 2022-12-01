@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt4849438",
+   "tmdbID": "350312",
+   "imdbRating": 82,
+   "imdbVoteCount": 101648,
+   "tmdbRating": 73,
+   "backdropPath": "/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg"
+   },
+   "originalTitle": "బాహుబలి 2: ది కన్ క్లూజన్",
+   "genres": [
+      28
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2017,
+   "runtime": 168,
+   "cast": [
+      "Prabhas",
+      "Rana Daggubati",
+      "Sathyaraj",
+      "Anushka Shetty",
+      "Nassar",
+      "Ramya Krishnan",
+      "Subbaraju"
+   ],
+   "significants": [
+      "S. S. Rajamouli"
+   ],
+   "title": "Bāhubali 2: The Conclusion",
+   "overview": "When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+   "tagline": "",
+   "video": "qD-6d8Wo3do",
+   "posterPath": "/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/21sC2assImQIYCEDA84Qh9d1RsK.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80203996/",
+            "added": 1630296307,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "te"
+}

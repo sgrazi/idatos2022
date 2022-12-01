@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0109424",
+   "tmdbID": "11104",
+   "imdbRating": 80,
+   "imdbVoteCount": 82358,
+   "tmdbRating": 80,
+   "backdropPath": "/i4m14DMv0JG4AOH6sP7Pes87A9x.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/i4m14DMv0JG4AOH6sP7Pes87A9x.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/i4m14DMv0JG4AOH6sP7Pes87A9x.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/i4m14DMv0JG4AOH6sP7Pes87A9x.jpg",
+      "original": "https://image.tmdb.org/t/p/original/i4m14DMv0JG4AOH6sP7Pes87A9x.jpg"
+   },
+   "originalTitle": "重慶森林",
+   "genres": [
+      35,
+      80,
+      18
+   ],
+   "countries": [
+      "HK"
+   ],
+   "year": 1994,
+   "runtime": 103,
+   "cast": [
+      "Takeshi Kaneshiro",
+      "Brigitte Lin",
+      "Tony Leung Chiu-wai",
+      "Faye Wong",
+      "Valerie Chow",
+      "Piggy Chan",
+      "Kwan Lee-na"
+   ],
+   "significants": [
+      "Wong Kar-wai"
+   ],
+   "title": "Chungking Express",
+   "overview": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant he frequents.",
+   "tagline": "What a difference a day makes.",
+   "video": "OPCug9jyG9k",
+   "posterPath": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYk4rxA4I_pyUkgEAAAAX:type:feature",
+            "added": 1655504428,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "cn"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt6155172",
+   "tmdbID": "426426",
+   "imdbRating": 77,
+   "imdbVoteCount": 158523,
+   "tmdbRating": 76,
+   "backdropPath": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg"
+   },
+   "originalTitle": "Roma",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US",
+      "MX"
+   ],
+   "year": 2018,
+   "runtime": 135,
+   "cast": [
+      "Yalitza Aparicio",
+      "Marina de Tavira",
+      "Diego Cortina Autrey",
+      "Carlos Peralta",
+      "Marco Graf",
+      "Daniela Demesa",
+      "Nancy García García"
+   ],
+   "significants": [
+      "Alfonso Cuarón"
+   ],
+   "title": "Roma",
+   "overview": "In 1970s Mexico City, two domestic workers help a mother of four while her husband is away for an extended period of time.",
+   "tagline": "There are periods in history that scar societies and moments in life that transform us as individuals.",
+   "video": "6BS27ngZtxg",
+   "posterPath": "/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kxZUWtJGbGqaUdXCYg2CTs8wyEc.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80240715/",
+            "added": 1657781941,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "es"
+}

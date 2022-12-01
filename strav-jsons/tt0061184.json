@@ -1,0 +1,59 @@
+{
+   "imdbID": "tt0061184",
+   "tmdbID": "396",
+   "imdbRating": 80,
+   "imdbVoteCount": 75788,
+   "tmdbRating": 78,
+   "backdropPath": "/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sZxPKiNCK8piKBtXAbm3Ucj6RQk.jpg"
+   },
+   "originalTitle": "Who's Afraid of Virginia Woolf?",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1966,
+   "runtime": 131,
+   "cast": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "George Segal",
+      "Sandy Dennis",
+      "Agnes Flanagan",
+      "Frank Flanagan"
+   ],
+   "significants": [
+      "Mike Nichols"
+   ],
+   "title": "Who's Afraid of Virginia Woolf?",
+   "overview": "A history professor and his wife entertain a young couple who are new to the university's faculty. As the drinks flow, secrets come to light, and the middle-aged couple unload onto their guests the full force of the bitterness, dysfunction, and animosity that defines their marriage.",
+   "tagline": "You are cordially invited to George and Martha's for an evening of fun and games",
+   "video": "EOR5mzZyyNw",
+   "posterPath": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXyIPmg2ZP46vcwEAAAHW:type:feature",
+            "added": 1656901048,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

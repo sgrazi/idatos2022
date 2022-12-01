@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt1877830",
+   "tmdbID": "414906",
+   "imdbRating": 79,
+   "imdbVoteCount": 619768,
+   "tmdbRating": 77,
+   "backdropPath": "/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg"
+   },
+   "originalTitle": "The Batman",
+   "genres": [
+      28,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2022,
+   "runtime": 177,
+   "cast": [
+      "Robert Pattinson",
+      "Zoë Kravitz",
+      "Paul Dano",
+      "Jeffrey Wright",
+      "John Turturro",
+      "Peter Sarsgaard",
+      "Andy Serkis"
+   ],
+   "significants": [
+      "Matt Reeves"
+   ],
+   "title": "The Batman",
+   "overview": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+   "tagline": "Unmask the truth.",
+   "video": "vc7_mH2PWHs",
+   "posterPath": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYiDbSAmIpMNvYAEAAAAI:type:feature",
+            "added": 1655508175,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

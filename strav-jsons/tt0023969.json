@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0023969",
+   "tmdbID": "3063",
+   "imdbRating": 78,
+   "imdbVoteCount": 60409,
+   "tmdbRating": 73,
+   "backdropPath": "/lQ30w6INbc94Hpc0BiizpOq9QbH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lQ30w6INbc94Hpc0BiizpOq9QbH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lQ30w6INbc94Hpc0BiizpOq9QbH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lQ30w6INbc94Hpc0BiizpOq9QbH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lQ30w6INbc94Hpc0BiizpOq9QbH.jpg"
+   },
+   "originalTitle": "Duck Soup",
+   "genres": [
+      35,
+      4
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1933,
+   "runtime": 69,
+   "cast": [
+      "Groucho Marx",
+      "Harpo Marx",
+      "Chico Marx",
+      "Zeppo Marx",
+      "Margaret Dumont",
+      "Raquel Torres",
+      "Louis Calhern"
+   ],
+   "significants": [
+      "Leo McCarey"
+   ],
+   "title": "Duck Soup",
+   "overview": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+   "tagline": "War is swell...when the Marx Brothers are in it. They'll be out of the trenches by Christmas...if the food doesn't improve!",
+   "video": "MSMTkUYyKYU",
+   "posterPath": "/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/31t63plEGKHhYuuCpC9bFWO9SBS.jpg"
+   },
+   "age": 1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

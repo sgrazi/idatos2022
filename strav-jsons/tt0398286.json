@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0398286",
+   "tmdbID": "38757",
+   "imdbRating": 77,
+   "imdbVoteCount": 452841,
+   "tmdbRating": 75,
+   "backdropPath": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg"
+   },
+   "originalTitle": "Tangled",
+   "genres": [
+      16,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 100,
+   "cast": [
+      "Mandy Moore",
+      "Zachary Levi",
+      "Donna Murphy",
+      "Ron Perlman",
+      "M.C. Gainey",
+      "Jeffrey Tambor",
+      "Brad Garrett"
+   ],
+   "significants": [
+      "Byron Howard",
+      "Nathan Greno"
+   ],
+   "title": "Tangled",
+   "overview": "When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.",
+   "tagline": "They're taking adventure to new lengths.",
+   "video": "qbuL5yQa51w",
+   "posterPath": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ym7Kst6a4uodryxqbGOxmewF235.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/3V3ALy4SHStq",
+            "added": 1652527129,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

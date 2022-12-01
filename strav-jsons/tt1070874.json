@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1070874",
+   "tmdbID": "556984",
+   "imdbRating": 77,
+   "imdbVoteCount": 177137,
+   "tmdbRating": 77,
+   "backdropPath": "/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg",
+      "original": "https://image.tmdb.org/t/p/original/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg"
+   },
+   "originalTitle": "The Trial of the Chicago 7",
+   "genres": [
+      18,
+      36,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2020,
+   "runtime": 130,
+   "cast": [
+      "Eddie Redmayne",
+      "Sacha Baron Cohen",
+      "Joseph Gordon-Levitt",
+      "Michael Keaton",
+      "Frank Langella",
+      "John Carroll Lynch",
+      "Mark Rylance"
+   ],
+   "significants": [
+      "Aaron Sorkin"
+   ],
+   "title": "The Trial of the Chicago 7",
+   "overview": "What was supposed to be a peaceful protest turned into a violent clash with the police. What followed was one of the most notorious trials in history.",
+   "tagline": "In 1968, democracy refused to back down.",
+   "video": "FVb6EdKDBfU",
+   "posterPath": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81043755/",
+            "added": 1602839214,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0338013",
+   "tmdbID": "38",
+   "imdbRating": 83,
+   "imdbVoteCount": 1003096,
+   "tmdbRating": 81,
+   "backdropPath": "/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/744ybMaYRry1IQKoDakMc4GEU4L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/744ybMaYRry1IQKoDakMc4GEU4L.jpg"
+   },
+   "originalTitle": "Eternal Sunshine of the Spotless Mind",
+   "genres": [
+      18,
+      10749,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 108,
+   "cast": [
+      "Jim Carrey",
+      "Kate Winslet",
+      "Kirsten Dunst",
+      "Mark Ruffalo",
+      "Elijah Wood",
+      "Tom Wilkinson",
+      "Jane Adams"
+   ],
+   "significants": [
+      "Michel Gondry"
+   ],
+   "title": "Eternal Sunshine of the Spotless Mind",
+   "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+   "tagline": "You can erase someone from your mind. Getting them out of your heart is another story.",
+   "video": "rb9a00bXf-U",
+   "posterPath": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

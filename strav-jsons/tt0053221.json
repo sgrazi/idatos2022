@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0053221",
+   "tmdbID": "301",
+   "imdbRating": 80,
+   "imdbVoteCount": 63078,
+   "tmdbRating": 78,
+   "backdropPath": "/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg"
+   },
+   "originalTitle": "Rio Bravo",
+   "genres": [
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1959,
+   "runtime": 141,
+   "cast": [
+      "John Wayne",
+      "Dean Martin",
+      "Ricky Nelson",
+      "Angie Dickinson",
+      "Walter Brennan",
+      "Ward Bond",
+      "John Russell"
+   ],
+   "significants": [
+      "Howard Hawks"
+   ],
+   "title": "Rio Bravo",
+   "overview": "The sheriff of a small town in southwest Texas must keep custody of a murderer whose brother, a powerful rancher, is trying to help him escape. After a friend is killed trying to muster support for him, he and his deputies - a disgraced drunk and a cantankerous old cripple - must find a way to hold out against the rancher's hired guns until the marshal arrives. In the meantime, matters are complicated by the presence of a young gunslinger - and a mysterious beauty who just came in on the last stagecoach.",
+   "tagline": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!",
+   "video": "WPO12ZzGS84",
+   "posterPath": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

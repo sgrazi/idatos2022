@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0087332",
+   "tmdbID": "620",
+   "imdbRating": 78,
+   "imdbVoteCount": 415442,
+   "tmdbRating": 74,
+   "backdropPath": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg"
+   },
+   "originalTitle": "Ghostbusters",
+   "genres": [
+      28,
+      35,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1984,
+   "runtime": 107,
+   "cast": [
+      "Bill Murray",
+      "Dan Aykroyd",
+      "Sigourney Weaver",
+      "Harold Ramis",
+      "Rick Moranis",
+      "Annie Potts",
+      "William Atherton"
+   ],
+   "significants": [
+      "Ivan Reitman"
+   ],
+   "title": "Ghostbusters",
+   "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+   "tagline": "They ain't afraid of no ghost.",
+   "video": "wQAljlSmjC8",
+   "posterPath": "/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/di9t2YVpWDKuUtYkrm10yVld50x.jpg",
+      "original": "https://image.tmdb.org/t/p/original/di9t2YVpWDKuUtYkrm10yVld50x.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

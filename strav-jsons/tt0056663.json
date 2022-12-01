@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0056663",
+   "tmdbID": "1626",
+   "imdbRating": 79,
+   "imdbVoteCount": 32396,
+   "tmdbRating": 78,
+   "backdropPath": "/qqkQ4tA3n7zWNnKx8CUczdVNTTc.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qqkQ4tA3n7zWNnKx8CUczdVNTTc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qqkQ4tA3n7zWNnKx8CUczdVNTTc.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qqkQ4tA3n7zWNnKx8CUczdVNTTc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qqkQ4tA3n7zWNnKx8CUczdVNTTc.jpg"
+   },
+   "originalTitle": "Vivre sa vie: film en douze tableaux",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1962,
+   "runtime": 84,
+   "cast": [
+      "Anna Karina",
+      "Sady Rebbot",
+      "André S. Labarthe",
+      "Guylaine Schlumberger",
+      "Gérard Hoffman",
+      "Monique Messine",
+      "Paul Pavel"
+   ],
+   "significants": [
+      "Jean-Luc Godard"
+   ],
+   "title": "Vivre Sa Vie",
+   "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.",
+   "tagline": "The many faces of a woman trying to find herself.",
+   "video": "ZAZGR5O33jw",
+   "posterPath": "/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2468rDPumqkzV6iV5TsT4qlA1lB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2468rDPumqkzV6iV5TsT4qlA1lB.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoKg8wyp4_wwEAAEou:type:feature",
+            "added": 1655501955,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

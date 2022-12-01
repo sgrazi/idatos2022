@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0066999",
+   "tmdbID": "984",
+   "imdbRating": 77,
+   "imdbVoteCount": 157509,
+   "tmdbRating": 74,
+   "backdropPath": "/ezrb56YdkoG59fZj50IxE9OnADx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ezrb56YdkoG59fZj50IxE9OnADx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ezrb56YdkoG59fZj50IxE9OnADx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ezrb56YdkoG59fZj50IxE9OnADx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ezrb56YdkoG59fZj50IxE9OnADx.jpg"
+   },
+   "originalTitle": "Dirty Harry",
+   "genres": [
+      28,
+      80,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1971,
+   "runtime": 102,
+   "cast": [
+      "Clint Eastwood",
+      "Harry Guardino",
+      "Reni Santoni",
+      "John Vernon",
+      "Andrew Robinson",
+      "John Larch",
+      "John Mitchum"
+   ],
+   "significants": [
+      "Don Siegel"
+   ],
+   "title": "Dirty Harry",
+   "overview": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath. Harry eventually collars Scorpio in the process of rescuing a kidnap victim, only to see him walk on technicalities. Now, the maverick detective is determined to nail the maniac himself.",
+   "tagline": "Detective Harry Callahan. He doesn't break murder cases. He smashes them.",
+   "video": "5DInP2bm2eI",
+   "posterPath": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "original": "https://image.tmdb.org/t/p/original/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXelZwgTDV7PDfgEAAA8A:type:feature",
+            "added": 1655502735,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

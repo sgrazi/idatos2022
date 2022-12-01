@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0069293",
+   "tmdbID": "593",
+   "imdbRating": 80,
+   "imdbVoteCount": 91714,
+   "tmdbRating": 78,
+   "backdropPath": "/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg"
+   },
+   "originalTitle": "Солярис",
+   "genres": [
+      18,
+      9648,
+      878
+   ],
+   "countries": [
+      "SU"
+   ],
+   "year": 1972,
+   "runtime": 167,
+   "cast": [
+      "Donatas Banionis",
+      "Natalya Bondarchuk",
+      "Jüri Järvet",
+      "Anatoliy Solonitsyn",
+      "Nikolay Grinko",
+      "Vladislav Dvorzhetsky",
+      "Georgiy Teykh"
+   ],
+   "significants": [
+      "Andrei Tarkovsky"
+   ],
+   "title": "Solaris",
+   "overview": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+   "tagline": "",
+   "video": "9LMMn8czq2w",
+   "posterPath": "/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nVS59KVITySXPFV7ABRJrEYVJ3d.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoKwOZrMNVoAEAABtY:type:feature",
+            "added": 1655510425,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "ru"
+}

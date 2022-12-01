@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0045793",
+   "tmdbID": "11426",
+   "imdbRating": 76,
+   "imdbVoteCount": 47452,
+   "tmdbRating": 73,
+   "backdropPath": "/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tbEFMCBOZphuXXKnaCe8OjcHizt.jpg"
+   },
+   "originalTitle": "From Here to Eternity",
+   "genres": [
+      18,
+      10749,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1953,
+   "runtime": 118,
+   "cast": [
+      "Burt Lancaster",
+      "Montgomery Clift",
+      "Deborah Kerr",
+      "Donna Reed",
+      "Frank Sinatra",
+      "Philip Ober",
+      "Mickey Shaughnessy"
+   ],
+   "significants": [
+      "Fred Zinnemann"
+   ],
+   "title": "From Here to Eternity",
+   "overview": "In 1941 Hawaii, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second in command are falling in love.",
+   "tagline": "Pouring out of impassioned pages...brawling their way to greatness on the screen!",
+   "video": "gFqfmJXrgUc",
+   "posterPath": "/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mJFzGDs8OMyXotbunp800D9SID0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mJFzGDs8OMyXotbunp800D9SID0.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

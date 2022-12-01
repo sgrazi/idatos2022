@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt7653254",
+   "tmdbID": "492188",
+   "imdbRating": 79,
+   "imdbVoteCount": 307622,
+   "tmdbRating": 77,
+   "backdropPath": "/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg"
+   },
+   "originalTitle": "Marriage Story",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 2019,
+   "runtime": 137,
+   "cast": [
+      "Adam Driver",
+      "Scarlett Johansson",
+      "Laura Dern",
+      "Alan Alda",
+      "Ray Liotta",
+      "Julie Hagerty",
+      "Merritt Wever"
+   ],
+   "significants": [
+      "Noah Baumbach"
+   ],
+   "title": "Marriage Story",
+   "overview": "A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.",
+   "tagline": "Where there's a love, there's a way.",
+   "video": "BHi-a1n8t7M",
+   "posterPath": "/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pZekG6xabTmZxjmYw10wN84Hp8d.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pZekG6xabTmZxjmYw10wN84Hp8d.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80223779/",
+            "added": 1600283847,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

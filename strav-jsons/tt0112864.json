@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0112864",
+   "tmdbID": "1572",
+   "imdbRating": 76,
+   "imdbVoteCount": 387867,
+   "tmdbRating": 72,
+   "backdropPath": "/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1RVqRlPCnTTGmDOiiL7dP7z9AMJ.jpg"
+   },
+   "originalTitle": "Die Hard: With a Vengeance",
+   "genres": [
+      28,
+      12,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 128,
+   "cast": [
+      "Bruce Willis",
+      "Jeremy Irons",
+      "Samuel L. Jackson",
+      "Graham Greene",
+      "Colleen Camp",
+      "Larry Bryggman",
+      "Anthony Peck"
+   ],
+   "significants": [
+      "John McTiernan"
+   ],
+   "title": "Die Hard: With a Vengeance",
+   "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+   "tagline": "Think fast. Look alive. Die hard.",
+   "video": "gQ0uSh2Hgcs",
+   "posterPath": "/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s6pJQwlazImrPcbdKoPYbnzuymb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s6pJQwlazImrPcbdKoPYbnzuymb.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/47504",
+            "added": 1656693787,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

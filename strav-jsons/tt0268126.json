@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0268126",
+   "tmdbID": "2757",
+   "imdbRating": 77,
+   "imdbVoteCount": 193442,
+   "tmdbRating": 73,
+   "backdropPath": "/frjuhOoXR1QFcNjeNGITD7FIOOt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/frjuhOoXR1QFcNjeNGITD7FIOOt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/frjuhOoXR1QFcNjeNGITD7FIOOt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/frjuhOoXR1QFcNjeNGITD7FIOOt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/frjuhOoXR1QFcNjeNGITD7FIOOt.jpg"
+   },
+   "originalTitle": "Adaptation.",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2002,
+   "runtime": 115,
+   "cast": [
+      "Nicolas Cage",
+      "Meryl Streep",
+      "Chris Cooper",
+      "Tilda Swinton",
+      "Jay Tavare",
+      "Litefoot",
+      "Roger Willie"
+   ],
+   "significants": [
+      "Spike Jonze"
+   ],
+   "title": "Adaptation.",
+   "overview": "Nicolas Cage is Charlie Kaufman, a confused L.A. screenwriter overwhelmed by feelings of inadequacy, sexual frustration, self-loathing, and by the screenwriting ambitions of his freeloading twin brother Donald. While struggling to adapt \"The Orchid Thief,\" by Susan Orlean, Kaufman's life spins from pathetic to bizarre. The lives of Kaufman, Orlean's book, become strangely intertwined as each one's search for passion collides with the others'.",
+   "tagline": "From the creator of Being John Malkovich, comes the story about the creator of Being John Malkovich.",
+   "video": "BMwOEkTmTyQ",
+   "posterPath": "/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qP4LbKYVRWw5j1n55sSjvvgmedM.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYUAyrAbxQrbCaAEAAAAP:type:feature",
+            "added": 1655502906,
+            "leaving": 16645967400
+         }
+      },
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/0508c6e1-5284-47ec-a193-2dfcb6212c41",
+            "added": 1668152731,
+            "leaving": 1675238340
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

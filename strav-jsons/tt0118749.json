@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0118749",
+   "tmdbID": "4995",
+   "imdbRating": 79,
+   "imdbVoteCount": 266383,
+   "tmdbRating": 76,
+   "backdropPath": "/okoYC85FBYtaCtK85cZqThGWcqp.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/okoYC85FBYtaCtK85cZqThGWcqp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/okoYC85FBYtaCtK85cZqThGWcqp.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/okoYC85FBYtaCtK85cZqThGWcqp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/okoYC85FBYtaCtK85cZqThGWcqp.jpg"
+   },
+   "originalTitle": "Boogie Nights",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1997,
+   "runtime": 156,
+   "cast": [
+      "Mark Wahlberg",
+      "Julianne Moore",
+      "Burt Reynolds",
+      "Don Cheadle",
+      "John C. Reilly",
+      "Heather Graham",
+      "William H. Macy"
+   ],
+   "significants": [
+      "Paul Thomas Anderson"
+   ],
+   "title": "Boogie Nights",
+   "overview": "Set in 1977, back when sex was safe, pleasure was a business and business was booming, idealistic porn producer Jack Horner aspires to elevate his craft to an art form. Horner discovers Eddie Adams, a hot young talent working as a busboy in a nightclub, and welcomes him into the extended family of movie-makers, misfits and hangers-on that are always around. Adams' rise from nobody to a celebrity adult entertainer is meteoric, and soon the whole world seems to know his porn alter ego, \"Dirk Diggler\". Now, when disco and drugs are in vogue, fashion is in flux and the party never seems to stop, Adams' dreams of turning sex into stardom are about to collide with cold, hard reality.",
+   "tagline": "The life of a dreamer, the days of a business, and the nights in between.",
+   "video": "YN7pcEa83dU",
+   "posterPath": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

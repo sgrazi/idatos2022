@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0024184",
+   "tmdbID": "10787",
+   "imdbRating": 76,
+   "imdbVoteCount": 36111,
+   "tmdbRating": 75,
+   "backdropPath": "/mXGQD3e7zcOGpTAkw3as8rG7aEp.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mXGQD3e7zcOGpTAkw3as8rG7aEp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mXGQD3e7zcOGpTAkw3as8rG7aEp.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mXGQD3e7zcOGpTAkw3as8rG7aEp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mXGQD3e7zcOGpTAkw3as8rG7aEp.jpg"
+   },
+   "originalTitle": "The Invisible Man",
+   "genres": [
+      27,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1933,
+   "runtime": 71,
+   "cast": [
+      "Claude Rains",
+      "Gloria Stuart",
+      "William Harrigan",
+      "Henry Travers",
+      "Una O'Connor",
+      "Forrester Harvey",
+      "Holmes Herbert"
+   ],
+   "significants": [
+      "James Whale"
+   ],
+   "title": "The Invisible Man",
+   "overview": "Working in Dr. Cranley’s laboratory, scientist Jack Griffin was always given the latitude to conduct some of his own experiments. His sudden departure, however, has Cranley’s daughter Flora worried about him. Griffin has taken a room at the nearby Lion’s Head Inn, hoping to reverse an experiment he conducted on himself that made him invisible. But the experimental drug has also warped his mind, making him aggressive and dangerous. He’s prepared to do whatever it takes to restore his appearance.",
+   "tagline": "CARL LAEMMLE presents H. G. WELLS’s FANTASTIC SENSATION",
+   "video": "EKB1NLabjuM",
+   "posterPath": "/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c07tyRaNZ6SoJHaOzf5obzEtNWD.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

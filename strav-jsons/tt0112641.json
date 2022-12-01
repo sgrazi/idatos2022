@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0112641",
+   "tmdbID": "524",
+   "imdbRating": 82,
+   "imdbVoteCount": 518729,
+   "tmdbRating": 80,
+   "backdropPath": "/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2W9HjAYWNug5RwyrEtrneXeL94Z.jpg"
+   },
+   "originalTitle": "Casino",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "FR",
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 179,
+   "cast": [
+      "Robert De Niro",
+      "Sharon Stone",
+      "Joe Pesci",
+      "Don Rickles",
+      "James Woods",
+      "Alan King",
+      "Kevin Pollak"
+   ],
+   "significants": [
+      "Martin Scorsese"
+   ],
+   "title": "Casino",
+   "overview": "In early-1970s Las Vegas, Sam \"Ace\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.",
+   "tagline": "No one stays at the top forever.",
+   "video": "EJXDMwGWhoA",
+   "posterPath": "/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg",
+      "original": "https://image.tmdb.org/t/p/original/v2lGZFMS9fiUUyJ2xvM7zZH7Eps.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/1bad4ca7-b603-46f4-9ff6-b4530f790187",
+            "added": 1664930756,
+            "leaving": 1672559940
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/drama/casino/9d803ee2-7912-3f5e-91a7-255ec4b095cb",
+            "added": 1667300727,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

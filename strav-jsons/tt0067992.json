@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0067992",
+   "tmdbID": "252",
+   "imdbRating": 78,
+   "imdbVoteCount": 202292,
+   "tmdbRating": 74,
+   "backdropPath": "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg"
+   },
+   "originalTitle": "Willy Wonka & the Chocolate Factory",
+   "genres": [
+      10751,
+      14,
+      4
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1971,
+   "runtime": 100,
+   "cast": [
+      "Gene Wilder",
+      "Peter Ostrum",
+      "Jack Albertson",
+      "Roy Kinnear",
+      "Julie Dawn Cole",
+      "Leonard Stone",
+      "Denise Nickerson"
+   ],
+   "significants": [
+      "Mel Stuart"
+   ],
+   "title": "Willy Wonka & the Chocolate Factory",
+   "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+   "tagline": "It's Scrumdidilyumptious!",
+   "video": "2WKPKnggJqk",
+   "posterPath": "/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xBcfztSiG2dDrtHB4GalRmpKYjJ.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYBGuRQslYUaqkwEAAACf:type:feature",
+            "added": 1655499947,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

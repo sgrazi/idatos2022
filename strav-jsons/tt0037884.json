@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0037884",
+   "tmdbID": "28580",
+   "imdbRating": 79,
+   "imdbVoteCount": 37561,
+   "tmdbRating": 76,
+   "backdropPath": "/iZpAv4FjoU5PSr0P1Inn8fDAuKJ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iZpAv4FjoU5PSr0P1Inn8fDAuKJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iZpAv4FjoU5PSr0P1Inn8fDAuKJ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iZpAv4FjoU5PSr0P1Inn8fDAuKJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iZpAv4FjoU5PSr0P1Inn8fDAuKJ.jpg"
+   },
+   "originalTitle": "The Lost Weekend",
+   "genres": [
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1945,
+   "runtime": 101,
+   "cast": [
+      "Ray Milland",
+      "Jane Wyman",
+      "Phillip Terry",
+      "Howard Da Silva",
+      "Doris Dowling",
+      "Frank Faylen",
+      "Mary Young"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "The Lost Weekend",
+   "overview": "Don Birnam, a long-time alcoholic, has been sober for ten days and appears to be over the worst... but his craving has just become more insidious. Evading a country weekend planned by his brother and girlfriend, he begins a four-day bender that just might be his last - one way or another.",
+   "tagline": "The screen dares to open the strange and savage pages of a shocking bestseller!",
+   "video": "eVb2LVcDfTQ",
+   "posterPath": "/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5fZWKQREZ3QVNjBKMLa7NmqufnE.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

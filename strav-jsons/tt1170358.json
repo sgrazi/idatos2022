@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt1170358",
+   "tmdbID": "57158",
+   "imdbRating": 78,
+   "imdbVoteCount": 662893,
+   "tmdbRating": 75,
+   "backdropPath": "/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg"
+   },
+   "originalTitle": "The Hobbit: The Desolation of Smaug",
+   "genres": [
+      12,
+      14
+   ],
+   "countries": [
+      "NZ",
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 161,
+   "cast": [
+      "Ian McKellen",
+      "Martin Freeman",
+      "Richard Armitage",
+      "Benedict Cumberbatch",
+      "Orlando Bloom",
+      "Evangeline Lilly",
+      "Lee Pace"
+   ],
+   "significants": [
+      "Peter Jackson"
+   ],
+   "title": "The Hobbit: The Desolation of Smaug",
+   "overview": "The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.",
+   "tagline": "Beyond darkness... beyond desolation... lies the greatest danger of all.",
+   "video": "gAo95e7_XKA",
+   "posterPath": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHpPQvjhomBSgEAAAAZ:type:feature",
+            "added": 1661526204,
+            "leaving": 0
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0GYYO7YL343RRA6LOBUN1WN5VE/",
+            "added": 1659612449,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

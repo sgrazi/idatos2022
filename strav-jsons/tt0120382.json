@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0120382",
+   "tmdbID": "37165",
+   "imdbRating": 82,
+   "imdbVoteCount": 1073110,
+   "tmdbRating": 81,
+   "backdropPath": "/jKpQiKPYNGBxjsrxZpMGTwggKw8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jKpQiKPYNGBxjsrxZpMGTwggKw8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jKpQiKPYNGBxjsrxZpMGTwggKw8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jKpQiKPYNGBxjsrxZpMGTwggKw8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jKpQiKPYNGBxjsrxZpMGTwggKw8.jpg"
+   },
+   "originalTitle": "The Truman Show",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1998,
+   "runtime": 103,
+   "cast": [
+      "Jim Carrey",
+      "Laura Linney",
+      "Noah Emmerich",
+      "Natascha McElhone",
+      "Ed Harris",
+      "Holland Taylor",
+      "Paul Giamatti"
+   ],
+   "significants": [
+      "Peter Weir"
+   ],
+   "title": "The Truman Show",
+   "overview": "Truman Burbank is the star of The Truman Show, a 24-hour-a-day reality TV show that broadcasts every aspect of his life without his knowledge. His entire life has been an unending soap opera for consumption by the rest of the world. And everyone he knows, including his wife and his best friend is really an actor, paid to be part of his life.",
+   "tagline": "On the air. Unaware.",
+   "video": "LfXTASYB14M",
+   "posterPath": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYWxDuQ0M08PDwwEAAADr:type:feature",
+            "added": 1655509561,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

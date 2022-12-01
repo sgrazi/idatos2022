@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0167404",
+   "tmdbID": "745",
+   "imdbRating": 82,
+   "imdbVoteCount": 989106,
+   "tmdbRating": 79,
+   "backdropPath": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg"
+   },
+   "originalTitle": "The Sixth Sense",
+   "genres": [
+      18,
+      9648,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1999,
+   "runtime": 107,
+   "cast": [
+      "Bruce Willis",
+      "Haley Joel Osment",
+      "Toni Collette",
+      "Olivia Williams",
+      "Donnie Wahlberg",
+      "Mischa Barton",
+      "Trevor Morgan"
+   ],
+   "significants": [
+      "M. Night Shyamalan"
+   ],
+   "title": "The Sixth Sense",
+   "overview": "Following an unexpected tragedy, a child psychologist named Malcolm Crowe meets an nine year old boy named Cole Sear, who is hiding a dark secret.",
+   "tagline": "Not every gift is a blessing.",
+   "video": "VG9AGf66tXM",
+   "posterPath": "/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4AfSDjjCy6T5LA1TMz0Lh2HlpRh.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/219a5dfc-1b65-4644-9415-044c7d3a425d",
+            "added": 1664901074,
+            "leaving": 1672559940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

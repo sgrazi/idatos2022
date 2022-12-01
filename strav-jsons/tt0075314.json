@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0075314",
+   "tmdbID": "103",
+   "imdbRating": 82,
+   "imdbVoteCount": 826718,
+   "tmdbRating": 81,
+   "backdropPath": "/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg"
+   },
+   "originalTitle": "Taxi Driver",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1976,
+   "runtime": 114,
+   "cast": [
+      "Robert De Niro",
+      "Jodie Foster",
+      "Albert Brooks",
+      "Harvey Keitel",
+      "Leonard Harris",
+      "Peter Boyle",
+      "Cybill Shepherd"
+   ],
+   "significants": [
+      "Martin Scorsese"
+   ],
+   "title": "Taxi Driver",
+   "overview": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
+   "tagline": "On every street in every city, there's a nobody who dreams of being a somebody.",
+   "video": "BoPuhMW6Rz0",
+   "posterPath": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3505664/taxi-driver",
+            "added": 1664896627,
+            "leaving": 1672531140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

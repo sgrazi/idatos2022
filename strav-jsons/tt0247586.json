@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0247586",
+   "tmdbID": "18079",
+   "imdbRating": 79,
+   "imdbVoteCount": 53400,
+   "tmdbRating": 77,
+   "backdropPath": "/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cFw9RiGHaZhGYOPr6pmTQ54UOjM.jpg"
+   },
+   "originalTitle": "Nueve reinas",
+   "genres": [
+      80,
+      53
+   ],
+   "countries": [
+      "AR"
+   ],
+   "year": 2000,
+   "runtime": 114,
+   "cast": [
+      "Ricardo Darín",
+      "Gastón Pauls",
+      "Leticia Brédice",
+      "María Mercedes Villagra",
+      "Gabo Correa",
+      "Pochi Ducasse",
+      "Jorge Noya"
+   ],
+   "significants": [
+      "Fabián Bielinsky"
+   ],
+   "title": "Nine Queens",
+   "overview": "Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps (the \"nine queens\").",
+   "tagline": "Sticky & Square",
+   "video": "M9Les56e22c",
+   "posterPath": "/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tabMRXUTTBmprGax6ON2r9yBN0D.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "es"
+}

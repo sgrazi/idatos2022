@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0071411",
+   "tmdbID": "9764",
+   "imdbRating": 82,
+   "imdbVoteCount": 30009,
+   "tmdbRating": 80,
+   "backdropPath": "/gLA1cUHcGGDO8pXYxhSljLId5wq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gLA1cUHcGGDO8pXYxhSljLId5wq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gLA1cUHcGGDO8pXYxhSljLId5wq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gLA1cUHcGGDO8pXYxhSljLId5wq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gLA1cUHcGGDO8pXYxhSljLId5wq.jpg"
+   },
+   "originalTitle": "Дерсу Узала",
+   "genres": [
+      12,
+      1,
+      18
+   ],
+   "countries": [
+      "JP",
+      "SU"
+   ],
+   "year": 1975,
+   "runtime": 141,
+   "cast": [
+      "Yuriy Solomin",
+      "Maksim Munzuk",
+      "Mikhail Bychkov",
+      "B. Khorulev",
+      "Vladimir Kremena",
+      "Aleksandr Pyatkov",
+      "Svetlana Danilchenko"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Dersu Uzala",
+   "overview": "A military explorer meets and befriends a Goldi man in Russia’s unmapped forests. A deep and abiding bond evolves between the two men, one civilized in the usual sense, the other at home in the glacial Siberian woods.",
+   "tagline": "Kurosawa's Academy Award Winning Masterpiece",
+   "video": "oXGB-dKchz8",
+   "posterPath": "/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/i6Z4A77eO22hD0rOUu7NlCMdZBr.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

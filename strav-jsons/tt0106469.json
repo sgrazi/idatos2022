@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0106469",
+   "tmdbID": "9702",
+   "imdbRating": 79,
+   "imdbVoteCount": 31681,
+   "tmdbRating": 80,
+   "backdropPath": "/ksdencRboJK5L17GFfRJ0UnLVVh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ksdencRboJK5L17GFfRJ0UnLVVh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ksdencRboJK5L17GFfRJ0UnLVVh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ksdencRboJK5L17GFfRJ0UnLVVh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ksdencRboJK5L17GFfRJ0UnLVVh.jpg"
+   },
+   "originalTitle": "Bound by Honor",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 190,
+   "cast": [
+      "Damian Chapa",
+      "Jesse Borrego",
+      "Benjamin Bratt",
+      "Enrique Castillo",
+      "Victor Rivers",
+      "Delroy Lindo",
+      "Tom Towles"
+   ],
+   "significants": [
+      "Taylor Hackford"
+   ],
+   "title": "Bound by Honor",
+   "overview": "Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on half-brothers Paco and Cruz, and their bi-racial cousin Miklo. It opens in 1972, as the three are members of an East L.A. gang known as the \"Vatos Locos\", and the story focuses on how a violent crime and the influence of narcotics alter their lives. Miklo is incarcerated and sent to San Quentin, where he makes a \"home\" for himself. Cruz becomes an exceptional artist, but a heroin addiction overcomes him with tragic results. Paco becomes a cop and an enemy to his \"carnal\", Miklo.",
+   "tagline": "An epic story of three brothers. Bound by blood. Divided by fate. Driven by destiny.",
+   "video": "NMj89zgI8Yc",
+   "posterPath": "/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

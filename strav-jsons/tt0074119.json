@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0074119",
+   "tmdbID": "891",
+   "imdbRating": 79,
+   "imdbVoteCount": 116366,
+   "tmdbRating": 76,
+   "backdropPath": "/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg"
+   },
+   "originalTitle": "All the President's Men",
+   "genres": [
+      18,
+      36,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1976,
+   "runtime": 138,
+   "cast": [
+      "Dustin Hoffman",
+      "Robert Redford",
+      "Martin Balsam",
+      "Jack Warden",
+      "Hal Holbrook",
+      "Meredith Baxter",
+      "Jason Robards"
+   ],
+   "significants": [
+      "Alan J. Pakula"
+   ],
+   "title": "All the President's Men",
+   "overview": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+   "tagline": "The most devastating detective story of this century.",
+   "video": "vLt6djxhNe8",
+   "posterPath": "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GV-BK5QGSa8LDwwEAAACC:type:feature",
+            "added": 1655514768,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

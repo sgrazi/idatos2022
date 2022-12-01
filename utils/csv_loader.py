@@ -115,6 +115,21 @@ def load_hbo_max_csv(path):
     df = df.query('type == "Movie"')
     load_movies(df, hbo_max)
 
+# def load_utelly_movies(df): # WIP
+#     db = SingletonDatabase.get_instance()
+#     movie_df = df.drop(["streaming_service"], axis=1)
+#     movie_df.drop_duplicates(inplace=True)
+#     for index, row in movie_df.iterrows():
+#         movie = Movie()
+#         movie.id = row['id']
+#         movie.title = row['name']
+#         try:
+#             db.session.add(movie)
+#             db.session.commit()
+#         except Exception as e:
+#             print(e)
+#             db.session.rollback()
+#             print(f"Error al crear el usuario {row['id']}")
 
 if __name__ == "__main__":
     time = datetime.now()

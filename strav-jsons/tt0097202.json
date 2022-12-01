@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0097202",
+   "tmdbID": "10835",
+   "imdbRating": 78,
+   "imdbVoteCount": 48776,
+   "tmdbRating": 76,
+   "backdropPath": "/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg"
+   },
+   "originalTitle": "喋血雙雄",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "HK"
+   ],
+   "year": 1989,
+   "runtime": 110,
+   "cast": [
+      "Chow Yun-Fat",
+      "Danny Lee Sau-Yin",
+      "Sally Yeh",
+      "Paul Chu Kong",
+      "Kenneth Tsang",
+      "Shing Fui-On",
+      "Tommy Wong"
+   ],
+   "significants": [
+      "John Woo"
+   ],
+   "title": "The Killer",
+   "overview": "Mob assassin Jeffrey is no ordinary hired gun; the best in his business, he views his chosen profession as a calling rather than simply a job. So, when beautiful nightclub chanteuse Jennie is blinded in the crossfire of his most recent hit, Jeffrey chooses to retire after one last job to pay for his unintended victim's sight-restoring operation. But when Jeffrey is double-crossed, he reluctantly joins forces with a rogue policeman to make things right.",
+   "tagline": "One Vicious Hitman. One Fierce Cop. Ten Thousand Bullets.",
+   "video": "Cdxehm0NxkU",
+   "posterPath": "/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "cn"
+}

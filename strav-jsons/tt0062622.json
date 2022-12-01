@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0062622",
+   "tmdbID": "62",
+   "imdbRating": 83,
+   "imdbVoteCount": 666627,
+   "tmdbRating": 80,
+   "backdropPath": "/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kCEXA22ASuq7Y29jnngyaisyA0X.jpg"
+   },
+   "originalTitle": "2001: A Space Odyssey",
+   "genres": [
+      12,
+      878
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1968,
+   "runtime": 149,
+   "cast": [
+      "Keir Dullea",
+      "Gary Lockwood",
+      "William Sylvester",
+      "Douglas Rain",
+      "Daniel Richter",
+      "Leonard Rossiter",
+      "Margaret Tyzack"
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "2001: A Space Odyssey",
+   "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+   "tagline": "The Ultimate Trip.",
+   "video": "oR_e9y-bka0",
+   "posterPath": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXjS6HAogSI-njwEAAASb:type:feature",
+            "added": 1655499186,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

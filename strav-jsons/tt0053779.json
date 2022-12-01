@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0053779",
+   "tmdbID": "439",
+   "imdbRating": 80,
+   "imdbVoteCount": 73692,
+   "tmdbRating": 81,
+   "backdropPath": "/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg"
+   },
+   "originalTitle": "La dolce vita",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "FR",
+      "IT"
+   ],
+   "year": 1960,
+   "runtime": 176,
+   "cast": [
+      "Marcello Mastroianni",
+      "Anita Ekberg",
+      "Anouk Aimée",
+      "Yvonne Furneaux",
+      "Magali Noël",
+      "Alain Cuny",
+      "Annibale Ninchi"
+   ],
+   "significants": [
+      "Federico Fellini"
+   ],
+   "title": "La Dolce Vita",
+   "overview": "Journalist and man-about-town Marcello struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+   "tagline": "The world’s most talked about movie today!",
+   "video": "1BeWEPXWDX4",
+   "posterPath": "/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xgqVtaGbITWeIYR3mkYo39bRd36.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xgqVtaGbITWeIYR3mkYo39bRd36.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

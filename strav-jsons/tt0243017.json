@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0243017",
+   "tmdbID": "9081",
+   "imdbRating": 77,
+   "imdbVoteCount": 64585,
+   "tmdbRating": 75,
+   "backdropPath": "/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/56MLZww2dMVAaTt5LDKCBu1do2X.jpg",
+      "original": "https://image.tmdb.org/t/p/original/56MLZww2dMVAaTt5LDKCBu1do2X.jpg"
+   },
+   "originalTitle": "Waking Life",
+   "genres": [
+      16,
+      18,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 99,
+   "cast": [
+      "Ethan Hawke",
+      "Julie Delpy",
+      "Wiley Wiggins",
+      "Bill Wise",
+      "Alex Jones",
+      "Steven Soderbergh",
+      "Ken Webster"
+   ],
+   "significants": [
+      "Richard Linklater"
+   ],
+   "title": "Waking Life",
+   "overview": "Waking Life is about a young man in a persistent lucid dream-like state. The film follows its protagonist as he initially observes and later participates in philosophical discussions that weave together issues like reality, free will, our relationships with others, and the meaning of life.",
+   "tagline": "Dreams. What are they? An escape from reality or reality itself?",
+   "video": "edrGozs6W_I",
+   "posterPath": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYdBnFQ7c6ryLwwEAAAKY:type:feature",
+            "added": 1662273117,
+            "leaving": 16803324000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

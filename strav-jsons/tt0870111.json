@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0870111",
+   "tmdbID": "11499",
+   "imdbRating": 77,
+   "imdbVoteCount": 108644,
+   "tmdbRating": 73,
+   "backdropPath": "/wlOJwnCoZqSPYfz3wFYhSYWFnDw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wlOJwnCoZqSPYfz3wFYhSYWFnDw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wlOJwnCoZqSPYfz3wFYhSYWFnDw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wlOJwnCoZqSPYfz3wFYhSYWFnDw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wlOJwnCoZqSPYfz3wFYhSYWFnDw.jpg"
+   },
+   "originalTitle": "Frost/Nixon",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "FR",
+      "GB",
+      "US"
+   ],
+   "year": 2008,
+   "runtime": 122,
+   "cast": [
+      "Michael Sheen",
+      "Frank Langella",
+      "Kevin Bacon",
+      "Sam Rockwell",
+      "Matthew Macfadyen",
+      "Oliver Platt",
+      "Rebecca Hall"
+   ],
+   "significants": [
+      "Ron Howard"
+   ],
+   "title": "Frost/Nixon",
+   "overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+   "tagline": "400 million people were waiting for the truth.",
+   "video": "O9S1RKNgdLw",
+   "posterPath": "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

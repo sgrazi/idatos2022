@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0032599",
+   "tmdbID": "3085",
+   "imdbRating": 78,
+   "imdbVoteCount": 59194,
+   "tmdbRating": 74,
+   "backdropPath": "/rtoov3RgTji1xtWh3rdwMr7jkq0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rtoov3RgTji1xtWh3rdwMr7jkq0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rtoov3RgTji1xtWh3rdwMr7jkq0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rtoov3RgTji1xtWh3rdwMr7jkq0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rtoov3RgTji1xtWh3rdwMr7jkq0.jpg"
+   },
+   "originalTitle": "His Girl Friday",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1940,
+   "runtime": 92,
+   "cast": [
+      "Cary Grant",
+      "Rosalind Russell",
+      "Ralph Bellamy",
+      "Gene Lockhart",
+      "Helen Mack",
+      "Porter Hall",
+      "Ernest Truex"
+   ],
+   "significants": [
+      "Howard Hawks"
+   ],
+   "title": "His Girl Friday",
+   "overview": "Hildy, the journalist former wife of newspaper editor Walter Burns, visits his office to inform him that she's engaged and will be getting remarried the next day. Walter can't let that happen and frames the fiancé, Bruce Baldwin, for one thing after another, to keep him temporarily held in prison, while trying to steer Hildy into returning to her old job as his employee.",
+   "tagline": "She learned about men from him!",
+   "video": "pFhqGWaf_24",
+   "posterPath": "/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/da95rurNghmKWmraPyqP6IsnAt1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/da95rurNghmKWmraPyqP6IsnAt1.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/X2FoMytnyMbiBq8uOgJFJKhstEWMUcmq/",
+            "added": 1662827997,
+            "leaving": 1706763600
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0R9T20PPN891W2D18WHBN7I0IL/",
+            "added": 1638686849,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

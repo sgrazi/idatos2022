@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0350258",
+   "tmdbID": "1677",
+   "imdbRating": 77,
+   "imdbVoteCount": 148710,
+   "tmdbRating": 74,
+   "backdropPath": "/yDactKFWsgN6FMWW0kYU7AXhZA9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yDactKFWsgN6FMWW0kYU7AXhZA9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yDactKFWsgN6FMWW0kYU7AXhZA9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yDactKFWsgN6FMWW0kYU7AXhZA9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yDactKFWsgN6FMWW0kYU7AXhZA9.jpg"
+   },
+   "originalTitle": "Ray",
+   "genres": [
+      1,
+      18,
+      10402
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 152,
+   "cast": [
+      "Jamie Foxx",
+      "Kerry Washington",
+      "Regina King",
+      "Harry Lennix",
+      "Clifton Powell",
+      "Bokeem Woodbine",
+      "Sharon Warren"
+   ],
+   "significants": [
+      "Taylor Hackford"
+   ],
+   "title": "Ray",
+   "overview": "Born on a sharecropping plantation in Northern Florida, Ray Charles went blind at seven. Inspired by a fiercely independent mom who insisted he make his own way, He found his calling and his gift behind a piano keyboard. Touring across the Southern musical circuit, the soulful singer gained a reputation and then exploded with worldwide fame when he pioneered coupling gospel and country together.",
+   "tagline": "The extraordinary life story of Ray Charles.",
+   "video": "jVHCQfcugdw",
+   "posterPath": "/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0052893",
+   "tmdbID": "5544",
+   "imdbRating": 79,
+   "imdbVoteCount": 32649,
+   "tmdbRating": 78,
+   "backdropPath": "/nHmxbmwGmbY6p5i5Soal4ZJNrTq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nHmxbmwGmbY6p5i5Soal4ZJNrTq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nHmxbmwGmbY6p5i5Soal4ZJNrTq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nHmxbmwGmbY6p5i5Soal4ZJNrTq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nHmxbmwGmbY6p5i5Soal4ZJNrTq.jpg"
+   },
+   "originalTitle": "Hiroshima mon amour",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "JP"
+   ],
+   "year": 1959,
+   "runtime": 92,
+   "cast": [
+      "Emmanuelle Riva",
+      "Eiji Okada",
+      "Stella Dassas",
+      "Pierre Barbaud",
+      "Bernard Fresson"
+   ],
+   "significants": [
+      "Alain Resnais"
+   ],
+   "title": "Hiroshima Mon Amour",
+   "overview": "The deep conversation between a Japanese architect and a French actress forms the basis of this celebrated French film, considered one of the vanguard productions of the French New Wave. Set in Hiroshima after the end of World War II, the couple -- lovers turned friends -- recount, over many hours, previous romances and life experiences. The two intertwine their stories about the past with pondering the devastation wrought by the atomic bomb dropped on the city.",
+   "tagline": "From the measureless depths of a woman's emotions...",
+   "video": "CLts830aLlw",
+   "posterPath": "/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r7tRzA1efEIkYNBEhWqowECOHf9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r7tRzA1efEIkYNBEhWqowECOHf9.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

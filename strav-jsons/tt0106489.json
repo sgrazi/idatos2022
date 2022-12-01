@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0106489",
+   "tmdbID": "1607",
+   "imdbRating": 78,
+   "imdbVoteCount": 142865,
+   "tmdbRating": 77,
+   "backdropPath": "/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/krYelh3x8VdSeAqOSd81NTek1aw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/krYelh3x8VdSeAqOSd81NTek1aw.jpg"
+   },
+   "originalTitle": "A Bronx Tale",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 121,
+   "cast": [
+      "Robert De Niro",
+      "Chazz Palminteri",
+      "Lillo Brancato",
+      "Francis Capra",
+      "Taral Hicks",
+      "Kathrine Narducci",
+      "Clem Caserta"
+   ],
+   "significants": [
+      "Robert De Niro"
+   ],
+   "title": "A Bronx Tale",
+   "overview": "Set in the Bronx during the tumultuous 1960s, an adolescent boy is torn between his honest, working-class father and a violent yet charismatic crime boss. Complicating matters is the youngster's growing attraction - forbidden in his neighborhood - for a beautiful black girl.",
+   "tagline": "One man lives in the neighborhood, another man owns it.",
+   "video": "q5nQyoo1LwY",
+   "posterPath": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

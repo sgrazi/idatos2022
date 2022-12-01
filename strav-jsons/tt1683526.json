@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt1683526",
+   "tmdbID": "74308",
+   "imdbRating": 77,
+   "imdbVoteCount": 86676,
+   "tmdbRating": 75,
+   "backdropPath": "/frYaBZwQlmYNrulugOmtOEh9d6H.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/frYaBZwQlmYNrulugOmtOEh9d6H.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/frYaBZwQlmYNrulugOmtOEh9d6H.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/frYaBZwQlmYNrulugOmtOEh9d6H.jpg",
+      "original": "https://image.tmdb.org/t/p/original/frYaBZwQlmYNrulugOmtOEh9d6H.jpg"
+   },
+   "originalTitle": "Detachment",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2011,
+   "runtime": 98,
+   "cast": [
+      "Adrien Brody",
+      "Sami Gayle",
+      "Christina Hendricks",
+      "Louis Zorich",
+      "Betty Kaye",
+      "James Caan",
+      "Lucy Liu"
+   ],
+   "significants": [
+      "Tony Kaye"
+   ],
+   "title": "Detachment",
+   "overview": "A chronicle of three weeks in the lives of several high school teachers, administrators and students through the eyes of substitute teacher, Henry Barthes. Henry roams from school to school, imparting modes of knowledge, but never staying long enough to form any semblance of sentient attachment.",
+   "tagline": "",
+   "video": "KXLa3swAa8Y",
+   "posterPath": "/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lw1wlekuMMKxmYg7v01vB7Snkq6.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/drama/detachment/8c56b16c-49f6-308b-ab69-63d6a3c0d685",
+            "added": 1626494446,
+            "leaving": 1893491940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

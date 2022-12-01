@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0101765",
+   "tmdbID": "1600",
+   "imdbRating": 77,
+   "imdbVoteCount": 49142,
+   "tmdbRating": 75,
+   "backdropPath": "/3ekis9Ry3lNwRzfh5rRhkLqfeVm.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3ekis9Ry3lNwRzfh5rRhkLqfeVm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3ekis9Ry3lNwRzfh5rRhkLqfeVm.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3ekis9Ry3lNwRzfh5rRhkLqfeVm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3ekis9Ry3lNwRzfh5rRhkLqfeVm.jpg"
+   },
+   "originalTitle": "La Double Vie de Véronique",
+   "genres": [
+      18,
+      14,
+      10402
+   ],
+   "countries": [
+      "FR",
+      "NO",
+      "PL"
+   ],
+   "year": 1991,
+   "runtime": 98,
+   "cast": [
+      "Irène Jacob",
+      "Halina Gryglaszewska",
+      "Philippe Volter",
+      "Guillaume de Tonquédec",
+      "Kalina Jędrusik",
+      "Aleksander Bardini",
+      "Władysław Kowalski"
+   ],
+   "significants": [
+      "Krzysztof Kieślowski"
+   ],
+   "title": "The Double Life of Véronique",
+   "overview": "Véronique is a beautiful young French woman who aspires to be a renowned singer; Weronika lives in Poland, has a similar career goal and looks identical to Véronique, though the two are not related. The film follows both women as they contend with the ups and downs of their individual lives, with Véronique embarking on an unusual romance with Alexandre Fabbri, a puppeteer who may be able to help her with her existential issues.",
+   "tagline": "Each of us is matched somewhere in the world, by our exact double - someone who shares our thoughts and dreams.",
+   "video": "iBrPfR6oMsM",
+   "posterPath": "/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

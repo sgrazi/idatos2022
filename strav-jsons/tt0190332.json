@@ -1,0 +1,72 @@
+{
+   "imdbID": "tt0190332",
+   "tmdbID": "146",
+   "imdbRating": 79,
+   "imdbVoteCount": 269883,
+   "tmdbRating": 73,
+   "backdropPath": "/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg"
+   },
+   "originalTitle": "卧虎藏龍",
+   "genres": [
+      28,
+      12,
+      18
+   ],
+   "countries": [
+      "CN",
+      "HK",
+      "TW",
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 120,
+   "cast": [
+      "Chow Yun-Fat",
+      "Michelle Yeoh",
+      "Zhang Ziyi",
+      "Chang Chen",
+      "Cheng Pei-Pei",
+      "Sihung Lung",
+      "Fazeng Li"
+   ],
+   "significants": [
+      "Ang Lee"
+   ],
+   "title": "Crouching Tiger, Hidden Dragon",
+   "overview": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+   "tagline": "A timeless story of strength, secrets and two warriors who would never surrender.",
+   "video": "nWXM6MTq2aE",
+   "posterPath": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/f1c77938-94d3-43b7-b4fd-d12a46e63855",
+            "added": 1664960374,
+            "leaving": 1672559940
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0T60AQDHMSTJXHF39UZJTEEV6Z/",
+            "added": 1657606651,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "zh"
+}

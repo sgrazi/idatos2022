@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0037382",
+   "tmdbID": "22584",
+   "imdbRating": 78,
+   "imdbVoteCount": 35163,
+   "tmdbRating": 74,
+   "backdropPath": "/7ZuOjLr5yQUG5qCXGQjyDQEqx29.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7ZuOjLr5yQUG5qCXGQjyDQEqx29.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7ZuOjLr5yQUG5qCXGQjyDQEqx29.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7ZuOjLr5yQUG5qCXGQjyDQEqx29.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7ZuOjLr5yQUG5qCXGQjyDQEqx29.jpg"
+   },
+   "originalTitle": "To Have and Have Not",
+   "genres": [
+      12,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1945,
+   "runtime": 100,
+   "cast": [
+      "Humphrey Bogart",
+      "Walter Brennan",
+      "Lauren Bacall",
+      "Dolores Moran",
+      "Hoagy Carmichael",
+      "Sheldon Leonard",
+      "Walter Szurovy"
+   ],
+   "significants": [
+      "Howard Hawks"
+   ],
+   "title": "To Have and Have Not",
+   "overview": "A Martinique charter boat skipper gets mixed up with the underground French resistance operatives during WWII.",
+   "tagline": "TALK ABOUT T.N.T! THIS is IT!",
+   "video": "0UlUzhnehvc",
+   "posterPath": "/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jLOmQ6yHWSKZDrJ2CMuSrXE3t3J.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYGQVWwZXVpsJwgEAAAEl:type:feature",
+            "added": 1662222178,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

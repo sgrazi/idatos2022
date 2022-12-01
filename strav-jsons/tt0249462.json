@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0249462",
+   "tmdbID": "71",
+   "imdbRating": 77,
+   "imdbVoteCount": 135563,
+   "tmdbRating": 75,
+   "backdropPath": "/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9B4198IzCI0POkUIVu5yQ2s7Pzr.jpg"
+   },
+   "originalTitle": "Billy Elliot",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "FR",
+      "GB"
+   ],
+   "year": 2000,
+   "runtime": 110,
+   "cast": [
+      "Jamie Bell",
+      "Gary Lewis",
+      "Julie Walters",
+      "Jean Heywood",
+      "Jamie Draven",
+      "Stuart Wells",
+      "Mike Elliot"
+   ],
+   "significants": [
+      "Stephen Daldry"
+   ],
+   "title": "Billy Elliot",
+   "overview": "County Durham England 1984 the miners strike has started and the police have started coming up from Bethnal Green starting a class war with the lower classes suffering caught in the middle of the conflict is 11-year old Billy Elliot who after leaving his boxing club for the day stubbles upon a ballet class and finds out that he's naturally talented. He practices with his teacher Mrs Wilkinson for an upcoming audition in Newcastle-upon Tyne the audition is for the royal Ballet school in London.",
+   "tagline": "Inside every one of us is a special talent waiting to come out. The trick is finding it.",
+   "video": "glKDtUXNAZw",
+   "posterPath": "/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nOr5diUZxphmAD3li9aiILyI28F.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nOr5diUZxphmAD3li9aiILyI28F.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/35332",
+            "added": 1657905849,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

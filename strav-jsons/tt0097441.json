@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0097441",
+   "tmdbID": "9665",
+   "imdbRating": 78,
+   "imdbVoteCount": 135711,
+   "tmdbRating": 74,
+   "backdropPath": "/v3GfmVe15s9DkmfzidLRroLcPs6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/v3GfmVe15s9DkmfzidLRroLcPs6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/v3GfmVe15s9DkmfzidLRroLcPs6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/v3GfmVe15s9DkmfzidLRroLcPs6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/v3GfmVe15s9DkmfzidLRroLcPs6.jpg"
+   },
+   "originalTitle": "Glory",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1989,
+   "runtime": 122,
+   "cast": [
+      "Matthew Broderick",
+      "Denzel Washington",
+      "Cary Elwes",
+      "Morgan Freeman",
+      "Jihmi Kennedy",
+      "Andre Braugher",
+      "John Finn"
+   ],
+   "significants": [
+      "Edward Zwick"
+   ],
+   "title": "Glory",
+   "overview": "Robert Gould Shaw leads the US Civil War's first all-black volunteer company, fighting prejudices of both his own Union army and the Confederates.",
+   "tagline": "Their innocence. Their heritage. Their lives.",
+   "video": "15QbITZPlo0",
+   "posterPath": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYKcPUwLprbw0wgEAAAD-:type:feature",
+            "added": 1662271103,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

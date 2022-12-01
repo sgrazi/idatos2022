@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1210166",
+   "tmdbID": "60308",
+   "imdbRating": 76,
+   "imdbVoteCount": 423244,
+   "tmdbRating": 72,
+   "backdropPath": "/molRDQpn4BgEViBDwq3poCndVvg.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/molRDQpn4BgEViBDwq3poCndVvg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/molRDQpn4BgEViBDwq3poCndVvg.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/molRDQpn4BgEViBDwq3poCndVvg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/molRDQpn4BgEViBDwq3poCndVvg.jpg"
+   },
+   "originalTitle": "Moneyball",
+   "genres": [
+      1,
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2011,
+   "runtime": 134,
+   "cast": [
+      "Brad Pitt",
+      "Jonah Hill",
+      "Philip Seymour Hoffman",
+      "Robin Wright",
+      "Chris Pratt",
+      "Stephen Bishop",
+      "Reed Diamond"
+   ],
+   "significants": [
+      "Bennett Miller"
+   ],
+   "title": "Moneyball",
+   "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+   "tagline": "What are you really worth?",
+   "video": "AiAHlZVgXjk",
+   "posterPath": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70201437/",
+            "added": 1668325864,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

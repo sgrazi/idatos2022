@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0790636",
+   "tmdbID": "152532",
+   "imdbRating": 79,
+   "imdbVoteCount": 488216,
+   "tmdbRating": 79,
+   "backdropPath": "/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jHwASc8hBtdfRGUmxS6pq5mHiyN.jpg"
+   },
+   "originalTitle": "Dallas Buyers Club",
+   "genres": [
+      1,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 117,
+   "cast": [
+      "Matthew McConaughey",
+      "Jennifer Garner",
+      "Jared Leto",
+      "Denis O'Hare",
+      "Steve Zahn",
+      "Michael O'Neill",
+      "Dallas Roberts"
+   ],
+   "significants": [
+      "Jean-Marc Vallée"
+   ],
+   "title": "Dallas Buyers Club",
+   "overview": "Loosely based on the true-life tale of Ron Woodroof, a drug-taking, women-loving, homophobic man who in 1986 was diagnosed with HIV/AIDS and given thirty days to live.",
+   "tagline": "Sometimes it takes a hustler to change the world",
+   "video": "ety5kOjlXoU",
+   "posterPath": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/4D_MjHDzAhXQigFRFTUre28BR7jILlQx/",
+            "added": 1664907406,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3513027/dallas-buyers-club",
+            "added": 1662027396,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

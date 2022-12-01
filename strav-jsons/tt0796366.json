@@ -1,0 +1,70 @@
+{
+   "imdbID": "tt0796366",
+   "tmdbID": "13475",
+   "imdbRating": 79,
+   "imdbVoteCount": 603897,
+   "tmdbRating": 74,
+   "backdropPath": "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg"
+   },
+   "originalTitle": "Star Trek",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "DE",
+      "US"
+   ],
+   "year": 2009,
+   "runtime": 127,
+   "cast": [
+      "Chris Pine",
+      "Zachary Quinto",
+      "Leonard Nimoy",
+      "Eric Bana",
+      "Bruce Greenwood",
+      "Karl Urban",
+      "Zoe Saldaña"
+   ],
+   "significants": [
+      "J.J. Abrams"
+   ],
+   "title": "Star Trek",
+   "overview": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+   "tagline": "The future begins.",
+   "video": "1OPwZYDgmaY",
+   "posterPath": "/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70101276/",
+            "added": 1668730780,
+            "leaving": 0
+         }
+      },
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/aotpJ4rkRqtrqIITSdgM5SnOOzQhg9k9/",
+            "added": 1668441598,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

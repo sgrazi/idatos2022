@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0063522",
+   "tmdbID": "805",
+   "imdbRating": 80,
+   "imdbVoteCount": 217767,
+   "tmdbRating": 78,
+   "backdropPath": "/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg"
+   },
+   "originalTitle": "Rosemary's Baby",
+   "genres": [
+      18,
+      27
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1968,
+   "runtime": 138,
+   "cast": [
+      "Mia Farrow",
+      "John Cassavetes",
+      "Ruth Gordon",
+      "Sidney Blackmer",
+      "Maurice Evans",
+      "Ralph Bellamy",
+      "Victoria Vetri"
+   ],
+   "significants": [
+      "Roman Polanski"
+   ],
+   "title": "Rosemary's Baby",
+   "overview": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+   "tagline": "It's not what you're expecting",
+   "video": "dBSbmNNm84Y",
+   "posterPath": "/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/XSXSYXTTBabJOfxhGbQ2Iddc_Z8Mj6CE/",
+            "added": 1664908145,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3477234/rosemarys-baby",
+            "added": 1662027333,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

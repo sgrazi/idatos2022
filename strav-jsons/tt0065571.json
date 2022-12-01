@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0065571",
+   "tmdbID": "8416",
+   "imdbRating": 79,
+   "imdbVoteCount": 30882,
+   "tmdbRating": 76,
+   "backdropPath": "/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg"
+   },
+   "originalTitle": "Il conformista",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "DE",
+      "FR",
+      "IT"
+   ],
+   "year": 1971,
+   "runtime": 108,
+   "cast": [
+      "Jean-Louis Trintignant",
+      "Stefania Sandrelli",
+      "Gastone Moschin",
+      "Dominique Sanda",
+      "Enzo Tarascio",
+      "Fosco Giachetti",
+      "José Quaglio"
+   ],
+   "significants": [
+      "Bernardo Bertolucci"
+   ],
+   "title": "The Conformist",
+   "overview": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+   "tagline": "A dazzling movie.",
+   "video": "w2djvGyhZ-k",
+   "posterPath": "/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4GNljod7zSzjQSlPmSThWUy25Vr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4GNljod7zSzjQSlPmSThWUy25Vr.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

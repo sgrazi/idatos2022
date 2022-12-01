@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0443706",
+   "tmdbID": "1949",
+   "imdbRating": 77,
+   "imdbVoteCount": 540464,
+   "tmdbRating": 75,
+   "backdropPath": "/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg"
+   },
+   "originalTitle": "Zodiac",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2007,
+   "runtime": 157,
+   "cast": [
+      "Robert Downey Jr.",
+      "Mark Ruffalo",
+      "Jake Gyllenhaal",
+      "June Diane Raphael",
+      "Anthony Edwards",
+      "Ciara Hughes",
+      "Chloë Sevigny"
+   ],
+   "significants": [
+      "David Fincher"
+   ],
+   "title": "Zodiac",
+   "overview": "A cartoonist teams up with an ace reporter and a law enforcement officer to track down an elusive serial killer.",
+   "tagline": "There's more than one way to lose your life to a killer.",
+   "video": "q6q_MfcDEEE",
+   "posterPath": "/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kqERBMBQ5L45VmtDiuWmZiAhgzg.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/wjQ4RChi6BHHu4MVTncppVuCwu44uq2Q/",
+            "added": 1662082935,
+            "leaving": 1669870800
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

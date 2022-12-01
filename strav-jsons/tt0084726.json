@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0084726",
+   "tmdbID": "154",
+   "imdbRating": 77,
+   "imdbVoteCount": 122297,
+   "tmdbRating": 74,
+   "backdropPath": "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg"
+   },
+   "originalTitle": "Star Trek II: The Wrath of Khan",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1982,
+   "runtime": 113,
+   "cast": [
+      "William Shatner",
+      "Leonard Nimoy",
+      "DeForest Kelley",
+      "Ricardo Montalban",
+      "Kirstie Alley",
+      "Bibi Besch",
+      "Merritt Butrick"
+   ],
+   "significants": [
+      "Nicholas Meyer"
+   ],
+   "title": "Star Trek II: The Wrath of Khan",
+   "overview": "It is the 23rd century. The Federation Starship U.S.S. Enterprise is on routine training maneuvers and Admiral James T. Kirk seems resigned to the fact that this inspection may well be the last space mission of his career. But Khan is back. Aided by his exiled band of genetic supermen, Khan - brilliant renegade of 20th century Earth - has raided Space Station Regula One, stolen a top secret device called Project Genesis, wrested control of another Federation Starship and sets out in pursuit of the Enterprise, determined to let nothing stand in the way of his mission: kill Admiral Kirk... even if it means universal Armageddon.",
+   "tagline": "At the end of the universe lies the beginning of vengeance.",
+   "video": "F3DTwSHn1jM",
+   "posterPath": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYx9NIwImBaSocwEAAACV:type:feature",
+            "added": 1667466713,
+            "leaving": 16856028000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

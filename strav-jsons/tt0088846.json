@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0088846",
+   "tmdbID": "68",
+   "imdbRating": 79,
+   "imdbVoteCount": 201440,
+   "tmdbRating": 76,
+   "backdropPath": "/ziRWOYnl6e2JUaHYmFLR1kfcECM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ziRWOYnl6e2JUaHYmFLR1kfcECM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ziRWOYnl6e2JUaHYmFLR1kfcECM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ziRWOYnl6e2JUaHYmFLR1kfcECM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ziRWOYnl6e2JUaHYmFLR1kfcECM.jpg"
+   },
+   "originalTitle": "Brazil",
+   "genres": [
+      878
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1985,
+   "runtime": 143,
+   "cast": [
+      "Jonathan Pryce",
+      "Kim Greist",
+      "Robert De Niro",
+      "Ian Holm",
+      "Bob Hoskins",
+      "Katherine Helmond",
+      "Michael Palin"
+   ],
+   "significants": [
+      "Terry Gilliam"
+   ],
+   "title": "Brazil",
+   "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+   "tagline": "It's only a state of mind.",
+   "video": "Vi0l8-FMi2A",
+   "posterPath": "/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8Pf3pbzu9pyONdpmdMtMrASr0am.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

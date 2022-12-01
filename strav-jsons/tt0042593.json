@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0042593",
+   "tmdbID": "17057",
+   "imdbRating": 79,
+   "imdbVoteCount": 32033,
+   "tmdbRating": 75,
+   "backdropPath": "/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hS9rKTtgYUBn26QTrLYUh8P07Yg.jpg"
+   },
+   "originalTitle": "In a Lonely Place",
+   "genres": [
+      18,
+      2,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1950,
+   "runtime": 94,
+   "cast": [
+      "Humphrey Bogart",
+      "Gloria Grahame",
+      "Frank Lovejoy",
+      "Carl Benton Reid",
+      "Art Smith",
+      "Jeff Donnell",
+      "Martha Stewart"
+   ],
+   "significants": [
+      "Nicholas Ray"
+   ],
+   "title": "In a Lonely Place",
+   "overview": "An aspiring actress begins to suspect that her temperamental and mentally impaired boyfriend is a murderer.",
+   "tagline": "The Bogart suspense picture with the surprise finish!",
+   "video": "68C2IFX60CU",
+   "posterPath": "/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt3841424",
+   "tmdbID": "335578",
+   "imdbRating": 78,
+   "imdbVoteCount": 41686,
+   "tmdbRating": 78,
+   "backdropPath": "/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vkzeh2G7Gwapo4J1eqGWRph2hCs.jpg"
+   },
+   "originalTitle": "Under sandet",
+   "genres": [
+      18,
+      36,
+      10752
+   ],
+   "countries": [
+      "DE",
+      "DK"
+   ],
+   "year": 2015,
+   "runtime": 100,
+   "cast": [
+      "Roland Møller",
+      "Mikkel Boe Følsgaard",
+      "Laura Bro",
+      "Louis Hofmann",
+      "Joel Basman",
+      "Oskar Bökelmann",
+      "Emil Belton"
+   ],
+   "significants": [
+      "Martin Zandvliet"
+   ],
+   "title": "Land of Mine",
+   "overview": "In the days following the surrender of Germany in May 1945, a group of young German prisoners of war is handed over to the Danish authorities and subsequently sent to the West Coast, where they are ordered to remove the more than two million mines that the Germans had placed in the sand along the coast. With their bare hands, crawling around in the sand, the boys are forced to perform the dangerous work under the leadership of a Danish sergeant.",
+   "tagline": "They survived the second World War, now they must survive the cleanup",
+   "video": "4Kao3t0NBMU",
+   "posterPath": "/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7TOYH2VDnYbXpBKlrkdQZUSC3Du.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "da"
+}

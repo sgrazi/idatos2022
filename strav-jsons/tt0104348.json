@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0104348",
+   "tmdbID": "9504",
+   "imdbRating": 77,
+   "imdbVoteCount": 106199,
+   "tmdbRating": 73,
+   "backdropPath": "/1fFseB3A35TmXVVb9mz6e6bIMZ0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1fFseB3A35TmXVVb9mz6e6bIMZ0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1fFseB3A35TmXVVb9mz6e6bIMZ0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1fFseB3A35TmXVVb9mz6e6bIMZ0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1fFseB3A35TmXVVb9mz6e6bIMZ0.jpg"
+   },
+   "originalTitle": "Glengarry Glen Ross",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1992,
+   "runtime": 100,
+   "cast": [
+      "Al Pacino",
+      "Jack Lemmon",
+      "Alec Baldwin",
+      "Alan Arkin",
+      "Ed Harris",
+      "Kevin Spacey",
+      "Jonathan Pryce"
+   ],
+   "significants": [
+      "James Foley"
+   ],
+   "title": "Glengarry Glen Ross",
+   "overview": "When an office full of Chicago real estate salesmen is given the news that all but the top two will be fired at the end of the week, the atmosphere begins to heat up. Shelley Levene, who has a sick daughter, does everything in his power to get better leads from his boss, John Williamson, but to no avail. When his coworker Dave Moss comes up with a plan to steal the leads, things get complicated for the tough-talking salesmen.",
+   "tagline": "Lie. Cheat. Steal. All in a day’s work.",
+   "video": "_VrekKSuFto",
+   "posterPath": "/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nGZCeCfNseq1ee3cJLBp0rH0djT.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/8206d34b-4e82-4a92-a806-4f635e03a660",
+            "added": 1668152041,
+            "leaving": 1697439540
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/glengarry-glen-ross/985daf12-1536-3166-991a-a0225a7ffa39",
+            "added": 1668696301,
+            "leaving": 32503715940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0119177",
+   "tmdbID": "782",
+   "imdbRating": 78,
+   "imdbVoteCount": 305153,
+   "tmdbRating": 75,
+   "backdropPath": "/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hPsCR1ny6GnctJkWqeJwihTDD7T.jpg"
+   },
+   "originalTitle": "Gattaca",
+   "genres": [
+      878,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1997,
+   "runtime": 106,
+   "cast": [
+      "Uma Thurman",
+      "Ethan Hawke",
+      "Jude Law",
+      "Alan Arkin",
+      "Loren Dean",
+      "Gore Vidal",
+      "Tony Shalhoub"
+   ],
+   "significants": [
+      "Andrew Niccol"
+   ],
+   "title": "Gattaca",
+   "overview": "In a future society in the era of indefinite eugenics, humans are set on a life course depending on their DNA. Young Vincent Freeman is born with a condition that would prevent him from space travel, yet is determined to infiltrate the GATTACA space program.",
+   "tagline": "There is no gene for the human spirit.",
+   "video": "NIIZ2P-fiyI",
+   "posterPath": "/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

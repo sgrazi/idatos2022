@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0097814",
+   "tmdbID": "16859",
+   "imdbRating": 78,
+   "imdbVoteCount": 145214,
+   "tmdbRating": 78,
+   "backdropPath": "/h5pAEVma835u8xoE60kmLVopLct.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/h5pAEVma835u8xoE60kmLVopLct.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h5pAEVma835u8xoE60kmLVopLct.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/h5pAEVma835u8xoE60kmLVopLct.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h5pAEVma835u8xoE60kmLVopLct.jpg"
+   },
+   "originalTitle": "魔女の宅急便",
+   "genres": [
+      16,
+      12,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1989,
+   "runtime": 103,
+   "cast": [
+      "Minami Takayama",
+      "Rei Sakuma",
+      "Kappei Yamaguchi",
+      "Keiko Toda",
+      "Mieko Nobusawa",
+      "Kôichi Miura",
+      "Haruko Katô"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "Kiki's Delivery Service",
+   "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+   "tagline": "I was feeling blue, but I'm better now.",
+   "video": "4bG17OYs-GA",
+   "posterPath": "/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHTGwYHRnUYOAEAAABC:type:feature",
+            "added": 1655511674,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

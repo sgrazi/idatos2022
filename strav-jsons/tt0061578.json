@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0061578",
+   "tmdbID": "1654",
+   "imdbRating": 77,
+   "imdbVoteCount": 74180,
+   "tmdbRating": 76,
+   "backdropPath": "/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ccegwWa7I2vxxaoXrGB8Wl1g5nl.jpg"
+   },
+   "originalTitle": "The Dirty Dozen",
+   "genres": [
+      28,
+      12,
+      10752
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1967,
+   "runtime": 150,
+   "cast": [
+      "Lee Marvin",
+      "Ernest Borgnine",
+      "Charles Bronson",
+      "Jim Brown",
+      "John Cassavetes",
+      "Richard Jaeckel",
+      "George Kennedy"
+   ],
+   "significants": [
+      "Robert Aldrich"
+   ],
+   "title": "The Dirty Dozen",
+   "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+   "tagline": "Train them! Excite them! Arm them!...Then turn them loose on the Nazis!",
+   "video": "ff1V6ywnWcY",
+   "posterPath": "/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iFpgjfE4gt7guOLvrqgZZoO4Rjk.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/445422/",
+            "added": 1658837435,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

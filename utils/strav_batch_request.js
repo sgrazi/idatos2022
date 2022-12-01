@@ -7,10 +7,10 @@ fs.readFile('imdbIDS.txt', 'utf8', (err, data) => {
     return;
   }
   SOURCES = data.split(',')
-  SOURCES = SOURCES.slice(196,297) // Streaming Availability permite 100 al dia
-  // const API_KEY = '094d2f444emsh7cc38e76be5a61ap1e0f04jsn39d63fc80a46'
-  // const API_KEY = 'e038b7cca5mshe4eb72c1425d861p14a01djsn5bcd857b29c5'
-  // const API_KEY = '6ca81a2933msh2f51c982f78285ap18f520jsn4ce451d8bb9f'
+  SOURCES = SOURCES.slice(400,500) // Streaming Availability permite 100 al dia
+  // const API_KEY = ''
+  // const API_KEY = ''
+  // const API_KEY = ''
 
   // itera SOURCES y guarda un json para cada respuesta de cada request
   var promise = Promise.resolve();

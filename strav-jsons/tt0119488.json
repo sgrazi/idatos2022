@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0119488",
+   "tmdbID": "2118",
+   "imdbRating": 82,
+   "imdbVoteCount": 582452,
+   "tmdbRating": 78,
+   "backdropPath": "/n39lZOZI65VIq9qw7BpjbldN63b.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/n39lZOZI65VIq9qw7BpjbldN63b.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/n39lZOZI65VIq9qw7BpjbldN63b.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/n39lZOZI65VIq9qw7BpjbldN63b.jpg",
+      "original": "https://image.tmdb.org/t/p/original/n39lZOZI65VIq9qw7BpjbldN63b.jpg"
+   },
+   "originalTitle": "L.A. Confidential",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1997,
+   "runtime": 138,
+   "cast": [
+      "Guy Pearce",
+      "Russell Crowe",
+      "Kevin Spacey",
+      "James Cromwell",
+      "Danny DeVito",
+      "Kim Basinger",
+      "David Strathairn"
+   ],
+   "significants": [
+      "Curtis Hanson"
+   ],
+   "title": "L.A. Confidential",
+   "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+   "tagline": "Everything is suspect... Everyone is for sale... And nothing is what it seems.",
+   "video": "gg0VF_EnFI4",
+   "posterPath": "/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg",
+      "original": "https://image.tmdb.org/t/p/original/Rzope4Pk93Rg1Q2Ae8H0FYwa7n.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

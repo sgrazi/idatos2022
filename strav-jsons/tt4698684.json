@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt4698684",
+   "tmdbID": "371645",
+   "imdbRating": 78,
+   "imdbVoteCount": 131152,
+   "tmdbRating": 76,
+   "backdropPath": "/2kfkOigqC6B3P7UVB332EC0Eyz3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2kfkOigqC6B3P7UVB332EC0Eyz3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2kfkOigqC6B3P7UVB332EC0Eyz3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2kfkOigqC6B3P7UVB332EC0Eyz3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2kfkOigqC6B3P7UVB332EC0Eyz3.jpg"
+   },
+   "originalTitle": "Hunt for the Wilderpeople",
+   "genres": [
+      12,
+      35,
+      18
+   ],
+   "countries": [
+      "NZ"
+   ],
+   "year": 2016,
+   "runtime": 101,
+   "cast": [
+      "Sam Neill",
+      "Julian Dennison",
+      "Rima Te Wiata",
+      "Rachel House",
+      "Rhys Darby",
+      "Oscar Kightley",
+      "Tioreore Ngatai-Melbourne"
+   ],
+   "significants": [
+      "Taika Waititi"
+   ],
+   "title": "Hunt for the Wilderpeople",
+   "overview": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+   "tagline": "Nature just got gangster",
+   "video": "dPaU4Gymt3E",
+   "posterPath": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hkmz9rxgcweizXNElozGeKwmAJE.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80096995/",
+            "added": 1601536867,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

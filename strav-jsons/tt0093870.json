@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0093870",
+   "tmdbID": "5548",
+   "imdbRating": 76,
+   "imdbVoteCount": 259531,
+   "tmdbRating": 72,
+   "backdropPath": "/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vMGkly71Jm2KwHN407mxheMGUYR.jpg"
+   },
+   "originalTitle": "RoboCop",
+   "genres": [
+      28,
+      80,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1987,
+   "runtime": 102,
+   "cast": [
+      "Peter Weller",
+      "Nancy Allen",
+      "Dan O'Herlihy",
+      "Ronny Cox",
+      "Kurtwood Smith",
+      "Miguel Ferrer",
+      "Robert DoQui"
+   ],
+   "significants": [
+      "Paul Verhoeven"
+   ],
+   "title": "RoboCop",
+   "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+   "tagline": "Part man. Part machine. All cop. The future of law enforcement.",
+   "video": "IqvRDhW-XVA",
+   "posterPath": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hHtOgGb3NihlyRATHlKPaFApbrd.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt0079417",
+   "tmdbID": "12102",
+   "imdbRating": 78,
+   "imdbVoteCount": 145939,
+   "tmdbRating": 75,
+   "backdropPath": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg"
+   },
+   "originalTitle": "Kramer vs. Kramer",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1979,
+   "runtime": 105,
+   "cast": [
+      "Dustin Hoffman",
+      "Meryl Streep",
+      "Jane Alexander",
+      "Justin Henry",
+      "Howard Duff",
+      "George Coe",
+      "JoBeth Williams"
+   ],
+   "significants": [
+      "Robert Benton"
+   ],
+   "title": "Kramer vs. Kramer",
+   "overview": "Ted Kramer is a career man for whom his work comes before his family. His wife Joanna cannot take this anymore, so she decides to leave him. Ted is now faced with the tasks of housekeeping and taking care of himself and their young son Billy.",
+   "tagline": "There are three sides to this love story",
+   "video": "jNLcfJ06y34",
+   "posterPath": "/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6IVQjDTbr7pXx2AR8jovbYwpyiF.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/8WDdjLLPq4uLCKvFz3i_0nKz0gJJKAoW/",
+            "added": 1667597862,
+            "leaving": 1675227600
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3509007/kramer-vs-kramer",
+            "added": 1667341255,
+            "leaving": 1675209540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

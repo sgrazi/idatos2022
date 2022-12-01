@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0091042",
+   "tmdbID": "9377",
+   "imdbRating": 78,
+   "imdbVoteCount": 358586,
+   "tmdbRating": 76,
+   "backdropPath": "/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zmVq7y63z8NewluK7MUBfTxuyvD.jpg"
+   },
+   "originalTitle": "Ferris Bueller's Day Off",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1986,
+   "runtime": 103,
+   "cast": [
+      "Matthew Broderick",
+      "Alan Ruck",
+      "Mia Sara",
+      "Jeffrey Jones",
+      "Jennifer Grey",
+      "Cindy Pickett",
+      "Lyman Ward"
+   ],
+   "significants": [
+      "John Hughes"
+   ],
+   "title": "Ferris Bueller's Day Off",
+   "overview": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+   "tagline": "One man's struggle to take it easy.",
+   "video": "0ZDbKhkLxTs",
+   "posterPath": "/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p07qwOft8y4iFVPLnXLN5WGsHuJ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/tOeI0WHG3icuPhCk5nkLXNmi5c4Jfx41/",
+            "added": 1653945780,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

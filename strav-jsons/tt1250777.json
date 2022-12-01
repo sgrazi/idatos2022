@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1250777",
+   "tmdbID": "23483",
+   "imdbRating": 76,
+   "imdbVoteCount": 563111,
+   "tmdbRating": 71,
+   "backdropPath": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/P4bGyJQF0shAcRku3I2perNUQR.jpg"
+   },
+   "originalTitle": "Kick-Ass",
+   "genres": [
+      28,
+      80
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 117,
+   "cast": [
+      "Aaron Taylor-Johnson",
+      "Chloë Grace Moretz",
+      "Nicolas Cage",
+      "Lyndsy Fonseca",
+      "Mark Strong",
+      "Deborah Twiss",
+      "Christopher Mintz-Plasse"
+   ],
+   "significants": [
+      "Matthew Vaughn"
+   ],
+   "title": "Kick-Ass",
+   "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+   "tagline": "Shut up. Kick-Ass.",
+   "video": "rFpWpkxsVI8",
+   "posterPath": "/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8citjdBmjddZjlPsAHEyCKwGVvD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8citjdBmjddZjlPsAHEyCKwGVvD.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYgrQ-Awx0zQuHQEAAAAC:type:feature",
+            "added": 1655506765,
+            "leaving": 16856028000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

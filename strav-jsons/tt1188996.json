@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt1188996",
+   "tmdbID": "26022",
+   "imdbRating": 79,
+   "imdbVoteCount": 107627,
+   "tmdbRating": 80,
+   "backdropPath": "/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fpgSkuEG2eV9nOHAYzqfOg1R8t2.jpg"
+   },
+   "originalTitle": "My Name Is Khan",
+   "genres": [
+      12,
+      18,
+      10749
+   ],
+   "countries": [
+      "IN",
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 165,
+   "cast": [
+      "Shah Rukh Khan",
+      "Kajol",
+      "Jimmy Shergill",
+      "Zarina Wahab",
+      "Adarsh Gourav",
+      "Tanay Chheda",
+      "Sheetal Menon"
+   ],
+   "significants": [
+      "Karan Johar"
+   ],
+   "title": "My Name Is Khan",
+   "overview": "Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.",
+   "tagline": "An Ordinary Man, An Extraordinary Journey ... FOR LOVE.",
+   "video": "nGH2mTu7AhU",
+   "posterPath": "/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5Y36lCiNyyV71mjq6LavgiggbhT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5Y36lCiNyyV71mjq6LavgiggbhT.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

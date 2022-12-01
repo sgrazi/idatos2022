@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt5363618",
+   "tmdbID": "502033",
+   "imdbRating": 77,
+   "imdbVoteCount": 127674,
+   "tmdbRating": 77,
+   "backdropPath": "/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7b5R8FfGUzlxfhOkPpL3xyIeuyF.jpg"
+   },
+   "originalTitle": "Sound of Metal",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2020,
+   "runtime": 121,
+   "cast": [
+      "Riz Ahmed",
+      "Paul Raci",
+      "Olivia Cooke",
+      "Lauren Ridloff",
+      "Mathieu Amalric",
+      "Tom Kemp",
+      "Chris Perfetti"
+   ],
+   "significants": [
+      "Darius Marder"
+   ],
+   "title": "Sound of Metal",
+   "overview": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+   "tagline": "Music was his world. Then silence revealed a new one.",
+   "video": "VFOrGkAvjAE",
+   "posterPath": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3178oOJKKPDeQ2legWQvMPpllv.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0OWOY28NCAYY94VCM9FFFXRKS1/",
+            "added": 1608368780,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

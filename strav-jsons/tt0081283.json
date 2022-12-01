@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt0081283",
+   "tmdbID": "16619",
+   "imdbRating": 77,
+   "imdbVoteCount": 52718,
+   "tmdbRating": 74,
+   "backdropPath": "/kgGPbt4NBoEhm1QxYS23XMYDyqr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kgGPbt4NBoEhm1QxYS23XMYDyqr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kgGPbt4NBoEhm1QxYS23XMYDyqr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kgGPbt4NBoEhm1QxYS23XMYDyqr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kgGPbt4NBoEhm1QxYS23XMYDyqr.jpg"
+   },
+   "originalTitle": "Ordinary People",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1980,
+   "runtime": 124,
+   "cast": [
+      "Donald Sutherland",
+      "Mary Tyler Moore",
+      "Judd Hirsch",
+      "Timothy Hutton",
+      "M. Emmet Walsh",
+      "Elizabeth McGovern",
+      "Dinah Manoff"
+   ],
+   "significants": [
+      "Robert Redford"
+   ],
+   "title": "Ordinary People",
+   "overview": "Beth, Calvin, and their son Conrad are living in the aftermath of the death of the other son. Conrad is overcome by grief and misplaced guilt to the extent of a suicide attempt. He is in therapy. Beth had always preferred his brother and is having difficulty being supportive to Conrad. Calvin is trapped between the two trying to hold the family together.",
+   "tagline": "Everything is in its proper place...except the past.",
+   "video": "HQKEdiQ79OM",
+   "posterPath": "/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kPt2AQiSP39g3I1TtAnjSGQwN9S.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/ckxdZ6Rek44HQHHYsjAdZtgmYdvESE2_/",
+            "added": 1664906025,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3504690/ordinary-people",
+            "added": 1662026888,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

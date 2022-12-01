@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0080979",
+   "tmdbID": "11953",
+   "imdbRating": 79,
+   "imdbVoteCount": 35947,
+   "tmdbRating": 78,
+   "backdropPath": "/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7qsKE8GsgjreeQ2mTLd5oKZ7Tbf.jpg"
+   },
+   "originalTitle": "影武者",
+   "genres": [
+      18,
+      36,
+      10752
+   ],
+   "countries": [
+      "JP",
+      "US"
+   ],
+   "year": 1980,
+   "runtime": 180,
+   "cast": [
+      "Tatsuya Nakadai",
+      "Tsutomu Yamazaki",
+      "Kenichi Hagiwara",
+      "Jinpachi Nezu",
+      "Hideji Ôtaki",
+      "Daisuke Ryû",
+      "Masayuki Yui"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Kagemusha",
+   "overview": "Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.",
+   "tagline": "",
+   "video": "Fvn3giWYZTg",
+   "posterPath": "/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ag3sgXg27j8NTaIbWoODIFiikfw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ag3sgXg27j8NTaIbWoODIFiikfw.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0096438",
+   "tmdbID": "856",
+   "imdbRating": 77,
+   "imdbVoteCount": 202137,
+   "tmdbRating": 75,
+   "backdropPath": "/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tym6NH7ybFeldBuYYp0RSLpjZFq.jpg"
+   },
+   "originalTitle": "Who Framed Roger Rabbit",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1988,
+   "runtime": 104,
+   "cast": [
+      "Bob Hoskins",
+      "Charles Fleischer",
+      "Christopher Lloyd",
+      "Joanna Cassidy",
+      "Kathleen Turner",
+      "Stubby Kaye",
+      "Alan Tilvern"
+   ],
+   "significants": [
+      "Robert Zemeckis"
+   ],
+   "title": "Who Framed Roger Rabbit",
+   "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+   "tagline": "It's the story of a man, a woman, and a rabbit in a triangle of trouble.",
+   "video": "_osSDnvnl8g",
+   "posterPath": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/20GDm8DYpIsC",
+            "added": 1652943298,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

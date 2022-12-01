@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0441773",
+   "tmdbID": "9502",
+   "imdbRating": 76,
+   "imdbVoteCount": 469417,
+   "tmdbRating": 72,
+   "backdropPath": "/vndouqEyQqpvvk0FwIlkfceblrh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vndouqEyQqpvvk0FwIlkfceblrh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vndouqEyQqpvvk0FwIlkfceblrh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vndouqEyQqpvvk0FwIlkfceblrh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vndouqEyQqpvvk0FwIlkfceblrh.jpg"
+   },
+   "originalTitle": "Kung Fu Panda",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2008,
+   "runtime": 90,
+   "cast": [
+      "Jack Black",
+      "Dustin Hoffman",
+      "Angelina Jolie",
+      "Jackie Chan",
+      "Lucy Liu",
+      "Seth Rogen",
+      "David Cross"
+   ],
+   "significants": [
+      "Mark Osborne",
+      "John Stevenson"
+   ],
+   "title": "Kung Fu Panda",
+   "overview": "When the Valley of Peace is threatened, lazy Po the panda discovers his destiny as the \"chosen one\" and trains to become a kung fu hero, but transforming the unsleek slacker into a brave warrior won't be easy. It's up to Master Shifu and the Furious Five -- Tigress, Crane, Mantis, Viper and Monkey -- to give it a try.",
+   "tagline": "Prepare for awesomeness.",
+   "video": "TD0YUZw_oHY",
+   "posterPath": "/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xCn3VOST64XpOA8x0gaQkQiZtZY.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrR72QhID4ayhAEAAANa:type:feature",
+            "added": 1659616617,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

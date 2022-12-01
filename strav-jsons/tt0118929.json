@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0118929",
+   "tmdbID": "2666",
+   "imdbRating": 76,
+   "imdbVoteCount": 200876,
+   "tmdbRating": 73,
+   "backdropPath": "/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg"
+   },
+   "originalTitle": "Dark City",
+   "genres": [
+      14,
+      9648,
+      878
+   ],
+   "countries": [
+      "AU",
+      "US"
+   ],
+   "year": 1998,
+   "runtime": 100,
+   "cast": [
+      "Rufus Sewell",
+      "William Hurt",
+      "Kiefer Sutherland",
+      "Jennifer Connelly",
+      "Richard O'Brien",
+      "Ian Richardson",
+      "Bruce Spence"
+   ],
+   "significants": [
+      "Alex Proyas"
+   ],
+   "title": "Dark City",
+   "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+   "tagline": "A world where the night never ends.",
+   "video": "lO0w2E-g83c",
+   "posterPath": "/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

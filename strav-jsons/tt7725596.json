@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt7725596",
+   "tmdbID": "547654",
+   "imdbRating": 79,
+   "imdbVoteCount": 34918,
+   "tmdbRating": 73,
+   "backdropPath": "/wFOgP3PX907fhfVpeP3YItmPQtS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wFOgP3PX907fhfVpeP3YItmPQtS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wFOgP3PX907fhfVpeP3YItmPQtS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wFOgP3PX907fhfVpeP3YItmPQtS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wFOgP3PX907fhfVpeP3YItmPQtS.jpg"
+   },
+   "originalTitle": "बधाई हो",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2018,
+   "runtime": 125,
+   "cast": [
+      "Ayushmann Khurrana",
+      "Neena Gupta",
+      "Gajraj Rao",
+      "Sanya Malhotra",
+      "Surekha Sikri",
+      "Sheeba Chaddha",
+      "Alka Kaushal"
+   ],
+   "significants": [
+      "Amit Sharma"
+   ],
+   "title": "Badhaai Ho",
+   "overview": "A 25-year-old man tries to suppress his embarrassment when his mother announces that she is pregnant.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1RCzZkjxnL9MiAOP4oQQm63Ku0p.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

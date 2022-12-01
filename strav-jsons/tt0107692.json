@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0107692",
+   "tmdbID": "14282",
+   "imdbRating": 78,
+   "imdbVoteCount": 37855,
+   "tmdbRating": 77,
+   "backdropPath": "/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg"
+   },
+   "originalTitle": "獣兵衛忍風帖",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1993,
+   "runtime": 94,
+   "cast": [
+      "Koichi Yamadera",
+      "Emi Shinohara",
+      "Takeshi Aono",
+      "Daisuke Gôri",
+      "Toshihiko Seki",
+      "Shûichirô Moriyama",
+      "Gara Takashima"
+   ],
+   "significants": [
+      "Yoshiaki Kawajiri"
+   ],
+   "title": "Ninja Scroll",
+   "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+   "tagline": "Feudal Japan—a time of danger, intrigue and deception . . .",
+   "video": "9O6_N4mQBos",
+   "posterPath": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

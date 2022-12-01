@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0113568",
+   "tmdbID": "9323",
+   "imdbRating": 79,
+   "imdbVoteCount": 143649,
+   "tmdbRating": 79,
+   "backdropPath": "/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg"
+   },
+   "originalTitle": "GHOST IN THE SHELL",
+   "genres": [
+      16,
+      28,
+      80
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1995,
+   "runtime": 83,
+   "cast": [
+      "Atsuko Tanaka",
+      "Akio Otsuka",
+      "Iemasa Kayumi",
+      "Koichi Yamadera",
+      "Yutaka Nakano",
+      "Tamio Ohki",
+      "Tessyo Genda"
+   ],
+   "significants": [
+      "Mamoru Oshii"
+   ],
+   "title": "Ghost in the Shell",
+   "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+   "tagline": "It found a voice... Now it needs a body.",
+   "video": "8RF09G8Ymqg",
+   "posterPath": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9gC88zYUBARRSThcG93MvW14sqx.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

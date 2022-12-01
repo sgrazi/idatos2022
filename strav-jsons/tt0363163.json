@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0363163",
+   "tmdbID": "613",
+   "imdbRating": 82,
+   "imdbVoteCount": 355933,
+   "tmdbRating": 78,
+   "backdropPath": "/xgAEfHByamMdRCA31oERQrsiutF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xgAEfHByamMdRCA31oERQrsiutF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xgAEfHByamMdRCA31oERQrsiutF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xgAEfHByamMdRCA31oERQrsiutF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xgAEfHByamMdRCA31oERQrsiutF.jpg"
+   },
+   "originalTitle": "Der Untergang",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "AT",
+      "DE",
+      "IT"
+   ],
+   "year": 2004,
+   "runtime": 156,
+   "cast": [
+      "Bruno Ganz",
+      "Alexandra Maria Lara",
+      "Corinna Harfouch",
+      "Ulrich Matthes",
+      "Juliane Köhler",
+      "Heino Ferch",
+      "Christian Berkel"
+   ],
+   "significants": [
+      "Oliver Hirschbiegel"
+   ],
+   "title": "Downfall",
+   "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+   "tagline": "April 1945, a nation awaits its... Downfall",
+   "video": "Bp1RXmM1-60",
+   "posterPath": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

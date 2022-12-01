@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0327597",
+   "tmdbID": "14836",
+   "imdbRating": 77,
+   "imdbVoteCount": 230231,
+   "tmdbRating": 78,
+   "backdropPath": "/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rRpAZOPY3XxMJY65AJ396IWyjU4.jpg"
+   },
+   "originalTitle": "Coraline",
+   "genres": [
+      16,
+      10751
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2009,
+   "runtime": 100,
+   "cast": [
+      "Dakota Fanning",
+      "Teri Hatcher",
+      "Keith David",
+      "Jennifer Saunders",
+      "Ian McShane",
+      "Dawn French",
+      "John Hodgman"
+   ],
+   "significants": [
+      "Henry Selick"
+   ],
+   "title": "Coraline",
+   "overview": "When Coraline moves to an old house, she feels bored and neglected by her parents. She finds a hidden door with a bricked up passage. During the night, she crosses the passage and finds a parallel world where everybody has buttons instead of eyes, with caring parents and all her dreams coming true. When the Other Mother invites Coraline to stay in her world forever, the girl refuses and finds that the alternate reality where she is trapped is only a trick to lure her.",
+   "tagline": "Be careful what you wish for.",
+   "video": "Js7wxoqeVK0",
+   "posterPath": "/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gPMh5rsVrDDAYMDbTcz6Up1DQ4z.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

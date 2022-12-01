@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0061418",
+   "tmdbID": "475",
+   "imdbRating": 77,
+   "imdbVoteCount": 113704,
+   "tmdbRating": 75,
+   "backdropPath": "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg"
+   },
+   "originalTitle": "Bonnie and Clyde",
+   "genres": [
+      28,
+      1,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1967,
+   "runtime": 110,
+   "cast": [
+      "Warren Beatty",
+      "Faye Dunaway",
+      "Michael J. Pollard",
+      "Gene Hackman",
+      "Estelle Parsons",
+      "Denver Pyle",
+      "Dub Taylor"
+   ],
+   "significants": [
+      "Arthur Penn"
+   ],
+   "title": "Bonnie and Clyde",
+   "overview": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.",
+   "tagline": "They’re young… they’re in love… and they kill people.",
+   "video": "Hli8BgTDl30",
+   "posterPath": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXjS6IQDYqY7CZgEAAAZJ:type:feature",
+            "added": 1655501980,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

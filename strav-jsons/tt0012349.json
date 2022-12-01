@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0012349",
+   "tmdbID": "10098",
+   "imdbRating": 83,
+   "imdbVoteCount": 126789,
+   "tmdbRating": 82,
+   "backdropPath": "/4H81TyAvjt7WOLXl7km34ZZQGl6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4H81TyAvjt7WOLXl7km34ZZQGl6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4H81TyAvjt7WOLXl7km34ZZQGl6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4H81TyAvjt7WOLXl7km34ZZQGl6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4H81TyAvjt7WOLXl7km34ZZQGl6.jpg"
+   },
+   "originalTitle": "The Kid",
+   "genres": [
+      35,
+      18,
+      10751
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1921,
+   "runtime": 68,
+   "cast": [
+      "Charlie Chaplin",
+      "Jackie Coogan",
+      "Edna Purviance",
+      "Carl Miller",
+      "Albert Austin",
+      "Charles Reisner",
+      "Lita Grey"
+   ],
+   "significants": [
+      "Charlie Chaplin"
+   ],
+   "title": "The Kid",
+   "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
+   "tagline": "6 reels of Joy.",
+   "video": "O5WXokyub-4",
+   "posterPath": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/drgMcyTsySQBnUPGaBThCHGdlWT.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXn0WpgjFvb8ungEAAADT:type:feature",
+            "added": 1655513225,
+            "leaving": 17277551990
+         }
+      },
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/EcHhdxO5cH2QEfoY0sDU_2mqRxPG63KH/",
+            "added": 1666032713,
+            "leaving": 1780290000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

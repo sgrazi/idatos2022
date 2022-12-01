@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0099487",
+   "tmdbID": "162",
+   "imdbRating": 79,
+   "imdbVoteCount": 490805,
+   "tmdbRating": 77,
+   "backdropPath": "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg"
+   },
+   "originalTitle": "Edward Scissorhands",
+   "genres": [
+      18,
+      14,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1990,
+   "runtime": 105,
+   "cast": [
+      "Johnny Depp",
+      "Winona Ryder",
+      "Dianne Wiest",
+      "Alan Arkin",
+      "Anthony Michael Hall",
+      "Vincent Price",
+      "Kathy Baker"
+   ],
+   "significants": [
+      "Tim Burton"
+   ],
+   "title": "Edward Scissorhands",
+   "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+   "tagline": "His scars run deep.",
+   "video": "S8bBjpUBbro",
+   "posterPath": "/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/7IyLqt37708g",
+            "added": 1652813179,
+            "leaving": 0
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0S3N82W0MTX8LWDLBBIEYLS9XE/",
+            "added": 1666047266,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

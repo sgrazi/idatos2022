@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0107688",
+   "tmdbID": "9479",
+   "imdbRating": 79,
+   "imdbVoteCount": 338692,
+   "tmdbRating": 78,
+   "backdropPath": "/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg"
+   },
+   "originalTitle": "The Nightmare Before Christmas",
+   "genres": [
+      16,
+      10751,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 76,
+   "cast": [
+      "Chris Sarandon",
+      "Danny Elfman",
+      "Catherine O'Hara",
+      "Ken Page",
+      "William Hickey",
+      "Glenn Shadix",
+      "Edward Ivory"
+   ],
+   "significants": [
+      "Henry Selick"
+   ],
+   "title": "The Nightmare Before Christmas",
+   "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+   "tagline": "This is Halloween, everybody make a scene!",
+   "video": "lVtetOjX_vk",
+   "posterPath": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

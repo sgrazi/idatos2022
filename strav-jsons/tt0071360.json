@@ -1,0 +1,76 @@
+{
+   "imdbID": "tt0071360",
+   "tmdbID": "592",
+   "imdbRating": 78,
+   "imdbVoteCount": 112647,
+   "tmdbRating": 75,
+   "backdropPath": "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg"
+   },
+   "originalTitle": "The Conversation",
+   "genres": [
+      18,
+      9648,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1974,
+   "runtime": 113,
+   "cast": [
+      "Gene Hackman",
+      "John Cazale",
+      "Allen Garfield",
+      "Frederic Forrest",
+      "Cindy Williams",
+      "Michael Higgins",
+      "Elizabeth MacRae"
+   ],
+   "significants": [
+      "Francis Ford Coppola"
+   ],
+   "title": "The Conversation",
+   "overview": "Surveillance expert Harry Caul is hired by a mysterious client's brusque aide to tail a young couple. Tracking the pair through San Francisco's Union Square, Caul and his associate Stan manage to record a cryptic conversation between them. Tormented by memories of a previous case that ended badly, Caul becomes obsessed with the resulting tape, trying to determine if the couple is in danger.",
+   "tagline": "Harry Caul is an invader of privacy. The best in the business.",
+   "video": "elJL5D6HTvA",
+   "posterPath": "/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wlR8DmatSgA93iRqS6e2seZj4zu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wlR8DmatSgA93iRqS6e2seZj4zu.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/rVFzWTzSogz79ffi8QjBwT8_IWHQMUn5/",
+            "added": 1667645397,
+            "leaving": 1675227600
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0HBR141AFMXY61L2LSANMM3SV9/",
+            "added": 1649403931,
+            "leaving": 0
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3510636/the-conversation",
+            "added": 1667341295,
+            "leaving": 1675209540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0964517",
+   "tmdbID": "45317",
+   "imdbRating": 78,
+   "imdbVoteCount": 368449,
+   "tmdbRating": 73,
+   "backdropPath": "/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2kqmEQZqime0G3ULgrKtAq3WVdH.jpg"
+   },
+   "originalTitle": "The Fighter",
+   "genres": [
+      28,
+      1,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 116,
+   "cast": [
+      "Mark Wahlberg",
+      "Christian Bale",
+      "Amy Adams",
+      "Melissa Leo",
+      "Mickey O'Keefe",
+      "Jack McGee",
+      "Melissa McMeekin"
+   ],
+   "significants": [
+      "David O. Russell"
+   ],
+   "title": "The Fighter",
+   "overview": "Boxer \"Irish\" Micky Ward's unlikely road to the world light welterweight title. His Rocky-like rise was shepherded by half-brother Dicky, a boxer-turned-trainer who rebounded in life after nearly being KO'd by drugs and crime.",
+   "tagline": "Every dream deserves a fighting chance.",
+   "video": "LRIZ4mCi5Ps",
+   "posterPath": "/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jcQYWWi2y1vNsGlJJ2jNcFq0y1n.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/hEUpkkecEy8REln0qqGbD23g8AJ5_J1D/",
+            "added": 1667596618,
+            "leaving": 1675227600
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3504683/the-fighter",
+            "added": 1667341221,
+            "leaving": 1675209540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

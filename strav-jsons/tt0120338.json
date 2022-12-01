@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0120338",
+   "tmdbID": "597",
+   "imdbRating": 79,
+   "imdbVoteCount": 1166105,
+   "tmdbRating": 78,
+   "backdropPath": "/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yDI6D5ZQh67YU4r2ms8qcSbAviZ.jpg"
+   },
+   "originalTitle": "Titanic",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1997,
+   "runtime": 194,
+   "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane",
+      "Gloria Stuart",
+      "Kathy Bates",
+      "Frances Fisher",
+      "Bill Paxton"
+   ],
+   "significants": [
+      "James Cameron"
+   ],
+   "title": "Titanic",
+   "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+   "tagline": "Nothing on Earth could come between them.",
+   "video": "cIJ8ma0kKtY",
+   "posterPath": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/GjggIcNk2C1sYQ_JG6j5LoKa7hxsQOzw/",
+            "added": 1667595086,
+            "leaving": 1669870800
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

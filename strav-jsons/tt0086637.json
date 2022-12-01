@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0086637",
+   "tmdbID": "11030",
+   "imdbRating": 77,
+   "imdbVoteCount": 42371,
+   "tmdbRating": 74,
+   "backdropPath": "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oCC3rSccbJV9bxMDRedtqI6pnla.jpg"
+   },
+   "originalTitle": "Zelig",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1983,
+   "runtime": 79,
+   "cast": [
+      "Woody Allen",
+      "Mia Farrow",
+      "Patrick Horgan",
+      "John Buckwalter",
+      "Marvin Chatinover",
+      "Stanley Swerdlow",
+      "Paul Nevens"
+   ],
+   "significants": [
+      "Woody Allen"
+   ],
+   "title": "Zelig",
+   "overview": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+   "tagline": "You wanted more when it was all over!",
+   "video": "agkCEOHQVgg",
+   "posterPath": "/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nGqM1TtnpPjOIDsCpMNDxuwrnnF.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

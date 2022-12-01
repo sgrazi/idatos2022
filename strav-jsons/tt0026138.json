@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0026138",
+   "tmdbID": "229",
+   "imdbRating": 78,
+   "imdbVoteCount": 49321,
+   "tmdbRating": 75,
+   "backdropPath": "/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg"
+   },
+   "originalTitle": "The Bride of Frankenstein",
+   "genres": [
+      18,
+      27,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1935,
+   "runtime": 75,
+   "cast": [
+      "Boris Karloff",
+      "Colin Clive",
+      "Valerie Hobson",
+      "Ernest Thesiger",
+      "Elsa Lanchester",
+      "Gavin Gordon",
+      "Douglas Walton"
+   ],
+   "significants": [
+      "James Whale"
+   ],
+   "title": "The Bride of Frankenstein",
+   "overview": "After recovering from injuries sustained in the mob attack upon himself and his creation, Dr. Frankenstein falls under the control of his former mentor, Dr. Pretorius, who insists the now-chastened doctor resume his experiments in creating new life. Meanwhile, the Monster remains on the run from those who wish to destroy him without understanding that his intentions are generally good despite his lack of socialization and self-control.",
+   "tagline": "The monster demands a mate!",
+   "video": "gJoE3AIHTjU",
+   "posterPath": "/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5241zUwe7rC17MNc2QpCBKKdp1N.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0080339",
+   "tmdbID": "813",
+   "imdbRating": 77,
+   "imdbVoteCount": 239962,
+   "tmdbRating": 72,
+   "backdropPath": "/rpp7XSFsFgaslZB5IqDDdZB9CjR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rpp7XSFsFgaslZB5IqDDdZB9CjR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rpp7XSFsFgaslZB5IqDDdZB9CjR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rpp7XSFsFgaslZB5IqDDdZB9CjR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rpp7XSFsFgaslZB5IqDDdZB9CjR.jpg"
+   },
+   "originalTitle": "Airplane!",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1980,
+   "runtime": 88,
+   "cast": [
+      "Robert Hays",
+      "Julie Hagerty",
+      "Leslie Nielsen",
+      "Kareem Abdul-Jabbar",
+      "Lloyd Bridges",
+      "Peter Graves",
+      "Lorna Patterson"
+   ],
+   "significants": [
+      "Jerry Zucker",
+      "Jim Abrahams",
+      "David Zucker"
+   ],
+   "title": "Airplane!",
+   "overview": "The persons and events in this film are fictitious – fortunately! A masterpiece of off-the-wall comedy, Airplane! features Robert Hays as an ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning; Julie Hagerty as his girlfriend/stewardess/co-pilot; and a cast of all-stars including Robert Stack, Lloyd Bridges, Peter Graves, Leslie Nielsen, Kareem Abdul-Jabbar... and more. Their hilarious high jinks spoof airplane disaster flicks, religious zealots, television commercials, romantic love... the list whirls by in rapid succession, and the story races from one moment of zany fun to the next.",
+   "tagline": "What's slower than a speeding bullet, and able to hit tall buildings at a single bound?",
+   "video": "JWNBROLN8Oc",
+   "posterPath": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYqyZQgahRT52wwEAAAAn:type:feature",
+            "added": 1662198427,
+            "leaving": 16935516000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

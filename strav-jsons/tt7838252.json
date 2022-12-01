@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt7838252",
+   "tmdbID": "564147",
+   "imdbRating": 82,
+   "imdbVoteCount": 86278,
+   "tmdbRating": 75,
+   "backdropPath": "/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4i1ofsSpfTuswHXcgPtXbZrSnoe.jpg"
+   },
+   "originalTitle": "ಕೆಜಿಎಫ್ ಅಧ್ಯಾಯ ೧",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2018,
+   "runtime": 156,
+   "cast": [
+      "Yash",
+      "Srinidhi Shetty",
+      "Achyuth Kumar",
+      "Malavika Avinash",
+      "Anant Nag",
+      "Vasishta N. Simha",
+      "Neenasam Ashwath"
+   ],
+   "significants": [
+      "Prashanth Neel"
+   ],
+   "title": "K.G.F: Chapter 1",
+   "overview": "A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.",
+   "tagline": "From The Streets Of Mumbai...To The Bloody Gold Mines Of Kolar",
+   "video": "E0aPg9S1OcA",
+   "posterPath": "/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0PHYD1GGVJ9T12NPLGCID0PUHV/",
+            "added": 1652516113,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "kn"
+}

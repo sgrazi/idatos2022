@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0085794",
+   "tmdbID": "262",
+   "imdbRating": 78,
+   "imdbVoteCount": 104510,
+   "tmdbRating": 77,
+   "backdropPath": "/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg"
+   },
+   "originalTitle": "The King of Comedy",
+   "genres": [
+      35,
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1982,
+   "runtime": 109,
+   "cast": [
+      "Robert De Niro",
+      "Jerry Lewis",
+      "Diahnne Abbott",
+      "Sandra Bernhard",
+      "Shelley Hack",
+      "Frederick de Cordova",
+      "Kim Chan"
+   ],
+   "significants": [
+      "Martin Scorsese"
+   ],
+   "title": "The King of Comedy",
+   "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy.",
+   "tagline": "It's No Laughing Matter.",
+   "video": "0wVhCCo02P4",
+   "posterPath": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

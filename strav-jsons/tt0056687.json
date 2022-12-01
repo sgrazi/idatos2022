@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0056687",
+   "tmdbID": "10242",
+   "imdbRating": 80,
+   "imdbVoteCount": 57051,
+   "tmdbRating": 79,
+   "backdropPath": "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg"
+   },
+   "originalTitle": "What Ever Happened to Baby Jane?",
+   "genres": [
+      18,
+      27,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1962,
+   "runtime": 135,
+   "cast": [
+      "Bette Davis",
+      "Joan Crawford",
+      "Victor Buono",
+      "Wesley Addy",
+      "Julie Allred",
+      "Anne Barton",
+      "Marjorie Bennett"
+   ],
+   "significants": [
+      "Robert Aldrich"
+   ],
+   "title": "What Ever Happened to Baby Jane?",
+   "overview": "A former child star torments her paraplegic sister in their decaying Hollywood mansion.",
+   "tagline": "Sister Sister, Oh So Fair! Why Is There Blood All Over Your Hair?",
+   "video": "3qFYjkFCxiE",
+   "posterPath": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX-ESyQ8fQMIPaQEAAAAC:type:feature",
+            "added": 1655503086,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

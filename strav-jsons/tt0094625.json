@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0094625",
+   "tmdbID": "149",
+   "imdbRating": 80,
+   "imdbVoteCount": 186925,
+   "tmdbRating": 79,
+   "backdropPath": "/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg"
+   },
+   "originalTitle": "アキラ",
+   "genres": [
+      16,
+      28
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1988,
+   "runtime": 124,
+   "cast": [
+      "Mitsuo Iwata",
+      "Nozomu Sasaki",
+      "Mami Koyama",
+      "Tessyo Genda",
+      "Kōichi Kitamura",
+      "Yuriko Fuchizaki",
+      "Masaaki Ôkura"
+   ],
+   "significants": [
+      "Katsuhiro Otomo"
+   ],
+   "title": "Akira",
+   "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+   "tagline": "Neo-Tokyo is about to E.X.P.L.O.D.E.",
+   "video": "nA8KmHC2Z-g",
+   "posterPath": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

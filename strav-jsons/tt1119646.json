@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt1119646",
+   "tmdbID": "18785",
+   "imdbRating": 77,
+   "imdbVoteCount": 783713,
+   "tmdbRating": 73,
+   "backdropPath": "/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2o0PKGmnSgCGkzoSePNAqse8Ure.jpg"
+   },
+   "originalTitle": "The Hangover",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "DE",
+      "US"
+   ],
+   "year": 2009,
+   "runtime": 100,
+   "cast": [
+      "Bradley Cooper",
+      "Ed Helms",
+      "Zach Galifianakis",
+      "Justin Bartha",
+      "Heather Graham",
+      "Sasha Barrese",
+      "Jeffrey Tambor"
+   ],
+   "significants": [
+      "Todd Phillips"
+   ],
+   "title": "The Hangover",
+   "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+   "tagline": "Some guys just can't handle Vegas.",
+   "video": "tlize92ffnY",
+   "posterPath": "/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uluhlXubGu1VxU63X9VHCLWDAYP.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYL_Z7AW4ppXCCQEAAADa:type:feature",
+            "added": 1655503265,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt4430212",
+   "tmdbID": "352173",
+   "imdbRating": 82,
+   "imdbVoteCount": 82491,
+   "tmdbRating": 78,
+   "backdropPath": "/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8xnjsw3Oh3zrT6Pu1WVp8dQYatT.jpg"
+   },
+   "originalTitle": "दृश्यम्",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2015,
+   "runtime": 163,
+   "cast": [
+      "Ajay Devgn",
+      "Tabu",
+      "Shriya Saran",
+      "Rajat Kapoor",
+      "Ishita Dutta",
+      "Mrunal Jadhav",
+      "Kamlesh Sawant"
+   ],
+   "significants": [
+      "Nishikant Kamat"
+   ],
+   "title": "Drishyam",
+   "overview": "A simple, street-smart man tries to protect his family from a tough cop looking for his missing son.",
+   "tagline": "Visuals Can Be Deceptive",
+   "video": "AuuX2j14NBg",
+   "posterPath": "/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gIClWRv5OSe8rl5Koi0AeUcCZ9Z.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80068117/",
+            "added": 1653705286,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

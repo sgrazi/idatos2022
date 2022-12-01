@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0061852",
+   "tmdbID": "9325",
+   "imdbRating": 76,
+   "imdbVoteCount": 183731,
+   "tmdbRating": 72,
+   "backdropPath": "/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg"
+   },
+   "originalTitle": "The Jungle Book",
+   "genres": [
+      16,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1967,
+   "runtime": 78,
+   "cast": [
+      "Bruce Reitherman",
+      "Phil Harris",
+      "Sebastian Cabot",
+      "George Sanders",
+      "Sterling Holloway",
+      "Louis Prima",
+      "J. Pat O'Malley"
+   ],
+   "significants": [
+      "Wolfgang Reitherman"
+   ],
+   "title": "The Jungle Book",
+   "overview": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+   "tagline": "The Jungle is JUMPIN'!",
+   "video": "qdkU9NmI0jA",
+   "posterPath": "/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fyKUxjaOP8KINir6MPFprsGtiT0.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/5trzAb4Rz3F9",
+            "added": 1606701485,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

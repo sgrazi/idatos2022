@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0099077",
+   "tmdbID": "11005",
+   "imdbRating": 78,
+   "imdbVoteCount": 142354,
+   "tmdbRating": 77,
+   "backdropPath": "/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg"
+   },
+   "originalTitle": "Awakenings",
+   "genres": [
+      1,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1990,
+   "runtime": 120,
+   "cast": [
+      "Robert De Niro",
+      "Robin Williams",
+      "John Heard",
+      "Julie Kavner",
+      "Penelope Ann Miller",
+      "Ruth Nelson",
+      "Max von Sydow"
+   ],
+   "significants": [
+      "Penny Marshall"
+   ],
+   "title": "Awakenings",
+   "overview": "Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \"awaken\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.",
+   "tagline": "There is no such thing as a simple miracle.",
+   "video": "7exeVt7CaE4",
+   "posterPath": "/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/46187",
+            "added": 1664896094,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0318411",
+   "tmdbID": "8094",
+   "imdbRating": 77,
+   "imdbVoteCount": 27438,
+   "tmdbRating": 74,
+   "backdropPath": "/7ibHXtrEnN2TSoOwGCJyzwa4QFi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7ibHXtrEnN2TSoOwGCJyzwa4QFi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7ibHXtrEnN2TSoOwGCJyzwa4QFi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7ibHXtrEnN2TSoOwGCJyzwa4QFi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7ibHXtrEnN2TSoOwGCJyzwa4QFi.jpg"
+   },
+   "originalTitle": "The Magdalene Sisters",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IE",
+      "GB"
+   ],
+   "year": 2002,
+   "runtime": 119,
+   "cast": [
+      "Anne-Marie Duff",
+      "Nora-Jane Noone",
+      "Dorothy Duffy",
+      "Geraldine McEwan",
+      "Eileen Walsh",
+      "Mary Murray",
+      "Eamonn Owens"
+   ],
+   "significants": [
+      "Peter Mullan"
+   ],
+   "title": "The Magdalene Sisters",
+   "overview": "Four women are given into the custody of the Magdalene sisterhood asylum to correct their sinful behavior: Crispina and Rose have given birth to a premarital child, Margaret got raped by her cousin and the orphan Bernadette had been repeatedly caught flirting with the boys. All have to work in a laundry under the strict supervision of the nuns, who break their wills through sadistic punishment.",
+   "tagline": "In a place that defied belief their only hope was each other.",
+   "video": "Ps5NXYuLFms",
+   "posterPath": "/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5DBsn3cng0beQ0adi1TuBLFUrod.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5DBsn3cng0beQ0adi1TuBLFUrod.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

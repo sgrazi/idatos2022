@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0044741",
+   "tmdbID": "3782",
+   "imdbRating": 83,
+   "imdbVoteCount": 78809,
+   "tmdbRating": 83,
+   "backdropPath": "/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5qtOVAcBFogwktkseoZSfZVq6bx.jpg"
+   },
+   "originalTitle": "生きる",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1952,
+   "runtime": 143,
+   "cast": [
+      "Takashi Shimura",
+      "Haruo Tanaka",
+      "Nobuo Kaneko",
+      "Bokuzen Hidari",
+      "Miki Odagiri",
+      "Shinichi Himori",
+      "Minoru Chiaki"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Ikiru",
+   "overview": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
+   "tagline": "A big story of a little man which will grip your soul ...",
+   "video": "2VeLN3IDjzQ",
+   "posterPath": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRtQZGhcNVoAEAAAMj:type:feature",
+            "added": 1655508080,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

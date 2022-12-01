@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0089218",
+   "tmdbID": "9340",
+   "imdbRating": 77,
+   "imdbVoteCount": 274267,
+   "tmdbRating": 75,
+   "backdropPath": "/imtHhH4NuKMMaSityrxhuSmtyd3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/imtHhH4NuKMMaSityrxhuSmtyd3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/imtHhH4NuKMMaSityrxhuSmtyd3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/imtHhH4NuKMMaSityrxhuSmtyd3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/imtHhH4NuKMMaSityrxhuSmtyd3.jpg"
+   },
+   "originalTitle": "The Goonies",
+   "genres": [
+      12,
+      35,
+      10751
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1985,
+   "runtime": 114,
+   "cast": [
+      "Sean Astin",
+      "Josh Brolin",
+      "Jeff Cohen",
+      "Corey Feldman",
+      "Kerri Green",
+      "Martha Plimpton",
+      "Ke Huy Quan"
+   ],
+   "significants": [
+      "Richard Donner"
+   ],
+   "title": "The Goonies",
+   "overview": "A young teenager named Mikey Walsh finds an old treasure map in his father's attic. Hoping to save their homes from demolition, Mikey and his friends Data Wang, Chunk Cohen, and Mouth Devereaux run off on a big quest to find the secret stash of Pirate One-Eyed Willie.",
+   "tagline": "Take the Oath. Join the Adventure.",
+   "video": "lYLAGAwcpSQ",
+   "posterPath": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXdu2RQwR0JuAuwEAADZ5:type:feature",
+            "added": 1655502680,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0880502",
+   "tmdbID": "2014",
+   "imdbRating": 77,
+   "imdbVoteCount": 32376,
+   "tmdbRating": 71,
+   "backdropPath": "/o1J68UnnLNBpF53VspAI7VDJdrk.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/o1J68UnnLNBpF53VspAI7VDJdrk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/o1J68UnnLNBpF53VspAI7VDJdrk.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/o1J68UnnLNBpF53VspAI7VDJdrk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/o1J68UnnLNBpF53VspAI7VDJdrk.jpg"
+   },
+   "originalTitle": "Auf der anderen Seite",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "DE",
+      "TR"
+   ],
+   "year": 2007,
+   "runtime": 122,
+   "cast": [
+      "Baki Davrak",
+      "Nurgül Yeşilçay",
+      "Tuncel Kurtiz",
+      "Nursel Köse",
+      "Patrycia Ziolkowska",
+      "Hanna Schygulla",
+      "Yelda Reynaud"
+   ],
+   "significants": [
+      "Fatih Akin"
+   ],
+   "title": "The Edge of Heaven",
+   "overview": "The lives of six German-Turkish immigrants are drawn together by circumstance: An old man and a prostitute forging a partnership, a young scholar reconciling his past, two young women falling in love, and a mother putting the shattered pieces of her life back together.",
+   "tagline": "",
+   "video": "JxjCqy6hVRk",
+   "posterPath": "/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oyJTRfxvbjz223626iMuDlZo4b8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oyJTRfxvbjz223626iMuDlZo4b8.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

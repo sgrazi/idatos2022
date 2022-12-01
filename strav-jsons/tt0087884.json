@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0087884",
+   "tmdbID": "655",
+   "imdbRating": 81,
+   "imdbVoteCount": 106730,
+   "tmdbRating": 81,
+   "backdropPath": "/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg"
+   },
+   "originalTitle": "Paris, Texas",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "FR",
+      "DE",
+      "GB"
+   ],
+   "year": 1984,
+   "runtime": 145,
+   "cast": [
+      "Harry Dean Stanton",
+      "Nastassja Kinski",
+      "Dean Stockwell",
+      "Hunter Carson",
+      "Aurore Clément",
+      "Bernhard Wicki",
+      "John Lurie"
+   ],
+   "significants": [
+      "Wim Wenders"
+   ],
+   "title": "Paris, Texas",
+   "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+   "tagline": "A place for dreams. A place for heartbreak. A place to pick up the pieces.",
+   "video": "nb987ysh9l8",
+   "posterPath": "/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6NuFYT1f1rG0AeIVTJEgsRa7AOi.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk3juQiaRZ4_wwEAAAZJ:type:feature",
+            "added": 1655508986,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

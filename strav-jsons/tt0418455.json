@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0418455",
+   "tmdbID": "1023",
+   "imdbRating": 77,
+   "imdbVoteCount": 51166,
+   "tmdbRating": 74,
+   "backdropPath": "/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg"
+   },
+   "originalTitle": "Adams æbler",
+   "genres": [
+      35,
+      80,
+      18
+   ],
+   "countries": [
+      "DK",
+      "DE"
+   ],
+   "year": 2005,
+   "runtime": 94,
+   "cast": [
+      "Mads Mikkelsen",
+      "Ulrich Thomsen",
+      "Paprika Steen",
+      "Ole Thestrup",
+      "Nikolaj Lie Kaas",
+      "Nicolas Bro",
+      "Ali Kazim"
+   ],
+   "significants": [
+      "Anders Thomas Jensen"
+   ],
+   "title": "Adam's Apples",
+   "overview": "A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.",
+   "tagline": "When it rains, it pours",
+   "video": "",
+   "posterPath": "/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "da"
+}

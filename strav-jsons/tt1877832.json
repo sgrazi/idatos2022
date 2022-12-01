@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1877832",
+   "tmdbID": "127585",
+   "imdbRating": 79,
+   "imdbVoteCount": 711988,
+   "tmdbRating": 75,
+   "backdropPath": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg"
+   },
+   "originalTitle": "X-Men: Days of Future Past",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 132,
+   "cast": [
+      "Hugh Jackman",
+      "James McAvoy",
+      "Michael Fassbender",
+      "Jennifer Lawrence",
+      "Nicholas Hoult",
+      "Patrick Stewart",
+      "Ian McKellen"
+   ],
+   "significants": [
+      "Bryan Singer"
+   ],
+   "title": "X-Men: Days of Future Past",
+   "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+   "tagline": "To save the future, they must alter the past.",
+   "video": "gsjtg7m1MMM",
+   "posterPath": "/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/12X4W0gKaZr4",
+            "added": 1606700760,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

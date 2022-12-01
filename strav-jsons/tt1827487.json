@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1827487",
+   "tmdbID": "74879",
+   "imdbRating": 78,
+   "imdbVoteCount": 46711,
+   "tmdbRating": 74,
+   "backdropPath": "/sNg5mInBD52V7QdKJeP5J9InVH5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sNg5mInBD52V7QdKJeP5J9InVH5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sNg5mInBD52V7QdKJeP5J9InVH5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sNg5mInBD52V7QdKJeP5J9InVH5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sNg5mInBD52V7QdKJeP5J9InVH5.jpg"
+   },
+   "originalTitle": "Bir Zamanlar Anadolu'da",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "BA",
+      "TR"
+   ],
+   "year": 2011,
+   "runtime": 157,
+   "cast": [
+      "Muhammet Uzuner",
+      "Yılmaz Erdoğan",
+      "Taner Birsel",
+      "Ahmet Mümtaz Taylan",
+      "Fırat Tanış",
+      "Ercan Kesal",
+      "Cansu Demirci"
+   ],
+   "significants": [
+      "Nuri Bilge Ceylan"
+   ],
+   "title": "Once Upon a Time in Anatolia",
+   "overview": "In the rural area around the Anatolian town of Keskin, the local prosecutor, police commissar, and doctor lead a search for a victim of a murder to whom a suspect named Kenan and his mentally challenged brother confessed. However, the search is proving more difficult than expected as Kenan is fuzzy as to the body's exact location. As the group continues looking, its members can't help but chat among themselves about both trivia and their deepest concerns in an investigation that is proving more trying than any of them expected.",
+   "tagline": "",
+   "video": "jJOFUsO_N20",
+   "posterPath": "/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jKnV5JDArGn6UyrI9HiYzs7Zykn.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "mubi": {
+         "us": {
+            "link": "https://mubi.com/films/once-upon-a-time-in-anatolia",
+            "added": 1624231682,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "tr"
+}

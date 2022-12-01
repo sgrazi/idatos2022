@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0082694",
+   "tmdbID": "8810",
+   "imdbRating": 76,
+   "imdbVoteCount": 181630,
+   "tmdbRating": 73,
+   "backdropPath": "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg"
+   },
+   "originalTitle": "Mad Max 2",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "AU"
+   ],
+   "year": 1981,
+   "runtime": 96,
+   "cast": [
+      "Mel Gibson",
+      "Bruce Spence",
+      "Michael Preston",
+      "Max Phipps",
+      "Vernon Wells",
+      "Kjell Nilsson",
+      "Emil Minty"
+   ],
+   "significants": [
+      "George Miller"
+   ],
+   "title": "Mad Max 2",
+   "overview": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+   "tagline": "When all that's left is one last chance, pray that he's still out there ... somewhere!",
+   "video": "EEjLjUqoU9Y",
+   "posterPath": "/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXvtPeQm0p8JZjgEAAAU3:type:feature",
+            "added": 1668858881,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

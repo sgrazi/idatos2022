@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0185125",
+   "tmdbID": "99",
+   "imdbRating": 78,
+   "imdbVoteCount": 97443,
+   "tmdbRating": 76,
+   "backdropPath": "/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tilClWjFZeUTGJu0pxgF72fvUmN.jpg"
+   },
+   "originalTitle": "Todo sobre mi madre",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "ES",
+      "FR"
+   ],
+   "year": 1999,
+   "runtime": 101,
+   "cast": [
+      "Cecilia Roth",
+      "Marisa Paredes",
+      "Candela Peña",
+      "Antonia San Juan",
+      "Penélope Cruz",
+      "Rosa María Sardà",
+      "Fernando Fernán Gómez"
+   ],
+   "significants": [
+      "Pedro Almodóvar"
+   ],
+   "title": "All About My Mother",
+   "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+   "tagline": "Part of every woman is a mother/actress/saint/sinner. And part of every man is a woman.",
+   "video": "6SFkzU3n4TI",
+   "posterPath": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/359589b9-939d-4c11-9066-c01f1d77512d",
+            "added": 1668151322,
+            "leaving": 1669881540
+         }
+      }
+   },
+   "originalLanguage": "es"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2181931",
+   "tmdbID": "118628",
+   "imdbRating": 78,
+   "imdbVoteCount": 36798,
+   "tmdbRating": 71,
+   "backdropPath": "/xKlD7JpdfHRpLwGjztrCe9RPjlP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xKlD7JpdfHRpLwGjztrCe9RPjlP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xKlD7JpdfHRpLwGjztrCe9RPjlP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xKlD7JpdfHRpLwGjztrCe9RPjlP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xKlD7JpdfHRpLwGjztrCe9RPjlP.jpg"
+   },
+   "originalTitle": "इंग्लिश विंग्लिश",
+   "genres": [
+      35,
+      18,
+      10751
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2012,
+   "runtime": 134,
+   "cast": [
+      "Sridevi",
+      "Adil Hussain",
+      "Mehdi Nebbou",
+      "Priya Anand",
+      "Navika Kotia",
+      "Shivansh Kotia",
+      "Sujata Kumar"
+   ],
+   "significants": [
+      "Gauri Shinde"
+   ],
+   "title": "English Vinglish",
+   "overview": "In the United States for the first time, an Indian housewife with a limited command of English turns Manhattan into her personal language school.",
+   "tagline": "The first time only happens once.",
+   "video": "8dWir9Q_Vek",
+   "posterPath": "/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ccEVR8sf18psGH5daio9y7OGu93.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ccEVR8sf18psGH5daio9y7OGu93.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "zee5": {
+         "us": {
+            "link": "https://www.zee5.com/global/movies/details/-/0-0-2428",
+            "added": 1631883644,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

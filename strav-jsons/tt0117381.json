@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0117381",
+   "tmdbID": "1592",
+   "imdbRating": 77,
+   "imdbVoteCount": 218239,
+   "tmdbRating": 76,
+   "backdropPath": "/xO5RwB4o8wJrsqDrEDjDqBD4HaA.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xO5RwB4o8wJrsqDrEDjDqBD4HaA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xO5RwB4o8wJrsqDrEDjDqBD4HaA.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xO5RwB4o8wJrsqDrEDjDqBD4HaA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xO5RwB4o8wJrsqDrEDjDqBD4HaA.jpg"
+   },
+   "originalTitle": "Primal Fear",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1996,
+   "runtime": 129,
+   "cast": [
+      "Richard Gere",
+      "Laura Linney",
+      "John Mahoney",
+      "Alfre Woodard",
+      "Frances McDormand",
+      "Edward Norton",
+      "Terry O'Quinn"
+   ],
+   "significants": [
+      "Gregory Hoblit"
+   ],
+   "title": "Primal Fear",
+   "overview": "An arrogant, high-powered attorney takes on the case of a poor altar boy found running away from the scene of the grisly murder of the bishop who has taken him in. The case gets a lot more complex when the accused reveals that there may or may not have been a third person in the room.",
+   "tagline": "Sooner or later, a man who wears two faces forgets which one is real.",
+   "video": "PnmTi7hSjrA",
+   "posterPath": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/rHXh4HkdDQNnXXSA2PBwcdep7hr_kJX0/",
+            "added": 1667599838,
+            "leaving": 1682917200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

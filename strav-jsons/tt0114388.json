@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0114388",
+   "tmdbID": "4584",
+   "imdbRating": 77,
+   "imdbVoteCount": 116907,
+   "tmdbRating": 74,
+   "backdropPath": "/iPVNnwvi1xTcCUBXki5BYSBhyGs.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iPVNnwvi1xTcCUBXki5BYSBhyGs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iPVNnwvi1xTcCUBXki5BYSBhyGs.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iPVNnwvi1xTcCUBXki5BYSBhyGs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iPVNnwvi1xTcCUBXki5BYSBhyGs.jpg"
+   },
+   "originalTitle": "Sense and Sensibility",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1995,
+   "runtime": 136,
+   "cast": [
+      "Emma Thompson",
+      "Alan Rickman",
+      "Kate Winslet",
+      "Hugh Grant",
+      "James Fleet",
+      "Harriet Walter",
+      "Gemma Jones"
+   ],
+   "significants": [
+      "Ang Lee"
+   ],
+   "title": "Sense and Sensibility",
+   "overview": "Rich Mr. Dashwood dies, leaving his second wife and her daughters poor by the rules of inheritance. Two daughters are the titular opposites.",
+   "tagline": "Lose your heart and come to your senses.",
+   "video": "kavQSzH5AWU",
+   "posterPath": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/_WGpfwwy_Rbu5PtxXGaYRNzSL7t0Uq79/",
+            "added": 1667597580,
+            "leaving": 1675227600
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3505660/sense-and-sensibility",
+            "added": 1667341253,
+            "leaving": 1675209540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

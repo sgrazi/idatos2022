@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0048473",
+   "tmdbID": "5801",
+   "imdbRating": 83,
+   "imdbVoteCount": 33301,
+   "tmdbRating": 80,
+   "backdropPath": "/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tyy4SVwSNTrOHMzt7HxA92xdmMl.jpg"
+   },
+   "originalTitle": "পথের পাঁচালী",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 1955,
+   "runtime": 125,
+   "cast": [
+      "Subir Banerjee",
+      "Uma Das Gupta",
+      "Karuna Banerjee",
+      "Kanu Bannerjee",
+      "Chunibala Devi",
+      "Runki Banerjee",
+      "Reba Devi"
+   ],
+   "significants": [
+      "Satyajit Ray"
+   ],
+   "title": "Pather Panchali",
+   "overview": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+   "tagline": "Song of the Little Road",
+   "video": "mgv68E_o6VM",
+   "posterPath": "/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/frZj5djlU9hFEjMcL21RJZVuG5O.jpg",
+      "original": "https://image.tmdb.org/t/p/original/frZj5djlU9hFEjMcL21RJZVuG5O.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {},
+   "originalLanguage": "bn"
+}

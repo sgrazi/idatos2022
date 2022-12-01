@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0117631",
+   "tmdbID": "7863",
+   "imdbRating": 77,
+   "imdbVoteCount": 54529,
+   "tmdbRating": 73,
+   "backdropPath": "/8yiVe69Y2Sgey87fv7vm01XQZcZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8yiVe69Y2Sgey87fv7vm01XQZcZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8yiVe69Y2Sgey87fv7vm01XQZcZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8yiVe69Y2Sgey87fv7vm01XQZcZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8yiVe69Y2Sgey87fv7vm01XQZcZ.jpg"
+   },
+   "originalTitle": "Shine",
+   "genres": [
+      1,
+      18,
+      10402
+   ],
+   "countries": [
+      "AU"
+   ],
+   "year": 1996,
+   "runtime": 105,
+   "cast": [
+      "Armin Mueller-Stahl",
+      "Noah Taylor",
+      "Geoffrey Rush",
+      "Nicholas Bell",
+      "Lynn Redgrave",
+      "Googie Withers",
+      "John Gielgud"
+   ],
+   "significants": [
+      "Scott Hicks"
+   ],
+   "title": "Shine",
+   "overview": "Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.",
+   "tagline": "A true story of the mystery of music and the miracle of love",
+   "video": "vTt4Ar6pzO4",
+   "posterPath": "/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z6WM18EoqfkSnaOYPCttNEMp0aC.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

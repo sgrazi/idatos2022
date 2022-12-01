@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt3398268",
+   "tmdbID": "242828",
+   "imdbRating": 77,
+   "imdbVoteCount": 41110,
+   "tmdbRating": 79,
+   "backdropPath": "/k1Xlaw6eMYqxT9y1oXAL9UDN9AH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/k1Xlaw6eMYqxT9y1oXAL9UDN9AH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/k1Xlaw6eMYqxT9y1oXAL9UDN9AH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/k1Xlaw6eMYqxT9y1oXAL9UDN9AH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/k1Xlaw6eMYqxT9y1oXAL9UDN9AH.jpg"
+   },
+   "originalTitle": "思い出のマーニー",
+   "genres": [
+      16,
+      18,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 2014,
+   "runtime": 103,
+   "cast": [
+      "Sara Takatsuki",
+      "Kasumi Arimura",
+      "Nanako Matsushima",
+      "Susumu Terajima",
+      "Toshie Negishi",
+      "Ryoko Moriyama",
+      "Kazuko Yoshiyuki"
+   ],
+   "significants": [
+      "Hiromasa Yonebayashi"
+   ],
+   "title": "When Marnie Was There",
+   "overview": "Upon being sent to live with relatives in the countryside due to an illness, an emotionally distant adolescent girl becomes obsessed with an abandoned mansion and infatuated with a girl who lives there - a girl who may or may not be real.",
+   "tagline": "Promise we'll remain a secret, forever.",
+   "video": "ksNEwaQN53g",
+   "posterPath": "/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHTGwLxKKu9KwEAAAAJ:type:feature",
+            "added": 1655506416,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1398426",
+   "tmdbID": "277216",
+   "imdbRating": 78,
+   "imdbVoteCount": 202787,
+   "tmdbRating": 77,
+   "backdropPath": "/pvGuQ5wmkENGEvnKQRYv0eS8sOx.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pvGuQ5wmkENGEvnKQRYv0eS8sOx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pvGuQ5wmkENGEvnKQRYv0eS8sOx.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pvGuQ5wmkENGEvnKQRYv0eS8sOx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pvGuQ5wmkENGEvnKQRYv0eS8sOx.jpg"
+   },
+   "originalTitle": "Straight Outta Compton",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2015,
+   "runtime": 147,
+   "cast": [
+      "O'Shea Jackson Jr.",
+      "Corey Hawkins",
+      "Jason Mitchell",
+      "Neil Brown Jr.",
+      "Aldis Hodge",
+      "Marlon Yates Jr.",
+      "R. Marcos Taylor"
+   ],
+   "significants": [
+      "F. Gary Gray"
+   ],
+   "title": "Straight Outta Compton",
+   "overview": "In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.",
+   "tagline": "The Story of N.W.A.",
+   "video": "-F5WcFPDzko",
+   "posterPath": "/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9B63hMwU6iICtNDTISCaZQ5US7R.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9B63hMwU6iICtNDTISCaZQ5US7R.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

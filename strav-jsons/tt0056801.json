@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0056801",
+   "tmdbID": "422",
+   "imdbRating": 80,
+   "imdbVoteCount": 118418,
+   "tmdbRating": 82,
+   "backdropPath": "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg"
+   },
+   "originalTitle": "8½",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IT",
+      "FR"
+   ],
+   "year": 1963,
+   "runtime": 139,
+   "cast": [
+      "Marcello Mastroianni",
+      "Claudia Cardinale",
+      "Anouk Aimée",
+      "Sandra Milo",
+      "Rossella Falk",
+      "Barbara Steele",
+      "Madeleine Lebeau"
+   ],
+   "significants": [
+      "Federico Fellini"
+   ],
+   "title": "8½",
+   "overview": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+   "tagline": "A picture that goes beyond what men think about - because no man ever thought about it in quite this way!",
+   "video": "RmIC9pQ80Fk",
+   "posterPath": "/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9wvOlM8f3obvG9tNTkpZvF0CUU1.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXoUZ3wuen5CtwwEAAAFd:type:feature",
+            "added": 1655509519,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

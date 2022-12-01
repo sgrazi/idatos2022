@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0047528",
+   "tmdbID": "405",
+   "imdbRating": 80,
+   "imdbVoteCount": 63522,
+   "tmdbRating": 79,
+   "backdropPath": "/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5Pl47mB0Jnrg4oHoO0sVdJ6WMRL.jpg"
+   },
+   "originalTitle": "La strada",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IT"
+   ],
+   "year": 1954,
+   "runtime": 115,
+   "cast": [
+      "Anthony Quinn",
+      "Giulietta Masina",
+      "Richard Basehart",
+      "Aldo Silvani",
+      "Marcella Rovere",
+      "Lidia Venturini",
+      "Gustavo Giorgi"
+   ],
+   "significants": [
+      "Federico Fellini"
+   ],
+   "title": "La Strada",
+   "overview": "When Gelsomina, a naïve young woman, is purchased from her impoverished mother by brutish circus strongman Zampanò to be his wife and partner, she loyally endures her husband's coldness and abuse as they travel the Italian countryside performing together. Soon Zampanò must deal with his jealousy and conflicted feelings about Gelsomina when she finds a kindred spirit in Il Matto, the carefree circus fool, and contemplates leaving Zampanò.",
+   "tagline": "Filmed in Italy - where it happened!",
+   "video": "jfRp_S-4nWQ",
+   "posterPath": "/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cDWISzYLg7NTyfXHoPLm7aNX2Wa.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXpdmEgaYqrEswgEAAAW3:type:feature",
+            "added": 1655503427,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

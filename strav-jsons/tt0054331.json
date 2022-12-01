@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0054331",
+   "tmdbID": "967",
+   "imdbRating": 79,
+   "imdbVoteCount": 135568,
+   "tmdbRating": 75,
+   "backdropPath": "/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg"
+   },
+   "originalTitle": "Spartacus",
+   "genres": [
+      12,
+      1,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1960,
+   "runtime": 197,
+   "cast": [
+      "Kirk Douglas",
+      "Laurence Olivier",
+      "Jean Simmons",
+      "Charles Laughton",
+      "Peter Ustinov",
+      "John Gavin",
+      "Nina Foch"
+   ],
+   "significants": [
+      "Stanley Kubrick",
+      "Anthony Mann"
+   ],
+   "title": "Spartacus",
+   "overview": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+   "tagline": "They trained him to kill for their pleasure ... but they trained him a little too well",
+   "video": "HcIMY1Ah3aw",
+   "posterPath": "/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/biaUMHb8xsdQHlEF6rHmlKxSARy.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

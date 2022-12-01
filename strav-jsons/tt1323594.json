@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1323594",
+   "tmdbID": "20352",
+   "imdbRating": 76,
+   "imdbVoteCount": 547144,
+   "tmdbRating": 72,
+   "backdropPath": "/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg",
+      "original": "https://image.tmdb.org/t/p/original/euCnMxNRlHNxA4f9BMnWbmxPOse.jpg"
+   },
+   "originalTitle": "Despicable Me",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 95,
+   "cast": [
+      "Steve Carell",
+      "Miranda Cosgrove",
+      "Dana Gaier",
+      "Elsie Fisher",
+      "Jason Segel",
+      "Russell Brand",
+      "Julie Andrews"
+   ],
+   "significants": [
+      "Pierre Coffin",
+      "Chris Renaud"
+   ],
+   "title": "Despicable Me",
+   "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+   "tagline": "Superbad. Superdad.",
+   "video": "zzCZ1W_CUoI",
+   "posterPath": "/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bRZT3dAv85TWLmQj4fhQg06W07D.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bRZT3dAv85TWLmQj4fhQg06W07D.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/kids/despicable-me/7d9bb702-0fae-3bcb-a52a-50ef623e7251",
+            "added": 1667314727,
+            "leaving": 1680343140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

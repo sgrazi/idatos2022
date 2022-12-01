@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0088847",
+   "tmdbID": "2108",
+   "imdbRating": 78,
+   "imdbVoteCount": 398393,
+   "tmdbRating": 77,
+   "backdropPath": "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg"
+   },
+   "originalTitle": "The Breakfast Club",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1985,
+   "runtime": 98,
+   "cast": [
+      "Emilio Estevez",
+      "Paul Gleason",
+      "Anthony Michael Hall",
+      "John Kapelos",
+      "Judd Nelson",
+      "Molly Ringwald",
+      "Ally Sheedy"
+   ],
+   "significants": [
+      "John Hughes"
+   ],
+   "title": "The Breakfast Club",
+   "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+   "tagline": "They only met once, but it changed their lives forever.",
+   "video": "OVdr9HiAStI",
+   "posterPath": "/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9nai8pRm4Ja0O265Qp6UyqXlLQ8.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/46445",
+            "added": 1664895719,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

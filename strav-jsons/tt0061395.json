@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0061395",
+   "tmdbID": "649",
+   "imdbRating": 77,
+   "imdbVoteCount": 45216,
+   "tmdbRating": 74,
+   "backdropPath": "/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg"
+   },
+   "originalTitle": "Belle de jour",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "IT"
+   ],
+   "year": 1967,
+   "runtime": 101,
+   "cast": [
+      "Catherine Deneuve",
+      "Jean Sorel",
+      "Michel Piccoli",
+      "Geneviève Page",
+      "Pierre Clémenti",
+      "Françoise Fabian",
+      "Macha Méril"
+   ],
+   "significants": [
+      "Luis Buñuel"
+   ],
+   "title": "Belle de Jour",
+   "overview": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+   "tagline": "Luis Bunuel's Masterpiece of Erotica!",
+   "video": "gC1lO7lqMuw",
+   "posterPath": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnqYbAOrzxtjhQEAAAJJ:type:feature",
+            "added": 1655505610,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

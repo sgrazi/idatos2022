@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0095705",
+   "tmdbID": "37136",
+   "imdbRating": 76,
+   "imdbVoteCount": 170558,
+   "tmdbRating": 72,
+   "backdropPath": "/7i3EPQ6ug0ip9OPqQXHEzaEs4An.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7i3EPQ6ug0ip9OPqQXHEzaEs4An.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7i3EPQ6ug0ip9OPqQXHEzaEs4An.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7i3EPQ6ug0ip9OPqQXHEzaEs4An.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7i3EPQ6ug0ip9OPqQXHEzaEs4An.jpg"
+   },
+   "originalTitle": "The Naked Gun: From the Files of Police Squad!",
+   "genres": [
+      35,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1988,
+   "runtime": 86,
+   "cast": [
+      "Leslie Nielsen",
+      "Priscilla Presley",
+      "Ricardo Montalban",
+      "George Kennedy",
+      "O.J. Simpson",
+      "Susan Beaubian",
+      "Nancy Marchand"
+   ],
+   "significants": [
+      "David Zucker"
+   ],
+   "title": "The Naked Gun: From the Files of Police Squad!",
+   "overview": "When the incompetent Lieutenant Frank Drebin seeks the ruthless killer of his partner, he stumbles upon an attempt to assassinate Queen Elizabeth II.",
+   "tagline": "You've read the ad, now see the movie!",
+   "video": "PACTQutbow4",
+   "posterPath": "/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wQHTHJ3jBKtz2c6VT9JZ8TD73yl.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/NFKyxdxFNXKdQJp4xa1_IyjKCoa2k4hV/",
+            "added": 1667642442,
+            "leaving": 1669870800
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

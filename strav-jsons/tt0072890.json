@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0072890",
+   "tmdbID": "968",
+   "imdbRating": 80,
+   "imdbVoteCount": 257620,
+   "tmdbRating": 78,
+   "backdropPath": "/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg"
+   },
+   "originalTitle": "Dog Day Afternoon",
+   "genres": [
+      1,
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1975,
+   "runtime": 125,
+   "cast": [
+      "Al Pacino",
+      "John Cazale",
+      "Charles Durning",
+      "Chris Sarandon",
+      "James Broderick",
+      "William Bogert",
+      "Penelope Allen"
+   ],
+   "significants": [
+      "Sidney Lumet"
+   ],
+   "title": "Dog Day Afternoon",
+   "overview": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturale. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+   "tagline": "Anything can happen during the dog days of summer. On August 22nd, 1972, everything did.",
+   "video": "3STmwLDDBcI",
+   "posterPath": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

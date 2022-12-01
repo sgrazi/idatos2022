@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0037913",
+   "tmdbID": "3309",
+   "imdbRating": 79,
+   "imdbVoteCount": 26263,
+   "tmdbRating": 76,
+   "backdropPath": "/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iWAijx2874J0QgNVXwqW24IMRai.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iWAijx2874J0QgNVXwqW24IMRai.jpg"
+   },
+   "originalTitle": "Mildred Pierce",
+   "genres": [
+      80,
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1945,
+   "runtime": 111,
+   "cast": [
+      "Joan Crawford",
+      "Jack Carson",
+      "Zachary Scott",
+      "Eve Arden",
+      "Ann Blyth",
+      "Bruce Bennett",
+      "Lee Patrick"
+   ],
+   "significants": [
+      "Michael Curtiz"
+   ],
+   "title": "Mildred Pierce",
+   "overview": "After her unfaithful husband leaves her, Mildred Pierce proves she can become independent and successful. However winning the approval of her spoiled daughter proves a greater challenge.",
+   "tagline": "The kind of woman most men want - BUT SHOULDN'T HAVE!",
+   "video": "iHd13yctuhE",
+   "posterPath": "/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iSXi0xvPUPwEI2xxWZrcKJXpUYc.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

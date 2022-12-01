@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0051036",
+   "tmdbID": "976",
+   "imdbRating": 80,
+   "imdbVoteCount": 32596,
+   "tmdbRating": 76,
+   "backdropPath": "/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6L1Co3uRWuoaqDxpWvGDvgXms7T.jpg"
+   },
+   "originalTitle": "Sweet Smell of Success",
+   "genres": [
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1957,
+   "runtime": 97,
+   "cast": [
+      "Burt Lancaster",
+      "Tony Curtis",
+      "Susan Harrison",
+      "Martin Milner",
+      "Jeff Donnell",
+      "Sam Levene",
+      "Joe Frisco"
+   ],
+   "significants": [
+      "Alexander Mackendrick"
+   ],
+   "title": "Sweet Smell of Success",
+   "overview": "New York City newspaper writer J.J. Hunsecker holds considerable sway over public opinion with his Broadway column, but one thing that he can't control is his younger sister, Susan, who is in a relationship with aspiring jazz guitarist Steve Dallas. Hunsecker strongly disapproves of the romance and recruits publicist Sidney Falco to find a way to split the couple, no matter how ruthless the method.",
+   "tagline": "The almighty J.J... the columnist with sixty million believers... his wrath is feared by the great and near great who worship the sweet smell of success!",
+   "video": "gBbPlyHxj8c",
+   "posterPath": "/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4SzW8u7avVczndyR3UbU87ZpE0V.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4SzW8u7avVczndyR3UbU87ZpE0V.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

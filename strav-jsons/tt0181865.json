@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0181865",
+   "tmdbID": "1900",
+   "imdbRating": 76,
+   "imdbVoteCount": 208147,
+   "tmdbRating": 70,
+   "backdropPath": "/7qIuxTSpDv5upnE9ofUhaWD91Jl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7qIuxTSpDv5upnE9ofUhaWD91Jl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7qIuxTSpDv5upnE9ofUhaWD91Jl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7qIuxTSpDv5upnE9ofUhaWD91Jl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7qIuxTSpDv5upnE9ofUhaWD91Jl.jpg"
+   },
+   "originalTitle": "Traffic",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "DE",
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 147,
+   "cast": [
+      "Michael Douglas",
+      "Benicio del Toro",
+      "Catherine Zeta-Jones",
+      "Don Cheadle",
+      "Erika Christensen",
+      "Jacob Vargas",
+      "Luis Guzmán"
+   ],
+   "significants": [
+      "Steven Soderbergh"
+   ],
+   "title": "Traffic",
+   "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+   "tagline": "No one gets away clean",
+   "video": "BNSSeq1_OB8",
+   "posterPath": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jbccmnqE4oAPI67bApgt2JiRPz8.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

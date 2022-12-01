@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt2562232",
+   "tmdbID": "194662",
+   "imdbRating": 77,
+   "imdbVoteCount": 629149,
+   "tmdbRating": 74,
+   "backdropPath": "/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pDqwUJJSaHIv2sxyRYfmYBFeU9C.jpg"
+   },
+   "originalTitle": "Birdman or (The Unexpected Virtue of Ignorance)",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 120,
+   "cast": [
+      "Michael Keaton",
+      "Emma Stone",
+      "Zach Galifianakis",
+      "Edward Norton",
+      "Andrea Riseborough",
+      "Amy Ryan",
+      "Naomi Watts"
+   ],
+   "significants": [
+      "Alejandro González Iñárritu"
+   ],
+   "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+   "overview": "A fading actor best known for his portrayal of a popular superhero attempts to mount a comeback by appearing in a Broadway play. As opening night approaches, his attempts to become more altruistic, rebuild his career, and reconnect with friends and family prove more difficult than expected.",
+   "tagline": "",
+   "video": "uJfLoE6hanc",
+   "posterPath": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

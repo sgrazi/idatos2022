@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt6148156",
+   "tmdbID": "432139",
+   "imdbRating": 83,
+   "imdbVoteCount": 45156,
+   "tmdbRating": 74,
+   "backdropPath": "/bOUKDbOe7hxGUHQHYJ7VCKkziZ3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bOUKDbOe7hxGUHQHYJ7VCKkziZ3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bOUKDbOe7hxGUHQHYJ7VCKkziZ3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bOUKDbOe7hxGUHQHYJ7VCKkziZ3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bOUKDbOe7hxGUHQHYJ7VCKkziZ3.jpg"
+   },
+   "originalTitle": "விக்ரம் வேதா",
+   "genres": [
+      28,
+      80
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2017,
+   "runtime": 147,
+   "cast": [
+      "R. Madhavan",
+      "Vijay Sethupathi",
+      "Shraddha Srinath",
+      "Kathir",
+      "Varalaxmi Sarathkumar",
+      "Prem",
+      "Hareesh Peradi"
+   ],
+   "significants": [
+      "Pushkar",
+      "Gayathri"
+   ],
+   "title": "Vikram Vedha",
+   "overview": "A notorious gangster Vedha surrenders himself to encounter specialist Vikram whom he challenges every step of the way by narrating his life events in the form of riddles that needs to be solved in order to capture him.",
+   "tagline": "",
+   "video": "1sVr-uWZPjE",
+   "posterPath": "/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ob9YxdzRu5lfKgz0PNrlL45dorf.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0FGB8KL77TYLNTYLCUEGOKSVY0/",
+            "added": 1636863314,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "ta"
+}

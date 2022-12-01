@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0210945",
+   "tmdbID": "10637",
+   "imdbRating": 78,
+   "imdbVoteCount": 216407,
+   "tmdbRating": 76,
+   "backdropPath": "/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cMUReq46MSz6WWsdW1Gu8oecJlc.jpg"
+   },
+   "originalTitle": "Remember the Titans",
+   "genres": [
+      1,
+      18,
+      5
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 113,
+   "cast": [
+      "Denzel Washington",
+      "Will Patton",
+      "Wood Harris",
+      "Ryan Hurst",
+      "Donald Faison",
+      "Craig Kirkwood",
+      "Ethan Suplee"
+   ],
+   "significants": [
+      "Boaz Yakin"
+   ],
+   "title": "Remember the Titans",
+   "overview": "After leading his football team to 15 winning seasons, coach Bill Yoast is demoted and replaced by Herman Boone – tough, opinionated and as different from the beloved Yoast as he could be. The two men learn to overcome their differences and turn a group of hostile young men into champions.",
+   "tagline": "History is written by the winners.",
+   "video": "nPhu9XsRl4M",
+   "posterPath": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "original": "https://image.tmdb.org/t/p/original/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/6itmwJfRJIfd",
+            "added": 1652625064,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

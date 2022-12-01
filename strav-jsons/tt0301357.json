@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0301357",
+   "tmdbID": "338",
+   "imdbRating": 77,
+   "imdbVoteCount": 146761,
+   "tmdbRating": 75,
+   "backdropPath": "/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oJeJTGIXgHIvg83AofuRV3KBf0y.jpg"
+   },
+   "originalTitle": "Good Bye Lenin!",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 2003,
+   "runtime": 121,
+   "cast": [
+      "Daniel Brühl",
+      "Katrin Sass",
+      "Chulpan Khamatova",
+      "Maria Simon",
+      "Florian Lukas",
+      "Alexander Beyer",
+      "Burghart Klaußner"
+   ],
+   "significants": [
+      "Wolfgang Becker"
+   ],
+   "title": "Good Bye Lenin!",
+   "overview": "Alex Kerner's mother was in a coma while the Berlin wall fell. When she wakes up he must try to keep her from learning what happened (as she was an avid communist supporter) to avoid shocking her which could lead to another heart attack.",
+   "tagline": "The German Democratic Republic lives on -- in 79 square meters!",
+   "video": "mIjSaHUKD5I",
+   "posterPath": "/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2xv7MuQFxJMK1ZV0r5fFI0FzdG0.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

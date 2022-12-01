@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0059113",
+   "tmdbID": "907",
+   "imdbRating": 79,
+   "imdbVoteCount": 77120,
+   "tmdbRating": 75,
+   "backdropPath": "/kMdvowuSvAbYfugANje3qUqkbxQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kMdvowuSvAbYfugANje3qUqkbxQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kMdvowuSvAbYfugANje3qUqkbxQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kMdvowuSvAbYfugANje3qUqkbxQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kMdvowuSvAbYfugANje3qUqkbxQ.jpg"
+   },
+   "originalTitle": "Doctor Zhivago",
+   "genres": [
+      18,
+      10749,
+      10752
+   ],
+   "countries": [
+      "IT",
+      "GB",
+      "US"
+   ],
+   "year": 1965,
+   "runtime": 200,
+   "cast": [
+      "Omar Sharif",
+      "Julie Christie",
+      "Geraldine Chaplin",
+      "Rod Steiger",
+      "Alec Guinness",
+      "Tom Courtenay",
+      "Siobhán McKenna"
+   ],
+   "significants": [
+      "David Lean"
+   ],
+   "title": "Doctor Zhivago",
+   "overview": "The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.",
+   "tagline": "Turbulent were the times and fiery was the love story of Zhivago, his wife and the passionate, tender Lara.",
+   "video": "M1iQ5hQTR5s",
+   "posterPath": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

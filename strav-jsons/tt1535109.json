@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1535109",
+   "tmdbID": "109424",
+   "imdbRating": 78,
+   "imdbVoteCount": 460432,
+   "tmdbRating": 75,
+   "backdropPath": "/fLrGQzvfhTwn9m7AqlJh65FMFfG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fLrGQzvfhTwn9m7AqlJh65FMFfG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fLrGQzvfhTwn9m7AqlJh65FMFfG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fLrGQzvfhTwn9m7AqlJh65FMFfG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fLrGQzvfhTwn9m7AqlJh65FMFfG.jpg"
+   },
+   "originalTitle": "Captain Phillips",
+   "genres": [
+      28,
+      1,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 134,
+   "cast": [
+      "Tom Hanks",
+      "Catherine Keener",
+      "Barkhad Abdi",
+      "Barkhad Abdirahman",
+      "Faysal  Ahmed",
+      "Mahat M. Ali",
+      "Michael Chernus"
+   ],
+   "significants": [
+      "Paul Greengrass"
+   ],
+   "title": "Captain Phillips",
+   "overview": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+   "tagline": "Out here survival is everything.",
+   "video": "TzU3UJuV80w",
+   "posterPath": "/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2x8ida0rHokUv80Ah4eBNb2eXas.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2x8ida0rHokUv80Ah4eBNb2eXas.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/70243460/",
+            "added": 1668157887,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

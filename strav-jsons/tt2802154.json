@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt2802154",
+   "tmdbID": "265180",
+   "imdbRating": 76,
+   "imdbVoteCount": 53881,
+   "tmdbRating": 74,
+   "backdropPath": "/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kb3RNnn4CMPRSaGbrX1ejc7lcRN.jpg"
+   },
+   "originalTitle": "Левиафан",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "RU"
+   ],
+   "year": 2014,
+   "runtime": 141,
+   "cast": [
+      "Aleksey Serebryakov",
+      "Elena Lyadova",
+      "Vladimir Vdovichenkov",
+      "Roman Madyanov",
+      "Anna Ukolova",
+      "Aleksey Rozin",
+      "Sergey Pokhodaev"
+   ],
+   "significants": [
+      "Andrey Zvyagintsev"
+   ],
+   "title": "Leviathan",
+   "overview": "In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.",
+   "tagline": "",
+   "video": "2oo7H25kirk",
+   "posterPath": "/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

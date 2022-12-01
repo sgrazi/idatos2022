@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0175880",
+   "tmdbID": "334",
+   "imdbRating": 80,
+   "imdbVoteCount": 313256,
+   "tmdbRating": 77,
+   "backdropPath": "/sWn488xLGp9SrPjZYuaIAaZE0dF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sWn488xLGp9SrPjZYuaIAaZE0dF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sWn488xLGp9SrPjZYuaIAaZE0dF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sWn488xLGp9SrPjZYuaIAaZE0dF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sWn488xLGp9SrPjZYuaIAaZE0dF.jpg"
+   },
+   "originalTitle": "Magnolia",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1999,
+   "runtime": 189,
+   "cast": [
+      "Jeremy Blackman",
+      "Tom Cruise",
+      "Melinda Dillon",
+      "Philip Baker Hall",
+      "Philip Seymour Hoffman",
+      "Ricky Jay",
+      "William H. Macy"
+   ],
+   "significants": [
+      "Paul Thomas Anderson"
+   ],
+   "title": "Magnolia",
+   "overview": "An epic mosaic of many interrelated characters in search of happiness, forgiveness, and meaning in the San Fernando Valley.",
+   "tagline": "Things fall down. People look up. And when it rains, it pours.",
+   "video": "cxcegktcxSM",
+   "posterPath": "/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uq2u8HgtLFJkjNq2kHb2jvipIPT.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

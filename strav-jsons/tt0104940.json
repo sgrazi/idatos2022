@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0104940",
+   "tmdbID": "10437",
+   "imdbRating": 77,
+   "imdbVoteCount": 58614,
+   "tmdbRating": 73,
+   "backdropPath": "/68KpdTMdBTEemcvPZ09J8C32WpG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/68KpdTMdBTEemcvPZ09J8C32WpG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/68KpdTMdBTEemcvPZ09J8C32WpG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/68KpdTMdBTEemcvPZ09J8C32WpG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/68KpdTMdBTEemcvPZ09J8C32WpG.jpg"
+   },
+   "originalTitle": "The Muppet Christmas Carol",
+   "genres": [
+      35,
+      18,
+      10751
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1992,
+   "runtime": 85,
+   "cast": [
+      "Michael Caine",
+      "Dave Goelz",
+      "Steve Whitmire",
+      "Jerry Nelson",
+      "Frank Oz",
+      "David Rudman",
+      "Don Austen"
+   ],
+   "significants": [
+      "Brian Henson"
+   ],
+   "title": "The Muppet Christmas Carol",
+   "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present, and Future.",
+   "tagline": "",
+   "video": "euz-682_mjo",
+   "posterPath": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ssrV29QSVVJuemBHho0Qx7pFYak.jpg"
+   },
+   "age": 1,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/6BumPfZlq5OH",
+            "added": 1606701188,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0327056",
+   "tmdbID": "322",
+   "imdbRating": 79,
+   "imdbVoteCount": 456737,
+   "tmdbRating": 77,
+   "backdropPath": "/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ah9hRJhdMMLkntNDIatKwncNJra.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ah9hRJhdMMLkntNDIatKwncNJra.jpg"
+   },
+   "originalTitle": "Mystic River",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2003,
+   "runtime": 138,
+   "cast": [
+      "Sean Penn",
+      "Tim Robbins",
+      "Kevin Bacon",
+      "Laurence Fishburne",
+      "Marcia Gay Harden",
+      "Laura Linney",
+      "Kevin Chapman"
+   ],
+   "significants": [
+      "Clint Eastwood"
+   ],
+   "title": "Mystic River",
+   "overview": "The lives of three men who were childhood friends are shattered when one of them has a family tragedy.",
+   "tagline": "We bury our sins, we wash them clean.",
+   "video": "_9I55rBqzV8",
+   "posterPath": "/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHsDgWt6a2brQEAAABm:type:feature",
+            "added": 1668858872,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

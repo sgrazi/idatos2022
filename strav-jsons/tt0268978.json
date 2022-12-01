@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0268978",
+   "tmdbID": "453",
+   "imdbRating": 82,
+   "imdbVoteCount": 929703,
+   "tmdbRating": 78,
+   "backdropPath": "/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vVBcIN68kFq681b4lObiNJhEVro.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vVBcIN68kFq681b4lObiNJhEVro.jpg"
+   },
+   "originalTitle": "A Beautiful Mind",
+   "genres": [
+      1,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 135,
+   "cast": [
+      "Russell Crowe",
+      "Jennifer Connelly",
+      "Ed Harris",
+      "Paul Bettany",
+      "Christopher Plummer",
+      "Josh Lucas",
+      "Adam Goldberg"
+   ],
+   "significants": [
+      "Ron Howard"
+   ],
+   "title": "A Beautiful Mind",
+   "overview": "John Nash is a brilliant but asocial mathematician fighting schizophrenia. After he accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+   "tagline": "He saw the world in a way no one could have imagined.",
+   "video": "WFJgUm7iOKw",
+   "posterPath": "/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/44800",
+            "added": 1662402445,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

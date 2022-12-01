@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0085334",
+   "tmdbID": "850",
+   "imdbRating": 79,
+   "imdbVoteCount": 148622,
+   "tmdbRating": 73,
+   "backdropPath": "/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg"
+   },
+   "originalTitle": "A Christmas Story",
+   "genres": [
+      35,
+      10751
+   ],
+   "countries": [
+      "US",
+      "CA"
+   ],
+   "year": 1983,
+   "runtime": 93,
+   "cast": [
+      "Melinda Dillon",
+      "Darren McGavin",
+      "Peter Billingsley",
+      "Jean Shepherd",
+      "Ian Petrella",
+      "Scott Schwartz",
+      "Tedde Moore"
+   ],
+   "significants": [
+      "Bob Clark"
+   ],
+   "title": "A Christmas Story",
+   "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+   "tagline": "Peace, Harmony, Comfort and Joy... Maybe Next Year.",
+   "video": "ptbPSR9pAB8",
+   "posterPath": "/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXdu2XQZadqXCPQEAADfe:type:feature",
+            "added": 1655509346,
+            "leaving": 16725491400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

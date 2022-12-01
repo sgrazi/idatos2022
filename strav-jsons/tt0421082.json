@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt0421082",
+   "tmdbID": "5708",
+   "imdbRating": 76,
+   "imdbVoteCount": 65752,
+   "tmdbRating": 75,
+   "backdropPath": "/AhXLn61RxOgxjkyAzjqILJRIfpX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AhXLn61RxOgxjkyAzjqILJRIfpX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AhXLn61RxOgxjkyAzjqILJRIfpX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AhXLn61RxOgxjkyAzjqILJRIfpX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AhXLn61RxOgxjkyAzjqILJRIfpX.jpg"
+   },
+   "originalTitle": "Control",
+   "genres": [
+      1,
+      18,
+      10402
+   ],
+   "countries": [
+      "AU",
+      "GB",
+      "US"
+   ],
+   "year": 2007,
+   "runtime": 121,
+   "cast": [
+      "Sam Riley",
+      "Samantha Morton",
+      "Alexandra Maria Lara",
+      "Joe Anderson",
+      "James Anthony Pearson",
+      "Toby Kebbell",
+      "Craig Parkinson"
+   ],
+   "significants": [
+      "Anton Corbijn"
+   ],
+   "title": "Control",
+   "overview": "The story of Joy Division’s lead singer Ian Curtis, from his schoolboy days in 1973 to his suicide on the eve of the band's first American tour in 1980.",
+   "tagline": "He had the spirit, but lost the feeling.",
+   "video": "pO2sJ1QL0a0",
+   "posterPath": "/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7stkovS2lz4fWttAfCCGbV2zQZ4.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "mubi": {
+         "us": {
+            "link": "https://mubi.com/films/control",
+            "added": 1664099527,
+            "leaving": 1671091200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

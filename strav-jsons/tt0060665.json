@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0060665",
+   "tmdbID": "874",
+   "imdbRating": 77,
+   "imdbVoteCount": 34893,
+   "tmdbRating": 73,
+   "backdropPath": "/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4WPdeIyF35N4Enppd7UCiEGo8s3.jpg"
+   },
+   "originalTitle": "A Man for All Seasons",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1966,
+   "runtime": 120,
+   "cast": [
+      "Paul Scofield",
+      "Wendy Hiller",
+      "Leo McKern",
+      "Robert Shaw",
+      "Orson Welles",
+      "Susannah York",
+      "Nigel Davenport"
+   ],
+   "significants": [
+      "Fred Zinnemann"
+   ],
+   "title": "A Man for All Seasons",
+   "overview": "A depiction of the conflict between King Henry VIII of England and his Lord Chancellor, Sir Thomas More, who refuses to swear the Oath of Supremacy declaring Henry Supreme Head of the Church in England.",
+   "tagline": "...a motion picture for all times!",
+   "video": "HM7jj9t2CQ8",
+   "posterPath": "/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fKdIMxsxt2PQlHGqmnl8uSS2C54.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

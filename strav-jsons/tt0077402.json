@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0077402",
+   "tmdbID": "923",
+   "imdbRating": 78,
+   "imdbVoteCount": 121821,
+   "tmdbRating": 74,
+   "backdropPath": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg"
+   },
+   "originalTitle": "Dawn of the Dead",
+   "genres": [
+      27,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1978,
+   "runtime": 127,
+   "cast": [
+      "David Emge",
+      "Ken Foree",
+      "Scott H. Reiniger",
+      "Gaylen Ross",
+      "David Crawford",
+      "David Early",
+      "Richard France"
+   ],
+   "significants": [
+      "George A. Romero"
+   ],
+   "title": "Dawn of the Dead",
+   "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+   "tagline": "When there’s no more room in HELL, the dead will walk the EARTH!",
+   "video": "3M3NUjaOyJ8",
+   "posterPath": "/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rC3YUoxZFTJAyS4BcZr7TeykrYH.jpg"
+   },
+   "age": 18,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

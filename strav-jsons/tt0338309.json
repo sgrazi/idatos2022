@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0338309",
+   "tmdbID": "11197",
+   "imdbRating": 77,
+   "imdbVoteCount": 39033,
+   "tmdbRating": 72,
+   "backdropPath": "/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg"
+   },
+   "originalTitle": "Ondskan",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "DK",
+      "SE"
+   ],
+   "year": 2003,
+   "runtime": 113,
+   "cast": [
+      "Andreas Wilson",
+      "Henrik Lundström",
+      "Gustaf Skarsgård",
+      "Linda Zilliacus",
+      "Jesper Salén",
+      "Mats Bergman",
+      "Johan Rabaeus"
+   ],
+   "significants": [
+      "Mikael Håfström"
+   ],
+   "title": "Evil",
+   "overview": "Stockholm, the fifties. Though academically bright, violent pupil Erik Ponti is expelled from his state school with the headmaster’s words “there’s only one word for people like you – evil… what you need is a good thrashing, and more”. In fact already Erik frequently receives a ‘good’ thrashing at the hands of his sadistic stepfather – so he is packed off by his mother to boardingschool",
+   "tagline": "It's time to take a stand.",
+   "video": "3tCFvaJo9aE",
+   "posterPath": "/gruXA29fquPuRHbam75kXQMaGju.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gruXA29fquPuRHbam75kXQMaGju.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gruXA29fquPuRHbam75kXQMaGju.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gruXA29fquPuRHbam75kXQMaGju.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gruXA29fquPuRHbam75kXQMaGju.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gruXA29fquPuRHbam75kXQMaGju.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gruXA29fquPuRHbam75kXQMaGju.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gruXA29fquPuRHbam75kXQMaGju.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0N8VNXBZ57WXJWB3A60KNBGZ47/",
+            "added": 1659633181,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

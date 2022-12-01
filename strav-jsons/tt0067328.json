@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0067328",
+   "tmdbID": "25188",
+   "imdbRating": 80,
+   "imdbVoteCount": 48783,
+   "tmdbRating": 77,
+   "backdropPath": "/6HjPgNarUpxMe1OjZi8A1ie1xCR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6HjPgNarUpxMe1OjZi8A1ie1xCR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6HjPgNarUpxMe1OjZi8A1ie1xCR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6HjPgNarUpxMe1OjZi8A1ie1xCR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6HjPgNarUpxMe1OjZi8A1ie1xCR.jpg"
+   },
+   "originalTitle": "The Last Picture Show",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1971,
+   "runtime": 119,
+   "cast": [
+      "Timothy Bottoms",
+      "Cybill Shepherd",
+      "Jeff Bridges",
+      "Cloris Leachman",
+      "Ellen Burstyn",
+      "Ben Johnson",
+      "Eileen Brennan"
+   ],
+   "significants": [
+      "Peter Bogdanovich"
+   ],
+   "title": "The Last Picture Show",
+   "overview": "High school seniors and best friends, Sonny and Duane, live in a dying Texas town. The handsome Duane is dating a local beauty, while Sonny is having an affair with the coach's wife. As graduation nears and both boys contemplate their futures, Duane eyes the army and Sonny takes over a local business. Each struggles to figure out if he can escape this dead-end town and build a better life somewhere else.",
+   "tagline": "Anarene, Texas, 1951. Nothing much has changed…",
+   "video": "sr93HYVs_Kk",
+   "posterPath": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7NYePZc0lZrRomtmQsjOJMePTEb.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

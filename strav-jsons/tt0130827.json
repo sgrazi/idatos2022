@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0130827",
+   "tmdbID": "104",
+   "imdbRating": 77,
+   "imdbVoteCount": 199487,
+   "tmdbRating": 73,
+   "backdropPath": "/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg"
+   },
+   "originalTitle": "Lola rennt",
+   "genres": [
+      28,
+      80,
+      53
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 1998,
+   "runtime": 81,
+   "cast": [
+      "Franka Potente",
+      "Moritz Bleibtreu",
+      "Herbert Knaup",
+      "Nina Petri",
+      "Armin Rohde",
+      "Joachim Król",
+      "Ludger Pistor"
+   ],
+   "significants": [
+      "Tom Tykwer"
+   ],
+   "title": "Run Lola Run",
+   "overview": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+   "tagline": "Every second of every day you're faced with a decision that can change your life.",
+   "video": "ywuU8vnYvk0",
+   "posterPath": "/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/v0giIi4bTILVhNhJajet3WWY3FA.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

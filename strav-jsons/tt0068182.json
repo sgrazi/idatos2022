@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0068182",
+   "tmdbID": "2000",
+   "imdbRating": 78,
+   "imdbVoteCount": 57672,
+   "tmdbRating": 75,
+   "backdropPath": "/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zKakF2CHjm85bFaeyM9LeB2Ssz3.jpg"
+   },
+   "originalTitle": "Aguirre, der Zorn Gottes",
+   "genres": [
+      28,
+      12,
+      1
+   ],
+   "countries": [
+      "DE",
+      "MX",
+      "PE"
+   ],
+   "year": 1972,
+   "runtime": 95,
+   "cast": [
+      "Klaus Kinski",
+      "Helena Rojo",
+      "Del Negro",
+      "Ruy Guerra",
+      "Peter Berling",
+      "Cecilia Rivera",
+      "Daniel Ades"
+   ],
+   "significants": [
+      "Werner Herzog"
+   ],
+   "title": "Aguirre, the Wrath of God",
+   "overview": "A few decades after the destruction of the Inca Empire, a Spanish expedition led by the infamous Aguirre leaves the mountains of Peru and goes down the Amazon River in search of the lost city of El Dorado. When great difficulties arise, Aguirre’s men start to wonder whether their quest will lead them to prosperity or certain death.",
+   "tagline": "A breathtaking journey into the heart of darkness.",
+   "video": "9LqdXayZ6Q0",
+   "posterPath": "/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6MNqmGe0JjEuGX1PMjRBAEI6aXg.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

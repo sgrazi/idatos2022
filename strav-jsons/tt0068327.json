@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0068327",
+   "tmdbID": "10784",
+   "imdbRating": 78,
+   "imdbVoteCount": 55587,
+   "tmdbRating": 74,
+   "backdropPath": "/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg"
+   },
+   "originalTitle": "Cabaret",
+   "genres": [
+      18,
+      10402,
+      4
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1972,
+   "runtime": 124,
+   "cast": [
+      "Liza Minnelli",
+      "Michael York",
+      "Helmut Griem",
+      "Joel Grey",
+      "Fritz Wepper",
+      "Marisa Berenson",
+      "Elisabeth Neumann-Viertel"
+   ],
+   "significants": [
+      "Bob Fosse"
+   ],
+   "title": "Cabaret",
+   "overview": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+   "tagline": "Life is a Cabaret.",
+   "video": "YE3xrfjAJfs",
+   "posterPath": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

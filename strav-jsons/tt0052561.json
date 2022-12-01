@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0052561",
+   "tmdbID": "93",
+   "imdbRating": 80,
+   "imdbVoteCount": 66832,
+   "tmdbRating": 78,
+   "backdropPath": "/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jtCNu6f3MCFuEQ4cyHcNdI1QUjI.jpg"
+   },
+   "originalTitle": "Anatomy of a Murder",
+   "genres": [
+      18,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1959,
+   "runtime": 161,
+   "cast": [
+      "James Stewart",
+      "Lee Remick",
+      "Ben Gazzara",
+      "Arthur O'Connell",
+      "Eve Arden",
+      "Kathryn Grant",
+      "George C. Scott"
+   ],
+   "significants": [
+      "Otto Preminger"
+   ],
+   "title": "Anatomy of a Murder",
+   "overview": "Semi-retired Michigan lawyer Paul Biegler takes the case of Army Lt. Manion, who murdered a local innkeeper after his wife claimed that he raped her. Over the course of an extensive trial, Biegler parries with District Attorney Lodwick and out-of-town prosecutor Claude Dancer to set his client free, but his case rests on the victim's mysterious business partner, who's hiding a dark secret.",
+   "tagline": "No search of human emotions has ever probed so deeply, so truthfully as… Anatomy of a Murder.",
+   "video": "meHflk7RYkk",
+   "posterPath": "/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zMxLbSPpToTCc6yK2Gddhx6nHNN.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

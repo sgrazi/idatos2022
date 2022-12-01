@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0083946",
+   "tmdbID": "9343",
+   "imdbRating": 80,
+   "imdbVoteCount": 35440,
+   "tmdbRating": 76,
+   "backdropPath": "/zBM5BMt82CcuRI0gtu9IrlKGyo2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zBM5BMt82CcuRI0gtu9IrlKGyo2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zBM5BMt82CcuRI0gtu9IrlKGyo2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zBM5BMt82CcuRI0gtu9IrlKGyo2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zBM5BMt82CcuRI0gtu9IrlKGyo2.jpg"
+   },
+   "originalTitle": "Fitzcarraldo",
+   "genres": [
+      12,
+      18
+   ],
+   "countries": [
+      "DE",
+      "PE"
+   ],
+   "year": 1982,
+   "runtime": 157,
+   "cast": [
+      "Klaus Kinski",
+      "Claudia Cardinale",
+      "José Lewgoy",
+      "Miguel Ángel Fuentes",
+      "Paul Hittscher",
+      "Huerequeque Enrique Bohórquez",
+      "Grande Otelo"
+   ],
+   "significants": [
+      "Werner Herzog"
+   ],
+   "title": "Fitzcarraldo",
+   "overview": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+   "tagline": "",
+   "video": "xWeb7i8IjYs",
+   "posterPath": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/fitzcarraldo/89d68842-bcff-3380-a836-eb872a3aa787",
+            "added": 1668698426,
+            "leaving": 32503715940
+         }
+      }
+   },
+   "originalLanguage": "de"
+}

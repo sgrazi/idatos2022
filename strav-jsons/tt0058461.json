@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0058461",
+   "tmdbID": "391",
+   "imdbRating": 79,
+   "imdbVoteCount": 217971,
+   "tmdbRating": 78,
+   "backdropPath": "/yTyCk81I7IZ1lCcfPsaENjhgy0w.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yTyCk81I7IZ1lCcfPsaENjhgy0w.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yTyCk81I7IZ1lCcfPsaENjhgy0w.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yTyCk81I7IZ1lCcfPsaENjhgy0w.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yTyCk81I7IZ1lCcfPsaENjhgy0w.jpg"
+   },
+   "originalTitle": "Per un pugno di dollari",
+   "genres": [
+      28,
+      37
+   ],
+   "countries": [
+      "DE",
+      "ES",
+      "IT"
+   ],
+   "year": 1964,
+   "runtime": 99,
+   "cast": [
+      "Clint Eastwood",
+      "Marianne Koch",
+      "Gian Maria Volonté",
+      "Wolfgang Lukschy",
+      "Sieghardt Rupp",
+      "Joseph Egger",
+      "Antonio Prieto"
+   ],
+   "significants": [
+      "Sergio Leone"
+   ],
+   "title": "A Fistful of Dollars",
+   "overview": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+   "tagline": "In his own way he is perhaps, the most dangerous man who ever lived!",
+   "video": "a7KUcJQSSbs",
+   "posterPath": "/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

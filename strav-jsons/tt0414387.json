@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0414387",
+   "tmdbID": "4348",
+   "imdbRating": 78,
+   "imdbVoteCount": 296573,
+   "tmdbRating": 80,
+   "backdropPath": "/yBq4jWZLaEJIssuVx2fAysEwJnt.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yBq4jWZLaEJIssuVx2fAysEwJnt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yBq4jWZLaEJIssuVx2fAysEwJnt.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yBq4jWZLaEJIssuVx2fAysEwJnt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yBq4jWZLaEJIssuVx2fAysEwJnt.jpg"
+   },
+   "originalTitle": "Pride & Prejudice",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "GB",
+      "US"
+   ],
+   "year": 2005,
+   "runtime": 127,
+   "cast": [
+      "Keira Knightley",
+      "Matthew Macfadyen",
+      "Brenda Blethyn",
+      "Donald Sutherland",
+      "Rosamund Pike",
+      "Jena Malone",
+      "Carey Mulligan"
+   ],
+   "significants": [
+      "Joe Wright"
+   ],
+   "title": "Pride & Prejudice",
+   "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+   "tagline": "A romance ahead of its time.",
+   "video": "Ur_DIHs92NM",
+   "posterPath": "/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/drama/pride-and-prejudice/51e4240b-7f1a-3a38-b15f-6881e449b58e",
+            "added": 1667314949,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

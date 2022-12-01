@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0120762",
+   "tmdbID": "10674",
+   "imdbRating": 76,
+   "imdbVoteCount": 288388,
+   "tmdbRating": 79,
+   "backdropPath": "/rFxWhQB3JmmwCU5kcQQFrnpzGtF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rFxWhQB3JmmwCU5kcQQFrnpzGtF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rFxWhQB3JmmwCU5kcQQFrnpzGtF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rFxWhQB3JmmwCU5kcQQFrnpzGtF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rFxWhQB3JmmwCU5kcQQFrnpzGtF.jpg"
+   },
+   "originalTitle": "Mulan",
+   "genres": [
+      16,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1998,
+   "runtime": 88,
+   "cast": [
+      "Ming-Na Wen",
+      "Eddie Murphy",
+      "BD Wong",
+      "Miguel Ferrer",
+      "Harvey Fierstein",
+      "Freda Foh Shen",
+      "June Foray"
+   ],
+   "significants": [
+      "Tony Bancroft",
+      "Barry Cook"
+   ],
+   "title": "Mulan",
+   "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+   "tagline": "Courage. Family. Honor.",
+   "video": "2z2KsFZs-8I",
+   "posterPath": "/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/85wmj4hahA0B",
+            "added": 1652551453,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

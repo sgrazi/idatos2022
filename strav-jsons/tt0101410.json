@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0101410",
+   "tmdbID": "290",
+   "imdbRating": 76,
+   "imdbVoteCount": 122504,
+   "tmdbRating": 74,
+   "backdropPath": "/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg"
+   },
+   "originalTitle": "Barton Fink",
+   "genres": [
+      35,
+      18,
+      53
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1991,
+   "runtime": 117,
+   "cast": [
+      "John Turturro",
+      "John Goodman",
+      "Judy Davis",
+      "Michael Lerner",
+      "Tony Shalhoub",
+      "John Mahoney",
+      "Jon Polito"
+   ],
+   "significants": [
+      "Joel Coen"
+   ],
+   "title": "Barton Fink",
+   "overview": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+   "tagline": "What's in his head",
+   "video": "WK0WjWlVO9w",
+   "posterPath": "/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oejVCD5YiksoeRnrF8QTME2FZe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oejVCD5YiksoeRnrF8QTME2FZe.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0056218",
+   "tmdbID": "982",
+   "imdbRating": 79,
+   "imdbVoteCount": 76070,
+   "tmdbRating": 76,
+   "backdropPath": "/7dX07NQv4p6kfzSkA9rf9LvlvVD.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7dX07NQv4p6kfzSkA9rf9LvlvVD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7dX07NQv4p6kfzSkA9rf9LvlvVD.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7dX07NQv4p6kfzSkA9rf9LvlvVD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7dX07NQv4p6kfzSkA9rf9LvlvVD.jpg"
+   },
+   "originalTitle": "The Manchurian Candidate",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1962,
+   "runtime": 126,
+   "cast": [
+      "Frank Sinatra",
+      "Laurence Harvey",
+      "Angela Lansbury",
+      "James Gregory",
+      "Janet Leigh",
+      "Henry Silva",
+      "Leslie Parrish"
+   ],
+   "significants": [
+      "John Frankenheimer"
+   ],
+   "title": "The Manchurian Candidate",
+   "overview": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco, finds himself plagued by strange nightmares and soon races to uncover a terrible plot.",
+   "tagline": "When you've seen it all, you'll swear there's never been anything like it!",
+   "video": "tgCyowLRfvA",
+   "posterPath": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

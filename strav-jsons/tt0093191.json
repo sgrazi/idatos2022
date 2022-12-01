@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0093191",
+   "tmdbID": "144",
+   "imdbRating": 80,
+   "imdbVoteCount": 71576,
+   "tmdbRating": 78,
+   "backdropPath": "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg"
+   },
+   "originalTitle": "Der Himmel über Berlin",
+   "genres": [
+      18,
+      14,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "DE"
+   ],
+   "year": 1987,
+   "runtime": 128,
+   "cast": [
+      "Bruno Ganz",
+      "Solveig Dommartin",
+      "Otto Sander",
+      "Curt Bois",
+      "Peter Falk",
+      "Hans Martin Stier",
+      "Elmar Wilms"
+   ],
+   "significants": [
+      "Wim Wenders"
+   ],
+   "title": "Wings of Desire",
+   "overview": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
+   "tagline": "There are angels on the streets of Berlin.",
+   "video": "0pwgFOCBaOw",
+   "posterPath": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoKg86JcNVoAEAABtF:type:feature",
+            "added": 1655512805,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "de"
+}

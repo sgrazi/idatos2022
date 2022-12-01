@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt6966692",
+   "tmdbID": "490132",
+   "imdbRating": 82,
+   "imdbVoteCount": 487226,
+   "tmdbRating": 82,
+   "backdropPath": "/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg"
+   },
+   "originalTitle": "Green Book",
+   "genres": [
+      1,
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2018,
+   "runtime": 130,
+   "cast": [
+      "Viggo Mortensen",
+      "Mahershala Ali",
+      "Linda Cardellini",
+      "Sebastian Maniscalco",
+      "Dimiter D. Marinov",
+      "Mike Hatton",
+      "P.J. Byrne"
+   ],
+   "significants": [
+      "Peter Farrelly"
+   ],
+   "title": "Green Book",
+   "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+   "tagline": "Inspired by a True Friendship",
+   "video": "QkZxoko_HC0",
+   "posterPath": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

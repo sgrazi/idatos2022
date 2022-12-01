@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0017136",
+   "tmdbID": "19",
+   "imdbRating": 83,
+   "imdbVoteCount": 174697,
+   "tmdbRating": 81,
+   "backdropPath": "/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg"
+   },
+   "originalTitle": "Metropolis",
+   "genres": [
+      18,
+      878
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 1927,
+   "runtime": 149,
+   "cast": [
+      "Gustav Fröhlich",
+      "Brigitte Helm",
+      "Alfred Abel",
+      "Rudolf Klein-Rogge",
+      "Theodor Loos",
+      "Fritz Rasp",
+      "Erwin Biswanger"
+   ],
+   "significants": [
+      "Fritz Lang"
+   ],
+   "title": "Metropolis",
+   "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+   "tagline": "There can be no understanding between the hands and the brain unless the heart acts as mediator.",
+   "video": "gdtZv3XROnc",
+   "posterPath": "/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pxbGZewX327IbTvrCVRJgcLJTSQ.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

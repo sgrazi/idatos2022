@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0091670",
+   "tmdbID": "24657",
+   "imdbRating": 79,
+   "imdbVoteCount": 28588,
+   "tmdbRating": 76,
+   "backdropPath": "/bkL2f7KgePtzMXWHBm4oGK7NIs7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bkL2f7KgePtzMXWHBm4oGK7NIs7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bkL2f7KgePtzMXWHBm4oGK7NIs7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bkL2f7KgePtzMXWHBm4oGK7NIs7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bkL2f7KgePtzMXWHBm4oGK7NIs7.jpg"
+   },
+   "originalTitle": "Offret",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "FR",
+      "SE",
+      "GB"
+   ],
+   "year": 1986,
+   "runtime": 149,
+   "cast": [
+      "Erland Josephson",
+      "Susan Fleetwood",
+      "Allan Edwall",
+      "Guðrún Gísladóttir",
+      "Sven Wollter",
+      "Valérie Mairesse",
+      "Filippa Franzén"
+   ],
+   "significants": [
+      "Andrei Tarkovsky"
+   ],
+   "title": "The Sacrifice",
+   "overview": "Alexander, a journalist, philosopher and retired actor, celebrates a birthday with friends and family when it is announced that nuclear war has begun.",
+   "tagline": "",
+   "video": "ODJb2-PLu7Y",
+   "posterPath": "/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8JMh27z075ZHbFE85XYkdXF2QkK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8JMh27z075ZHbFE85XYkdXF2QkK.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "sv"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0246578",
+   "tmdbID": "141",
+   "imdbRating": 80,
+   "imdbVoteCount": 799740,
+   "tmdbRating": 77,
+   "backdropPath": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg"
+   },
+   "originalTitle": "Donnie Darko",
+   "genres": [
+      18,
+      9648,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 114,
+   "cast": [
+      "Jake Gyllenhaal",
+      "Jena Malone",
+      "James Duval",
+      "Drew Barrymore",
+      "Beth Grant",
+      "Maggie Gyllenhaal",
+      "Mary McDonnell"
+   ],
+   "significants": [
+      "Richard Kelly"
+   ],
+   "title": "Donnie Darko",
+   "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+   "tagline": "28 days, 6 hours, 42 minutes, 12 seconds... that is when the world will end.",
+   "video": "YBoPpF4VNnk",
+   "posterPath": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYfBqiQ1BIKTDAQEAAAAd:type:feature",
+            "added": 1655509077,
+            "leaving": 16908732000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

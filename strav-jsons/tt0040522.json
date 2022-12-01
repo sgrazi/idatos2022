@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0040522",
+   "tmdbID": "5156",
+   "imdbRating": 83,
+   "imdbVoteCount": 163868,
+   "tmdbRating": 82,
+   "backdropPath": "/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg"
+   },
+   "originalTitle": "Ladri di biciclette",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IT"
+   ],
+   "year": 1948,
+   "runtime": 89,
+   "cast": [
+      "Lamberto Maggiorani",
+      "Enzo Staiola",
+      "Lianella Carell",
+      "Elena Altieri",
+      "Gino Saltamerenda",
+      "Giulio Chiari",
+      "Vittorio Antonucci"
+   ],
+   "significants": [
+      "Vittorio De Sica"
+   ],
+   "title": "Bicycle Thieves",
+   "overview": "A working man's livelihood is threatened when someone steals his bicycle.",
+   "tagline": "The Prize Picture They Want to Censor!",
+   "video": "H2P4xo9kmPM",
+   "posterPath": "/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ihLPR2hiHljvvdTzHk6NeNTVMXf.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnvVpgspM4CgwwEAAA6K:type:feature",
+            "added": 1655503537,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

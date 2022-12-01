@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0049730",
+   "tmdbID": "3114",
+   "imdbRating": 79,
+   "imdbVoteCount": 89948,
+   "tmdbRating": 77,
+   "backdropPath": "/9J533N4ZMNpcaN9k1Aw08XguFPS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9J533N4ZMNpcaN9k1Aw08XguFPS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9J533N4ZMNpcaN9k1Aw08XguFPS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9J533N4ZMNpcaN9k1Aw08XguFPS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9J533N4ZMNpcaN9k1Aw08XguFPS.jpg"
+   },
+   "originalTitle": "The Searchers",
+   "genres": [
+      12,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1956,
+   "runtime": 119,
+   "cast": [
+      "John Wayne",
+      "Jeffrey Hunter",
+      "Vera Miles",
+      "Natalie Wood",
+      "Ward Bond",
+      "John Qualen",
+      "Olive Carey"
+   ],
+   "significants": [
+      "John Ford"
+   ],
+   "title": "The Searchers",
+   "overview": "As a Civil War veteran spends years searching for a young niece captured by Indians, his motivation becomes increasingly questionable.",
+   "tagline": "He had to find her... he had to find her...",
+   "video": "9UkNXL-WYbg",
+   "posterPath": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

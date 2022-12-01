@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0107290",
+   "tmdbID": "329",
+   "imdbRating": 82,
+   "imdbVoteCount": 983895,
+   "tmdbRating": 79,
+   "backdropPath": "/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/79bJL9ydAMYVltuNTt4VhxORqIz.jpg"
+   },
+   "originalTitle": "Jurassic Park",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 127,
+   "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum",
+      "Richard Attenborough",
+      "Bob Peck",
+      "Martin Ferrero",
+      "BD Wong"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "Jurassic Park",
+   "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+   "tagline": "An adventure 65 million years in the making.",
+   "video": "_jKEqDKpJLw",
+   "posterPath": "/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+      "original": "https://image.tmdb.org/t/p/original/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYJlJDwG96Q_DwgEAAAA1:type:feature",
+            "added": 1655500346,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

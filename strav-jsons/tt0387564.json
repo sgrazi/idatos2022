@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0387564",
+   "tmdbID": "176",
+   "imdbRating": 76,
+   "imdbVoteCount": 422471,
+   "tmdbRating": 73,
+   "backdropPath": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ok4ot3YbfDYZcINXf91JUfq3maB.jpg"
+   },
+   "originalTitle": "Saw",
+   "genres": [
+      27,
+      9648,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 103,
+   "cast": [
+      "Cary Elwes",
+      "Leigh Whannell",
+      "Danny Glover",
+      "Monica Potter",
+      "Ken Leung",
+      "Makenzie Vega",
+      "Michael Emerson"
+   ],
+   "significants": [
+      "James Wan"
+   ],
+   "title": "Saw",
+   "overview": "Obsessed with teaching his victims the value of life, a deranged, sadistic serial killer abducts the morally wayward. Once captured, they must face impossible choices in a horrific game of survival. The victims must fight to win their lives back, or die trying...",
+   "tagline": "Live or die. Make your choice.",
+   "video": "HKPy5RWuqNA",
+   "posterPath": "/harQifr8kpIVqlLP41kTR058LZB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/harQifr8kpIVqlLP41kTR058LZB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/harQifr8kpIVqlLP41kTR058LZB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/harQifr8kpIVqlLP41kTR058LZB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/harQifr8kpIVqlLP41kTR058LZB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/harQifr8kpIVqlLP41kTR058LZB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/harQifr8kpIVqlLP41kTR058LZB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/harQifr8kpIVqlLP41kTR058LZB.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/0cad8df8-510b-49b2-82be-59298462a203",
+            "added": 1668152902,
+            "leaving": 1675238340
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

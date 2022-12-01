@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0116477",
+   "tmdbID": "10549",
+   "imdbRating": 78,
+   "imdbVoteCount": 38430,
+   "tmdbRating": 74,
+   "backdropPath": "/ishSjAPkCLpy6Q3jCcGrKzxvwTH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ishSjAPkCLpy6Q3jCcGrKzxvwTH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ishSjAPkCLpy6Q3jCcGrKzxvwTH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ishSjAPkCLpy6Q3jCcGrKzxvwTH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ishSjAPkCLpy6Q3jCcGrKzxvwTH.jpg"
+   },
+   "originalTitle": "Hamlet",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1996,
+   "runtime": 242,
+   "cast": [
+      "Kenneth Branagh",
+      "Derek Jacobi",
+      "Kate Winslet",
+      "Julie Christie",
+      "Richard Briers",
+      "Nicholas Farrell",
+      "Rufus Sewell"
+   ],
+   "significants": [
+      "Kenneth Branagh"
+   ],
+   "title": "Hamlet",
+   "overview": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother now marrying the murderer... his uncle. Meanwhile, war is brewing.",
+   "tagline": "",
+   "video": "16bKLGi4aRc",
+   "posterPath": "/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qvKOnuiuDBtTPq9U77rbRUydzrv.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

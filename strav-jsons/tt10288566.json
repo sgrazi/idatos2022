@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt10288566",
+   "tmdbID": "580175",
+   "imdbRating": 77,
+   "imdbVoteCount": 156195,
+   "tmdbRating": 77,
+   "backdropPath": "/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/a2pPepVPtKY7E4XEkT7W3ZxUOY5.jpg"
+   },
+   "originalTitle": "Druk",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "DK",
+      "NL",
+      "SE"
+   ],
+   "year": 2020,
+   "runtime": 117,
+   "cast": [
+      "Mads Mikkelsen",
+      "Thomas Bo Larsen",
+      "Lars Ranthe",
+      "Magnus Millang",
+      "Maria Bonnevie",
+      "Susse Wold",
+      "Helene Reingaard Neumann"
+   ],
+   "significants": [
+      "Thomas Vinterberg"
+   ],
+   "title": "Another Round",
+   "overview": "Four high school teachers launch a drinking experiment: upholding a constant low level of intoxication.",
+   "tagline": "What a life.",
+   "video": "xlwAgvn1e5E",
+   "posterPath": "/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fsn4cjpCvWuP9wU9hcFnK7M8RZC.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/08c2a90b-c9fb-461d-859c-7417c4c255b7",
+            "added": 1668244842,
+            "leaving": 1710486000
+         }
+      }
+   },
+   "originalLanguage": "da"
+}

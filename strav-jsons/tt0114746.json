@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0114746",
+   "tmdbID": "63",
+   "imdbRating": 80,
+   "imdbVoteCount": 617747,
+   "tmdbRating": 76,
+   "backdropPath": "/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2aPrheKAOwyjJqu6YYd2TvsKv9a.jpg"
+   },
+   "originalTitle": "Twelve Monkeys",
+   "genres": [
+      9648,
+      878,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1995,
+   "runtime": 129,
+   "cast": [
+      "Bruce Willis",
+      "Madeleine Stowe",
+      "Brad Pitt",
+      "Christopher Plummer",
+      "David Morse",
+      "Jon Seda",
+      "Christopher Meloni"
+   ],
+   "significants": [
+      "Terry Gilliam"
+   ],
+   "title": "Twelve Monkeys",
+   "overview": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly, and patient Jeffrey Goines, the son of a famous virus expert, who may hold the key to the mysterious rogue group, the Army of the 12 Monkeys, thought to be responsible for unleashing the killer disease.",
+   "tagline": "The future is history.",
+   "video": "YxLbHHYGzkg",
+   "posterPath": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

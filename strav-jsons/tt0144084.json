@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0144084",
+   "tmdbID": "1359",
+   "imdbRating": 76,
+   "imdbVoteCount": 611763,
+   "tmdbRating": 73,
+   "backdropPath": "/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg"
+   },
+   "originalTitle": "American Psycho",
+   "genres": [
+      80,
+      18,
+      27
+   ],
+   "countries": [
+      "CA",
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 102,
+   "cast": [
+      "Christian Bale",
+      "Willem Dafoe",
+      "Jared Leto",
+      "Josh Lucas",
+      "Samantha Mathis",
+      "Matt Ross",
+      "Bill Sage"
+   ],
+   "significants": [
+      "Mary Harron"
+   ],
+   "title": "American Psycho",
+   "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+   "tagline": "I think my mask of sanity is about to slip.",
+   "video": "5YnGhW4UEhc",
+   "posterPath": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg"
+   },
+   "age": 18,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWIeb3gOZ7MMjXQEAAACW:type:feature",
+            "added": 1655501762,
+            "leaving": 16776576000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

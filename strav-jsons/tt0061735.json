@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0061735",
+   "tmdbID": "1879",
+   "imdbRating": 78,
+   "imdbVoteCount": 45702,
+   "tmdbRating": 76,
+   "backdropPath": "/iSxiA5ZwJcLtnpBwB74fdGU2CBW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iSxiA5ZwJcLtnpBwB74fdGU2CBW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iSxiA5ZwJcLtnpBwB74fdGU2CBW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iSxiA5ZwJcLtnpBwB74fdGU2CBW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iSxiA5ZwJcLtnpBwB74fdGU2CBW.jpg"
+   },
+   "originalTitle": "Guess Who's Coming to Dinner",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1967,
+   "runtime": 108,
+   "cast": [
+      "Katharine Houghton",
+      "Sidney Poitier",
+      "Katharine Hepburn",
+      "Spencer Tracy",
+      "Cecil Kellaway",
+      "Beah Richards",
+      "Roy Glenn"
+   ],
+   "significants": [
+      "Stanley Kramer"
+   ],
+   "title": "Guess Who's Coming to Dinner",
+   "overview": "A couple's attitudes are challenged when their daughter brings home a fiancé who is black.",
+   "tagline": "A love story of today.",
+   "video": "Rg1pnX3nYc8",
+   "posterPath": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fkHeYWahNbhxhuLefaAg553lYo5.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

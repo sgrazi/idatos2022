@@ -1,0 +1,70 @@
+{
+   "imdbID": "tt0304141",
+   "tmdbID": "673",
+   "imdbRating": 79,
+   "imdbVoteCount": 631319,
+   "tmdbRating": 80,
+   "backdropPath": "/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+      "original": "https://image.tmdb.org/t/p/original/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg"
+   },
+   "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+   "genres": [
+      12,
+      10751,
+      14
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 141,
+   "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Michael Gambon",
+      "Richard Griffiths",
+      "Gary Oldman"
+   ],
+   "significants": [
+      "Alfonso Cuarón"
+   ],
+   "title": "Harry Potter and the Prisoner of Azkaban",
+   "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+   "tagline": "Something wicked this way comes.",
+   "video": "1y3vfrfmoCw",
+   "posterPath": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
+   },
+   "age": 7,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXssObwqZrVVGwwEAAABI:type:feature",
+            "added": 1665991090,
+            "leaving": 0
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/kids/harry-potter-and-the-prisoner-of-azkaban/aa40bcfa-1932-35ba-a737-4db9e3baaef8",
+            "added": 1656709721,
+            "leaving": 1675245540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

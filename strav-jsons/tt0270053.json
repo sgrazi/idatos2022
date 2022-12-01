@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0270053",
+   "tmdbID": "57892",
+   "imdbRating": 80,
+   "imdbVoteCount": 36936,
+   "tmdbRating": 72,
+   "backdropPath": "/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg"
+   },
+   "originalTitle": "Vizontele",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 2001,
+   "runtime": 110,
+   "cast": [
+      "Yılmaz Erdoğan",
+      "Demet Akbağ",
+      "Altan Erkekli",
+      "Cem Yılmaz",
+      "Şafak Sezer",
+      "Tolga Çevik",
+      "Cezmi Baskın"
+   ],
+   "significants": [
+      "Yılmaz Erdoğan"
+   ],
+   "title": "Vizontele",
+   "overview": "The story takes place in a small town (called Hakkari) in Turkey at the beginning of the 70's. The time has come to bring technology into that small town. The first Television (or called Visiontele by the citizens) arrives and the chaos begins.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4G7bL2pZ9KDDbWRy8MzW3UYMDoc.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80038527/",
+            "added": 1653786641,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "tr"
+}

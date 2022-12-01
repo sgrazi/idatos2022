@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt3553976",
+   "tmdbID": "334533",
+   "imdbRating": 78,
+   "imdbVoteCount": 219432,
+   "tmdbRating": 79,
+   "backdropPath": "/tMyVb5CXHnBLQ8V7s0FuFA5V9nP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tMyVb5CXHnBLQ8V7s0FuFA5V9nP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tMyVb5CXHnBLQ8V7s0FuFA5V9nP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tMyVb5CXHnBLQ8V7s0FuFA5V9nP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tMyVb5CXHnBLQ8V7s0FuFA5V9nP.jpg"
+   },
+   "originalTitle": "Captain Fantastic",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2016,
+   "runtime": 118,
+   "cast": [
+      "Viggo Mortensen",
+      "Samantha Isler",
+      "Annalise Basso",
+      "Steve Zahn",
+      "George MacKay",
+      "Nicholas Hamilton",
+      "Shree Crooks"
+   ],
+   "significants": [
+      "Matt Ross"
+   ],
+   "title": "Captain Fantastic",
+   "overview": "A father living in the forests of the Pacific Northwest with his six young kids tries to assimilate back into society.",
+   "tagline": "He Prepared Them for Everything Except the Outside World.",
+   "video": "w5jeBvjcJe4",
+   "posterPath": "/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2sFME73GaD8UsUxPUKe60cPdLif.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0SC6EIWM7VN7KEVXC3W8GFKDLJ/",
+            "added": 1663657126,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

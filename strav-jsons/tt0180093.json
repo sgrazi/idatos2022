@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0180093",
+   "tmdbID": "641",
+   "imdbRating": 83,
+   "imdbVoteCount": 838894,
+   "tmdbRating": 80,
+   "backdropPath": "/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g1U311jgL4DJbGgvIZgiCfHp44Q.jpg"
+   },
+   "originalTitle": "Requiem for a Dream",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 102,
+   "cast": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly",
+      "Marlon Wayans",
+      "Christopher McDonald",
+      "Keith David",
+      "Louise Lasser"
+   ],
+   "significants": [
+      "Darren Aronofsky"
+   ],
+   "title": "Requiem for a Dream",
+   "overview": "The hopes and dreams of four ambitious people are shattered when their drug addictions begin spiraling out of control. A look into addiction and how it overcomes the mind and body.",
+   "tagline": "",
+   "video": "lgo3Hb5vWLE",
+   "posterPath": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg"
+   },
+   "age": 18,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

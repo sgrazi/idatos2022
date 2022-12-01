@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt0455590",
+   "tmdbID": "1523",
+   "imdbRating": 76,
+   "imdbVoteCount": 187133,
+   "tmdbRating": 74,
+   "backdropPath": "/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tO40eTUxPoKrmMKBDWViA9pVYg3.jpg"
+   },
+   "originalTitle": "The Last King of Scotland",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "DE",
+      "GB",
+      "US"
+   ],
+   "year": 2006,
+   "runtime": 123,
+   "cast": [
+      "Forest Whitaker",
+      "James McAvoy",
+      "Simon McBurney",
+      "Gillian Anderson",
+      "Kerry Washington",
+      "David Oyelowo",
+      "Abby Mukiibi Nkaaga"
+   ],
+   "significants": [
+      "Kevin Macdonald"
+   ],
+   "title": "The Last King of Scotland",
+   "overview": "Young Scottish doctor, Nicholas Garrigan decides it's time for an adventure after he finishes his formal education, so he decides to try his luck in Uganda, and arrives during the downfall of President Obote. General Idi Amin comes to power and asks Garrigan to become his personal doctor.",
+   "tagline": "Charming. Magnetic. Murderous.",
+   "video": "R_W7PC6NnN4",
+   "posterPath": "/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mTtgpH6UnHUtD8moRJUzfGLOZTj.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/33782",
+            "added": 1663362696,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

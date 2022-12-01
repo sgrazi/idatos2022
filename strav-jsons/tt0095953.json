@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0095953",
+   "tmdbID": "380",
+   "imdbRating": 80,
+   "imdbVoteCount": 514149,
+   "tmdbRating": 77,
+   "backdropPath": "/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg"
+   },
+   "originalTitle": "Rain Man",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1988,
+   "runtime": 134,
+   "cast": [
+      "Dustin Hoffman",
+      "Tom Cruise",
+      "Valeria Golino",
+      "Gerald R. Molen",
+      "Jack Murdock",
+      "Michael D. Roberts",
+      "Ralph Seymour"
+   ],
+   "significants": [
+      "Barry Levinson"
+   ],
+   "title": "Rain Man",
+   "overview": "Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.",
+   "tagline": "A journey through understanding and fellowship.",
+   "video": "DyEgWL0dtR4",
+   "posterPath": "/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s05vELJGaDhQ1muBsGn4kGpfxoG.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWGwj2glOhLRbwwEAAAAl:type:feature",
+            "added": 1655507993,
+            "leaving": 16803324000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

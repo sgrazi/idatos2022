@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt4468740",
+   "tmdbID": "346648",
+   "imdbRating": 78,
+   "imdbVoteCount": 79165,
+   "tmdbRating": 74,
+   "backdropPath": "/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zbdBYpte1Crlfjs8jPVzplOQBpN.jpg"
+   },
+   "originalTitle": "Paddington 2",
+   "genres": [
+      12,
+      35,
+      10751
+   ],
+   "countries": [
+      "FR",
+      "GB",
+      "US"
+   ],
+   "year": 2017,
+   "runtime": 104,
+   "cast": [
+      "Ben Whishaw",
+      "Hugh Bonneville",
+      "Sally Hawkins",
+      "Samuel Joslin",
+      "Madeleine Harris",
+      "Julie Walters",
+      "Brendan Gleeson"
+   ],
+   "significants": [
+      "Paul King"
+   ],
+   "title": "Paddington 2",
+   "overview": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+   "tagline": "It takes a bear to catch a thief",
+   "video": "07Um1PY_P4o",
+   "posterPath": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GW6PBwQ2egsPDSgEAAAEB:type:feature",
+            "added": 1655510749,
+            "leaving": 16725491400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

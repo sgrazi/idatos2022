@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0265666",
+   "tmdbID": "9428",
+   "imdbRating": 76,
+   "imdbVoteCount": 293278,
+   "tmdbRating": 74,
+   "backdropPath": "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g2s22rGjCTCYsjI1iAflem7HjdG.jpg"
+   },
+   "originalTitle": "The Royal Tenenbaums",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 110,
+   "cast": [
+      "Gene Hackman",
+      "Anjelica Huston",
+      "Ben Stiller",
+      "Gwyneth Paltrow",
+      "Luke Wilson",
+      "Owen Wilson",
+      "Bill Murray"
+   ],
+   "significants": [
+      "Wes Anderson"
+   ],
+   "title": "The Royal Tenenbaums",
+   "overview": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+   "tagline": "Family Isn't A Word ... It's A Sentence.",
+   "video": "pLFr1psL4C4",
+   "posterPath": "/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AmtiqBp7r15JuEqmyWM2dIqqtwH.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/529e29ea-9b8a-481b-859a-b10aeaea6904",
+            "added": 1668148893,
+            "leaving": 1675238340
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

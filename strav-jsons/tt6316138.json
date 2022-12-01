@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt6316138",
+   "tmdbID": "472454",
+   "imdbRating": 83,
+   "imdbVoteCount": 40051,
+   "tmdbRating": 81,
+   "backdropPath": "/acqlcQWYE2F1ZRfS9dd4Mwb6BIO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/acqlcQWYE2F1ZRfS9dd4Mwb6BIO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/acqlcQWYE2F1ZRfS9dd4Mwb6BIO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/acqlcQWYE2F1ZRfS9dd4Mwb6BIO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/acqlcQWYE2F1ZRfS9dd4Mwb6BIO.jpg"
+   },
+   "originalTitle": "Ayla",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "TR"
+   ],
+   "year": 2017,
+   "runtime": 125,
+   "cast": [
+      "İsmail Hacıoğlu",
+      "Kim Seol",
+      "Ali Atay",
+      "Murat Yildirim",
+      "Çetin Tekindor",
+      "Lee Kyung-jin",
+      "Taner Birsel"
+   ],
+   "significants": [
+      "Can Ulkay"
+   ],
+   "title": "Ayla: The Daughter of War",
+   "overview": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, this little girl captures the heart of Süleyman, who risks his own life to save her, smuggling her into his Army base and out of harms way. Not knowing her name and unable to communicate with her, Süleyman names her Ayla, in reminiscence of the moon on the fateful night during which they met. The two form an instantaneous and inseparable bond, and Ayla, almost effortlessly, brings an uncanny joy to the Turkish brigade in the grip of war. As the war comes to a close however, Süleyman's brigade is told that they will be returning home. Süleyman cannot bear abandoning Ayla, and does everything within his power to take her with him. After repeated failure, he is forced to give Ayla to an orphanage, but doesn't give up on the hope of one day reuniting with her. Will the two ever get back together?",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "tr"
+}

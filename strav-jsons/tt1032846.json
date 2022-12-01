@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt1032846",
+   "tmdbID": "2009",
+   "imdbRating": 79,
+   "imdbVoteCount": 60676,
+   "tmdbRating": 75,
+   "backdropPath": "/c59jI0WaKoIffuoLG8iB8L4Z9xM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/c59jI0WaKoIffuoLG8iB8L4Z9xM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c59jI0WaKoIffuoLG8iB8L4Z9xM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/c59jI0WaKoIffuoLG8iB8L4Z9xM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c59jI0WaKoIffuoLG8iB8L4Z9xM.jpg"
+   },
+   "originalTitle": "4 luni, 3 săptămîni și 2 zile",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "BE",
+      "RO"
+   ],
+   "year": 2007,
+   "runtime": 114,
+   "cast": [
+      "Anamaria Marinca",
+      "Laura Vasiliu",
+      "Vlad Ivanov",
+      "Alexandru Potocean",
+      "Luminița Gheorghiu",
+      "Adi Cărăuleanu",
+      "Liliana Mocanu"
+   ],
+   "significants": [
+      "Cristian Mungiu"
+   ],
+   "title": "4 Months, 3 Weeks and 2 Days",
+   "overview": "Two college roommates have 24 hours to make the ultimate choice as they finalize arrangements for a black market abortion.",
+   "tagline": "At what moment do we begin to live?",
+   "video": "9YT2-HGx2Mk",
+   "posterPath": "/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kwV7rP0wgcfui8QzcXZ6ga273cB.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "ro"
+}

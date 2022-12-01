@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt1306980",
+   "tmdbID": "40807",
+   "imdbRating": 76,
+   "imdbVoteCount": 331130,
+   "tmdbRating": 71,
+   "backdropPath": "/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yq9g4RGM1mEMBoSL5HKVBy9MOPM.jpg"
+   },
+   "originalTitle": "50/50",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2011,
+   "runtime": 100,
+   "cast": [
+      "Joseph Gordon-Levitt",
+      "Seth Rogen",
+      "Anna Kendrick",
+      "Bryce Dallas Howard",
+      "Philip Baker Hall",
+      "Serge Houde",
+      "Andrew Airlie"
+   ],
+   "significants": [
+      "Jonathan Levine"
+   ],
+   "title": "50/50",
+   "overview": "Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.",
+   "tagline": "It takes a pair to beat the odds",
+   "video": "pVObFYOU9rE",
+   "posterPath": "/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aZ3JKeCV4EmprxrbzIDuyb7M7AZ.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/5050/9498185a-3330-3b37-be27-2216cdf06d7b",
+            "added": 1641114719,
+            "leaving": 1775037540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

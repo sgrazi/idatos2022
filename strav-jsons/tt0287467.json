@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0287467",
+   "tmdbID": "64",
+   "imdbRating": 79,
+   "imdbVoteCount": 112960,
+   "tmdbRating": 75,
+   "backdropPath": "/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9aCRXFWT1rd1nZDcEtWILKb2Sap.jpg"
+   },
+   "originalTitle": "Hable con ella",
+   "genres": [
+      18,
+      9648,
+      10749
+   ],
+   "countries": [
+      "ES"
+   ],
+   "year": 2002,
+   "runtime": 112,
+   "cast": [
+      "Leonor Watling",
+      "Rosario Flores",
+      "Javier Cámara",
+      "Darío Grandinetti",
+      "Mariola Fuentes",
+      "Geraldine Chaplin",
+      "Pina Bausch"
+   ],
+   "significants": [
+      "Pedro Almodóvar"
+   ],
+   "title": "Talk to Her",
+   "overview": "Two men share an odd friendship while they care for two women who are both in deep comas.",
+   "tagline": "",
+   "video": "7fl8tyEIXXI",
+   "posterPath": "/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p8ilqBhIT5YnKOf6hBPEVPc8uGS.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/5975b432-e903-4a46-b397-d5046c090d37",
+            "added": 1668155143,
+            "leaving": 1669881540
+         }
+      }
+   },
+   "originalLanguage": "es"
+}

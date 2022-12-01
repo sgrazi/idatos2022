@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt7218518",
+   "tmdbID": "447856",
+   "imdbRating": 79,
+   "imdbVoteCount": 26489,
+   "tmdbRating": 75,
+   "backdropPath": "/A3xIs6QYgOOiOK0vqT7boxlAJll.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/A3xIs6QYgOOiOK0vqT7boxlAJll.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/A3xIs6QYgOOiOK0vqT7boxlAJll.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/A3xIs6QYgOOiOK0vqT7boxlAJll.jpg",
+      "original": "https://image.tmdb.org/t/p/original/A3xIs6QYgOOiOK0vqT7boxlAJll.jpg"
+   },
+   "originalTitle": "Pad Man",
+   "genres": [
+      1,
+      35,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2018,
+   "runtime": 140,
+   "cast": [
+      "Akshay Kumar",
+      "Radhika Apte",
+      "Sonam Kapoor",
+      "Jyoti Subhash",
+      "Mrinmayee Godbole",
+      "Soumya Vyas",
+      "Riva Bubber"
+   ],
+   "significants": [
+      "R. Balki"
+   ],
+   "title": "Pad Man",
+   "overview": "Upon realizing the extent to which women are affected by their menses, a man sets out to create a sanitary pad machine and to provide inexpensive sanitary pads to the women of rural India.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kHyoFs6BIJJwCaFlWu6P5Bnpa70.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81016191/",
+            "added": 1653784823,
+            "leaving": 0
+         }
+      },
+      "zee5": {
+         "us": {
+            "link": "https://www.zee5.com/global/movies/details/-/0-0-movie_2077184162",
+            "added": 1652623492,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

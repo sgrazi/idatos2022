@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1924396",
+   "tmdbID": "152742",
+   "imdbRating": 78,
+   "imdbVoteCount": 119922,
+   "tmdbRating": 78,
+   "backdropPath": "/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4EdN5rIT43xcqi4IVRrhxiDOz6z.jpg"
+   },
+   "originalTitle": "La migliore offerta",
+   "genres": [
+      80,
+      18,
+      9648
+   ],
+   "countries": [
+      "IT"
+   ],
+   "year": 2013,
+   "runtime": 124,
+   "cast": [
+      "Geoffrey Rush",
+      "Jim Sturgess",
+      "Sylvia Hoeks",
+      "Donald Sutherland",
+      "Maximilian Dirr",
+      "Philip Jackson",
+      "Dermot Crowley"
+   ],
+   "significants": [
+      "Giuseppe Tornatore"
+   ],
+   "title": "The Best Offer",
+   "overview": "Virgil Oldman is a world renowned antiques expert and auctioneer. An eccentric genius, he leads a solitary life, going to extreme lengths to keep his distance from the messiness of human relationships. When appointed by the beautiful but emotionally damaged Claire to oversee the valuation and sale of her family’s priceless art collection, Virgil allows himself to form an attachment to her – and soon he is engulfed by a passion which will rock his bland existence to the core.",
+   "tagline": "A Master of Possession. A Crime of Obsession",
+   "video": "zJGleGyahC8",
+   "posterPath": "/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yfbsINSfotAHaeWKJbfsVKSckvq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yfbsINSfotAHaeWKJbfsVKSckvq.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

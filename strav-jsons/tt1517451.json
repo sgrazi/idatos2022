@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1517451",
+   "tmdbID": "332562",
+   "imdbRating": 76,
+   "imdbVoteCount": 383096,
+   "tmdbRating": 75,
+   "backdropPath": "/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dDYpjrwh1wNVQk0rEpc9P81wQt4.jpg"
+   },
+   "originalTitle": "A Star Is Born",
+   "genres": [
+      18,
+      10402,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2018,
+   "runtime": 136,
+   "cast": [
+      "Bradley Cooper",
+      "Lady Gaga",
+      "Sam Elliott",
+      "Andrew Dice Clay",
+      "Rafi Gavron",
+      "Anthony Ramos",
+      "Dave Chappelle"
+   ],
+   "significants": [
+      "Bradley Cooper"
+   ],
+   "title": "A Star Is Born",
+   "overview": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+   "tagline": "",
+   "video": "54VarsWypP8",
+   "posterPath": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

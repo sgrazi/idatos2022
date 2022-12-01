@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0101921",
+   "tmdbID": "1633",
+   "imdbRating": 77,
+   "imdbVoteCount": 75560,
+   "tmdbRating": 76,
+   "backdropPath": "/hgbRDIwSiQ7reWwzFtWFy0v02xo.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hgbRDIwSiQ7reWwzFtWFy0v02xo.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hgbRDIwSiQ7reWwzFtWFy0v02xo.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hgbRDIwSiQ7reWwzFtWFy0v02xo.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hgbRDIwSiQ7reWwzFtWFy0v02xo.jpg"
+   },
+   "originalTitle": "Fried Green Tomatoes",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1991,
+   "runtime": 130,
+   "cast": [
+      "Kathy Bates",
+      "Jessica Tandy",
+      "Mary-Louise Parker",
+      "Mary Stuart Masterson",
+      "Cicely Tyson",
+      "Stan Shaw",
+      "Chris O'Donnell"
+   ],
+   "significants": [
+      "Jon Avnet"
+   ],
+   "title": "Fried Green Tomatoes",
+   "overview": "Amidst her own personality crisis, southern housewife Evelyn Couch meets Ninny, an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in Whistle Stop, Alabama in the 1920s.",
+   "tagline": "The secret of life? The secret's in the sauce.",
+   "video": "o5hb5mc-dfI",
+   "posterPath": "/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pnn2azXtMvDPqY5EZNGbndAxJmr.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

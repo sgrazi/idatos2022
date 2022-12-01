@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt5764096",
+   "tmdbID": "456570",
+   "imdbRating": 78,
+   "imdbVoteCount": 29393,
+   "tmdbRating": 73,
+   "backdropPath": "/aSjOJMrQYz3EC5e7JzfGxy2Yhuh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/aSjOJMrQYz3EC5e7JzfGxy2Yhuh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aSjOJMrQYz3EC5e7JzfGxy2Yhuh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/aSjOJMrQYz3EC5e7JzfGxy2Yhuh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aSjOJMrQYz3EC5e7JzfGxy2Yhuh.jpg"
+   },
+   "originalTitle": "हिंदी मीडियम",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2017,
+   "runtime": 132,
+   "cast": [
+      "Irrfan Khan",
+      "Saba Qamar",
+      "Sanjana Sanghi",
+      "Deepak Dobriyal",
+      "Mallika Dua",
+      "Tillotama Shome",
+      "Amrita Singh"
+   ],
+   "significants": [
+      "Saket Chaudhary"
+   ],
+   "title": "Hindi Medium",
+   "overview": "Mita and Raj Batra, an affluent couple from Delhi’s Chandni Chowk, are grappling with getting their daughter admission into an English medium school. But there is one big problem. Their zubaan is Hindi, and the elitist snobs won’t let the Hindi speaking hoi-polloi fit in.",
+   "tagline": "",
+   "video": "GjkFr48jk68",
+   "posterPath": "/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2v0nQd3kYBV0iPNCVHiaLWGb1hg.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0T1S47OPGV756O4CNNY6SEN9II/",
+            "added": 1638529766,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

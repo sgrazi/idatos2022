@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0063374",
+   "tmdbID": "11356",
+   "imdbRating": 76,
+   "imdbVoteCount": 35305,
+   "tmdbRating": 75,
+   "backdropPath": "/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h63N8AZ0kzC1qTqo2bXI33lXkJe.jpg"
+   },
+   "originalTitle": "The Odd Couple",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1968,
+   "runtime": 106,
+   "cast": [
+      "Jack Lemmon",
+      "Walter Matthau",
+      "John Fiedler",
+      "Herb Edelman",
+      "David Sheiner",
+      "Larry Haines",
+      "Monica Evans"
+   ],
+   "significants": [
+      "Gene Saks"
+   ],
+   "title": "The Odd Couple",
+   "overview": "In New York, Felix, a neurotic news writer who just broke up with his wife, is urged by his chaotic friend Oscar, a sports journalist, to move in with him, but their lifestyles are as different as night and day are, so Felix's ideas about housekeeping soon begin to irritate Oscar.",
+   "tagline": "… say no more.",
+   "video": "A58OtN9h918",
+   "posterPath": "/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "original": "https://image.tmdb.org/t/p/original/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

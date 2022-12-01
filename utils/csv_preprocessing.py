@@ -20,13 +20,6 @@ def load_csv_and_fill_ids(path):
             id = query_id(df.at[i,'title'])
             df.at[i,'show_id'] = id
         df.rename(columns = {'show_id':'id'}, inplace = True)
-    elif path == "../datasets/hotstar.csv":
-        df = df.query('type == "movie"')
-        for i, row in df.iterrows():
-            id = query_id(df.at[i,'title'])
-            # df.at[i,'hotstar_id'] = id
-            df.loc[i,'hotstar_id'] = id
-        df.rename(columns = {'hotstar_id':'id'}, inplace = True)
     elif path == "../datasets/hulu_titles.csv":
         df = df.query('type == "Movie"')
         for i, row in df.iterrows():
@@ -35,7 +28,7 @@ def load_csv_and_fill_ids(path):
         df.rename(columns = {'show_id':'id'}, inplace = True)
     elif path == "../datasets/MoviesOnStreamingPlatforms.csv":
         for i, row in df.iterrows():
-            id = query_id(df.at[i,'title'])
+            id = query_id(df.at[i,'Title'])
             df.at[i,'ID'] = id
         df.rename(columns = {'ID':'id'}, inplace = True)
     elif path == "../datasets/netflix_titles.csv":
@@ -48,5 +41,5 @@ def load_csv_and_fill_ids(path):
 
 if __name__ == '__main__':
     # para preprocesar un dataset
-    df = load_csv_and_fill_ids('../datasets/netflix_titles.csv')
-    df.to_csv("../datasets/netflix_titles2.csv", index=False)
+    df = load_csv_and_fill_ids('../datasets/MoviesOnStreamingPlatforms.csv')
+    df.to_csv("../datasets/MoviesOnStreamingPlatforms_updatedIDs.csv", index=False)

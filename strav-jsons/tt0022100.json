@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0022100",
+   "tmdbID": "832",
+   "imdbRating": 83,
+   "imdbVoteCount": 158315,
+   "tmdbRating": 81,
+   "backdropPath": "/r8Un26Y8GhcIdtmVZVnUOccnHaj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/r8Un26Y8GhcIdtmVZVnUOccnHaj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/r8Un26Y8GhcIdtmVZVnUOccnHaj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/r8Un26Y8GhcIdtmVZVnUOccnHaj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/r8Un26Y8GhcIdtmVZVnUOccnHaj.jpg"
+   },
+   "originalTitle": "M - Eine Stadt sucht einen Mörder",
+   "genres": [
+      80,
+      9648,
+      53
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 1931,
+   "runtime": 109,
+   "cast": [
+      "Peter Lorre",
+      "Ellen Widmann",
+      "Inge Landgut",
+      "Otto Wernicke",
+      "Theodor Loos",
+      "Gustaf Gründgens",
+      "Friedrich Gnaß"
+   ],
+   "significants": [
+      "Fritz Lang"
+   ],
+   "title": "M",
+   "overview": "In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.",
+   "tagline": "Who is the murderer?",
+   "video": "DdR07aN3uoc",
+   "posterPath": "/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/slsS6jT6SXjcTPOrsFcLIrHboXA.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRjAlfIsNVoAEAAAHI:type:feature",
+            "added": 1655504558,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "de"
+}

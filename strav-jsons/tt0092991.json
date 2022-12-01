@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0092991",
+   "tmdbID": "765",
+   "imdbRating": 77,
+   "imdbVoteCount": 165846,
+   "tmdbRating": 75,
+   "backdropPath": "/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg"
+   },
+   "originalTitle": "Evil Dead II",
+   "genres": [
+      35,
+      27
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1987,
+   "runtime": 84,
+   "cast": [
+      "Bruce Campbell",
+      "Sarah Berry",
+      "Dan Hicks",
+      "Kassie DePaiva",
+      "Ted Raimi",
+      "Denise Bixler",
+      "Richard Domeier"
+   ],
+   "significants": [
+      "Sam Raimi"
+   ],
+   "title": "Evil Dead II",
+   "overview": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+   "tagline": "",
+   "video": "o7G0SDuABPk",
+   "posterPath": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

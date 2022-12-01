@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1979376",
+   "tmdbID": "301528",
+   "imdbRating": 77,
+   "imdbVoteCount": 250023,
+   "tmdbRating": 75,
+   "backdropPath": "/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg"
+   },
+   "originalTitle": "Toy Story 4",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 100,
+   "cast": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Annie Potts",
+      "Tony Hale",
+      "Keegan-Michael Key",
+      "Madeleine McGraw",
+      "Christina Hendricks"
+   ],
+   "significants": [
+      "Josh Cooley"
+   ],
+   "title": "Toy Story 4",
+   "overview": "Woody has always been confident about his place in the world and that his priority is taking care of his kid, whether that's Andy or Bonnie. But when Bonnie adds a reluctant new toy called \"Forky\" to her room, a road trip adventure alongside old and new friends will show Woody how big the world can be for a toy.",
+   "tagline": "Get Ready to Hit the Road",
+   "video": "Pl9JS8-gnWQ",
+   "posterPath": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/2CtjW4tKzIHp",
+            "added": 1606712688,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

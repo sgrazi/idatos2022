@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0058150",
+   "tmdbID": "658",
+   "imdbRating": 77,
+   "imdbVoteCount": 191407,
+   "tmdbRating": 73,
+   "backdropPath": "/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lh65Y0sUQcRh5UVVgnTOfMUbN2c.jpg"
+   },
+   "originalTitle": "Goldfinger",
+   "genres": [
+      28,
+      12,
+      53
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1964,
+   "runtime": 110,
+   "cast": [
+      "Sean Connery",
+      "Gert Fröbe",
+      "Honor Blackman",
+      "Shirley Eaton",
+      "Tania Mallet",
+      "Harold Sakata",
+      "Bernard Lee"
+   ],
+   "significants": [
+      "Guy Hamilton"
+   ],
+   "title": "Goldfinger",
+   "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
+   "tagline": "Everything he touches turns into excitement!",
+   "video": "xI4vbUvezLU",
+   "posterPath": "/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6fTzum7gSpLWww26WvWjETNqfD9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6fTzum7gSpLWww26WvWjETNqfD9.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/K6H4vaTV82cSfNiphAC4ohQ_yPmYc6R9/",
+            "added": 1667595141,
+            "leaving": 1669870800
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

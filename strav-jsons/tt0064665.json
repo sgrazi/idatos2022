@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0064665",
+   "tmdbID": "3116",
+   "imdbRating": 78,
+   "imdbVoteCount": 111643,
+   "tmdbRating": 75,
+   "backdropPath": "/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg"
+   },
+   "originalTitle": "Midnight Cowboy",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1969,
+   "runtime": 113,
+   "cast": [
+      "Jon Voight",
+      "Dustin Hoffman",
+      "Sylvia Miles",
+      "John McGiver",
+      "Brenda Vaccaro",
+      "Barnard Hughes",
+      "Ruth White"
+   ],
+   "significants": [
+      "John Schlesinger"
+   ],
+   "title": "Midnight Cowboy",
+   "overview": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+   "tagline": "For those who have never seen it and those who have never forgotten it.",
+   "video": "o29GST0Lj28",
+   "posterPath": "/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f7YLzOxwWzeEdo7RhAlPSBTYa8.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

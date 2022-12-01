@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0051459",
+   "tmdbID": "261",
+   "imdbRating": 79,
+   "imdbVoteCount": 49977,
+   "tmdbRating": 77,
+   "backdropPath": "/o53YZOxru84Z9wgZwbwqF25bdOl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/o53YZOxru84Z9wgZwbwqF25bdOl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/o53YZOxru84Z9wgZwbwqF25bdOl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/o53YZOxru84Z9wgZwbwqF25bdOl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/o53YZOxru84Z9wgZwbwqF25bdOl.jpg"
+   },
+   "originalTitle": "Cat on a Hot Tin Roof",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1958,
+   "runtime": 108,
+   "cast": [
+      "Elizabeth Taylor",
+      "Paul Newman",
+      "Burl Ives",
+      "Judith Anderson",
+      "Jack Carson",
+      "Madeleine Sherwood",
+      "Vaughn Taylor"
+   ],
+   "significants": [
+      "Richard Brooks"
+   ],
+   "title": "Cat on a Hot Tin Roof",
+   "overview": "An alcoholic ex-football player drinks his days away, having failed to come to terms with his sexuality and his real feelings for his football buddy who died after an ambiguous accident. His wife is crucified by her desperation to make him desire her: but he resists the affections of his wife. His reunion with his father—who is dying of cancer—jogs a host of memories and revelations for both father and son.",
+   "tagline": "Just one pillow on her bed... and just one desire in her heart.",
+   "video": "_hTSGmiiFlI",
+   "posterPath": "/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/reO2NXIYPeBqehTsmia0P9rSMDv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/reO2NXIYPeBqehTsmia0P9rSMDv.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

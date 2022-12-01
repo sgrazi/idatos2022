@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0092593",
+   "tmdbID": "1786",
+   "imdbRating": 80,
+   "imdbVoteCount": 34184,
+   "tmdbRating": 74,
+   "backdropPath": "/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mQC9OxFBGKJmk4tgzpmKO1nIZx5.jpg"
+   },
+   "originalTitle": "Au revoir les enfants",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "DE",
+      "FR",
+      "IT"
+   ],
+   "year": 1987,
+   "runtime": 105,
+   "cast": [
+      "Gaspard Manesse",
+      "Raphael Fejtö",
+      "Francine Racette",
+      "Stanislas Carré de Malberg",
+      "Philippe Morier-Genoud",
+      "François Berléand",
+      "François Négret"
+   ],
+   "significants": [
+      "Louis Malle"
+   ],
+   "title": "Au Revoir les Enfants",
+   "overview": "Au revoir les enfants tells a heartbreaking story of friendship and devastating loss concerning two boys living in Nazi-occupied France. At a provincial Catholic boarding school, the precocious youths enjoy true camaraderie—until a secret is revealed. Based on events from writer-director Malle’s own childhood, the film is a subtle, precisely observed tale of courage, cowardice, and tragic awakening.",
+   "tagline": "",
+   "video": "qIaTVS7iQQk",
+   "posterPath": "/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iAODM20kMpA63USxAvt7gRd8Oha.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iAODM20kMpA63USxAvt7gRd8Oha.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRoA7npyLCHAEAAB3L:type:feature",
+            "added": 1655512864,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

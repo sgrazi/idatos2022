@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0109117",
+   "tmdbID": "58128",
+   "imdbRating": 80,
+   "imdbVoteCount": 53585,
+   "tmdbRating": 70,
+   "backdropPath": "/8YboYnoujBeWv4Galqnb7I0h9jf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8YboYnoujBeWv4Galqnb7I0h9jf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8YboYnoujBeWv4Galqnb7I0h9jf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8YboYnoujBeWv4Galqnb7I0h9jf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8YboYnoujBeWv4Galqnb7I0h9jf.jpg"
+   },
+   "originalTitle": "अंदाज़ अपना अपना",
+   "genres": [
+      28,
+      35,
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 1994,
+   "runtime": 160,
+   "cast": [
+      "Aamir Khan",
+      "Salman Khan",
+      "Raveena Tandon",
+      "Karisma Kapoor",
+      "Paresh Rawal",
+      "Shakti Kapoor",
+      "Javed Khan"
+   ],
+   "significants": [
+      "Rajkumar Santoshi"
+   ],
+   "title": "Andaz Apna Apna",
+   "overview": "Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal.",
+   "tagline": "",
+   "video": "sW_HComeQpc",
+   "posterPath": "/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/a0GV2V3yif2DbsMCSBrivvSHUWQ.jpg"
+   },
+   "age": 1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

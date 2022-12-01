@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0088258",
+   "tmdbID": "11031",
+   "imdbRating": 79,
+   "imdbVoteCount": 140301,
+   "tmdbRating": 74,
+   "backdropPath": "/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg"
+   },
+   "originalTitle": "This Is Spinal Tap",
+   "genres": [
+      35,
+      10402
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1984,
+   "runtime": 82,
+   "cast": [
+      "Christopher Guest",
+      "Michael McKean",
+      "Harry Shearer",
+      "Rob Reiner",
+      "June Chadwick",
+      "Bruno Kirby",
+      "Ed Begley Jr."
+   ],
+   "significants": [
+      "Rob Reiner"
+   ],
+   "title": "This Is Spinal Tap",
+   "overview": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+   "tagline": "Prepare to crank those amps up to eleven",
+   "video": "z6F0VyKp4Ik",
+   "posterPath": "/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,58 @@
+{
+   "imdbID": "tt1149362",
+   "tmdbID": "37903",
+   "imdbRating": 78,
+   "imdbVoteCount": 74059,
+   "tmdbRating": 75,
+   "backdropPath": "/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zUAIDFmjkU7buiGr6q8Ea9MY3G1.jpg"
+   },
+   "originalTitle": "Das weiße Band - Eine deutsche Kindergeschichte",
+   "genres": [
+      18,
+      9648,
+      53
+   ],
+   "countries": [
+      "AT",
+      "CA",
+      "FR",
+      "DE",
+      "IT"
+   ],
+   "year": 2009,
+   "runtime": 144,
+   "cast": [
+      "Christian Friedel",
+      "Ernst Jacobi",
+      "Burghart Klaußner",
+      "Steffi Kühnert",
+      "Maria Dragus",
+      "Susanne Lothar",
+      "Rainer Bock"
+   ],
+   "significants": [
+      "Michael Haneke"
+   ],
+   "title": "The White Ribbon",
+   "overview": "Strange events happen in a small village in the north of Germany during the years just before World War I, which seem to be ritual punishment. The abused and suppressed children of the villagers seem to be at the heart of this mystery.",
+   "tagline": "",
+   "video": "9JOXs8KEiDY",
+   "posterPath": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

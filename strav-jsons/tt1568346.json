@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1568346",
+   "tmdbID": "65754",
+   "imdbRating": 78,
+   "imdbVoteCount": 463580,
+   "tmdbRating": 73,
+   "backdropPath": "/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dNFbrnF0mIBm0rClbfEFWTtsgMP.jpg"
+   },
+   "originalTitle": "The Girl with the Dragon Tattoo",
+   "genres": [
+      80,
+      9648
+   ],
+   "countries": [
+      "US",
+      "NO",
+      "SE"
+   ],
+   "year": 2011,
+   "runtime": 158,
+   "cast": [
+      "Daniel Craig",
+      "Rooney Mara",
+      "Christopher Plummer",
+      "Stellan Skarsgård",
+      "Robin Wright",
+      "Yorick van Wageningen",
+      "Steven Berkoff"
+   ],
+   "significants": [
+      "David Fincher"
+   ],
+   "title": "The Girl with the Dragon Tattoo",
+   "overview": "This English-language adaptation of the Swedish novel by Stieg Larsson follows a disgraced journalist, Mikael Blomkvist, as he investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+   "tagline": "Evil shall with evil be expelled.",
+   "video": "DqQe3OrsMKI",
+   "posterPath": "/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xjs4O65JihQ2hGpapgsVbTBvPf8.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/4db3d7a1-6df9-4bdd-9c4f-553e8df928d7",
+            "added": 1668150744,
+            "leaving": 1672559940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

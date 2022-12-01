@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0107818",
+   "tmdbID": "9800",
+   "imdbRating": 77,
+   "imdbVoteCount": 242800,
+   "tmdbRating": 77,
+   "backdropPath": "/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nWO4sGqH950N2fij8X0Pwumqe9k.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nWO4sGqH950N2fij8X0Pwumqe9k.jpg"
+   },
+   "originalTitle": "Philadelphia",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 126,
+   "cast": [
+      "Tom Hanks",
+      "Denzel Washington",
+      "Jason Robards",
+      "Mary Steenburgen",
+      "Antonio Banderas",
+      "Ron Vawter",
+      "Robert Ridgely"
+   ],
+   "significants": [
+      "Jonathan Demme"
+   ],
+   "title": "Philadelphia",
+   "overview": "Two competing lawyers join forces to sue a prestigious law firm for AIDS discrimination. As their unlikely friendship develops their courage overcomes the prejudice and corruption of their powerful adversaries.",
+   "tagline": "No one would take on his case... until one man was willing to take on the system.",
+   "video": "r_DnWC6BWRE",
+   "posterPath": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tFe5Yoo5zT495okA49bq1vPPkiV.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/d97713c1-4d57-4d2c-9171-fc92e1cacfa5",
+            "added": 1662804814,
+            "leaving": 1672559940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

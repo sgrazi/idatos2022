@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0332280",
+   "tmdbID": "11036",
+   "imdbRating": 78,
+   "imdbVoteCount": 572045,
+   "tmdbRating": 78,
+   "backdropPath": "/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg"
+   },
+   "originalTitle": "The Notebook",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 123,
+   "cast": [
+      "Rachel McAdams",
+      "Ryan Gosling",
+      "Gena Rowlands",
+      "James Garner",
+      "Sam Shepard",
+      "Joan Allen",
+      "James Marsden"
+   ],
+   "significants": [
+      "Nick Cassavetes"
+   ],
+   "title": "The Notebook",
+   "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+   "tagline": "Behind every great love is a great story.",
+   "video": "FC6biTjEyZw",
+   "posterPath": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX-nzMw1oyZHDwwEAAAN3:type:feature",
+            "added": 1659572892,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

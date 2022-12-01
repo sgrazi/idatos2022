@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0118845",
+   "tmdbID": "18329",
+   "imdbRating": 77,
+   "imdbVoteCount": 29978,
+   "tmdbRating": 76,
+   "backdropPath": "/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2Xkd3WeAx11cHxb4Lr3wnSNDWcd.jpg"
+   },
+   "originalTitle": "春光乍洩",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "AR",
+      "HK",
+      "JP"
+   ],
+   "year": 1997,
+   "runtime": 96,
+   "cast": [
+      "Tony Leung Chiu-wai",
+      "Leslie Cheung",
+      "Chang Chen",
+      "Gregory Dayton"
+   ],
+   "significants": [
+      "Wong Kar-wai"
+   ],
+   "title": "Happy Together",
+   "overview": "A gay couple from Hong Kong takes a trip to Argentina in search of a new beginning but instead begins drifting even further apart.",
+   "tagline": "Lonely people are all the same.",
+   "video": "f0Dh6Jdc18c",
+   "posterPath": "/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/50S4FLeBjUKpOiHBFUFXG3JTNFZ.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYJBUvAz3X7qNoAEAAAAC:type:feature",
+            "added": 1655508968,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "zh"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0110729",
+   "tmdbID": "527",
+   "imdbRating": 79,
+   "imdbVoteCount": 34622,
+   "tmdbRating": 73,
+   "backdropPath": "/wPApsZx55cmLpd7lEeV29PmjiYl.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wPApsZx55cmLpd7lEeV29PmjiYl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wPApsZx55cmLpd7lEeV29PmjiYl.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wPApsZx55cmLpd7lEeV29PmjiYl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wPApsZx55cmLpd7lEeV29PmjiYl.jpg"
+   },
+   "originalTitle": "Once Were Warriors",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "NZ"
+   ],
+   "year": 1994,
+   "runtime": 99,
+   "cast": [
+      "Rena Owen",
+      "Temuera Morrison",
+      "Mamaengaroa Kerr-Bell",
+      "Julian Arahanga",
+      "Taungaroa Emile",
+      "Rachael Morris Jr.",
+      "Joseph Kairau"
+   ],
+   "significants": [
+      "Lee Tamahori"
+   ],
+   "title": "Once Were Warriors",
+   "overview": "A drama about a Maori family living in Auckland, New Zealand. Lee Tamahori tells the story of Beth Heke’s strong will to keep her family together during times of unemployment and abuse from her violent and alcoholic husband.",
+   "tagline": "A family in crisis, a life in chaos... Nothing is more powerful than a mother's love.",
+   "video": "N0-Q3ChKcfE",
+   "posterPath": "/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1nd4SsytVc96hy92g8NNVPD3mzf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1nd4SsytVc96hy92g8NNVPD3mzf.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

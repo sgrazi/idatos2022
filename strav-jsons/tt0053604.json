@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0053604",
+   "tmdbID": "284",
+   "imdbRating": 83,
+   "imdbVoteCount": 181829,
+   "tmdbRating": 82,
+   "backdropPath": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg"
+   },
+   "originalTitle": "The Apartment",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1960,
+   "runtime": 125,
+   "cast": [
+      "Jack Lemmon",
+      "Shirley MacLaine",
+      "Fred MacMurray",
+      "Ray Walston",
+      "Jack Kruschen",
+      "David Lewis",
+      "Hope Holiday"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "The Apartment",
+   "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+   "tagline": "Movie-wise, there has never been anything like it - laugh-wise, love-wise, or otherwise-wise!",
+   "video": "OcslkrBMLGc",
+   "posterPath": "/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jCgbZGYQ4PcfUBiI4679Vjz3H81.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

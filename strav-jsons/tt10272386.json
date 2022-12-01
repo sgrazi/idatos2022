@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt10272386",
+   "tmdbID": "600354",
+   "imdbRating": 82,
+   "imdbVoteCount": 151686,
+   "tmdbRating": 81,
+   "backdropPath": "/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg"
+   },
+   "originalTitle": "The Father",
+   "genres": [
+      18,
+      9648
+   ],
+   "countries": [
+      "FR",
+      "GB",
+      "US"
+   ],
+   "year": 2020,
+   "runtime": 97,
+   "cast": [
+      "Anthony Hopkins",
+      "Olivia Colman",
+      "Mark Gatiss",
+      "Olivia Williams",
+      "Imogen Poots",
+      "Rufus Sewell",
+      "Ayesha Dharker"
+   ],
+   "significants": [
+      "Florian Zeller"
+   ],
+   "title": "The Father",
+   "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+   "tagline": "",
+   "video": "g0ox9ExOA1M",
+   "posterPath": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/59975",
+            "added": 1631218668,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

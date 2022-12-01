@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1646971",
+   "tmdbID": "82702",
+   "imdbRating": 78,
+   "imdbVoteCount": 335993,
+   "tmdbRating": 76,
+   "backdropPath": "/sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sKTFNMsuSgyAcwbD0xXVUXvvbY.jpg"
+   },
+   "originalTitle": "How to Train Your Dragon 2",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 102,
+   "cast": [
+      "Jay Baruchel",
+      "Cate Blanchett",
+      "Gerard Butler",
+      "Craig Ferguson",
+      "America Ferrera",
+      "Jonah Hill",
+      "Christopher Mintz-Plasse"
+   ],
+   "significants": [
+      "Dean DeBlois"
+   ],
+   "title": "How to Train Your Dragon 2",
+   "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's mother, Valka. Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago.",
+   "tagline": "The training is over.",
+   "video": "1Y0erVF9cLI",
+   "posterPath": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/how-to-train-your-dragon-2/e2dd0c8e-c536-389d-8713-d4b5327675aa",
+            "added": 1664894946,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

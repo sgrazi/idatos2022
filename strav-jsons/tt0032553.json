@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0032553",
+   "tmdbID": "914",
+   "imdbRating": 84,
+   "imdbVoteCount": 224057,
+   "tmdbRating": 83,
+   "backdropPath": "/8AMKZODrCvWe2sCy9Ts7VsLcKd6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8AMKZODrCvWe2sCy9Ts7VsLcKd6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8AMKZODrCvWe2sCy9Ts7VsLcKd6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8AMKZODrCvWe2sCy9Ts7VsLcKd6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8AMKZODrCvWe2sCy9Ts7VsLcKd6.jpg"
+   },
+   "originalTitle": "The Great Dictator",
+   "genres": [
+      35,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1940,
+   "runtime": 125,
+   "cast": [
+      "Charlie Chaplin",
+      "Jack Oakie",
+      "Reginald Gardiner",
+      "Henry Daniell",
+      "Billy Gilbert",
+      "Grace Hayle",
+      "Carter DeHaven"
+   ],
+   "significants": [
+      "Charlie Chaplin"
+   ],
+   "title": "The Great Dictator",
+   "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+   "tagline": "Once again - the whole world laughs!",
+   "video": "i1C6qZVeFtA",
+   "posterPath": "/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nhMXB8GTdswYMCL9nepDZymJCOr.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk3jxge1oTC3wwEAAAid:type:feature",
+            "added": 1655501609,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

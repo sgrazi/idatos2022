@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0103639",
+   "tmdbID": "812",
+   "imdbRating": 80,
+   "imdbVoteCount": 418746,
+   "tmdbRating": 76,
+   "backdropPath": "/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5OeY4U2rzePxWq2rkqMajUx2gz7.jpg"
+   },
+   "originalTitle": "Aladdin",
+   "genres": [
+      16,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1992,
+   "runtime": 90,
+   "cast": [
+      "Scott Weinger",
+      "Robin Williams",
+      "Linda Larkin",
+      "Jonathan Freeman",
+      "Gilbert Gottfried",
+      "Frank Welker",
+      "Douglas Seale"
+   ],
+   "significants": [
+      "Ron Clements",
+      "John Musker"
+   ],
+   "title": "Aladdin",
+   "overview": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.  The couple falls in love, although Jasmine may only marry a prince.  After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
+   "tagline": "Wish granted!",
+   "video": "mq05scD6PUs",
+   "posterPath": "/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/2SngByljXESE",
+            "added": 1652593997,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0048424",
+   "tmdbID": "3112",
+   "imdbRating": 80,
+   "imdbVoteCount": 90013,
+   "tmdbRating": 79,
+   "backdropPath": "/4hYxesnrRHiFLo1rctaKtzBiMvW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4hYxesnrRHiFLo1rctaKtzBiMvW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4hYxesnrRHiFLo1rctaKtzBiMvW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4hYxesnrRHiFLo1rctaKtzBiMvW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4hYxesnrRHiFLo1rctaKtzBiMvW.jpg"
+   },
+   "originalTitle": "The Night of the Hunter",
+   "genres": [
+      80,
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1955,
+   "runtime": 93,
+   "cast": [
+      "Robert Mitchum",
+      "Shelley Winters",
+      "Lillian Gish",
+      "James Gleason",
+      "Evelyn Varden",
+      "Peter Graves",
+      "Don Beddoe"
+   ],
+   "significants": [
+      "Charles Laughton"
+   ],
+   "title": "The Night of the Hunter",
+   "overview": "In the Deep South, a serial-killing preacher hunts two young children who know the whereabouts of a stash of money.",
+   "tagline": "The wedding night, the anticipation, the kiss, the knife, BUT ABOVE ALL...THE SUSPENSE!",
+   "video": "oWqWmmiTOBI",
+   "posterPath": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

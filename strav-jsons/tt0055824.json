@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0055824",
+   "tmdbID": "11349",
+   "imdbRating": 77,
+   "imdbVoteCount": 29643,
+   "tmdbRating": 74,
+   "backdropPath": "/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg"
+   },
+   "originalTitle": "Cape Fear",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1962,
+   "runtime": 105,
+   "cast": [
+      "Gregory Peck",
+      "Robert Mitchum",
+      "Polly Bergen",
+      "Lori Martin",
+      "Martin Balsam",
+      "Jack Kruschen",
+      "Telly Savalas"
+   ],
+   "significants": [
+      "J. Lee Thompson"
+   ],
+   "title": "Cape Fear",
+   "overview": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+   "tagline": "Now he had only one weapon left—murder!",
+   "video": "lej6ZDMieD4",
+   "posterPath": "/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9BzUTJMoH1mQUiqI1C9glrWEuxa.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

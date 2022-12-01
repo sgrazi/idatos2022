@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0470752",
+   "tmdbID": "264660",
+   "imdbRating": 77,
+   "imdbVoteCount": 544194,
+   "tmdbRating": 75,
+   "backdropPath": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg"
+   },
+   "originalTitle": "Ex Machina",
+   "genres": [
+      18,
+      878,
+      53
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2015,
+   "runtime": 108,
+   "cast": [
+      "Domhnall Gleeson",
+      "Alicia Vikander",
+      "Oscar Isaac",
+      "Sonoya Mizuno",
+      "Corey Johnson",
+      "Claire Selby",
+      "Symara A. Templeman"
+   ],
+   "significants": [
+      "Alex Garland"
+   ],
+   "title": "Ex Machina",
+   "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+   "tagline": "There is nothing more human than the will to survive",
+   "video": "hEcB7T-C0g8",
+   "posterPath": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYf1V5wGHpmHCwwEAAABS:type:feature",
+            "added": 1659619487,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

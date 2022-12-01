@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0058450",
+   "tmdbID": "5967",
+   "imdbRating": 78,
+   "imdbVoteCount": 28011,
+   "tmdbRating": 74,
+   "backdropPath": "/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg"
+   },
+   "originalTitle": "Les Parapluies de Cherbourg",
+   "genres": [
+      18,
+      4,
+      10749
+   ],
+   "countries": [
+      "FR",
+      "DE"
+   ],
+   "year": 1964,
+   "runtime": 91,
+   "cast": [
+      "Catherine Deneuve",
+      "Nino Castelnuovo",
+      "Anne Vernon",
+      "Mireille Perrey",
+      "Marc Michel",
+      "Ellen Farner",
+      "Jean Champion"
+   ],
+   "significants": [
+      "Jacques Demy"
+   ],
+   "title": "The Umbrellas of Cherbourg",
+   "overview": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+   "tagline": "A film for all the young lovers of the world.",
+   "video": "U5KAmPDg8qA",
+   "posterPath": "/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoIQC-up4_wwEAAEnx:type:feature",
+            "added": 1655504693,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

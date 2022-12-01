@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0062229",
+   "tmdbID": "5511",
+   "imdbRating": 80,
+   "imdbVoteCount": 52021,
+   "tmdbRating": 78,
+   "backdropPath": "/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg"
+   },
+   "originalTitle": "Le Samouraï",
+   "genres": [
+      80
+   ],
+   "countries": [
+      "FR",
+      "IT"
+   ],
+   "year": 1967,
+   "runtime": 105,
+   "cast": [
+      "Alain Delon",
+      "François Périer",
+      "Nathalie Delon",
+      "Cathy Rosier",
+      "Michel Boisrond",
+      "Catherine Jourdan",
+      "Jean-Pierre Posier"
+   ],
+   "significants": [
+      "Jean-Pierre Melville"
+   ],
+   "title": "Le Samouraï",
+   "overview": "After carrying out a flawlessly planned hit, Jef Costello, a contract killer with samurai instincts, finds himself caught between a persistent police investigator and a ruthless employer, and not even his armor of fedora and trench coat can protect him.",
+   "tagline": "His only friend was his gun!",
+   "video": "Fs0XYssIlbo",
+   "posterPath": "/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5Fa6o5nfUPEatQ9b3OwEvdEdR7T.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoKwEnMQ4eoAEAABai:type:feature",
+            "added": 1655505554,
+            "leaving": 17277551400
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0162222",
+   "tmdbID": "8358",
+   "imdbRating": 78,
+   "imdbVoteCount": 590776,
+   "tmdbRating": 76,
+   "backdropPath": "/3Xt0rpFxt06rtvrepFGwZ17441f.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3Xt0rpFxt06rtvrepFGwZ17441f.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3Xt0rpFxt06rtvrepFGwZ17441f.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3Xt0rpFxt06rtvrepFGwZ17441f.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3Xt0rpFxt06rtvrepFGwZ17441f.jpg"
+   },
+   "originalTitle": "Cast Away",
+   "genres": [
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 143,
+   "cast": [
+      "Tom Hanks",
+      "Helen Hunt",
+      "Chris Noth",
+      "Paul Sanchez",
+      "Lari White",
+      "Leonid Citer",
+      "David Allen Brooks"
+   ],
+   "significants": [
+      "Robert Zemeckis"
+   ],
+   "title": "Cast Away",
+   "overview": "Chuck Nolan, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+   "tagline": "At the edge of the world, his journey begins.",
+   "video": "2dZvTscDGek",
+   "posterPath": "/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/ca846bc0-099a-4f5e-bd9d-a250bae90d04",
+            "added": 1668217974,
+            "leaving": 1675238340
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

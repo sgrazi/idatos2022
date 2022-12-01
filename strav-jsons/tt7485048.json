@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt7485048",
+   "tmdbID": "534075",
+   "imdbRating": 79,
+   "imdbVoteCount": 32582,
+   "tmdbRating": 77,
+   "backdropPath": "/sEACj18R38zDPhyU7xWmLByDcwq.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sEACj18R38zDPhyU7xWmLByDcwq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sEACj18R38zDPhyU7xWmLByDcwq.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sEACj18R38zDPhyU7xWmLByDcwq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sEACj18R38zDPhyU7xWmLByDcwq.jpg"
+   },
+   "originalTitle": "सुपर 30",
+   "genres": [
+      1,
+      18
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2019,
+   "runtime": 153,
+   "cast": [
+      "Hrithik Roshan",
+      "Mrunal Thakur",
+      "Veerendra Saxena",
+      "Nandish Singh",
+      "Pankaj Tripathi",
+      "Amit Sadh",
+      "Aditya Srivastava"
+   ],
+   "significants": [
+      "Vikas Bahl"
+   ],
+   "title": "Super 30",
+   "overview": "Based on life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/n0LdZvEqZjnSQSHzzwryFBYjXk1.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

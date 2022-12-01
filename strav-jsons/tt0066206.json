@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0066206",
+   "tmdbID": "11202",
+   "imdbRating": 79,
+   "imdbVoteCount": 102675,
+   "tmdbRating": 75,
+   "backdropPath": "/kOPYCJJVodXk76DutR217BkundU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/kOPYCJJVodXk76DutR217BkundU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kOPYCJJVodXk76DutR217BkundU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/kOPYCJJVodXk76DutR217BkundU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kOPYCJJVodXk76DutR217BkundU.jpg"
+   },
+   "originalTitle": "Patton",
+   "genres": [
+      1,
+      18,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1970,
+   "runtime": 172,
+   "cast": [
+      "George C. Scott",
+      "Stephen Young",
+      "Frank Latimore",
+      "Karl Michael Vogler",
+      "Karl Malden",
+      "Michael Strong",
+      "Carey Loftin"
+   ],
+   "significants": [
+      "Franklin J. Schaffner"
+   ],
+   "title": "Patton",
+   "overview": "\"Patton\" tells the tale of General George S. Patton, famous tank commander of World War II. The film begins with patton's career in North Africa and progresses through the invasion of Germany and the fall of the Third Reich. Side plots also speak of Patton's numerous faults such his temper and habit towards insubordination.",
+   "tagline": "The Rebel Warrior",
+   "video": "bLXzqSmxGaM",
+   "posterPath": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/6346",
+            "added": 1634292534,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

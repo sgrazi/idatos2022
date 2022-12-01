@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt3281548",
+   "tmdbID": "331482",
+   "imdbRating": 78,
+   "imdbVoteCount": 203727,
+   "tmdbRating": 79,
+   "backdropPath": "/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sOJqNAx4RFrCRn8HS99LEc8aenI.jpg"
+   },
+   "originalTitle": "Little Women",
+   "genres": [
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 135,
+   "cast": [
+      "Saoirse Ronan",
+      "Florence Pugh",
+      "Emma Watson",
+      "Eliza Scanlen",
+      "Laura Dern",
+      "Timothée Chalamet",
+      "Meryl Streep"
+   ],
+   "significants": [
+      "Greta Gerwig"
+   ],
+   "title": "Little Women",
+   "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+   "tagline": "Own your story",
+   "video": "AST2-4db4ic",
+   "posterPath": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

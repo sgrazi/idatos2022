@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0093409",
+   "tmdbID": "941",
+   "imdbRating": 76,
+   "imdbVoteCount": 259615,
+   "tmdbRating": 73,
+   "backdropPath": "/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/guTNnSWS3CaH71jasY8W1FMptjG.jpg"
+   },
+   "originalTitle": "Lethal Weapon",
+   "genres": [
+      28,
+      80,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1987,
+   "runtime": 110,
+   "cast": [
+      "Mel Gibson",
+      "Danny Glover",
+      "Gary Busey",
+      "Mitchell Ryan",
+      "Tom Atkins",
+      "Darlene Love",
+      "Traci Wolfe"
+   ],
+   "significants": [
+      "Richard Donner"
+   ],
+   "title": "Lethal Weapon",
+   "overview": "Veteran buttoned-down LAPD detective Roger Murtaugh is partnered with unhinged cop Martin Riggs, who -- distraught after his wife's death -- has a death wish and takes unnecessary risks with criminals at every turn. The odd couple embark on their first homicide investigation as partners, involving a young woman known to Murtaugh with ties to a drug and prostitution ring.",
+   "tagline": "If these two can learn to stand each other... the bad guys don't stand a chance.",
+   "video": "bKeW-MGu-qQ",
+   "posterPath": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

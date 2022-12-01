@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0057091",
+   "tmdbID": "1040",
+   "imdbRating": 80,
+   "imdbVoteCount": 26262,
+   "tmdbRating": 77,
+   "backdropPath": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg"
+   },
+   "originalTitle": "Il gattopardo",
+   "genres": [
+      18,
+      36
+   ],
+   "countries": [
+      "FR",
+      "IT"
+   ],
+   "year": 1963,
+   "runtime": 186,
+   "cast": [
+      "Burt Lancaster",
+      "Claudia Cardinale",
+      "Alain Delon",
+      "Paolo Stoppa",
+      "Rina Morelli",
+      "Romolo Valli",
+      "Terence Hill"
+   ],
+   "significants": [
+      "Luchino Visconti"
+   ],
+   "title": "The Leopard",
+   "overview": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic Prince Don Fabrizio Salina allows his war hero nephew, Tancredi, to marry Angelica, the beautiful daughter of gauche, bourgeois Don Calogero, in order to maintain the family's accustomed level of comfort and political clout.",
+   "tagline": "Luchino Visconti's enduring romantic adventure",
+   "video": "06f7f24lpUI",
+   "posterPath": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "it"
+}

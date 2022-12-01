@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0069467",
+   "tmdbID": "10238",
+   "imdbRating": 80,
+   "imdbVoteCount": 34480,
+   "tmdbRating": 79,
+   "backdropPath": "/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg"
+   },
+   "originalTitle": "Viskningar och rop",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "SE"
+   ],
+   "year": 1972,
+   "runtime": 95,
+   "cast": [
+      "Harriet Andersson",
+      "Ingrid Thulin",
+      "Kari Sylwan",
+      "Liv Ullmann",
+      "Erland Josephson",
+      "Anders Ek",
+      "Henning Moritzen"
+   ],
+   "significants": [
+      "Ingmar Bergman"
+   ],
+   "title": "Cries and Whispers",
+   "overview": "As Agnes slowly dies of cancer, her sisters are so deeply immersed in their own psychic pains that they can't offer her the support she needs. Maria is wracked with guilt at her husband's attempted suicide, caused by his discovery of her extramarital affair. The self-loathing, suicidal Karin seems to regard her sister with revulsion. Only Anna, the deeply religious maid who lost her young child, seems able to offer Agnes solace and empathy.",
+   "tagline": "Four women dressed in white in a mansion painted red...haunted by whispers and cries.",
+   "video": "t8wvGcX3LCI",
+   "posterPath": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/a1bMgB09YDvvRN9SitCclUYragr.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnvVzg1VQoCgwwEAAA6q:type:feature",
+            "added": 1655507697,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

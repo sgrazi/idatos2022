@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0051378",
+   "tmdbID": "1093",
+   "imdbRating": 79,
+   "imdbVoteCount": 26072,
+   "tmdbRating": 76,
+   "backdropPath": "/bSvoLW4SOJKNAsqeil7HoLG7PgL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bSvoLW4SOJKNAsqeil7HoLG7PgL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bSvoLW4SOJKNAsqeil7HoLG7PgL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bSvoLW4SOJKNAsqeil7HoLG7PgL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bSvoLW4SOJKNAsqeil7HoLG7PgL.jpg"
+   },
+   "originalTitle": "Ascenseur pour l'échafaud",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1958,
+   "runtime": 91,
+   "cast": [
+      "Jeanne Moreau",
+      "Maurice Ronet",
+      "Georges Poujouly",
+      "Yori Bertin",
+      "Lino Ventura",
+      "Iván Petrovich",
+      "Elga Andersen"
+   ],
+   "significants": [
+      "Louis Malle"
+   ],
+   "title": "Elevator to the Gallows",
+   "overview": "A self-assured businessman murders his employer, the husband of his mistress, which unintentionally provokes an ill-fated chain of events.",
+   "tagline": "Frantic for life and love, frantic for excitement.",
+   "video": "LciQ1A5PvLI",
+   "posterPath": "/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnvViA05bRtjhQEAAAPV:type:feature",
+            "added": 1655510562,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

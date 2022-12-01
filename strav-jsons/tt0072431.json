@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0072431",
+   "tmdbID": "3034",
+   "imdbRating": 80,
+   "imdbVoteCount": 159247,
+   "tmdbRating": 79,
+   "backdropPath": "/14AH4fovT9lj5wFXiXsgBcEKHFH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/14AH4fovT9lj5wFXiXsgBcEKHFH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/14AH4fovT9lj5wFXiXsgBcEKHFH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/14AH4fovT9lj5wFXiXsgBcEKHFH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/14AH4fovT9lj5wFXiXsgBcEKHFH.jpg"
+   },
+   "originalTitle": "Young Frankenstein",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1974,
+   "runtime": 106,
+   "cast": [
+      "Gene Wilder",
+      "Teri Garr",
+      "Marty Feldman",
+      "Peter Boyle",
+      "Cloris Leachman",
+      "Madeline Kahn",
+      "Kenneth Mars"
+   ],
+   "significants": [
+      "Mel Brooks"
+   ],
+   "title": "Young Frankenstein",
+   "overview": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+   "tagline": "The scariest comedy of all time!",
+   "video": "sO8g8VmFf0M",
+   "posterPath": "/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/c6335WJCZO8NK5wehHk5sA9Cypv.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYqyYHwPI6W21wwEAAACw:type:feature",
+            "added": 1662211285,
+            "leaving": 17014176000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

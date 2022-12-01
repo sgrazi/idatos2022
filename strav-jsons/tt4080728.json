@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt4080728",
+   "tmdbID": "348678",
+   "imdbRating": 77,
+   "imdbVoteCount": 55994,
+   "tmdbRating": 75,
+   "backdropPath": "/yMCHeGA9OU2JS8s3P1JDdozYAAM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yMCHeGA9OU2JS8s3P1JDdozYAAM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yMCHeGA9OU2JS8s3P1JDdozYAAM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yMCHeGA9OU2JS8s3P1JDdozYAAM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yMCHeGA9OU2JS8s3P1JDdozYAAM.jpg"
+   },
+   "originalTitle": "En man som heter Ove",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "NO",
+      "SE"
+   ],
+   "year": 2015,
+   "runtime": 116,
+   "cast": [
+      "Rolf Lassgård",
+      "Bahar Pars",
+      "Filip Berg",
+      "Ida Engvoll",
+      "Tobias Almborg",
+      "Klas Wiljergård",
+      "Chatarina Larsson"
+   ],
+   "significants": [
+      "Hannes Holm"
+   ],
+   "title": "A Man Called Ove",
+   "overview": "Despite being deposed as president of his condominium association, grumpy 59-year-old Ove continues to watch over his neighbourhood with an iron fist. When pregnant Parvaneh and her family move into the terraced house opposite Ove and she accidentally back into Ove’s mailbox, it sets off a series of unexpected changes in his life.",
+   "tagline": "",
+   "video": "Mls2rlu1w_g",
+   "posterPath": "/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/g5SkS5dJudFZMQiB925PxfwzFa6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/g5SkS5dJudFZMQiB925PxfwzFa6.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0G57OYLM7SW244I09XMSSZO37N/",
+            "added": 1649148570,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0914798",
+   "tmdbID": "14574",
+   "imdbRating": 77,
+   "imdbVoteCount": 219582,
+   "tmdbRating": 78,
+   "backdropPath": "/fcDdXbrg2N4j9t9DOptpxcWuIXL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fcDdXbrg2N4j9t9DOptpxcWuIXL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fcDdXbrg2N4j9t9DOptpxcWuIXL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fcDdXbrg2N4j9t9DOptpxcWuIXL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fcDdXbrg2N4j9t9DOptpxcWuIXL.jpg"
+   },
+   "originalTitle": "The Boy in the Striped Pyjamas",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2008,
+   "runtime": 94,
+   "cast": [
+      "Asa Butterfield",
+      "Jack Scanlon",
+      "Vera Farmiga",
+      "David Thewlis",
+      "Rupert Friend",
+      "David Hayman",
+      "Sheila Hancock"
+   ],
+   "significants": [
+      "Mark Herman"
+   ],
+   "title": "The Boy in the Striped Pyjamas",
+   "overview": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+   "tagline": "Lines may divide us, but hope will unite us.",
+   "video": "uwysOfnX2Qg",
+   "posterPath": "/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/EazYK1IJdKFBvkkkI_Gr_UtOoABJzkIz/",
+            "added": 1656717558,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0325710",
+   "tmdbID": "616",
+   "imdbRating": 78,
+   "imdbVoteCount": 441348,
+   "tmdbRating": 75,
+   "backdropPath": "/4m0eLZzOr5W1BK9el9ASQrTwd0m.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4m0eLZzOr5W1BK9el9ASQrTwd0m.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4m0eLZzOr5W1BK9el9ASQrTwd0m.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4m0eLZzOr5W1BK9el9ASQrTwd0m.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4m0eLZzOr5W1BK9el9ASQrTwd0m.jpg"
+   },
+   "originalTitle": "The Last Samurai",
+   "genres": [
+      28,
+      18
+   ],
+   "countries": [
+      "JP",
+      "US",
+      "NZ"
+   ],
+   "year": 2003,
+   "runtime": 154,
+   "cast": [
+      "Tom Cruise",
+      "Ken Watanabe",
+      "Timothy Spall",
+      "Tony Goldwyn",
+      "Hiroyuki Sanada",
+      "Koyuki",
+      "Shin Koyamada"
+   ],
+   "significants": [
+      "Edward Zwick"
+   ],
+   "title": "The Last Samurai",
+   "overview": "Nathan Algren is an American hired to instruct the Japanese army in the ways of modern warfare, which finds him learning to respect the samurai and the honorable principles that rule them. Pressed to destroy the samurai's way of life in the name of modernization and open trade, Algren decides to become an ultimate warrior himself and to fight for their right to exist.",
+   "tagline": "In the face of an enemy, in the heart of one man, lies the soul of a warrior.",
+   "video": "QZpQrc0R6J0",
+   "posterPath": "/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lsasOSgYI85EHygtT5SvcxtZVYT.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

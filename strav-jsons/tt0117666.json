@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0117666",
+   "tmdbID": "12498",
+   "imdbRating": 80,
+   "imdbVoteCount": 94449,
+   "tmdbRating": 75,
+   "backdropPath": "/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s0MYaSiEZy9H0cXxxay5LEdcxYs.jpg"
+   },
+   "originalTitle": "Sling Blade",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1996,
+   "runtime": 135,
+   "cast": [
+      "Billy Bob Thornton",
+      "Dwight Yoakam",
+      "J.T. Walsh",
+      "John Ritter",
+      "Lucas Black",
+      "Natalie Canerday",
+      "James Hampton"
+   ],
+   "significants": [
+      "Billy Bob Thornton"
+   ],
+   "title": "Sling Blade",
+   "overview": "Karl Childers is a mentally disabled man who has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, Karl is deemed fit to be released into the outside world.",
+   "tagline": "A simple man. A difficult choice.",
+   "video": "DfnPrMypS8U",
+   "posterPath": "/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/y7kYNk6gJMkPx1YfXhXw6fMTstf.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

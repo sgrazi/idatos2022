@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0151804",
+   "tmdbID": "1542",
+   "imdbRating": 77,
+   "imdbVoteCount": 267755,
+   "tmdbRating": 73,
+   "backdropPath": "/vNnRMxksen1cJNl3e0C9Zig4cUf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vNnRMxksen1cJNl3e0C9Zig4cUf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vNnRMxksen1cJNl3e0C9Zig4cUf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vNnRMxksen1cJNl3e0C9Zig4cUf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vNnRMxksen1cJNl3e0C9Zig4cUf.jpg"
+   },
+   "originalTitle": "Office Space",
+   "genres": [
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1999,
+   "runtime": 90,
+   "cast": [
+      "Ron Livingston",
+      "Jennifer Aniston",
+      "David Herman",
+      "Ajay Naidu",
+      "Diedrich Bader",
+      "Stephen Root",
+      "Gary Cole"
+   ],
+   "significants": [
+      "Mike Judge"
+   ],
+   "title": "Office Space",
+   "overview": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+   "tagline": "Work sucks.",
+   "video": "3_fG_zLbBeU",
+   "posterPath": "/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fiB7DY9mATGFOCTd4cgK6k2Wzr9.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/d38591ec-d8ec-45d7-8b39-cfd07b860a8d",
+            "added": 1667636369,
+            "leaving": 1677657540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

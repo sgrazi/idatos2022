@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt2584384",
+   "tmdbID": "515001",
+   "imdbRating": 79,
+   "imdbVoteCount": 386391,
+   "tmdbRating": 80,
+   "backdropPath": "/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/agoBZfL1q5G79SD0npArSlJn8BH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/agoBZfL1q5G79SD0npArSlJn8BH.jpg"
+   },
+   "originalTitle": "Jojo Rabbit",
+   "genres": [
+      35,
+      18,
+      10752
+   ],
+   "countries": [
+      "CZ",
+      "NZ",
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 108,
+   "cast": [
+      "Roman Griffin Davis",
+      "Thomasin McKenzie",
+      "Scarlett Johansson",
+      "Taika Waititi",
+      "Sam Rockwell",
+      "Rebel Wilson",
+      "Alfie Allen"
+   ],
+   "significants": [
+      "Taika Waititi"
+   ],
+   "title": "Jojo Rabbit",
+   "overview": "A World War II satire that follows a lonely German boy whose world view is turned upside down when he discovers his single mother is hiding a young Jewish girl in their attic. Aided only by his idiotic imaginary friend, Adolf Hitler, Jojo must confront his blind nationalism.",
+   "tagline": "An anti-hate satire.",
+   "video": "tL4McUzXfFI",
+   "posterPath": "/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7GsM4mtM0worCtIVeiQt28HieeN.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

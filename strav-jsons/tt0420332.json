@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0420332",
+   "tmdbID": "4251",
+   "imdbRating": 78,
+   "imdbVoteCount": 53592,
+   "tmdbRating": 74,
+   "backdropPath": "/lJhFmVcLTy2i4gRfw9XtcuGYozM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lJhFmVcLTy2i4gRfw9XtcuGYozM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lJhFmVcLTy2i4gRfw9XtcuGYozM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lJhFmVcLTy2i4gRfw9XtcuGYozM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lJhFmVcLTy2i4gRfw9XtcuGYozM.jpg"
+   },
+   "originalTitle": "वीर-ज़ारा",
+   "genres": [
+      18,
+      10751,
+      4
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2004,
+   "runtime": 192,
+   "cast": [
+      "Shah Rukh Khan",
+      "Preity Zinta",
+      "Rani Mukerji",
+      "Amitabh Bachchan",
+      "Hema Malini",
+      "Divya Dutta",
+      "Anupam Kher"
+   ],
+   "significants": [
+      "Yash Chopra"
+   ],
+   "title": "Veer-Zaara",
+   "overview": "Squadron Leader Veer Pratap Singh, a pilot in the Indian air force, rescues the stranded Zaara, a woman from Pakistan, following a bus accident, and their lives are forever bound.",
+   "tagline": "A Love Legend",
+   "video": "",
+   "posterPath": "/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/j267YqLvKAHeyykTflxzpgVgviQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/j267YqLvKAHeyykTflxzpgVgviQ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

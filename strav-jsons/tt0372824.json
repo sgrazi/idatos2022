@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0372824",
+   "tmdbID": "5528",
+   "imdbRating": 78,
+   "imdbVoteCount": 62710,
+   "tmdbRating": 77,
+   "backdropPath": "/vcPCnRQSsZaCJJ9q75u7dWCh3c2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vcPCnRQSsZaCJJ9q75u7dWCh3c2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vcPCnRQSsZaCJJ9q75u7dWCh3c2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vcPCnRQSsZaCJJ9q75u7dWCh3c2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vcPCnRQSsZaCJJ9q75u7dWCh3c2.jpg"
+   },
+   "originalTitle": "Les Choristes",
+   "genres": [
+      18,
+      10402
+   ],
+   "countries": [
+      "FR",
+      "DE",
+      "CH"
+   ],
+   "year": 2004,
+   "runtime": 97,
+   "cast": [
+      "Gérard Jugnot",
+      "François Berléand",
+      "Kad Merad",
+      "Jean-Paul Bonnaire",
+      "Marie Bunel",
+      "Jean-Baptiste Maunier",
+      "Maxence Perrin"
+   ],
+   "significants": [
+      "Christophe Barratier"
+   ],
+   "title": "The Chorus",
+   "overview": "Set in 1940s France, a new teacher at a school for disruptive boys gives hope and inspiration.",
+   "tagline": "",
+   "video": "QVtJgU6WTj8",
+   "posterPath": "/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zsWq5fa4Db7im4a3QnkoOns6782.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zsWq5fa4Db7im4a3QnkoOns6782.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

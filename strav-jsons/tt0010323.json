@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0010323",
+   "tmdbID": "234",
+   "imdbRating": 80,
+   "imdbVoteCount": 64516,
+   "tmdbRating": 79,
+   "backdropPath": "/m0N89MIIu6qYZcujCRzBHrkZbns.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/m0N89MIIu6qYZcujCRzBHrkZbns.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m0N89MIIu6qYZcujCRzBHrkZbns.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/m0N89MIIu6qYZcujCRzBHrkZbns.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m0N89MIIu6qYZcujCRzBHrkZbns.jpg"
+   },
+   "originalTitle": "Das Cabinet des Dr. Caligari",
+   "genres": [
+      27,
+      9648,
+      53
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 1920,
+   "runtime": 75,
+   "cast": [
+      "Werner Krauß",
+      "Conrad Veidt",
+      "Friedrich Fehér",
+      "Lil Dagover",
+      "Hans Heinrich von Twardowski",
+      "Rudolf Lettinger",
+      "Henri Peters-Arnolds"
+   ],
+   "significants": [
+      "Robert Wiene"
+   ],
+   "title": "The Cabinet of Dr. Caligari",
+   "overview": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+   "tagline": "You must become Caligari!",
+   "video": "7LG19w33okU",
+   "posterPath": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "original": "https://image.tmdb.org/t/p/original/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

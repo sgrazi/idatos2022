@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0375679",
+   "tmdbID": "1640",
+   "imdbRating": 78,
+   "imdbVoteCount": 437089,
+   "tmdbRating": 72,
+   "backdropPath": "/p6KTx0cpT33ZIbUrZqPjCpjHQT3.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/p6KTx0cpT33ZIbUrZqPjCpjHQT3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p6KTx0cpT33ZIbUrZqPjCpjHQT3.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/p6KTx0cpT33ZIbUrZqPjCpjHQT3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p6KTx0cpT33ZIbUrZqPjCpjHQT3.jpg"
+   },
+   "originalTitle": "Crash",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "DE",
+      "US"
+   ],
+   "year": 2005,
+   "runtime": 112,
+   "cast": [
+      "Sandra Bullock",
+      "Don Cheadle",
+      "Matt Dillon",
+      "Michael Peña",
+      "Jennifer Esposito",
+      "Brendan Fraser",
+      "Nona Gaye"
+   ],
+   "significants": [
+      "Paul Haggis"
+   ],
+   "title": "Crash",
+   "overview": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+   "tagline": "You think you know who you are. You have no idea.",
+   "video": "durNwe9pL0E",
+   "posterPath": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/86BdPC6RDX88NC880pLidKn2LCj.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYfxGbwqwlJuawgEAAAAC:type:feature",
+            "added": 1655501161,
+            "leaving": 16776467400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,60 @@
+{
+   "imdbID": "tt0048545",
+   "tmdbID": "221",
+   "imdbRating": 76,
+   "imdbVoteCount": 91526,
+   "tmdbRating": 75,
+   "backdropPath": "/jPXsPciwlPTG756CHkZt2jYpnNM.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jPXsPciwlPTG756CHkZt2jYpnNM.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jPXsPciwlPTG756CHkZt2jYpnNM.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jPXsPciwlPTG756CHkZt2jYpnNM.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jPXsPciwlPTG756CHkZt2jYpnNM.jpg"
+   },
+   "originalTitle": "Rebel Without a Cause",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1955,
+   "runtime": 111,
+   "cast": [
+      "James Dean",
+      "Natalie Wood",
+      "Sal Mineo",
+      "Jim Backus",
+      "Ann Doran",
+      "Corey Allen",
+      "William Hopper"
+   ],
+   "significants": [
+      "Nicholas Ray"
+   ],
+   "title": "Rebel Without a Cause",
+   "overview": "After moving to a new town, troublemaking teen Jim Stark is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato, and falls for local girl Judy. However, Judy is the girlfriend of neighborhood tough, Buzz. When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.",
+   "tagline": "The bad boy from a good family.",
+   "video": "wXRgAXU1-T4",
+   "posterPath": "/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/n0oJB5fhcUth9ZbHziwsFuR38gT.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXjS6GwlME5PCwgEAAASq:type:feature",
+            "added": 1655506909,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

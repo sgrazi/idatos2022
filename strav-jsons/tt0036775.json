@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0036775",
+   "tmdbID": "996",
+   "imdbRating": 83,
+   "imdbVoteCount": 157692,
+   "tmdbRating": 81,
+   "backdropPath": "/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/u546kDNwrZ1ii6q8NqqQgHwRvoW.jpg"
+   },
+   "originalTitle": "Double Indemnity",
+   "genres": [
+      80,
+      18,
+      2
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1944,
+   "runtime": 107,
+   "cast": [
+      "Fred MacMurray",
+      "Barbara Stanwyck",
+      "Edward G. Robinson",
+      "Porter Hall",
+      "Richard Gaines",
+      "Jean Heather",
+      "Tom Powers"
+   ],
+   "significants": [
+      "Billy Wilder"
+   ],
+   "title": "Double Indemnity",
+   "overview": "A rich woman and a calculating insurance agent plot to kill her unsuspecting husband after he signs a double indemnity policy. Against a backdrop of distinctly Californian settings, the partners in crime plan the perfect murder to collect the insurance, which pays double if the death is accidental.",
+   "tagline": "It's love and murder at first sight!",
+   "video": "1bKSkxV9A8k",
+   "posterPath": "/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kkfKLeOTo7RjS9TxHKpknlL7huS.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

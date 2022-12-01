@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0139654",
+   "tmdbID": "2034",
+   "imdbRating": 77,
+   "imdbVoteCount": 436373,
+   "tmdbRating": 74,
+   "backdropPath": "/8kxhwABuQhoybGr6TPdrV8w5FLm.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/8kxhwABuQhoybGr6TPdrV8w5FLm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8kxhwABuQhoybGr6TPdrV8w5FLm.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/8kxhwABuQhoybGr6TPdrV8w5FLm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8kxhwABuQhoybGr6TPdrV8w5FLm.jpg"
+   },
+   "originalTitle": "Training Day",
+   "genres": [
+      28,
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 122,
+   "cast": [
+      "Denzel Washington",
+      "Ethan Hawke",
+      "Scott Glenn",
+      "Tom Berenger",
+      "Harris Yulin",
+      "Raymond J. Barry",
+      "Cliff Curtis"
+   ],
+   "significants": [
+      "Antoine Fuqua"
+   ],
+   "title": "Training Day",
+   "overview": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+   "tagline": "The only thing more dangerous than the line being crossed, is the cop who will cross it.",
+   "video": "CKxKB3IFdIs",
+   "posterPath": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bUeiwBQdupBLQthMCHKV7zv56uv.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX07gpQFBrLCttQEAAAH-:type:feature",
+            "added": 1659586820,
+            "leaving": 0
+         }
+      },
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60021234/",
+            "added": 1668151375,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

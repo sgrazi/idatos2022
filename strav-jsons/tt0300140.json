@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0300140",
+   "tmdbID": "12093",
+   "imdbRating": 78,
+   "imdbVoteCount": 46071,
+   "tmdbRating": 76,
+   "backdropPath": "/uW0HIEQD9xnENifYXNLN6692X8A.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uW0HIEQD9xnENifYXNLN6692X8A.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uW0HIEQD9xnENifYXNLN6692X8A.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uW0HIEQD9xnENifYXNLN6692X8A.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uW0HIEQD9xnENifYXNLN6692X8A.jpg"
+   },
+   "originalTitle": "Lilja 4-Ever",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "DK",
+      "SE"
+   ],
+   "year": 2002,
+   "runtime": 109,
+   "cast": [
+      "Oksana Akinshina",
+      "Artyom Bogucharsky",
+      "Lyubov Agapova",
+      "Liliya Shinkaryova",
+      "Elina Benenson",
+      "Pavel Ponomaryov",
+      "Tomasz Neuman"
+   ],
+   "significants": [
+      "Lukas Moodysson"
+   ],
+   "title": "Lilya 4-ever",
+   "overview": "Lilja lives in poverty and dreams of a better life. Her mother moves to the United States and abandons her to her aunt, who neglects her. Lilja hangs out with her friends, Natasha and Volodya, who is suicidal. Desperate for money, she starts working as a prostitute, and later meets Andrei. He offers her a good job in Sweden, but when Lilja arrives her life quickly enters a downward spiral.",
+   "tagline": "",
+   "video": "LUHHsPP7XRM",
+   "posterPath": "/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5i1uhvcdv2Iogx0Bb1znvUmkCvN.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "sv"
+}

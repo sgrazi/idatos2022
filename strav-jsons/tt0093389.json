@@ -1,0 +1,65 @@
+{
+   "imdbID": "tt0093389",
+   "tmdbID": "746",
+   "imdbRating": 77,
+   "imdbVoteCount": 103945,
+   "tmdbRating": 76,
+   "backdropPath": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg"
+   },
+   "originalTitle": "The Last Emperor",
+   "genres": [
+      1,
+      18,
+      36
+   ],
+   "countries": [
+      "CN",
+      "FR",
+      "IT",
+      "GB"
+   ],
+   "year": 1987,
+   "runtime": 163,
+   "cast": [
+      "John Lone",
+      "Peter O'Toole",
+      "Joan Chen",
+      "Vivian Wu",
+      "Dennis Dun",
+      "Ruocheng Ying",
+      "Victor Wong"
+   ],
+   "significants": [
+      "Bernardo Bertolucci"
+   ],
+   "title": "The Last Emperor",
+   "overview": "A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.",
+   "tagline": "1500 slaves. 353,260,000 royal subjects. Warlords. Concubines. And 2 wives. He was the loneliest boy in the world.",
+   "video": "YnEOZSNtcJI",
+   "posterPath": "/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dJFPPQHtRAOxMRf7DzdYbQ4rQBC.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk3jxQ5d1Z4_wwEAAAd1:type:feature",
+            "added": 1655506095,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

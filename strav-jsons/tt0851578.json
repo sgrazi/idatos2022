@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0851578",
+   "tmdbID": "4977",
+   "imdbRating": 77,
+   "imdbVoteCount": 84012,
+   "tmdbRating": 77,
+   "backdropPath": "/3IkChGhTllTULVWht55UDFHTg6Q.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3IkChGhTllTULVWht55UDFHTg6Q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3IkChGhTllTULVWht55UDFHTg6Q.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3IkChGhTllTULVWht55UDFHTg6Q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3IkChGhTllTULVWht55UDFHTg6Q.jpg"
+   },
+   "originalTitle": "パプリカ",
+   "genres": [
+      16,
+      18,
+      14
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 2006,
+   "runtime": 90,
+   "cast": [
+      "Megumi Hayashibara",
+      "Tohru Emori",
+      "Katsunosuke Hori",
+      "Toru Furuya",
+      "Akio Otsuka",
+      "Koichi Yamadera",
+      "Hideyuki Tanaka"
+   ],
+   "significants": [
+      "Satoshi Kon"
+   ],
+   "title": "Paprika",
+   "overview": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.",
+   "tagline": "",
+   "video": "PIUqozzyW2k",
+   "posterPath": "/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

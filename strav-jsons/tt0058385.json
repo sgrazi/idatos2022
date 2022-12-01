@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0058385",
+   "tmdbID": "11113",
+   "imdbRating": 78,
+   "imdbVoteCount": 96039,
+   "tmdbRating": 75,
+   "backdropPath": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg"
+   },
+   "originalTitle": "My Fair Lady",
+   "genres": [
+      18,
+      10751,
+      4
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1964,
+   "runtime": 170,
+   "cast": [
+      "Audrey Hepburn",
+      "Rex Harrison",
+      "Stanley Holloway",
+      "Wilfrid Hyde-White",
+      "Gladys Cooper",
+      "Jeremy Brett",
+      "Theodore Bikel"
+   ],
+   "significants": [
+      "George Cukor"
+   ],
+   "title": "My Fair Lady",
+   "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+   "tagline": "The loverliest motion picture of them all!",
+   "video": "Cl1yZHF8Yq8",
+   "posterPath": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bTXVc29lGSNclf94VIZ49W4gGKl.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/WsczInrZl74YwMOSyaIwhLXeVCU54PMo/",
+            "added": 1667598702,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

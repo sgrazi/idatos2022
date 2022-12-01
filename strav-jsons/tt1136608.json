@@ -1,0 +1,65 @@
+{
+   "imdbID": "tt1136608",
+   "tmdbID": "17654",
+   "imdbRating": 79,
+   "imdbVoteCount": 681498,
+   "tmdbRating": 74,
+   "backdropPath": "/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg"
+   },
+   "originalTitle": "District 9",
+   "genres": [
+      28,
+      878,
+      53
+   ],
+   "countries": [
+      "US",
+      "NZ",
+      "CA",
+      "ZA"
+   ],
+   "year": 2009,
+   "runtime": 112,
+   "cast": [
+      "Sharlto Copley",
+      "Jason Cope",
+      "Nathalie Boltt",
+      "Sylvaine Strike",
+      "Elizabeth Mkandawie",
+      "John Sumner",
+      "William Allen Young"
+   ],
+   "significants": [
+      "Neill Blomkamp"
+   ],
+   "title": "District 9",
+   "overview": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+   "tagline": "You are not welcome here.",
+   "video": "_BjWEn5yvmw",
+   "posterPath": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYwb57wTKd63CwwEAAAaX:type:feature",
+            "added": 1664790682,
+            "leaving": 16961436000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

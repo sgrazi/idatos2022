@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0086022",
+   "tmdbID": "1394",
+   "imdbRating": 80,
+   "imdbVoteCount": 27409,
+   "tmdbRating": 79,
+   "backdropPath": "/ePq5SQuGHbQ209pf4ViE747dGCw.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ePq5SQuGHbQ209pf4ViE747dGCw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ePq5SQuGHbQ209pf4ViE747dGCw.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ePq5SQuGHbQ209pf4ViE747dGCw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ePq5SQuGHbQ209pf4ViE747dGCw.jpg"
+   },
+   "originalTitle": "Ностальгия",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "IT",
+      "SU"
+   ],
+   "year": 1983,
+   "runtime": 126,
+   "cast": [
+      "Oleg Yankovskiy",
+      "Erland Josephson",
+      "Domiziana Giordano",
+      "Patrizia Terreno",
+      "Laura De Marchi",
+      "Delia Boccardo",
+      "Milena Vukotić"
+   ],
+   "significants": [
+      "Andrei Tarkovsky"
+   ],
+   "title": "Nostalgia",
+   "overview": "A Russian poet and his interpreter travel to Italy to research the life of an 18th-century composer.",
+   "tagline": "",
+   "video": "_a00N9fU1Mk",
+   "posterPath": "/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fCYSidPXp3LpDa9wlLNv0gZvjyF.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

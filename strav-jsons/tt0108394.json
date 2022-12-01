@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt0108394",
+   "tmdbID": "108",
+   "imdbRating": 79,
+   "imdbVoteCount": 102639,
+   "tmdbRating": 76,
+   "backdropPath": "/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg"
+   },
+   "originalTitle": "Trois couleurs : Bleu",
+   "genres": [
+      18,
+      10402,
+      9648
+   ],
+   "countries": [
+      "FR",
+      "PL",
+      "CH"
+   ],
+   "year": 1993,
+   "runtime": 98,
+   "cast": [
+      "Juliette Binoche",
+      "Benoît Régent",
+      "Florence Pernel",
+      "Charlotte Véry",
+      "Hélène Vincent",
+      "Philippe Volter",
+      "Claude Duneton"
+   ],
+   "significants": [
+      "Krzysztof Kieślowski"
+   ],
+   "title": "Three Colors: Blue",
+   "overview": "Julie is haunted by her grief after living through a tragic auto wreck that claimed the life of her composer husband and young daughter. Her initial reaction is to withdraw from her relationships, lock herself in her apartment and suppress her pain. But avoiding human interactions on the bustling streets of Paris proves impossible, and she eventually meets up with Olivier, an old friend who harbors a secret love for her, and who could draw her back to reality.",
+   "tagline": "",
+   "video": "Hxu6my_t4pM",
+   "posterPath": "/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXnAoDAyBpcNVoAEAABq8:type:feature",
+            "added": 1655501470,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

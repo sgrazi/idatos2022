@@ -1,0 +1,64 @@
+{
+   "imdbID": "tt1490017",
+   "tmdbID": "137106",
+   "imdbRating": 77,
+   "imdbVoteCount": 355644,
+   "tmdbRating": 74,
+   "backdropPath": "/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9531Jp42H0ppRXjkxxgCulnQNZp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9531Jp42H0ppRXjkxxgCulnQNZp.jpg"
+   },
+   "originalTitle": "The Lego Movie",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "DK",
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 100,
+   "cast": [
+      "Chris Pratt",
+      "Will Ferrell",
+      "Elizabeth Banks",
+      "Will Arnett",
+      "Nick Offerman",
+      "Alison Brie",
+      "Charlie Day"
+   ],
+   "significants": [
+      "Phil Lord",
+      "Christopher Miller"
+   ],
+   "title": "The Lego Movie",
+   "overview": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.",
+   "tagline": "The story of a nobody who saved everybody.",
+   "video": "fZ_JOBCLF-I",
+   "posterPath": "/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9klB7qKC9aCeGyyM4uU5hSA6xDV.jpg"
+   },
+   "age": 3,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk2biw2JrzC3wwEAAAay:type:feature",
+            "added": 1667472810,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

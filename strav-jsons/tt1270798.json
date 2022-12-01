@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt1270798",
+   "tmdbID": "49538",
+   "imdbRating": 77,
+   "imdbVoteCount": 692563,
+   "tmdbRating": 72,
+   "backdropPath": "/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bMiOfPhplZu1Lql3hGTRV087QA.jpg"
+   },
+   "originalTitle": "X-Men: First Class",
+   "genres": [
+      28,
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2011,
+   "runtime": 132,
+   "cast": [
+      "James McAvoy",
+      "Michael Fassbender",
+      "Kevin Bacon",
+      "Rose Byrne",
+      "Jennifer Lawrence",
+      "January Jones",
+      "Nicholas Hoult"
+   ],
+   "significants": [
+      "Matthew Vaughn"
+   ],
+   "title": "X-Men: First Class",
+   "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+   "tagline": "Witness the moment that will change our world.",
+   "video": "",
+   "posterPath": "/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vUvlOY575rztBuJV3a0dbHW5MQR.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/15ELm1fiAfKq",
+            "added": 1636159156,
+            "leaving": 0
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/x-men-first-class/ea2cf2cf-a900-3aaa-ab81-289c56506d6a",
+            "added": 1664898237,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

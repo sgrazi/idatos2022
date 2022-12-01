@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0050825",
+   "tmdbID": "975",
+   "imdbRating": 84,
+   "imdbVoteCount": 197568,
+   "tmdbRating": 82,
+   "backdropPath": "/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/354kfjVb96mtFALMhBE6jzHGiA2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/354kfjVb96mtFALMhBE6jzHGiA2.jpg"
+   },
+   "originalTitle": "Paths of Glory",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1957,
+   "runtime": 88,
+   "cast": [
+      "Kirk Douglas",
+      "Ralph Meeker",
+      "Adolphe Menjou",
+      "George Macready",
+      "Wayne Morris",
+      "Richard Anderson",
+      "Joe Turkel"
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "Paths of Glory",
+   "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+   "tagline": "It explodes in the no-man's land no picture ever dared cross before!",
+   "video": "nmDA60X-f_A",
+   "posterPath": "/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/l2IY0gOHHmCWM90LjteFssxIV1G.jpg",
+      "original": "https://image.tmdb.org/t/p/original/l2IY0gOHHmCWM90LjteFssxIV1G.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

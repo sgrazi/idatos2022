@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt7979580",
+   "tmdbID": "501929",
+   "imdbRating": 76,
+   "imdbVoteCount": 108152,
+   "tmdbRating": 79,
+   "backdropPath": "/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6ydGnzbo8s4yRNqQWPAvVSiNU8N.jpg"
+   },
+   "originalTitle": "The Mitchells vs. the Machines",
+   "genres": [
+      16,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2021,
+   "runtime": 110,
+   "cast": [
+      "Abbi Jacobson",
+      "Danny McBride",
+      "Maya Rudolph",
+      "Olivia Colman",
+      "Michael Rianda",
+      "Eric André",
+      "Fred Armisen"
+   ],
+   "significants": [
+      "Michael Rianda"
+   ],
+   "title": "The Mitchells vs. the Machines",
+   "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+   "tagline": "Saving the world can be a trip.",
+   "video": "_ak5dFt8Ar0",
+   "posterPath": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/81399614/",
+            "added": 1668314699,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

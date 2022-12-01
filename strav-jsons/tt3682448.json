@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt3682448",
+   "tmdbID": "296098",
+   "imdbRating": 76,
+   "imdbVoteCount": 311619,
+   "tmdbRating": 72,
+   "backdropPath": "/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/12M3SvYO4WMdlXCajWklz1zUAly.jpg",
+      "original": "https://image.tmdb.org/t/p/original/12M3SvYO4WMdlXCajWklz1zUAly.jpg"
+   },
+   "originalTitle": "Bridge of Spies",
+   "genres": [
+      18,
+      36,
+      53
+   ],
+   "countries": [
+      "IN",
+      "US",
+      "DE"
+   ],
+   "year": 2015,
+   "runtime": 141,
+   "cast": [
+      "Tom Hanks",
+      "Mark Rylance",
+      "Amy Ryan",
+      "Alan Alda",
+      "Sebastian Koch",
+      "Austin Stowell",
+      "Billy Magnussen"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "Bridge of Spies",
+   "overview": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James Donovan, recruited by a CIA operative to negotiate his release. Donovan boards a plane to Berlin, hoping to win the young man's freedom through a prisoner exchange. If all goes well, the Russians would get Rudolf Abel, the convicted spy who Donovan defended in court.",
+   "tagline": "In the shadow of war, one man showed the world what we stood for.",
+   "video": "vn2nCuzTd4w",
+   "posterPath": "/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bORlvwnVJE1Z6yIg96qnLLY3LJQ.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

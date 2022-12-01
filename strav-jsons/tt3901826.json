@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt3901826",
+   "tmdbID": "435129",
+   "imdbRating": 77,
+   "imdbVoteCount": 25778,
+   "tmdbRating": 79,
+   "backdropPath": "/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fRtQdiESAdt9rjXCvZhvkmprvac.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fRtQdiESAdt9rjXCvZhvkmprvac.jpg"
+   },
+   "originalTitle": "The Breadwinner",
+   "genres": [
+      16,
+      18,
+      10751
+   ],
+   "countries": [
+      "IE",
+      "CA",
+      "LU"
+   ],
+   "year": 2017,
+   "runtime": 94,
+   "cast": [
+      "Saara Chaudry",
+      "Soma Bhatia",
+      "Laara Sadiq",
+      "Shaista Latif",
+      "Ali Badshah",
+      "Kawa Ada",
+      "Noorin Gulamgaus"
+   ],
+   "significants": [
+      "Nora Twomey"
+   ],
+   "title": "The Breadwinner",
+   "overview": "A headstrong young girl in Afghanistan, ruled by the Taliban, disguises herself as a boy in order to provide for her family.",
+   "tagline": "",
+   "video": "p64O8KAHHaQ",
+   "posterPath": "/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2d6qmkJz9AWqmk9wBWtd2uFX89t.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

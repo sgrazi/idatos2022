@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0499549",
+   "tmdbID": "19995",
+   "imdbRating": 78,
+   "imdbVoteCount": 1244050,
+   "tmdbRating": 75,
+   "backdropPath": "/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7ABsaBkO1jA2psC8Hy4IDhkID4h.jpg"
+   },
+   "originalTitle": "Avatar",
+   "genres": [
+      28,
+      12,
+      14
+   ],
+   "countries": [
+      "US",
+      "GB"
+   ],
+   "year": 2009,
+   "runtime": 162,
+   "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Michelle Rodriguez",
+      "Giovanni Ribisi",
+      "Joel David Moore"
+   ],
+   "significants": [
+      "James Cameron"
+   ],
+   "title": "Avatar",
+   "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+   "tagline": "Enter the world of Pandora.",
+   "video": "jm2sNLIPPvA",
+   "posterPath": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/2YOnkRN4LwZZ",
+            "added": 1652529283,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

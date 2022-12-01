@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0078754",
+   "tmdbID": "16858",
+   "imdbRating": 78,
+   "imdbVoteCount": 32338,
+   "tmdbRating": 74,
+   "backdropPath": "/4tOzDfIzeynN8WCy1kQ4kBHdgLp.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4tOzDfIzeynN8WCy1kQ4kBHdgLp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4tOzDfIzeynN8WCy1kQ4kBHdgLp.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4tOzDfIzeynN8WCy1kQ4kBHdgLp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4tOzDfIzeynN8WCy1kQ4kBHdgLp.jpg"
+   },
+   "originalTitle": "All That Jazz",
+   "genres": [
+      18,
+      10402,
+      4
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1979,
+   "runtime": 123,
+   "cast": [
+      "Roy Scheider",
+      "Jessica Lange",
+      "Ann Reinking",
+      "Leland Palmer",
+      "Cliff Gorman",
+      "Ben Vereen",
+      "Erzsebet Foldi"
+   ],
+   "significants": [
+      "Bob Fosse"
+   ],
+   "title": "All That Jazz",
+   "overview": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+   "tagline": "All that work. All that glitter. All that pain. All that love. All that crazy rhythm. All that jazz.",
+   "video": "8_aIhkKlrwk",
+   "posterPath": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "original": "https://image.tmdb.org/t/p/original/culCEdj4srLljefgn4XKd6k3C5t.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0108037",
+   "tmdbID": "11528",
+   "imdbRating": 78,
+   "imdbVoteCount": 93058,
+   "tmdbRating": 75,
+   "backdropPath": "/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wjxyKpUAZu6OVbKx9krhgI9KMl2.jpg"
+   },
+   "originalTitle": "The Sandlot",
+   "genres": [
+      35,
+      10751
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 101,
+   "cast": [
+      "Tom Guiry",
+      "Mike Vitar",
+      "James Earl Jones",
+      "Karen Allen",
+      "Denis Leary",
+      "Arliss Howard",
+      "Marley Shelton"
+   ],
+   "significants": [
+      "David Mickey Evans"
+   ],
+   "title": "The Sandlot",
+   "overview": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+   "tagline": "",
+   "video": "qeI5BQpLjqw",
+   "posterPath": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/4dZNO1hdVSXv",
+            "added": 1654321547,
+            "leaving": 0
+         }
+      },
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/48499",
+            "added": 1668807466,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

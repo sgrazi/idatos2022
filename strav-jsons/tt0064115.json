@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0064115",
+   "tmdbID": "642",
+   "imdbRating": 80,
+   "imdbVoteCount": 216473,
+   "tmdbRating": 76,
+   "backdropPath": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg"
+   },
+   "originalTitle": "Butch Cassidy and the Sundance Kid",
+   "genres": [
+      1,
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1969,
+   "runtime": 111,
+   "cast": [
+      "Paul Newman",
+      "Robert Redford",
+      "Katharine Ross",
+      "Strother Martin",
+      "Henry Jones",
+      "Jeff Corey",
+      "George Furth"
+   ],
+   "significants": [
+      "George Roy Hill"
+   ],
+   "title": "Butch Cassidy and the Sundance Kid",
+   "overview": "In late 1890s Wyoming, Butch Cassidy is the affable, clever and talkative leader of the outlaw Hole in the Wall Gang. His closest companion is the laconic dead-shot Sundance Kid. As the west rapidly becomes civilized, the law finally catches up to Butch, Sundance and their gang.  Chased doggedly by a special posse, the two decide to make their way to South America in hopes of evading their pursuers once and for all.",
+   "tagline": "Not that it matters, but most of it is true.",
+   "video": "bJmQx5vOAyg",
+   "posterPath": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWtYhew4w1bi8vQEAAACt:type:feature",
+            "added": 1664791337,
+            "leaving": 17040960000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

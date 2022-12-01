@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0075860",
+   "tmdbID": "840",
+   "imdbRating": 76,
+   "imdbVoteCount": 202705,
+   "tmdbRating": 73,
+   "backdropPath": "/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yBCekmb7vK70xUhtsRQBcTu65sB.jpg"
+   },
+   "originalTitle": "Close Encounters of the Third Kind",
+   "genres": [
+      18,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1977,
+   "runtime": 137,
+   "cast": [
+      "Richard Dreyfuss",
+      "François Truffaut",
+      "Teri Garr",
+      "Melinda Dillon",
+      "Bob Balaban",
+      "J. Patrick McNamara",
+      "Warren J. Kemmerling"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "Close Encounters of the Third Kind",
+   "overview": "After an encounter with UFOs, a line worker feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+   "tagline": "We are not alone",
+   "video": "dSpQ3G08k48",
+   "posterPath": "/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

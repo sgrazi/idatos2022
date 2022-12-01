@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt1821549",
+   "tmdbID": "129670",
+   "imdbRating": 77,
+   "imdbVoteCount": 118783,
+   "tmdbRating": 74,
+   "backdropPath": "/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jL6QryTA0tm8s0CElVOoYTqK7bj.jpg"
+   },
+   "originalTitle": "Nebraska",
+   "genres": [
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2013,
+   "runtime": 115,
+   "cast": [
+      "Bruce Dern",
+      "Will Forte",
+      "June Squibb",
+      "Bob Odenkirk",
+      "Stacy Keach",
+      "Mary Louise Wilson",
+      "Rance Howard"
+   ],
+   "significants": [
+      "Alexander Payne"
+   ],
+   "title": "Nebraska",
+   "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+   "tagline": "Life's not about winning or losing. It's about how you get there in the end.",
+   "video": "YvW_DmfKfSk",
+   "posterPath": "/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3WdcebeFY1ProN3MxKuaT78CK8w.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3WdcebeFY1ProN3MxKuaT78CK8w.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/YWc9WHfYPZ6PToy9b6RepGw22NwOVZJP/",
+            "added": 1658383464,
+            "leaving": 1691470800
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0FBAC31V4VADEIWLKTC50GUU5N/",
+            "added": 1654589676,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

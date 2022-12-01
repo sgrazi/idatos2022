@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0091064",
+   "tmdbID": "9426",
+   "imdbRating": 76,
+   "imdbVoteCount": 184014,
+   "tmdbRating": 73,
+   "backdropPath": "/jsfIt1y0t7hNjYmC7mfsEIHwET8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jsfIt1y0t7hNjYmC7mfsEIHwET8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jsfIt1y0t7hNjYmC7mfsEIHwET8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jsfIt1y0t7hNjYmC7mfsEIHwET8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jsfIt1y0t7hNjYmC7mfsEIHwET8.jpg"
+   },
+   "originalTitle": "The Fly",
+   "genres": [
+      27,
+      878
+   ],
+   "countries": [
+      "CA",
+      "GB",
+      "US"
+   ],
+   "year": 1986,
+   "runtime": 96,
+   "cast": [
+      "Jeff Goldblum",
+      "Geena Davis",
+      "John Getz",
+      "Joy Boushel",
+      "Leslie Carlson",
+      "George Chuvalo",
+      "Michael Copeman"
+   ],
+   "significants": [
+      "David Cronenberg"
+   ],
+   "title": "The Fly",
+   "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+   "tagline": "Be afraid. Be very afraid.",
+   "video": "wRb-N6dbrgs",
+   "posterPath": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYuz12wjn7rTCKgEAAAFv:type:feature",
+            "added": 1662211784,
+            "leaving": 17014176000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

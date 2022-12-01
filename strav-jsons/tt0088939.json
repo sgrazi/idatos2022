@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt0088939",
+   "tmdbID": "873",
+   "imdbRating": 77,
+   "imdbVoteCount": 87518,
+   "tmdbRating": 77,
+   "backdropPath": "/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg"
+   },
+   "originalTitle": "The Color Purple",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1985,
+   "runtime": 154,
+   "cast": [
+      "Danny Glover",
+      "Whoopi Goldberg",
+      "Margaret Avery",
+      "Oprah Winfrey",
+      "Willard E. Pugh",
+      "Akosua Busia",
+      "Desreta Jackson"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "The Color Purple",
+   "overview": "An epic tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry. After Celie's abusive father marries her off to the equally debasing 'Mister' Albert Johnson, things go from bad to worse, leaving Celie to find companionship anywhere she can. She perseveres, holding on to her dream of one day being reunited with her sister in Africa.",
+   "tagline": "It's about life. It's about love. It's about us.",
+   "video": "QvpgNiU018s",
+   "posterPath": "/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ziosRyziefrmEmAMIswpjQzvAur.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ziosRyziefrmEmAMIswpjQzvAur.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX07YoQsXl4aMwgEAAAFj:type:feature",
+            "added": 1655512612,
+            "leaving": 0
+         }
+      },
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60026621/",
+            "added": 1668073072,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0069281",
+   "tmdbID": "993",
+   "imdbRating": 80,
+   "imdbVoteCount": 48010,
+   "tmdbRating": 76,
+   "backdropPath": "/jpP8oOge5W47mHdgp3j3zEJnT6Q.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/jpP8oOge5W47mHdgp3j3zEJnT6Q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jpP8oOge5W47mHdgp3j3zEJnT6Q.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/jpP8oOge5W47mHdgp3j3zEJnT6Q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jpP8oOge5W47mHdgp3j3zEJnT6Q.jpg"
+   },
+   "originalTitle": "Sleuth",
+   "genres": [
+      9648,
+      53
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1972,
+   "runtime": 138,
+   "cast": [
+      "Laurence Olivier",
+      "Michael Caine",
+      "Alec Cawthorne",
+      "John Matthews",
+      "Eve Channing",
+      "Teddy Martin"
+   ],
+   "significants": [
+      "Joseph L. Mankiewicz"
+   ],
+   "title": "Sleuth",
+   "overview": "A mystery novelist devises an insurance scam with his wife's lover – but things aren't exactly as they seem.",
+   "tagline": "If it was murder, where's the body?",
+   "video": "XBRMaieaLdU",
+   "posterPath": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

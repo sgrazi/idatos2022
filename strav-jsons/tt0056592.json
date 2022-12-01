@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0056592",
+   "tmdbID": "595",
+   "imdbRating": 83,
+   "imdbVoteCount": 316698,
+   "tmdbRating": 80,
+   "backdropPath": "/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg"
+   },
+   "originalTitle": "To Kill a Mockingbird",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1962,
+   "runtime": 129,
+   "cast": [
+      "Gregory Peck",
+      "Mary Badham",
+      "Phillip Alford",
+      "John Megna",
+      "Frank Overton",
+      "Brock Peters",
+      "Rosemary Murphy"
+   ],
+   "significants": [
+      "Robert Mulligan"
+   ],
+   "title": "To Kill a Mockingbird",
+   "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+   "tagline": "A father must expose his children to a small town's outraged passions… and can only protect them with his love.",
+   "video": "4-CrrtYjrbM",
+   "posterPath": "/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/o5icF9TCe8Ld5bWy19rPwsNyLLv.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

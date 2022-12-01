@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0059646",
+   "tmdbID": "11481",
+   "imdbRating": 76,
+   "imdbVoteCount": 53800,
+   "tmdbRating": 74,
+   "backdropPath": "/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5rbPwIdEZTyLTkpAgvGdacgCr7T.jpg"
+   },
+   "originalTitle": "Repulsion",
+   "genres": [
+      18,
+      27,
+      53
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1965,
+   "runtime": 105,
+   "cast": [
+      "Catherine Deneuve",
+      "Ian Hendry",
+      "John Fraser",
+      "Yvonne Furneaux",
+      "Patrick Wymark",
+      "Renée Houston",
+      "Valerie Taylor"
+   ],
+   "significants": [
+      "Roman Polanski"
+   ],
+   "title": "Repulsion",
+   "overview": "Beautiful young manicurist Carole suffers from androphobia (the pathological fear of interaction with men). When her sister and roommate, Helen, leaves their London flat to go on an Italian holiday with her married boyfriend, Carole withdraws into her apartment. She begins to experience frightful hallucinations, her fear gradually mutating into madness.",
+   "tagline": "The nightmare world of a virgin's dreams becomes the screen's shocking reality!",
+   "video": "kMziXjk1bqc",
+   "posterPath": "/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dtyCKEPLqv9wxyVazL4b843vtUb.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

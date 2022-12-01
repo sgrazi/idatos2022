@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1727824",
+   "tmdbID": "424694",
+   "imdbRating": 79,
+   "imdbVoteCount": 536447,
+   "tmdbRating": 80,
+   "backdropPath": "/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7mmXWuBeNJiBO0NIOUWOuFve4Tb.jpg"
+   },
+   "originalTitle": "Bohemian Rhapsody",
+   "genres": [
+      1,
+      18,
+      10402
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 2018,
+   "runtime": 135,
+   "cast": [
+      "Rami Malek",
+      "Gwilym Lee",
+      "Ben Hardy",
+      "Joseph Mazzello",
+      "Lucy Boynton",
+      "Aidan Gillen",
+      "Allen Leech"
+   ],
+   "significants": [
+      "Bryan Singer"
+   ],
+   "title": "Bohemian Rhapsody",
+   "overview": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+   "tagline": "Fearless lives forever",
+   "video": "27zlBpzdOZg",
+   "posterPath": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/bdf571ea-fbee-4166-9414-c0f171ac32cd",
+            "added": 1668242299,
+            "leaving": 1672559940
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

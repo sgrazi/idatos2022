@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt2872718",
+   "tmdbID": "242582",
+   "imdbRating": 78,
+   "imdbVoteCount": 544628,
+   "tmdbRating": 76,
+   "backdropPath": "/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/wofhl2lsTYCPmMQPsbj6iu9n0P6.jpg"
+   },
+   "originalTitle": "Nightcrawler",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 118,
+   "cast": [
+      "Jake Gyllenhaal",
+      "Rene Russo",
+      "Riz Ahmed",
+      "Bill Paxton",
+      "Kevin Rahm",
+      "Michael Hyatt",
+      "Price Carson"
+   ],
+   "significants": [
+      "Dan Gilroy"
+   ],
+   "title": "Nightcrawler",
+   "overview": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+   "tagline": "The city shines brightest at night",
+   "video": "7uaYhPpV7G4",
+   "posterPath": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "original": "https://image.tmdb.org/t/p/original/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYxEc3Q1-HcJboAEAAAk4:type:feature",
+            "added": 1664798239,
+            "leaving": 16996032000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

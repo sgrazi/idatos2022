@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0347149",
+   "tmdbID": "4935",
+   "imdbRating": 82,
+   "imdbVoteCount": 393882,
+   "tmdbRating": 84,
+   "backdropPath": "/iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iuFbU5jiNh8DAxLBGifZCvv3KmB.jpg"
+   },
+   "originalTitle": "ハウルの動く城",
+   "genres": [
+      16,
+      12,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 2004,
+   "runtime": 119,
+   "cast": [
+      "Chieko Baisho",
+      "Takuya Kimura",
+      "Akihiro Miwa",
+      "Tatsuya Gashûin",
+      "Ryunosuke Kamiki",
+      "Haruko Katô",
+      "Yayoi Kazuki"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "Howl's Moving Castle",
+   "overview": "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+   "tagline": "The two lived there.",
+   "video": "iwROgK94zcM",
+   "posterPath": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHR0QRNbnUYOAEAAABB:type:feature",
+            "added": 1655511407,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

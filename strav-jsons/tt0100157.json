@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0100157",
+   "tmdbID": "1700",
+   "imdbRating": 78,
+   "imdbVoteCount": 212849,
+   "tmdbRating": 77,
+   "backdropPath": "/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg"
+   },
+   "originalTitle": "Misery",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1990,
+   "runtime": 107,
+   "cast": [
+      "James Caan",
+      "Kathy Bates",
+      "Richard Farnsworth",
+      "Frances Sternhagen",
+      "Lauren Bacall",
+      "Graham Jarvis",
+      "Jerry Potter"
+   ],
+   "significants": [
+      "Rob Reiner"
+   ],
+   "title": "Misery",
+   "overview": "Novelist Paul Sheldon crashes his car on a snowy Colorado road. He is found by Annie Wilkes, the \"number one fan\" of Paul's heroine Misery Chastaine. Annie is also dangerously unstable, and Paul finds himself crippled, drugged, and at her mercy.",
+   "tagline": "Paul Sheldon used to write for a living. Now, he’s writing to stay alive.",
+   "video": "9HU-RfV7QA0",
+   "posterPath": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "original": "https://image.tmdb.org/t/p/original/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHsBAPxLomBSgEAAAB4:type:feature",
+            "added": 1664797882,
+            "leaving": 16725491400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

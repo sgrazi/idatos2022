@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt1403865",
+   "tmdbID": "44264",
+   "imdbRating": 76,
+   "imdbVoteCount": 339762,
+   "tmdbRating": 72,
+   "backdropPath": "/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zztSrG61sqoHH5Zr66Z27fpbb26.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zztSrG61sqoHH5Zr66Z27fpbb26.jpg"
+   },
+   "originalTitle": "True Grit",
+   "genres": [
+      18,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2010,
+   "runtime": 110,
+   "cast": [
+      "Jeff Bridges",
+      "Hailee Steinfeld",
+      "Matt Damon",
+      "Josh Brolin",
+      "Barry Pepper",
+      "Domhnall Gleeson",
+      "Bruce Green"
+   ],
+   "significants": [
+      "Joel Coen",
+      "Ethan Coen"
+   ],
+   "title": "True Grit",
+   "overview": "Following the murder of her father by a hired hand, a 14-year-old farm girl sets out to capture the killer. To aid her, she hires the toughest U.S. Marshal she can find—a man with 'true grit'—Reuben J. 'Rooster' Cogburn.",
+   "tagline": "Punishment Comes One Way or Another.",
+   "video": "qIJ4OJ1wH3o",
+   "posterPath": "/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ptkuKjtIgYRrcX87YzyBjQGh8YU.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/PABph_BeQM6_Dt_qoZE5thM7wVy1Osqj/",
+            "added": 1664899845,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3504294/true-grit",
+            "added": 1664984079,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

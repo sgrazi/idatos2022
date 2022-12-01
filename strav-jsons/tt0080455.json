@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0080455",
+   "tmdbID": "525",
+   "imdbRating": 79,
+   "imdbVoteCount": 200317,
+   "tmdbRating": 77,
+   "backdropPath": "/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bk2fTuIhQIvdAA3RbnrnvLvuaTc.jpg"
+   },
+   "originalTitle": "The Blues Brothers",
+   "genres": [
+      28,
+      12,
+      35
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1980,
+   "runtime": 133,
+   "cast": [
+      "Dan Aykroyd",
+      "John Belushi",
+      "James Brown",
+      "Cab Calloway",
+      "Ray Charles",
+      "Aretha Franklin",
+      "Steve Cropper"
+   ],
+   "significants": [
+      "John Landis"
+   ],
+   "title": "The Blues Brothers",
+   "overview": "Jake Blues, just released from prison, puts his old band back togther to save the Catholic home where he and his brother Elwood were raised.",
+   "tagline": "They're on a mission from God.",
+   "video": "FFFC5GG2Hg4",
+   "posterPath": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "original": "https://image.tmdb.org/t/p/original/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/d3MYoQmcSmzx4R7YVd0jsC8W5Z_mjrLm/",
+            "added": 1667597886,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3513469/the-blues-brothers",
+            "added": 1667340980,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

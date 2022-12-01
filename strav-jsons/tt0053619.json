@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0053619",
+   "tmdbID": "5165",
+   "imdbRating": 78,
+   "imdbVoteCount": 30147,
+   "tmdbRating": 76,
+   "backdropPath": "/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg"
+   },
+   "originalTitle": "L'avventura",
+   "genres": [
+      18,
+      9648
+   ],
+   "countries": [
+      "IT",
+      "FR"
+   ],
+   "year": 1960,
+   "runtime": 144,
+   "cast": [
+      "Gabriele Ferzetti",
+      "Monica Vitti",
+      "Lea Massari",
+      "Dominique Blanchar",
+      "Renzo Ricci",
+      "James Addams",
+      "Dorothy De Poliolo"
+   ],
+   "significants": [
+      "Michelangelo Antonioni"
+   ],
+   "title": "L'Avventura",
+   "overview": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
+   "tagline": "A new adventure in filmmaking...",
+   "video": "OeTTaScAHLU",
+   "posterPath": "/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXmlRpgT4ZMNVoAEAAALH:type:feature",
+            "added": 1655513713,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "it"
+}

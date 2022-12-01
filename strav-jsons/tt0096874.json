@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0096874",
+   "tmdbID": "165",
+   "imdbRating": 78,
+   "imdbVoteCount": 531924,
+   "tmdbRating": 77,
+   "backdropPath": "/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iGkZLNllCJH9QqKIAIkg5NSy8I6.jpg"
+   },
+   "originalTitle": "Back to the Future Part II",
+   "genres": [
+      12,
+      35,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1989,
+   "runtime": 108,
+   "cast": [
+      "Michael J. Fox",
+      "Christopher Lloyd",
+      "Lea Thompson",
+      "Thomas F. Wilson",
+      "Elisabeth Shue",
+      "James Tolkan",
+      "Jeffrey Weissman"
+   ],
+   "significants": [
+      "Robert Zemeckis"
+   ],
+   "title": "Back to the Future Part II",
+   "overview": "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+   "tagline": "Roads? Where we're going, we don't need roads!",
+   "video": "MdENmefJRpw",
+   "posterPath": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/adventure/back-to-the-future-part-ii/3c02b57e-37f0-3008-86fc-8e1519970a29",
+            "added": 1664905215,
+            "leaving": 1672567140
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

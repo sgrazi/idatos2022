@@ -1,0 +1,76 @@
+{
+   "imdbID": "tt1139797",
+   "tmdbID": "13310",
+   "imdbRating": 79,
+   "imdbVoteCount": 218253,
+   "tmdbRating": 75,
+   "backdropPath": "/AdR5kqBpmB4lPpRLcBFKAhBKeqD.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AdR5kqBpmB4lPpRLcBFKAhBKeqD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AdR5kqBpmB4lPpRLcBFKAhBKeqD.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AdR5kqBpmB4lPpRLcBFKAhBKeqD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AdR5kqBpmB4lPpRLcBFKAhBKeqD.jpg"
+   },
+   "originalTitle": "Låt den rätte komma in",
+   "genres": [
+      18,
+      14,
+      27
+   ],
+   "countries": [
+      "SE"
+   ],
+   "year": 2008,
+   "runtime": 115,
+   "cast": [
+      "Kåre Hedebrant",
+      "Lina Leandersson",
+      "Per Ragnar",
+      "Henrik Dahl",
+      "Karin Bergquist",
+      "Peter Carlberg",
+      "Ika Nord"
+   ],
+   "significants": [
+      "Tomas Alfredson"
+   ],
+   "title": "Let the Right One In",
+   "overview": "Set in 1982 in the suburb of Blackeberg, Stockholm, twelve-year-old Oskar is a lonely outsider, bullied at school by his classmates; at home, Oskar dreams of revenge against a trio of bullies. He befriends his twelve-year-old, next-door neighbor Eli, who only appears at night in the snow-covered playground outside their building.",
+   "tagline": "Eli is 12 years old. She’s been 12 for over 200 years and she just moved in next door.",
+   "video": "ICp4g9p_rgo",
+   "posterPath": "/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4hezTKTuZMp0l2ufihKwPgLmfLg.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/0ft_dIUsckUpX_YZVpRIYSRV0SIEDfzF/",
+            "added": 1667598918,
+            "leaving": 1675227600
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0U8DDES6OSENT2FG544Y19DIVT/",
+            "added": 1662775433,
+            "leaving": 0
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3509986/let-the-right-one-in",
+            "added": 1667340845,
+            "leaving": 1675209540
+         }
+      }
+   },
+   "originalLanguage": "sv"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt8239946",
+   "tmdbID": "538858",
+   "imdbRating": 82,
+   "imdbVoteCount": 48581,
+   "tmdbRating": 75,
+   "backdropPath": "/ndO0KTkql6zr0u0cQ6gOsqpgpUd.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/ndO0KTkql6zr0u0cQ6gOsqpgpUd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/ndO0KTkql6zr0u0cQ6gOsqpgpUd.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/ndO0KTkql6zr0u0cQ6gOsqpgpUd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/ndO0KTkql6zr0u0cQ6gOsqpgpUd.jpg"
+   },
+   "originalTitle": "तुम्बाड",
+   "genres": [
+      14,
+      27
+   ],
+   "countries": [
+      "IN",
+      "SE"
+   ],
+   "year": 2018,
+   "runtime": 113,
+   "cast": [
+      "Sohum Shah",
+      "Mohammad Samad",
+      "Jyoti Malshe",
+      "Dhundiraj Prabhakar Jogalekar",
+      "Ronjini Chakraborty",
+      "Anita Date",
+      "Rudra Soni"
+   ],
+   "significants": [
+      "Rahi Anil Barve"
+   ],
+   "title": "Tumbbad",
+   "overview": "India, 1918. On the outskirts of Tumbbad, a cursed village where it always rains, Vinayak, along with his mother and his brother, care of a mysterious old woman who keeps the secret of an ancestral treasure that Vinayak gets obsessed with.",
+   "tagline": "A Tale of Greed Beyond Fear",
+   "video": "ZjuhALyNgss",
+   "posterPath": "/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z1xOCxw780WFJC5uCTMfCkQ4Agi.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0JP2YUWYYUI1Q2NN73XBXXXC2T/",
+            "added": 1653698874,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

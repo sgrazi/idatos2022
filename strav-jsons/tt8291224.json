@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt8291224",
+   "tmdbID": "554600",
+   "imdbRating": 82,
+   "imdbVoteCount": 64169,
+   "tmdbRating": 70,
+   "backdropPath": "/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg"
+   },
+   "originalTitle": "Uri: The Surgical Strike",
+   "genres": [
+      28,
+      18,
+      36
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2019,
+   "runtime": 138,
+   "cast": [
+      "Vicky Kaushal",
+      "Paresh Rawal",
+      "Yami Gautam",
+      "Kirti Kulhari",
+      "Mohit Raina",
+      "Dhairya Karwa",
+      "Rajit Kapoor"
+   ],
+   "significants": [
+      "Aditya Dhar"
+   ],
+   "title": "Uri: The Surgical Strike",
+   "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+   "tagline": "",
+   "video": "Cg8sbRFS3zU",
+   "posterPath": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yNySAgpAnWmPpYinim9E0tUzJWG.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "zee5": {
+         "us": {
+            "link": "https://www.zee5.com/global/movies/details/-/0-0-33204",
+            "added": 1652528066,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0401085",
+   "tmdbID": "11421",
+   "imdbRating": 79,
+   "imdbVoteCount": 33051,
+   "tmdbRating": 74,
+   "backdropPath": "/bXwFZjOkc1IbwTT4Y9lGCyiKUix.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bXwFZjOkc1IbwTT4Y9lGCyiKUix.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bXwFZjOkc1IbwTT4Y9lGCyiKUix.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bXwFZjOkc1IbwTT4Y9lGCyiKUix.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bXwFZjOkc1IbwTT4Y9lGCyiKUix.jpg"
+   },
+   "originalTitle": "C.R.A.Z.Y.",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "CA",
+      "FR",
+      "MA"
+   ],
+   "year": 2005,
+   "runtime": 126,
+   "cast": [
+      "Marc-André Grondin",
+      "Danielle Proulx",
+      "Michel Côté",
+      "Pierre-Luc Brillant",
+      "Alex Gravel",
+      "Maxime Tremblay",
+      "Natasha Thompson"
+   ],
+   "significants": [
+      "Jean-Marc Vallée"
+   ],
+   "title": "C.R.A.Z.Y.",
+   "overview": "A story of two love affairs. A father's love for his five sons. And one son's love for his father, a love so strong it compels him to live a lie. That son is Zac Beaulieu, born on the 25th of December 1960, different from all his brothers, but desperate to fit in. During the next 20 years, life takes Zac on a surprising and unexpected journey that ultimately leads him to accept his true nature and, even more importantly, leads his father to love him for who he really is.",
+   "tagline": "Growing up in this family, you'd have to be... C.R.A.Z.Y.",
+   "video": "w1gSfxLtKSY",
+   "posterPath": "/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg",
+      "original": "https://image.tmdb.org/t/p/original/soaR8KiH7Jqc1afKEoT1hW11h7q.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYxKaKQhEMpa8kAEAAAkm:type:feature",
+            "added": 1664808215,
+            "leaving": 17592911400
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

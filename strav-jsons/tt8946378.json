@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt8946378",
+   "tmdbID": "546554",
+   "imdbRating": 79,
+   "imdbVoteCount": 620438,
+   "tmdbRating": 78,
+   "backdropPath": "/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg"
+   },
+   "originalTitle": "Knives Out",
+   "genres": [
+      35,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 131,
+   "cast": [
+      "Daniel Craig",
+      "Chris Evans",
+      "Ana de Armas",
+      "Jamie Lee Curtis",
+      "Michael Shannon",
+      "Don Johnson",
+      "Toni Collette"
+   ],
+   "significants": [
+      "Rian Johnson"
+   ],
+   "title": "Knives Out",
+   "overview": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+   "tagline": "Hell, any of them could have done it.",
+   "video": "sL-9Khv7wa4",
+   "posterPath": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

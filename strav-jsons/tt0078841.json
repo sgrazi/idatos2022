@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0078841",
+   "tmdbID": "10322",
+   "imdbRating": 80,
+   "imdbVoteCount": 73110,
+   "tmdbRating": 76,
+   "backdropPath": "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg"
+   },
+   "originalTitle": "Being There",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "DE",
+      "US"
+   ],
+   "year": 1979,
+   "runtime": 130,
+   "cast": [
+      "Peter Sellers",
+      "Shirley MacLaine",
+      "Melvyn Douglas",
+      "Jack Warden",
+      "Richard Dysart",
+      "Richard Basehart",
+      "Ruth Attaway"
+   ],
+   "significants": [
+      "Hal Ashby"
+   ],
+   "title": "Being There",
+   "overview": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+   "tagline": "Getting there is half the fun; being there is all of it!",
+   "video": "jOTeqjbWoC0",
+   "posterPath": "/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX9uU6g5B4ZN3GwEAAAGb:type:feature",
+            "added": 1659586356,
+            "leaving": 16698707400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

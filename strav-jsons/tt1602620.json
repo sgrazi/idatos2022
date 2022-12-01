@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt1602620",
+   "tmdbID": "86837",
+   "imdbRating": 79,
+   "imdbVoteCount": 100889,
+   "tmdbRating": 77,
+   "backdropPath": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/w7Z4BVMin49voNN61IUWyN9DopV.jpg"
+   },
+   "originalTitle": "Amour",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "FR",
+      "AT",
+      "DE"
+   ],
+   "year": 2012,
+   "runtime": 127,
+   "cast": [
+      "Jean-Louis Trintignant",
+      "Emmanuelle Riva",
+      "Isabelle Huppert",
+      "Alexandre Tharaud",
+      "William Shimell",
+      "Ramon Agirre",
+      "Rita Blanco"
+   ],
+   "significants": [
+      "Michael Haneke"
+   ],
+   "title": "Amour",
+   "overview": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+   "tagline": "",
+   "video": "VMOugpyFf3A",
+   "posterPath": "/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yq8hSg68QcfqKim9iydrVe4ndX3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yq8hSg68QcfqKim9iydrVe4ndX3.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

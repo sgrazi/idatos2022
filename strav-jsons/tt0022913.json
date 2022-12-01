@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0022913",
+   "tmdbID": "136",
+   "imdbRating": 78,
+   "imdbVoteCount": 47019,
+   "tmdbRating": 78,
+   "backdropPath": "/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg",
+      "original": "https://image.tmdb.org/t/p/original/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg"
+   },
+   "originalTitle": "Freaks",
+   "genres": [
+      18,
+      27
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1932,
+   "runtime": 62,
+   "cast": [
+      "Harry Earles",
+      "Olga Baclanova",
+      "Daisy Earles",
+      "Henry Victor",
+      "Wallace Ford",
+      "Leila Hyams",
+      "Roscoe Ates"
+   ],
+   "significants": [
+      "Tod Browning"
+   ],
+   "title": "Freaks",
+   "overview": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.",
+   "tagline": "The love story of a siren, a giant, and a dwarf!",
+   "video": "GjzvvYX8hmk",
+   "posterPath": "/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/idK9v05lDtXm67bylUhQyvVlZM6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/idK9v05lDtXm67bylUhQyvVlZM6.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

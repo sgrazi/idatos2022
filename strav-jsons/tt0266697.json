@@ -1,0 +1,75 @@
+{
+   "imdbID": "tt0266697",
+   "tmdbID": "24",
+   "imdbRating": 82,
+   "imdbVoteCount": 1110202,
+   "tmdbRating": 79,
+   "backdropPath": "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg"
+   },
+   "originalTitle": "Kill Bill: Vol. 1",
+   "genres": [
+      28,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2003,
+   "runtime": 111,
+   "cast": [
+      "Uma Thurman",
+      "Lucy Liu",
+      "Vivica A. Fox",
+      "Daryl Hannah",
+      "David Carradine",
+      "Michael Madsen",
+      "Julie Dreyfus"
+   ],
+   "significants": [
+      "Quentin Tarantino"
+   ],
+   "title": "Kill Bill: Vol. 1",
+   "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+   "tagline": "A roaring rampage of revenge.",
+   "video": "c_dNIXwrbzY",
+   "posterPath": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX7hX4Qn4isJApgEAAABu:type:feature",
+            "added": 1655510274,
+            "leaving": 0
+         }
+      },
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/bpxUDP_iJDwV9EcJP2McyDKOM7Nt1Y1p/",
+            "added": 1664900560,
+            "leaving": 1669870800
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3500630/kill-bill-volume-1",
+            "added": 1664894531,
+            "leaving": 1669852740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

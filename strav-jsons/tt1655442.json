@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt1655442",
+   "tmdbID": "74643",
+   "imdbRating": 79,
+   "imdbVoteCount": 241859,
+   "tmdbRating": 74,
+   "backdropPath": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bYimqNnizPUCnL5HOdoCW02IGmH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bYimqNnizPUCnL5HOdoCW02IGmH.jpg"
+   },
+   "originalTitle": "The Artist",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "BE",
+      "FR"
+   ],
+   "year": 2011,
+   "runtime": 100,
+   "cast": [
+      "Jean Dujardin",
+      "Bérénice Bejo",
+      "John Goodman",
+      "James Cromwell",
+      "Penelope Ann Miller",
+      "Missi Pyle",
+      "Beth Grant"
+   ],
+   "significants": [
+      "Michel Hazanavicius"
+   ],
+   "title": "The Artist",
+   "overview": "Hollywood, 1927: As silent movie star George Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion, he sparks with Peppy Miller, a young dancer set for a big break.",
+   "tagline": "A breath of fresh vintage air",
+   "video": "qjCQmpNkBI4",
+   "posterPath": "/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/khtVL4abxYczXAWbo1wAz13CLx3.jpg",
+      "original": "https://image.tmdb.org/t/p/original/khtVL4abxYczXAWbo1wAz13CLx3.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "mubi": {
+         "us": {
+            "link": "https://mubi.com/films/the-artist",
+            "added": 1664960382,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "fr"
+}

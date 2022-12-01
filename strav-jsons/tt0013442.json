@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0013442",
+   "tmdbID": "653",
+   "imdbRating": 79,
+   "imdbVoteCount": 98252,
+   "tmdbRating": 77,
+   "backdropPath": "/u06SympEEMb7pLhR9W3tvydHT9L.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/u06SympEEMb7pLhR9W3tvydHT9L.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/u06SympEEMb7pLhR9W3tvydHT9L.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/u06SympEEMb7pLhR9W3tvydHT9L.jpg",
+      "original": "https://image.tmdb.org/t/p/original/u06SympEEMb7pLhR9W3tvydHT9L.jpg"
+   },
+   "originalTitle": "Nosferatu, eine Symphonie des Grauens",
+   "genres": [
+      14,
+      27
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 1922,
+   "runtime": 94,
+   "cast": [
+      "Max Schreck",
+      "Gustav von Wangenheim",
+      "Greta Schröder",
+      "Georg H. Schnell",
+      "Ruth Landshoff",
+      "Gustav Botz",
+      "Alexander Granach"
+   ],
+   "significants": [
+      "F. W. Murnau"
+   ],
+   "title": "Nosferatu",
+   "overview": "The mysterious Count Orlok summons Thomas Hutter to his remote Transylvanian castle in the mountains. The eerie Orlok seeks to buy a house near Hutter and his wife, Ellen. After Orlok reveals his vampire nature, Hutter struggles to escape the castle, knowing that Ellen is in grave danger",
+   "tagline": "A symphony of horror.",
+   "video": "npxhdRMYHy0",
+   "posterPath": "/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/m54ZM81pqffp5113LFqikEQL4nN.jpg",
+      "original": "https://image.tmdb.org/t/p/original/m54ZM81pqffp5113LFqikEQL4nN.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}

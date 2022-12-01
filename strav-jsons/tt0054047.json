@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0054047",
+   "tmdbID": "966",
+   "imdbRating": 77,
+   "imdbVoteCount": 95541,
+   "tmdbRating": 75,
+   "backdropPath": "/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2aC3284N1p86o6S4Uyj9AaryYeR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2aC3284N1p86o6S4Uyj9AaryYeR.jpg"
+   },
+   "originalTitle": "The Magnificent Seven",
+   "genres": [
+      28,
+      12,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1960,
+   "runtime": 128,
+   "cast": [
+      "Yul Brynner",
+      "Eli Wallach",
+      "Steve McQueen",
+      "Charles Bronson",
+      "Robert Vaughn",
+      "Brad Dexter",
+      "James Coburn"
+   ],
+   "significants": [
+      "John Sturges"
+   ],
+   "title": "The Magnificent Seven",
+   "overview": "An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.",
+   "tagline": "They were seven - And they fought like seven hundred!",
+   "video": "SEgfAuFwads",
+   "posterPath": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

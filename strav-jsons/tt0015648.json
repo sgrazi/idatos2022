@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0015648",
+   "tmdbID": "643",
+   "imdbRating": 79,
+   "imdbVoteCount": 58131,
+   "tmdbRating": 76,
+   "backdropPath": "/uzr65Z3xDCjuMW7fw8Whm5curr7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uzr65Z3xDCjuMW7fw8Whm5curr7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uzr65Z3xDCjuMW7fw8Whm5curr7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uzr65Z3xDCjuMW7fw8Whm5curr7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uzr65Z3xDCjuMW7fw8Whm5curr7.jpg"
+   },
+   "originalTitle": "Броненосец Потёмкин",
+   "genres": [
+      18,
+      36,
+      53
+   ],
+   "countries": [
+      "SU"
+   ],
+   "year": 1925,
+   "runtime": 75,
+   "cast": [
+      "Aleksandr Antonov",
+      "Vladimir Barsky",
+      "Grigori Aleksandrov",
+      "Ivan Bobrov",
+      "Mikhail Gomorov",
+      "Aleksandr Levshin",
+      "N. Poltavtseva"
+   ],
+   "significants": [
+      "Sergei Eisenstein"
+   ],
+   "title": "Battleship Potemkin",
+   "overview": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.",
+   "tagline": "Revolution is the only lawful, equal, effectual war. It was in Russia that this war was declared and begun.",
+   "video": "kS5kzTbNKjs",
+   "posterPath": "/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXo-eqAM3dAwlRQEAAABI:type:feature",
+            "added": 1655509734,
+            "leaving": 17277551990
+         }
+      }
+   },
+   "originalLanguage": "ru"
+}

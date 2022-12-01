@@ -1,0 +1,58 @@
+{
+   "imdbID": "tt8579674",
+   "tmdbID": "530915",
+   "imdbRating": 82,
+   "imdbVoteCount": 582242,
+   "tmdbRating": 79,
+   "backdropPath": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2lBOQK06tltt8SQaswgb8d657Mv.jpg"
+   },
+   "originalTitle": "1917",
+   "genres": [
+      28,
+      18,
+      10752
+   ],
+   "countries": [
+      "CA",
+      "IN",
+      "ES",
+      "GB",
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 119,
+   "cast": [
+      "George MacKay",
+      "Dean-Charles Chapman",
+      "Mark Strong",
+      "Andrew Scott",
+      "Richard Madden",
+      "Claire Duburcq",
+      "Colin Firth"
+   ],
+   "significants": [
+      "Sam Mendes"
+   ],
+   "title": "1917",
+   "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+   "tagline": "Time is the enemy",
+   "video": "gZjQROMAh_s",
+   "posterPath": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iZf0KyrE25z1sage4SYFLCCrMi9.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

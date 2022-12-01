@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt2103281",
+   "tmdbID": "119450",
+   "imdbRating": 76,
+   "imdbVoteCount": 442162,
+   "tmdbRating": 73,
+   "backdropPath": "/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zlU8BIkgY7E6SMfD3USTWC6bchL.jpg"
+   },
+   "originalTitle": "Dawn of the Planet of the Apes",
+   "genres": [
+      28,
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 130,
+   "cast": [
+      "Andy Serkis",
+      "Jason Clarke",
+      "Gary Oldman",
+      "Keri Russell",
+      "Toby Kebbell",
+      "Kodi Smit-McPhee",
+      "Kirk Acevedo"
+   ],
+   "significants": [
+      "Matt Reeves"
+   ],
+   "title": "Dawn of the Planet of the Apes",
+   "overview": "A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.",
+   "tagline": "One last chance for peace.",
+   "video": "DpSaTrW4leg",
+   "posterPath": "/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kScdQEwS9jPEdnO23XjGAtaoRcT.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0025878",
+   "tmdbID": "3529",
+   "imdbRating": 79,
+   "imdbVoteCount": 30166,
+   "tmdbRating": 75,
+   "backdropPath": "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/dSXAPWQiGRR7L6utshQIff9niUQ.jpg"
+   },
+   "originalTitle": "The Thin Man",
+   "genres": [
+      35,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1934,
+   "runtime": 91,
+   "cast": [
+      "William Powell",
+      "Myrna Loy",
+      "Maureen O'Sullivan",
+      "Nat Pendleton",
+      "Minna Gombell",
+      "Porter Hall",
+      "Henry Wadsworth"
+   ],
+   "significants": [
+      "W.S. Van Dyke"
+   ],
+   "title": "The Thin Man",
+   "overview": "A husband and wife detective team takes on the search for a missing inventor and almost get killed for their efforts.",
+   "tagline": "A laugh tops every thrilling moment!",
+   "video": "8JfZWBI6qqY",
+   "posterPath": "/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6cL89ok9t8xEKboOjOVga2W66jj.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GX07gwwLjmbCttQEAAAII:type:feature",
+            "added": 1662224143,
+            "leaving": 16725491400
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

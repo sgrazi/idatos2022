@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0056111",
+   "tmdbID": "31442",
+   "imdbRating": 80,
+   "imdbVoteCount": 36936,
+   "tmdbRating": 78,
+   "backdropPath": "/h81gVvHitMCp5ZmLyFUjHX4zjd6.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/h81gVvHitMCp5ZmLyFUjHX4zjd6.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/h81gVvHitMCp5ZmLyFUjHX4zjd6.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/h81gVvHitMCp5ZmLyFUjHX4zjd6.jpg",
+      "original": "https://image.tmdb.org/t/p/original/h81gVvHitMCp5ZmLyFUjHX4zjd6.jpg"
+   },
+   "originalTitle": "Иваново детство",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "SU"
+   ],
+   "year": 1962,
+   "runtime": 95,
+   "cast": [
+      "Nikolay Burlyaev",
+      "Valentin Zubkov",
+      "Nikolay Grinko",
+      "Yevgeni Zharikov",
+      "Valentina Malyavina",
+      "Irma Raush",
+      "Stepan Krylov"
+   ],
+   "significants": [
+      "Andrei Tarkovsky"
+   ],
+   "title": "Ivan's Childhood",
+   "overview": "In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.",
+   "tagline": "",
+   "video": "pBj_yleyrLE",
+   "posterPath": "/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "ru"
+}

@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0063442",
+   "tmdbID": "871",
+   "imdbRating": 80,
+   "imdbVoteCount": 180839,
+   "tmdbRating": 76,
+   "backdropPath": "/lRcC2O9djP40wRSICs1PGF5T7l2.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lRcC2O9djP40wRSICs1PGF5T7l2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lRcC2O9djP40wRSICs1PGF5T7l2.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lRcC2O9djP40wRSICs1PGF5T7l2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lRcC2O9djP40wRSICs1PGF5T7l2.jpg"
+   },
+   "originalTitle": "Planet of the Apes",
+   "genres": [
+      12,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1968,
+   "runtime": 112,
+   "cast": [
+      "Charlton Heston",
+      "Roddy McDowall",
+      "Kim Hunter",
+      "Maurice Evans",
+      "James Whitmore",
+      "James Daly",
+      "Linda Harrison"
+   ],
+   "significants": [
+      "Franklin J. Schaffner"
+   ],
+   "title": "Planet of the Apes",
+   "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+   "tagline": "Somewhere in the Universe, there must be something better than man!",
+   "video": "BWh16oVpTBc",
+   "posterPath": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

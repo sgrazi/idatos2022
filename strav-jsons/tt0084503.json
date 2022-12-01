@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0084503",
+   "tmdbID": "12104",
+   "imdbRating": 80,
+   "imdbVoteCount": 81516,
+   "tmdbRating": 79,
+   "backdropPath": "/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg"
+   },
+   "originalTitle": "Pink Floyd: The Wall",
+   "genres": [
+      18,
+      14,
+      10402
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1982,
+   "runtime": 95,
+   "cast": [
+      "Bob Geldof",
+      "Christine Hargreaves",
+      "James Laurenson",
+      "Eleanor David",
+      "Kevin McKeon",
+      "Bob Hoskins",
+      "David Bingham"
+   ],
+   "significants": [
+      "Alan Parker"
+   ],
+   "title": "Pink Floyd: The Wall",
+   "overview": "A troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+   "tagline": "The Memories... The Madness... The Music... The Movie.",
+   "video": "zErk5gIbilg",
+   "posterPath": "/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aElHyIdF5jmctFGhlhhaPFsbBJC.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

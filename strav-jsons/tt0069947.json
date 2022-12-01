@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0069947",
+   "tmdbID": "4909",
+   "imdbRating": 78,
+   "imdbVoteCount": 41459,
+   "tmdbRating": 75,
+   "backdropPath": "/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg"
+   },
+   "originalTitle": "The Day of the Jackal",
+   "genres": [
+      80,
+      53
+   ],
+   "countries": [
+      "FR",
+      "GB"
+   ],
+   "year": 1973,
+   "runtime": 143,
+   "cast": [
+      "Edward Fox",
+      "Terence Alexander",
+      "Michel Auclair",
+      "Alan Badel",
+      "Tony Britton",
+      "Denis Carey",
+      "Adrien Cayla-Legrand"
+   ],
+   "significants": [
+      "Fred Zinnemann"
+   ],
+   "title": "The Day of the Jackal",
+   "overview": "An international assassin known as ‘The Jackal’ is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin’s trail.",
+   "tagline": "Nameless, faceless... relentlessly moving towards the date with death that would rock the world.",
+   "video": "lQdYPtm2u2k",
+   "posterPath": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vThgcb3JOj99yETg8WChuci4LV2.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0039628",
+   "tmdbID": "11881",
+   "imdbRating": 79,
+   "imdbVoteCount": 47961,
+   "tmdbRating": 73,
+   "backdropPath": "/xGoSJGwTK9KfVwN04F5021cPgXg.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/xGoSJGwTK9KfVwN04F5021cPgXg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xGoSJGwTK9KfVwN04F5021cPgXg.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/xGoSJGwTK9KfVwN04F5021cPgXg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xGoSJGwTK9KfVwN04F5021cPgXg.jpg"
+   },
+   "originalTitle": "Miracle on 34th Street",
+   "genres": [
+      35,
+      18,
+      10751
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1947,
+   "runtime": 96,
+   "cast": [
+      "Edmund Gwenn",
+      "Natalie Wood",
+      "Maureen O'Hara",
+      "John Payne",
+      "Porter Hall",
+      "Philip Tonge",
+      "Alvin Greenman"
+   ],
+   "significants": [
+      "George Seaton"
+   ],
+   "title": "Miracle on 34th Street",
+   "overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
+   "tagline": "Capture the spirit of Christmas with this timeless classic!",
+   "video": "kUwyGo6PQzY",
+   "posterPath": "/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qyAc9X9XHloIqy3oJbbZ44Cw0Hm.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/U8eNFUFXUzcV",
+            "added": 1667854198,
+            "leaving": 0
+         }
+      },
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GV-BKvAt0FsJMwwEAAABv:type:feature",
+            "added": 1655504188,
+            "leaving": 16646076000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

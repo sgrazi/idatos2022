@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1045658",
+   "tmdbID": "82693",
+   "imdbRating": 77,
+   "imdbVoteCount": 708860,
+   "tmdbRating": 71,
+   "backdropPath": "/t5cuFKDgf5hRWYpRZ3jAANu5kPr.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/t5cuFKDgf5hRWYpRZ3jAANu5kPr.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/t5cuFKDgf5hRWYpRZ3jAANu5kPr.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/t5cuFKDgf5hRWYpRZ3jAANu5kPr.jpg",
+      "original": "https://image.tmdb.org/t/p/original/t5cuFKDgf5hRWYpRZ3jAANu5kPr.jpg"
+   },
+   "originalTitle": "Silver Linings Playbook",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2012,
+   "runtime": 122,
+   "cast": [
+      "Bradley Cooper",
+      "Jennifer Lawrence",
+      "Robert De Niro",
+      "Jacki Weaver",
+      "Chris Tucker",
+      "Anupam Kher",
+      "John Ortiz"
+   ],
+   "significants": [
+      "David O. Russell"
+   ],
+   "title": "Silver Linings Playbook",
+   "overview": "After spending eight months in a mental institution, a former teacher moves back in with his parents and tries to reconcile with his ex-wife.",
+   "tagline": "Watch For The Signs",
+   "video": "EI_3ywJLQio",
+   "posterPath": "/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg",
+      "original": "https://image.tmdb.org/t/p/original/y7iOVneBvITlBdhy6tVqXVOa1Js.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/50774",
+            "added": 1666025692,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

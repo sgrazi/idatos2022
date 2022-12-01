@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0066921",
+   "tmdbID": "185",
+   "imdbRating": 83,
+   "imdbVoteCount": 827167,
+   "tmdbRating": 82,
+   "backdropPath": "/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg"
+   },
+   "originalTitle": "A Clockwork Orange",
+   "genres": [
+      80,
+      878
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1971,
+   "runtime": 137,
+   "cast": [
+      "Malcolm McDowell",
+      "Patrick Magee",
+      "Michael Bates",
+      "Warren Clarke",
+      "John Clive",
+      "Adrienne Corri",
+      "Carl Duering"
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "A Clockwork Orange",
+   "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+   "tagline": "Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.",
+   "video": "T54uZPI4Z8A",
+   "posterPath": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GYDbZxAw93SuQKAEAAAAD:type:feature",
+            "added": 1655511442,
+            "leaving": 0
+         }
+      },
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/383466/",
+            "added": 1662546773,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

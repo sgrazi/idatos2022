@@ -1,0 +1,67 @@
+{
+   "imdbID": "tt1659337",
+   "tmdbID": "84892",
+   "imdbRating": 80,
+   "imdbVoteCount": 511208,
+   "tmdbRating": 77,
+   "backdropPath": "/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/qb6WoLJ9YtfhV7pgsTfUDlRYaCH.jpg"
+   },
+   "originalTitle": "The Perks of Being a Wallflower",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2012,
+   "runtime": 103,
+   "cast": [
+      "Logan Lerman",
+      "Emma Watson",
+      "Ezra Miller",
+      "Mae Whitman",
+      "Kate Walsh",
+      "Dylan McDermott",
+      "Melanie Lynskey"
+   ],
+   "significants": [
+      "Stephen Chbosky"
+   ],
+   "title": "The Perks of Being a Wallflower",
+   "overview": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+   "tagline": "We are infinite.",
+   "video": "QE7CGX1d6LU",
+   "posterPath": "/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+      "original": "https://image.tmdb.org/t/p/original/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg"
+   },
+   "age": 12,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/aa22a8f3-27f3-46b5-ac40-494aff2cf2bc",
+            "added": 1667654400,
+            "leaving": 1682924340
+         }
+      },
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/r_K5OfibGjtpIxwGrTg4jdNkndtRzmpd/",
+            "added": 1667598135,
+            "leaving": 1672549200
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

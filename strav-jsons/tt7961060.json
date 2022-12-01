@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt7961060",
+   "tmdbID": "503314",
+   "imdbRating": 77,
+   "imdbVoteCount": 28102,
+   "tmdbRating": 78,
+   "backdropPath": "/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gXSpNiP9a5uq0mo1hcfp2PVUsOV.jpg"
+   },
+   "originalTitle": "ドラゴンボール超スーパー ブロリー",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "JP",
+      "US"
+   ],
+   "year": 2018,
+   "runtime": 99,
+   "cast": [
+      "Masako Nozawa",
+      "Aya Hisakawa",
+      "Ryou Horikawa",
+      "Toshio Furukawa",
+      "Takeshi Kusao",
+      "Ryusei Nakao",
+      "Koichi Yamadera"
+   ],
+   "significants": [
+      "Tatsuya Nagamine"
+   ],
+   "title": "Dragon Ball Super: Broly",
+   "overview": "Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called 'Broly' who they've never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what's this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.",
+   "tagline": "A new adventure to become the strongest begins.",
+   "video": "wuIbeQv3v7c",
+   "posterPath": "/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/f03YksE4NggUjG75toz4H1YAGRf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/f03YksE4NggUjG75toz4H1YAGRf.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/45080",
+            "added": 1643601295,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

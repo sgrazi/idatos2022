@@ -1,0 +1,61 @@
+{
+   "imdbID": "tt0104952",
+   "tmdbID": "10377",
+   "imdbRating": 76,
+   "imdbVoteCount": 125677,
+   "tmdbRating": 74,
+   "backdropPath": "/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg"
+   },
+   "originalTitle": "My Cousin Vinny",
+   "genres": [
+      35,
+      80
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1992,
+   "runtime": 120,
+   "cast": [
+      "Joe Pesci",
+      "Ralph Macchio",
+      "Marisa Tomei",
+      "Mitchell Whitfield",
+      "Fred Gwynne",
+      "Lane Smith",
+      "Austin Pendleton"
+   ],
+   "significants": [
+      "Jonathan Lynn"
+   ],
+   "title": "My Cousin Vinny",
+   "overview": "Two carefree pals traveling through Alabama are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
+   "tagline": "Truth, Justice and the Gambini Way.",
+   "video": "hITJLnyH9Fc",
+   "posterPath": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "original": "https://image.tmdb.org/t/p/original/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GWDS5CQGSl7DDwgEAAABv:type:feature",
+            "added": 1655504864,
+            "leaving": 16803324000
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

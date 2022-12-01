@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0093779",
+   "tmdbID": "2493",
+   "imdbRating": 80,
+   "imdbVoteCount": 427285,
+   "tmdbRating": 76,
+   "backdropPath": "/d7STOQJivOFLmEUDNEGGY5AorQC.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/d7STOQJivOFLmEUDNEGGY5AorQC.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/d7STOQJivOFLmEUDNEGGY5AorQC.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/d7STOQJivOFLmEUDNEGGY5AorQC.jpg",
+      "original": "https://image.tmdb.org/t/p/original/d7STOQJivOFLmEUDNEGGY5AorQC.jpg"
+   },
+   "originalTitle": "The Princess Bride",
+   "genres": [
+      12,
+      10751,
+      14
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1987,
+   "runtime": 99,
+   "cast": [
+      "Cary Elwes",
+      "Robin Wright",
+      "Mandy Patinkin",
+      "Chris Sarandon",
+      "André Roussimoff",
+      "Christopher Guest",
+      "Wallace Shawn"
+   ],
+   "significants": [
+      "Rob Reiner"
+   ],
+   "title": "The Princess Bride",
+   "overview": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+   "tagline": "It's as real as the feelings you feel.",
+   "video": "Nq30P5tEY0I",
+   "posterPath": "/kTXxdNv44najTayFcrT487xWuDv.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kTXxdNv44najTayFcrT487xWuDv.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kTXxdNv44najTayFcrT487xWuDv.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kTXxdNv44najTayFcrT487xWuDv.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kTXxdNv44najTayFcrT487xWuDv.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kTXxdNv44najTayFcrT487xWuDv.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kTXxdNv44najTayFcrT487xWuDv.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kTXxdNv44najTayFcrT487xWuDv.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/6hFucDYzyBdw",
+            "added": 1652858983,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt7131622",
+   "tmdbID": "466272",
+   "imdbRating": 76,
+   "imdbVoteCount": 728341,
+   "tmdbRating": 74,
+   "backdropPath": "/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/oRiUKwDpcqDdoLwPoA4FIRh3hqY.jpg"
+   },
+   "originalTitle": "Once Upon a Time… in Hollywood",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "CN",
+      "GB",
+      "US"
+   ],
+   "year": 2019,
+   "runtime": 162,
+   "cast": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie",
+      "Emile Hirsch",
+      "Margaret Qualley",
+      "Timothy Olyphant",
+      "Julia Butters"
+   ],
+   "significants": [
+      "Quentin Tarantino"
+   ],
+   "title": "Once Upon a Time… in Hollywood",
+   "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+   "tagline": "In this town, it can all change… like that",
+   "video": "ELeMaP8EPAA",
+   "posterPath": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

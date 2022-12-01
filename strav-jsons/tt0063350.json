@@ -1,0 +1,96 @@
+{
+   "imdbID": "tt0063350",
+   "tmdbID": "10331",
+   "imdbRating": 78,
+   "imdbVoteCount": 130092,
+   "tmdbRating": 76,
+   "backdropPath": "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+      "original": "https://image.tmdb.org/t/p/original/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg"
+   },
+   "originalTitle": "Night of the Living Dead",
+   "genres": [
+      27,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1968,
+   "runtime": 96,
+   "cast": [
+      "Duane Jones",
+      "Judith O'Dea",
+      "Karl Hardman",
+      "Marilyn Eastman",
+      "Keith Wayne",
+      "Judith Ridley",
+      "Kyra Schon"
+   ],
+   "significants": [
+      "George A. Romero"
+   ],
+   "title": "Night of the Living Dead",
+   "overview": "A disparate group of individuals takes refuge in an abandoned house when corpses begin to leave the graveyard in search of fresh human bodies to devour. The pragmatic Ben does his best to control the situation, but when the murderous zombies surround the house, the other survivors begin to panic.",
+   "tagline": "If it doesn't scare you, you're already dead!",
+   "video": "DIuI6T48Sj0",
+   "posterPath": "/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/inNUOa9WZGdyRXQlt7eqmHtCttl.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXk3jxAbOJ47CZgEAACXN:type:feature",
+            "added": 1655500512,
+            "leaving": 17277551990
+         }
+      },
+      "mubi": {
+         "us": {
+            "link": "https://mubi.com/films/night-of-the-living-dead",
+            "added": 1662038307,
+            "leaving": 0
+         }
+      },
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/xciE8JyxhmXPXGmAWw_hrKhfqSXu5I03/",
+            "added": 1662824209,
+            "leaving": 1706763600
+         }
+      },
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/horror/night-of-the-living-dead/209ade01-9652-389a-a3e1-9c619609c782",
+            "added": 1630053220,
+            "leaving": 32503715940
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0Q7FZCA9H2JTTZFIIHOO4ZNS64/",
+            "added": 1649457522,
+            "leaving": 0
+         }
+      },
+      "starz": {
+         "us": {
+            "link": "https://www.starz.com/us/en/movies/1198",
+            "added": 1615228694,
+            "leaving": 32503697999
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

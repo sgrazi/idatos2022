@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0065214",
+   "tmdbID": "576",
+   "imdbRating": 79,
+   "imdbVoteCount": 85133,
+   "tmdbRating": 76,
+   "backdropPath": "/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg"
+   },
+   "originalTitle": "The Wild Bunch",
+   "genres": [
+      28,
+      12,
+      37
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1969,
+   "runtime": 145,
+   "cast": [
+      "William Holden",
+      "Ernest Borgnine",
+      "Robert Ryan",
+      "Edmond O'Brien",
+      "Warren Oates",
+      "Jaime Sánchez",
+      "Ben Johnson"
+   ],
+   "significants": [
+      "Sam Peckinpah"
+   ],
+   "title": "The Wild Bunch",
+   "overview": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+   "tagline": "Unchanged men in a changing land",
+   "video": "jwE3TfJUB48",
+   "posterPath": "/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zZhp7p8qvfVrSLKpOFHcKjpEj8f.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

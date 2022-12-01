@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0106519",
+   "tmdbID": "6075",
+   "imdbRating": 79,
+   "imdbVoteCount": 219124,
+   "tmdbRating": 78,
+   "backdropPath": "/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tqlCsB6AFjQ9dpAOHkd3sEdFS13.jpg"
+   },
+   "originalTitle": "Carlito's Way",
+   "genres": [
+      80,
+      18,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 144,
+   "cast": [
+      "Al Pacino",
+      "Sean Penn",
+      "Penelope Ann Miller",
+      "John Leguizamo",
+      "Ingrid Rogers",
+      "Luis Guzmán",
+      "James Rebhorn"
+   ],
+   "significants": [
+      "Brian De Palma"
+   ],
+   "title": "Carlito's Way",
+   "overview": "A Puerto-Rican ex-con, just released from prison, pledges to stay away from drugs and violence despite the pressure around him, and lead a better life outside NYC.",
+   "tagline": "He's got a good future if he can live past next week.",
+   "video": "0yehgqPtG3Y",
+   "posterPath": "/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gFmTr2OJ8RCNAbWQh6maL00PY75.jpg"
+   },
+   "age": 16,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

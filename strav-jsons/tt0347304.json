@@ -1,0 +1,69 @@
+{
+   "imdbID": "tt0347304",
+   "tmdbID": "4254",
+   "imdbRating": 79,
+   "imdbVoteCount": 69850,
+   "tmdbRating": 74,
+   "backdropPath": "/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fgvnLw4n5JpXWtDdwRqUfpYrnCj.jpg"
+   },
+   "originalTitle": "कल हो ना हो",
+   "genres": [
+      35,
+      18,
+      4
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2003,
+   "runtime": 186,
+   "cast": [
+      "Shah Rukh Khan",
+      "Preity Zinta",
+      "Saif Ali Khan",
+      "Jaya Bachchan",
+      "Sonali Bendre",
+      "Reema Lagoo",
+      "Delnaaz Irani"
+   ],
+   "significants": [
+      "Nikkhil Advani"
+   ],
+   "title": "Kal Ho Naa Ho",
+   "overview": "An uptight MBA student falls for the charismatic new neighbor who charms her troubled family – but he has a secret that forces him to push her away.",
+   "tagline": "A story of a lifetime… in a heartbeat.",
+   "video": "tVMAQAsjsOU",
+   "posterPath": "/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg"
+   },
+   "age": 6,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60036735/",
+            "added": 1657851890,
+            "leaving": 0
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0Q374E5V0RUL6CHL90JIR6L9BA/",
+            "added": 1624385615,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "hi"
+}

@@ -1,0 +1,52 @@
+{
+   "imdbID": "tt0048028",
+   "tmdbID": "220",
+   "imdbRating": 78,
+   "imdbVoteCount": 45942,
+   "tmdbRating": 76,
+   "backdropPath": "/pDegV5zrrav1wVqhqcjuYlnlFjW.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/pDegV5zrrav1wVqhqcjuYlnlFjW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/pDegV5zrrav1wVqhqcjuYlnlFjW.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/pDegV5zrrav1wVqhqcjuYlnlFjW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/pDegV5zrrav1wVqhqcjuYlnlFjW.jpg"
+   },
+   "originalTitle": "East of Eden",
+   "genres": [
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1955,
+   "runtime": 115,
+   "cast": [
+      "James Dean",
+      "Julie Harris",
+      "Raymond Massey",
+      "Richard Davalos",
+      "Jo Van Fleet",
+      "Burl Ives",
+      "Albert Dekker"
+   ],
+   "significants": [
+      "Elia Kazan"
+   ],
+   "title": "East of Eden",
+   "overview": "In the Salinas Valley in and around World War I, Cal Trask feels he must compete against overwhelming odds with his brother for the love of their father. Cal is frustrated at every turn, from his reaction to the war, how to get ahead in business and in life, and how to relate to his estranged mother.",
+   "tagline": "The searing classic of paradise lost!",
+   "video": "IqVoIQ5UsT8",
+   "posterPath": "/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xv1MZVIop0SQqwLUymgE5eb2LFl.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

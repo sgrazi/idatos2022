@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0083866",
+   "tmdbID": "601",
+   "imdbRating": 79,
+   "imdbVoteCount": 409232,
+   "tmdbRating": 75,
+   "backdropPath": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg"
+   },
+   "originalTitle": "E.T. the Extra-Terrestrial",
+   "genres": [
+      12,
+      10751,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1982,
+   "runtime": 115,
+   "cast": [
+      "Henry Thomas",
+      "Drew Barrymore",
+      "Robert MacNaughton",
+      "Peter Coyote",
+      "Dee Wallace",
+      "Erika Eleniak",
+      "K.C. Martel"
+   ],
+   "significants": [
+      "Steven Spielberg"
+   ],
+   "title": "E.T. the Extra-Terrestrial",
+   "overview": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott introduces E.T., as the alien is dubbed, to his brother and his little sister, Gertie, and the children decide to keep its existence a secret. Soon, however, E.T. falls ill, resulting in government intervention and a dire situation for both Elliott and the alien.",
+   "tagline": "He is afraid. He is alone. He is three million light years from home.",
+   "video": "NsvdZ_z56c0",
+   "posterPath": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "original": "https://image.tmdb.org/t/p/original/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/kids/e.t.-the-extra-terrestrial/07b5c11b-7036-3e6f-8b32-3a141c15de93",
+            "added": 1664895071,
+            "leaving": 1669888740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

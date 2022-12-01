@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0119250",
+   "tmdbID": "5910",
+   "imdbRating": 77,
+   "imdbVoteCount": 30954,
+   "tmdbRating": 76,
+   "backdropPath": "/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg"
+   },
+   "originalTitle": "HANA-BI",
+   "genres": [
+      80,
+      18
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1997,
+   "runtime": 103,
+   "cast": [
+      "Takeshi Kitano",
+      "Kayoko Kishimoto",
+      "Ren Osugi",
+      "Susumu Terajima",
+      "Tetsu Watanabe",
+      "Hakuryu",
+      "Yasuei Yakushiji"
+   ],
+   "significants": [
+      "Takeshi Kitano"
+   ],
+   "title": "Fireworks",
+   "overview": "Detective Nishi is relieved from a stakeout to visit his sick wife in hospital. He is informed that she is terminally ill, and is advised to take her home. During his visit, a suspect shoots one detective dead and leaves Nishi's partner, Horibe, paralyzed. Nishi leaves the police force to spend time with his wife at home, and must find a way to pay off his debts to the yakuza.",
+   "tagline": "",
+   "video": "PwTWtAE3ylY",
+   "posterPath": "/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/kODRulaJ71pSQF5TcfuCIFUKTn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/kODRulaJ71pSQF5TcfuCIFUKTn.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

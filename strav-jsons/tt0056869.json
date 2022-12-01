@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0056869",
+   "tmdbID": "571",
+   "imdbRating": 76,
+   "imdbVoteCount": 190245,
+   "tmdbRating": 75,
+   "backdropPath": "/q2XxGMCO8Zey8YDrvQGi8P8ns5F.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/q2XxGMCO8Zey8YDrvQGi8P8ns5F.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/q2XxGMCO8Zey8YDrvQGi8P8ns5F.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/q2XxGMCO8Zey8YDrvQGi8P8ns5F.jpg",
+      "original": "https://image.tmdb.org/t/p/original/q2XxGMCO8Zey8YDrvQGi8P8ns5F.jpg"
+   },
+   "originalTitle": "The Birds",
+   "genres": [
+      27,
+      9648
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1963,
+   "runtime": 119,
+   "cast": [
+      "Tippi Hedren",
+      "Rod Taylor",
+      "Jessica Tandy",
+      "Suzanne Pleshette",
+      "Veronica Cartwright",
+      "Ethel Griffies",
+      "Charles McGraw"
+   ],
+   "significants": [
+      "Alfred Hitchcock"
+   ],
+   "title": "The Birds",
+   "overview": "Chic socialite Melanie Daniels enjoys a passing flirtation with an eligible attorney in a San Francisco pet shop and, on an impulse, follows him to his hometown bearing a gift of lovebirds. But upon her arrival, the bird population runs amok. Suddenly, the townsfolk face a massive avian onslaught, with the feathered fiends inexplicably attacking people all over Bodega Bay.",
+   "tagline": "...and remember, the next scream you hear may be your own!",
+   "video": "lCxR7dlavwg",
+   "posterPath": "/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/z0iYrJ6GsAMP3abOha7uGMuc5kZ.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

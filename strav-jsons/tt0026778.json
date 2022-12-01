@@ -1,0 +1,55 @@
+{
+   "imdbID": "tt0026778",
+   "tmdbID": "37719",
+   "imdbRating": 78,
+   "imdbVoteCount": 33152,
+   "tmdbRating": 74,
+   "backdropPath": "/3Ks9mqYpReb69av3RaHFJq4yhZ9.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/3Ks9mqYpReb69av3RaHFJq4yhZ9.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3Ks9mqYpReb69av3RaHFJq4yhZ9.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/3Ks9mqYpReb69av3RaHFJq4yhZ9.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3Ks9mqYpReb69av3RaHFJq4yhZ9.jpg"
+   },
+   "originalTitle": "A Night at the Opera",
+   "genres": [
+      35,
+      10402,
+      4
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1935,
+   "runtime": 96,
+   "cast": [
+      "Groucho Marx",
+      "Chico Marx",
+      "Harpo Marx",
+      "Kitty Carlisle",
+      "Allan Jones",
+      "Sig Ruman",
+      "Walter Woolf King"
+   ],
+   "significants": [
+      "Edmund Goulding",
+      "Sam Wood"
+   ],
+   "title": "A Night at the Opera",
+   "overview": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+   "tagline": "Don't miss it! The funniest picture ever made!",
+   "video": "UY9C9MpoIn4",
+   "posterPath": "/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+      "original": "https://image.tmdb.org/t/p/original/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg"
+   },
+   "age": 2,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

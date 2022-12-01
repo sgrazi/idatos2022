@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0108122",
+   "tmdbID": "695",
+   "imdbRating": 77,
+   "imdbVoteCount": 45268,
+   "tmdbRating": 71,
+   "backdropPath": "/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg",
+      "original": "https://image.tmdb.org/t/p/original/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg"
+   },
+   "originalTitle": "Short Cuts",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1993,
+   "runtime": 187,
+   "cast": [
+      "Andie MacDowell",
+      "Bruce Davison",
+      "Jack Lemmon",
+      "Zane Cassidy",
+      "Julianne Moore",
+      "Matthew Modine",
+      "Anne Archer"
+   ],
+   "significants": [
+      "Robert Altman"
+   ],
+   "title": "Short Cuts",
+   "overview": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+   "tagline": "Short Cuts raises the roof on America.",
+   "video": "ePyhGz9_RCI",
+   "posterPath": "/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg",
+      "original": "https://image.tmdb.org/t/p/original/nAEBc3g9bHAcF9whKFMfIxHxVwn.jpg"
+   },
+   "age": 15,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt1365050",
+   "tmdbID": "283587",
+   "imdbRating": 77,
+   "imdbVoteCount": 81848,
+   "tmdbRating": 75,
+   "backdropPath": "/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vDfbeUK3OhoeyQRlUODwfSy6tyE.jpg"
+   },
+   "originalTitle": "Beasts of No Nation",
+   "genres": [
+      18,
+      10752
+   ],
+   "countries": [
+      "GH",
+      "US"
+   ],
+   "year": 2015,
+   "runtime": 137,
+   "cast": [
+      "Abraham Attah",
+      "Idris Elba",
+      "Emmanuel Nii Adom Quaye",
+      "Opeyemi Fagbohungbe",
+      "Emmanuel Affadzi",
+      "Richard Pepple",
+      "Ama K. Abebrese"
+   ],
+   "significants": [
+      "Cary Joji Fukunaga"
+   ],
+   "title": "Beasts of No Nation",
+   "overview": "Based on the experiences of Agu, a child fighting in the civil war of an unnamed, fictional West African country. Follows Agu's journey as he's forced to join a group of soldiers. While he fears his commander and many of the men around him, his fledgling childhood has been brutally shattered by the war raging through his country, and he is at first torn between conflicting revulsion and fascination.",
+   "tagline": "Child. Captive. Killer.",
+   "video": "2xb9Ty-1frw",
+   "posterPath": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/80044545/",
+            "added": 1600283847,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

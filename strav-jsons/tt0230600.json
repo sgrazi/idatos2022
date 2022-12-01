@@ -1,0 +1,56 @@
+{
+   "imdbID": "tt0230600",
+   "tmdbID": "1933",
+   "imdbRating": 76,
+   "imdbVoteCount": 368001,
+   "tmdbRating": 76,
+   "backdropPath": "/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+      "original": "https://image.tmdb.org/t/p/original/y5hbHJbERDFurustaqcVamN84Y0.jpg"
+   },
+   "originalTitle": "The Others",
+   "genres": [
+      27,
+      9648,
+      53
+   ],
+   "countries": [
+      "FR",
+      "ES",
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 101,
+   "cast": [
+      "Nicole Kidman",
+      "Fionnula Flanagan",
+      "Christopher Eccleston",
+      "Alakina Mann",
+      "James Bentley",
+      "Eric Sykes",
+      "Elaine Cassidy"
+   ],
+   "significants": [
+      "Alejandro Amenábar"
+   ],
+   "title": "The Others",
+   "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+   "tagline": "Sooner or later they’ll find you.",
+   "video": "C7pKqaPtMiA",
+   "posterPath": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "original": "https://image.tmdb.org/t/p/original/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg"
+   },
+   "age": 11,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

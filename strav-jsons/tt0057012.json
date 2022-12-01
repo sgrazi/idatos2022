@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0057012",
+   "tmdbID": "935",
+   "imdbRating": 84,
+   "imdbVoteCount": 490294,
+   "tmdbRating": 81,
+   "backdropPath": "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/sTp8K0SfcC2RQef1Tu160z3niHO.jpg"
+   },
+   "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+   "genres": [
+      35,
+      10752
+   ],
+   "countries": [
+      "GB",
+      "US"
+   ],
+   "year": 1964,
+   "runtime": 95,
+   "cast": [
+      "Peter Sellers",
+      "George C. Scott",
+      "Sterling Hayden",
+      "Keenan Wynn",
+      "Slim Pickens",
+      "Peter Bull",
+      "James Earl Jones"
+   ],
+   "significants": [
+      "Stanley Kubrick"
+   ],
+   "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+   "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
+   "tagline": "The hot-line suspense comedy.",
+   "video": "0rF5XftjRGM",
+   "posterPath": "/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

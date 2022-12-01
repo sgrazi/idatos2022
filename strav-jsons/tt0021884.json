@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0021884",
+   "tmdbID": "3035",
+   "imdbRating": 78,
+   "imdbVoteCount": 73777,
+   "tmdbRating": 75,
+   "backdropPath": "/tyGLg0Tw7xZPgnuR2ctjCNgbjlF.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/tyGLg0Tw7xZPgnuR2ctjCNgbjlF.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/tyGLg0Tw7xZPgnuR2ctjCNgbjlF.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/tyGLg0Tw7xZPgnuR2ctjCNgbjlF.jpg",
+      "original": "https://image.tmdb.org/t/p/original/tyGLg0Tw7xZPgnuR2ctjCNgbjlF.jpg"
+   },
+   "originalTitle": "Frankenstein",
+   "genres": [
+      18,
+      27,
+      878
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1931,
+   "runtime": 70,
+   "cast": [
+      "Colin Clive",
+      "Mae Clarke",
+      "John Boles",
+      "Boris Karloff",
+      "Edward Van Sloan",
+      "Frederick Kerr",
+      "Dwight Frye"
+   ],
+   "significants": [
+      "James Whale"
+   ],
+   "title": "Frankenstein",
+   "overview": "Dr. Henry Frankenstein attempts to create life by assembling a creature from body parts of the deceased. Aided by his loyal misshapen assistant, Fritz, Frankenstein succeeds in animating his monster, but, confused and traumatized, it escapes into the countryside and begins to wreak havoc. Frankenstein searches for the elusive being and eventually must confront his tormented creation.",
+   "tagline": "The man who made a monster",
+   "video": "EEH5MZCewPQ",
+   "posterPath": "/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg",
+      "original": "https://image.tmdb.org/t/p/original/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

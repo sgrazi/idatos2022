@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt9052870",
+   "tmdbID": "596650",
+   "imdbRating": 82,
+   "imdbVoteCount": 54612,
+   "tmdbRating": 77,
+   "backdropPath": "/1J9ml5m02FeZkjycbEIxTy9MEiZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/1J9ml5m02FeZkjycbEIxTy9MEiZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/1J9ml5m02FeZkjycbEIxTy9MEiZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/1J9ml5m02FeZkjycbEIxTy9MEiZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/1J9ml5m02FeZkjycbEIxTy9MEiZ.jpg"
+   },
+   "originalTitle": "छिछोरे",
+   "genres": [
+      35,
+      18,
+      10749
+   ],
+   "countries": [
+      "IN"
+   ],
+   "year": 2019,
+   "runtime": 146,
+   "cast": [
+      "Sushant Singh Rajput",
+      "Shraddha Kapoor",
+      "Prateik Babbar",
+      "Varun Sharma",
+      "Tahir Raj Bhasin",
+      "Naveen Polishetty",
+      "Saharsh Kumar Shukla"
+   ],
+   "significants": [
+      "Nitesh Tiwari"
+   ],
+   "title": "Chhichhore",
+   "overview": "Following a group of friends from university as they progress into middle-age life and go their own separate ways.",
+   "tagline": "",
+   "video": "",
+   "posterPath": "/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg",
+      "original": "https://image.tmdb.org/t/p/original/cGDPQtQ5igtPMt3oJ6BCAor6dFp.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "hi"
+}

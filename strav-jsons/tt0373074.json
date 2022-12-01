@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt0373074",
+   "tmdbID": "9470",
+   "imdbRating": 77,
+   "imdbVoteCount": 140507,
+   "tmdbRating": 73,
+   "backdropPath": "/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fwcSZMGYzFVLkMJDyBTXXbp6E3R.jpg"
+   },
+   "originalTitle": "功夫",
+   "genres": [
+      28,
+      35,
+      14
+   ],
+   "countries": [
+      "HK",
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 99,
+   "cast": [
+      "Stephen Chow",
+      "Yuen Wah",
+      "Yuen Qiu",
+      "Lam Tze-chung",
+      "Bruce Leung Siu-Lung",
+      "Eva Huang",
+      "Danny Chan Kwok-kwan"
+   ],
+   "significants": [
+      "Stephen Chow"
+   ],
+   "title": "Kung Fu Hustle",
+   "overview": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+   "tagline": "So many gangsters… so little time.",
+   "video": "-m3IB7N_PRk",
+   "posterPath": "/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg"
+   },
+   "age": 14,
+   "streamingInfo": {
+      "hulu": {
+         "us": {
+            "link": "https://www.hulu.com/movie/f1f0bc52-ac69-4b85-a316-7ea5badd9743",
+            "added": 1668217983,
+            "leaving": 1669881540
+         }
+      }
+   },
+   "originalLanguage": "cn"
+}

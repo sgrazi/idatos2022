@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0107653",
+   "tmdbID": "21450",
+   "imdbRating": 77,
+   "imdbVoteCount": 39967,
+   "tmdbRating": 74,
+   "backdropPath": "/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/uIh3mW3AuSM7ww7NYtvSWDQ1zc7.jpg"
+   },
+   "originalTitle": "Naked",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "GB"
+   ],
+   "year": 1993,
+   "runtime": 131,
+   "cast": [
+      "David Thewlis",
+      "Lesley Sharp",
+      "Katrin Cartlidge",
+      "Greg Cruttwell",
+      "Claire Skinner",
+      "Peter Wight",
+      "Ewen Bremner"
+   ],
+   "significants": [
+      "Mike Leigh"
+   ],
+   "title": "Naked",
+   "overview": "An unemployed Brit vents his rage on unsuspecting strangers as he embarks on a nocturnal London odyssey.",
+   "tagline": "When unbalance leads to submission",
+   "video": "TdKPbyvS0qc",
+   "posterPath": "/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/xOx8xig7zywnLhqEzSdnhzg97va.jpg",
+      "original": "https://image.tmdb.org/t/p/original/xOx8xig7zywnLhqEzSdnhzg97va.jpg"
+   },
+   "age": 17,
+   "streamingInfo": {},
+   "originalLanguage": "en"
+}

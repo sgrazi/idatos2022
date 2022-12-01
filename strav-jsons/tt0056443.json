@@ -1,0 +1,54 @@
+{
+   "imdbID": "tt0056443",
+   "tmdbID": "11712",
+   "imdbRating": 80,
+   "imdbVoteCount": 38519,
+   "tmdbRating": 79,
+   "backdropPath": "/vfEORWH75d5qSHe3QBkSPIsXhOz.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/vfEORWH75d5qSHe3QBkSPIsXhOz.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/vfEORWH75d5qSHe3QBkSPIsXhOz.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/vfEORWH75d5qSHe3QBkSPIsXhOz.jpg",
+      "original": "https://image.tmdb.org/t/p/original/vfEORWH75d5qSHe3QBkSPIsXhOz.jpg"
+   },
+   "originalTitle": "椿三十郎",
+   "genres": [
+      28,
+      18,
+      53
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1962,
+   "runtime": 96,
+   "cast": [
+      "Toshirō Mifune",
+      "Tatsuya Nakadai",
+      "Keiju Kobayashi",
+      "Yûzô Kayama",
+      "Reiko Dan",
+      "Takashi Shimura",
+      "Kamatari Fujiwara"
+   ],
+   "significants": [
+      "Akira Kurosawa"
+   ],
+   "title": "Sanjuro",
+   "overview": "Toshiro Mifune swaggers and snarls to brilliant comic effect in Kurosawa's tightly paced, beautifully composed \"Sanjuro.\" In this companion piece and sequel to \"Yojimbo,\" jaded samurai Sanjuro helps an idealistic group of young warriors weed out their clan's evil influences, and in the process turns their image of a proper samurai on its ear.",
+   "tagline": "Akira Kurosawa's Powerful and Newest Japanese Masterpiece",
+   "video": "Uq_rSsbhQnE",
+   "posterPath": "/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg",
+      "original": "https://image.tmdb.org/t/p/original/zW47oIH3bc3ggmmmzTvKqM4Fqjk.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {},
+   "originalLanguage": "ja"
+}

@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0181875",
+   "tmdbID": "786",
+   "imdbRating": 79,
+   "imdbVoteCount": 276833,
+   "tmdbRating": 74,
+   "backdropPath": "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+      "original": "https://image.tmdb.org/t/p/original/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg"
+   },
+   "originalTitle": "Almost Famous",
+   "genres": [
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2000,
+   "runtime": 122,
+   "cast": [
+      "Patrick Fugit",
+      "Billy Crudup",
+      "Frances McDormand",
+      "Kate Hudson",
+      "Jason Lee",
+      "Anna Paquin",
+      "Fairuza Balk"
+   ],
+   "significants": [
+      "Cameron Crowe"
+   ],
+   "title": "Almost Famous",
+   "overview": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+   "tagline": "Experience it. Enjoy it. Just don't fall for it.",
+   "video": "aQXh_AaJXaM",
+   "posterPath": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "original": "https://image.tmdb.org/t/p/original/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg"
+   },
+   "age": 13,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/uZR3Sx6uyx25i1DzsuIz6I3LQALIRdA_/",
+            "added": 1667599984,
+            "leaving": 1675227600
+         }
+      },
+      "showtime": {
+         "us": {
+            "link": "https://www.sho.com/titles/3504623/almost-famous",
+            "added": 1667341544,
+            "leaving": 1675209540
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,68 @@
+{
+   "imdbID": "tt0240772",
+   "tmdbID": "161",
+   "imdbRating": 77,
+   "imdbVoteCount": 573883,
+   "tmdbRating": 74,
+   "backdropPath": "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+      "original": "https://image.tmdb.org/t/p/original/43BEez1EGdmNpg8rcPUFToujlii.jpg"
+   },
+   "originalTitle": "Ocean's Eleven",
+   "genres": [
+      80,
+      53
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2001,
+   "runtime": 116,
+   "cast": [
+      "George Clooney",
+      "Brad Pitt",
+      "Matt Damon",
+      "Andy García",
+      "Julia Roberts",
+      "Bernie Mac",
+      "Elliott Gould"
+   ],
+   "significants": [
+      "Steven Soderbergh"
+   ],
+   "title": "Ocean's Eleven",
+   "overview": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+   "tagline": "Are you in or out?",
+   "video": "jDtocnE8uKs",
+   "posterPath": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg"
+   },
+   "age": 9,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXd_Yewi2pZuAuwEAADwE:type:feature",
+            "added": 1668856608,
+            "leaving": 0
+         }
+      },
+      "netflix": {
+         "us": {
+            "link": "https://www.netflix.com/title/60021783/",
+            "added": 1668157126,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0092067",
+   "tmdbID": "10515",
+   "imdbRating": 80,
+   "imdbVoteCount": 166933,
+   "tmdbRating": 79,
+   "backdropPath": "/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
+      "original": "https://image.tmdb.org/t/p/original/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg"
+   },
+   "originalTitle": "天空の城ラピュタ",
+   "genres": [
+      16,
+      12,
+      10751
+   ],
+   "countries": [
+      "JP"
+   ],
+   "year": 1986,
+   "runtime": 125,
+   "cast": [
+      "Keiko Yokozawa",
+      "Mayumi Tanaka",
+      "Minori Terada",
+      "Kotoe Hatsui",
+      "Fujio Tokita",
+      "Ichirō Nagai",
+      "Hiroshi Ito"
+   ],
+   "significants": [
+      "Hayao Miyazaki"
+   ],
+   "title": "Castle in the Sky",
+   "overview": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+   "tagline": "One day, a girl came down from the sky…",
+   "video": "8ykEy-yPBFc",
+   "posterPath": "/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/npOnzAbLh6VOIu3naU5QaEcTepo.jpg",
+      "original": "https://image.tmdb.org/t/p/original/npOnzAbLh6VOIu3naU5QaEcTepo.jpg"
+   },
+   "age": 4,
+   "streamingInfo": {
+      "hbo": {
+         "us": {
+            "link": "https://play.hbomax.com/page/urn:hbo:page:GXrHEfQegZY-qmgEAAADp:type:feature",
+            "added": 1655513907,
+            "leaving": 16851599990
+         }
+      }
+   },
+   "originalLanguage": "ja"
+}

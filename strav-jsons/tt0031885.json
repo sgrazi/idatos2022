@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0031885",
+   "tmdbID": "776",
+   "imdbRating": 79,
+   "imdbVoteCount": 29295,
+   "tmdbRating": 76,
+   "backdropPath": "/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/lxNG1eGsfY8yOeTSk66B5hrv6pZ.jpg"
+   },
+   "originalTitle": "La Règle du jeu",
+   "genres": [
+      35,
+      18
+   ],
+   "countries": [
+      "FR"
+   ],
+   "year": 1939,
+   "runtime": 106,
+   "cast": [
+      "Nora Gregor",
+      "Paulette Dubost",
+      "Mila Parély",
+      "Odette Talazac",
+      "Claire Gérard",
+      "Anne Mayen",
+      "Lise Elina"
+   ],
+   "significants": [
+      "Jean Renoir"
+   ],
+   "title": "The Rules of the Game",
+   "overview": "A weekend at a marquis’ country château lays bare some ugly truths about a group of haut bourgeois acquaintances.",
+   "tagline": "",
+   "video": "p5tV3wRwc_A",
+   "posterPath": "/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "original": "https://image.tmdb.org/t/p/original/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg"
+   },
+   "age": 8,
+   "streamingInfo": {},
+   "originalLanguage": "fr"
+}

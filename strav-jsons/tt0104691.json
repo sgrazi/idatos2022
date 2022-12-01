@@ -1,0 +1,62 @@
+{
+   "imdbID": "tt0104691",
+   "tmdbID": "9361",
+   "imdbRating": 77,
+   "imdbVoteCount": 171120,
+   "tmdbRating": 73,
+   "backdropPath": "/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg",
+      "original": "https://image.tmdb.org/t/p/original/mhpDSuNyHPMsccI7zISEaskTgOQ.jpg"
+   },
+   "originalTitle": "The Last of the Mohicans",
+   "genres": [
+      28,
+      12,
+      18
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 1992,
+   "runtime": 112,
+   "cast": [
+      "Daniel Day-Lewis",
+      "Madeleine Stowe",
+      "Jodhi May",
+      "Russell Means",
+      "Wes Studi",
+      "Eric Schweig",
+      "Steven Waddington"
+   ],
+   "significants": [
+      "Michael Mann"
+   ],
+   "title": "The Last of the Mohicans",
+   "overview": "In war-torn Colonial America, in the midst of a bloody battle between British, the French and Native American allies, Cora Munro, the aristocratic daughter of a British Colonel and her party are captured by a group of Huron warriors. Fortunately, a group of three Mohican trappers, including Hawkeye, a rugged frontiersman and the adopted son of the Mohicans comes to their rescue. A passionate romance soon blossoms between Cora and Hawkeye, but many forces test their love as they continue to journey through the Frontier.",
+   "tagline": "The first American hero.",
+   "video": "yaQeVnN6pUc",
+   "posterPath": "/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/fYVQRcgnOv998bKEplzrD3faGgt.jpg",
+      "original": "https://image.tmdb.org/t/p/original/fYVQRcgnOv998bKEplzrD3faGgt.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "peacock": {
+         "us": {
+            "link": "https://www.peacocktv.com/watch/asset/movies/the-last-of-the-mohicans/37a0a427-19b7-3780-bae4-d5f716f64e2e",
+            "added": 1667317217,
+            "leaving": 1669888740
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

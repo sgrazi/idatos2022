@@ -1,0 +1,71 @@
+{
+   "imdbID": "tt0361862",
+   "tmdbID": "4553",
+   "imdbRating": 77,
+   "imdbVoteCount": 390855,
+   "tmdbRating": 75,
+   "backdropPath": "/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg",
+      "original": "https://image.tmdb.org/t/p/original/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg"
+   },
+   "originalTitle": "The Machinist",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "FR",
+      "ES",
+      "GB",
+      "US"
+   ],
+   "year": 2004,
+   "runtime": 101,
+   "cast": [
+      "Christian Bale",
+      "Jennifer Jason Leigh",
+      "Aitana Sánchez-Gijón",
+      "John Sharian",
+      "Michael Ironside",
+      "Lawrence Gilliard Jr.",
+      "Craig Stevenson"
+   ],
+   "significants": [
+      "Brad Anderson"
+   ],
+   "title": "The Machinist",
+   "overview": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+   "tagline": "How do you wake up from a nightmare if you’re not asleep?",
+   "video": "H0fuHY4U1UA",
+   "posterPath": "/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "original": "https://image.tmdb.org/t/p/original/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {
+      "paramount": {
+         "us": {
+            "link": "https://www.paramountplus.com/movies/video/XGcipFhWLF5NKuJFu7GKuCid8ustMaUK/",
+            "added": 1664907287,
+            "leaving": 1677646800
+         }
+      },
+      "prime": {
+         "us": {
+            "link": "https://www.amazon.com/gp/video/detail/0NHG7JY1BJ4JOCVB9LHANPIYN9/",
+            "added": 1669776487,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

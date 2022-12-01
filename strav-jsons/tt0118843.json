@@ -1,0 +1,58 @@
+{
+   "imdbID": "tt0118843",
+   "tmdbID": "1075",
+   "imdbRating": 80,
+   "imdbVoteCount": 54173,
+   "tmdbRating": 76,
+   "backdropPath": "/hFYRoo8OB6mL0anLaOF1fwpHHPD.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/hFYRoo8OB6mL0anLaOF1fwpHHPD.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/hFYRoo8OB6mL0anLaOF1fwpHHPD.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/hFYRoo8OB6mL0anLaOF1fwpHHPD.jpg",
+      "original": "https://image.tmdb.org/t/p/original/hFYRoo8OB6mL0anLaOF1fwpHHPD.jpg"
+   },
+   "originalTitle": "Crna mačka, beli mačor",
+   "genres": [
+      35,
+      80,
+      10749
+   ],
+   "countries": [
+      "AT",
+      "FR",
+      "DE",
+      "GR",
+      "YU"
+   ],
+   "year": 1998,
+   "runtime": 127,
+   "cast": [
+      "Bajram Severdzhan",
+      "Srđan Todorović",
+      "Zabit Memedov",
+      "Florijan Ajdini",
+      "Branka Katić",
+      "Ljubica Adzovic",
+      "Sabri Sulejmani"
+   ],
+   "significants": [
+      "Emir Kusturica"
+   ],
+   "title": "Black Cat, White Cat",
+   "overview": "Matko is a small time hustler, living by the Danube with his 17-year-old son Zare. After a failed business deal he owes money to the much more successful gangster Dadan. Dadan has a sister, Afrodita, that he desperately wants to see get married so they strike a deal: Zare is to marry her.",
+   "tagline": "",
+   "video": "Lxw0ea_UiZ4",
+   "posterPath": "/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg",
+      "original": "https://image.tmdb.org/t/p/original/eEo03ShmRlMh3wkt28KQ6GYlnTW.jpg"
+   },
+   "age": 10,
+   "streamingInfo": {},
+   "originalLanguage": "sr"
+}

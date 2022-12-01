@@ -1,0 +1,63 @@
+{
+   "imdbID": "tt2245084",
+   "tmdbID": "177572",
+   "imdbRating": 78,
+   "imdbVoteCount": 460985,
+   "tmdbRating": 77,
+   "backdropPath": "/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/5tub2Kw6NboWFblA1CgDEwB59jP.jpg",
+      "original": "https://image.tmdb.org/t/p/original/5tub2Kw6NboWFblA1CgDEwB59jP.jpg"
+   },
+   "originalTitle": "Big Hero 6",
+   "genres": [
+      16,
+      28,
+      12
+   ],
+   "countries": [
+      "US"
+   ],
+   "year": 2014,
+   "runtime": 102,
+   "cast": [
+      "Scott Adsit",
+      "Ryan Potter",
+      "Daniel Henney",
+      "T.J. Miller",
+      "Jamie Chung",
+      "Damon Wayans Jr.",
+      "Génesis Rodríguez"
+   ],
+   "significants": [
+      "Chris Williams",
+      "Don Hall"
+   ],
+   "title": "Big Hero 6",
+   "overview": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+   "tagline": "",
+   "video": "8IdMPpKMdcc",
+   "posterPath": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "original": "https://image.tmdb.org/t/p/original/2mxS4wUimwlLmI1xp6QW6NSU361.jpg"
+   },
+   "age": 5,
+   "streamingInfo": {
+      "disney": {
+         "us": {
+            "link": "https://www.disneyplus.com/movies/-/4AozFbXy3sPw",
+            "added": 1606712442,
+            "leaving": 0
+         }
+      }
+   },
+   "originalLanguage": "en"
+}

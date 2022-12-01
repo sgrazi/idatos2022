@@ -5,9 +5,16 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Header
+       Disponibilidad en streaming
       </header>
-      <Main/>
+      <div style={{
+        margin: "auto",
+        paddingRight: 80,
+        paddingLeft: 80,
+        height: "100%"
+      }}>
+        <Main/>
+      </div>
     </div>
   );
 }

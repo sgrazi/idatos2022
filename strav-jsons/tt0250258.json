@@ -1,0 +1,53 @@
+{
+   "imdbID": "tt0250258",
+   "tmdbID": "575",
+   "imdbRating": 77,
+   "imdbVoteCount": 94141,
+   "tmdbRating": 74,
+   "backdropPath": "/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+   "backdropURLs": {
+      "300": "https://image.tmdb.org/t/p/w300/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+      "1280": "https://image.tmdb.org/t/p/w1280/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+      "original": "https://image.tmdb.org/t/p/original/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg"
+   },
+   "originalTitle": "Das Experiment",
+   "genres": [
+      18,
+      53
+   ],
+   "countries": [
+      "DE"
+   ],
+   "year": 2001,
+   "runtime": 120,
+   "cast": [
+      "Moritz Bleibtreu",
+      "Christian Berkel",
+      "Oliver Stokowski",
+      "Wotan Wilke Möhring",
+      "Stephan Szasz",
+      "Andrea Sawatzki",
+      "Polat Dal"
+   ],
+   "significants": [
+      "Oliver Hirschbiegel"
+   ],
+   "title": "The Experiment",
+   "overview": "Das Experiment is a shocking psycho thriller about the potential for brutality that humans hide. Even more shocking is the fact that it’s based on an actual occurrence — a 1971 psychological experiment at Stanford University that was aborted prematurely when the experimenters lost control.",
+   "tagline": "You are invited to participate",
+   "video": "MG_xQs9_MGQ",
+   "posterPath": "/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+   "posterURLs": {
+      "92": "https://image.tmdb.org/t/p/w92/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+      "154": "https://image.tmdb.org/t/p/w154/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+      "185": "https://image.tmdb.org/t/p/w185/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+      "342": "https://image.tmdb.org/t/p/w342/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+      "500": "https://image.tmdb.org/t/p/w500/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+      "780": "https://image.tmdb.org/t/p/w780/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg",
+      "original": "https://image.tmdb.org/t/p/original/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg"
+   },
+   "age": -1,
+   "streamingInfo": {},
+   "originalLanguage": "de"
+}
