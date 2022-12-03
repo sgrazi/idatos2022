@@ -27,8 +27,8 @@ for json_file in json_list:
         locations.drop(["icon"], axis=1, inplace=True)
         locations.drop(["id"], axis=1, inplace=True)
         locations.drop(["name"], axis=1, inplace=True)
-        services = locations['display_name'].tolist()
-        data["streaming_services"] = ', '.join(services)
+        services = locations["display_name"].tolist()
+        data["streaming_services"] = ", ".join(services)
     else:
         # si no existe la columna, se crea con valores vacios
         data["collection.locations"] = ""
@@ -36,5 +36,5 @@ for json_file in json_list:
     dfs.append(data)
 
 df = pd.concat(dfs, ignore_index=True)
-df.rename(columns = {'collection.name':'name'}, inplace = True)
+df.rename(columns={"collection.name": "name"}, inplace=True)
 df.to_csv(csv_path, index=False)

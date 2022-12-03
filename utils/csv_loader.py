@@ -115,6 +115,7 @@ def load_hbo_max_csv(path):
     df = df.query('type == "Movie"')
     load_movies(df, hbo_max)
 
+
 # def load_utelly_movies(df): # WIP
 #     db = SingletonDatabase.get_instance()
 #     movie_df = df.drop(["streaming_service"], axis=1)
