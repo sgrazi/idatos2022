@@ -23,7 +23,7 @@ def load_csv_and_fill_ids(path):
         for i, row in df.iterrows():
             id = query_id(df.at[i,'id'])
             df.at[i,'poster'] = id
-    elif path == "../datasets/hbo_titles.csv":
+    elif path == "../datasets/hbo_titles_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i,'show_id'])
             df.at[i,'poster'] = id
@@ -39,9 +39,13 @@ def load_csv_and_fill_ids(path):
         for i, row in df.iterrows():
             id = query_id(df.at[i,'id'])
             df.at[i,'poster'] = id
+    elif path == "../datasets/utelly_dataset.csv":
+        for i, row in df.iterrows():
+            id = query_id(df.at[i,'id'])
+            df.at[i,'poster'] = id
     return df
 
 if __name__ == '__main__':
     # para preprocesar un dataset
-    df = load_csv_and_fill_ids('../datasets/hbo_titles.csv')
-    df.to_csv("../datasets/hbo_titles_poster.csv", index=False)
+    df = load_csv_and_fill_ids('../datasets/utelly_dataset.csv')
+    df.to_csv("../datasets/utelly_dataset_poster.csv", index=False)
