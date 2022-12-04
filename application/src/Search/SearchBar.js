@@ -1,46 +1,57 @@
-import { useRef } from "react";
+import { useState } from "react";
 import IconButton from "@mui/material/IconButton";
 import SearchIcon from "@mui/icons-material/Search";
 import TextField from "@mui/material/TextField";
-import search from "./Search";
+import axios from "axios";
 
-const FORM_ENDPOINT = "https:/localhost:5000/search/"; // TODO
+const FORM_ENDPOINT = "http://localhost:5001/movies";
 
-const SearchBar = ({setSearchQuery}) => {
-  const formElement = useRef(null);
-  const handleSubmit = search({
-    form: formElement.current
-  });
+const SearchBar = ({setMovies}) => {
+  const [title, setTitle] = useState("")
+  const handleTitle = (e) => {
+    setTitle(e.target.value)
+  }
+  
+  const handleSubmit = () => {
+    axios.post(FORM_ENDPOINT, null, {
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+      },
+      params: {
+        title
+      }
+    })
+      .then(response => {
+        console.log(response.data.movies)
+        setMovies(response.data.movies)
+      })
+      .catch(err => console.log(err))
+  };
 
   return (
-    <form 
-      action={FORM_ENDPOINT}
-      onSubmit={handleSubmit}
-      method="GET"
-      target="_blank"
-      ref={formElement}
+    <div 
       style={{ width: "100%", paddingBottom: 20}}
     >
       <TextField
-        // color="white"
         style={{width: "95%"}}
-        id="search-bar"
+        value={title}
+        onChange={handleTitle}
         className="text"
-        onInput={(e) => {
-          setSearchQuery(e.target.value);
-        }}
-        label="Busca una pelicula"
-        variant="outlined"
-        placeholder="Nombre..."
+        name="title"
+        label="Busca una pelicula por nombre"
+        placeholder="Ingresa un nombre..."
         size="large"
+        variant="outlined"
+        required
       />
-      <IconButton type="submit" aria-label="search">
+      <IconButton onClick={handleSubmit} aria-label="search">
         <SearchIcon style={{ 
           paddingLeft: "9",
           fill: "white"
         }} />
       </IconButton>
-    </form>
+    </div>
   )
 };
 

@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react'
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
@@ -7,31 +6,39 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import Search from './Search/SearchBar'
-
-const rows = [
-  { name: "movie 1", rating: 5, age_rating: "PG13", services: "Netflix, HBO"},
-  { name: "movie 2", rating: 5, age_rating: "PG13", services: "HBO"},
-  { name: "movie 3", rating: 5, age_rating: "PG13", services: "HBO"},
-  { name: "movie 4", rating: 5, age_rating: "PG13", services: "Amazon Prime"},
-  { name: "movie 5", rating: 5, age_rating: "PG13", services: "Disney+, Netflix"},
-];
+import { useEffect, useState } from 'react';
 
 function Main() {
-    const [time, setTime] = useState(0)
+    const [movies, setMovies] = useState([{
+      country: "Canada",
+      description: "A small fishing village must procure a local doctor to secure a lucrative business contract. When unlikely candidate and big city doctor Paul Lewis lands in their lap for a trial residence, the townsfolk rally together to charm him into staying. As the doctor's time in the village winds to a close, acting mayor Murray French has no choice but to pull out all the stops.",
+      duration: "113 min",
+      genres: [
+        "COMEDY",
+        "DRAMA"
+      ],
+      id: 1,
+      platforms: [
+        "Amazon Prime Video"
+      ],
+      release_year: "2014",
+      title: "The Grand Seduction"
+    }])
+
+    const [rows, setRows] = useState([])
 
     useEffect(() => {
-        fetch('/time').then(res => res.json()).then(data => {
-            setTime(data.time)
+      setRows(
+        movies.map((movie) => {
+          return { name: movie.title, description: movie.description, release_year: movie.release_year, duration: movie.duration, services: movie.platforms, genres: movie.genres}
         })
-    }, [])
+      )
+    }
+    ,[movies])
 
     return (
       <div className="App">
-        Main content will go here.
-        Time is {time}
-
-        <Search/>
-
+        <Search setMovies={setMovies}/>
         <TableContainer style={{
           width: "auto",
           padding: 24,
@@ -43,10 +50,12 @@ function Main() {
             <TableHead>
               <TableRow>
                 <TableCell>Poster</TableCell>
-                <TableCell>Nombre</TableCell>
-                <TableCell align="right">Calificacion</TableCell>
-                <TableCell align="right">Calificacion de edad</TableCell>
-                <TableCell align="right">Servicios</TableCell>
+                <TableCell>Título</TableCell>
+                <TableCell>Descripcion</TableCell>
+                <TableCell align="right">Año</TableCell>
+                <TableCell align="right">Duración</TableCell>
+                <TableCell>Servicios</TableCell>
+                <TableCell>Género</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
@@ -56,9 +65,11 @@ function Main() {
                 >
                   <TableCell> <img src="https://m.media-amazon.com/images/M/MV5BOGJlZGJiN2ItM2VlMi00NWQ5LWJkYzYtMWY2MmJhMTFlNGQ3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg" alt="" border="3" height="100" width="70"/></TableCell>
                   <TableCell scope="row">{row.name}</TableCell>
-                  <TableCell align="right">{row.rating}</TableCell>
-                  <TableCell align="right">{row.age_rating}</TableCell>
-                  <TableCell align="right">{row.services}</TableCell>
+                  <TableCell>{row.description}</TableCell>
+                  <TableCell align="right">{row.release_year}</TableCell>
+                  <TableCell align="right">{row.duration}</TableCell>
+                  <TableCell>{row.services}</TableCell>
+                  <TableCell>{row.genres}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
