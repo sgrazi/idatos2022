@@ -1,6 +1,5 @@
-from flask import Flask, request
+from flask import Flask, jsonify, request
 from flask_cors import CORS
-from flask import jsonify
 from flask_sqlalchemy import SQLAlchemy
 from models import load_tables
 from sqlalchemy.ext.automap import automap_base
@@ -34,7 +33,7 @@ def list_movies():
     except Exception as e:
         print(e)
 
-    return {"movies": movieList}
+    return jsonify({"movies": movieList})
 
 
 @app.route("/movies/<id>", methods=["POST", "OPTIONS"])
@@ -42,8 +41,7 @@ def get_movie_by_id(id):
     Movie = tables["Movies"]
     movie = db.session.query(Movie).filter(Movie.id == id).first()
 
-
-    return {"movie": movie.json()}
+    return jsonify({"movie": movie.json()})
 
 
 if __name__ == "__main__":
