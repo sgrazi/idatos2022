@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, jsonify, request
 from flask_sqlalchemy import SQLAlchemy
 from models import load_tables
 from sqlalchemy.ext.automap import automap_base
@@ -16,9 +16,9 @@ with app.app_context():
 
 @app.route("/movies")
 def list_movies():
+    movieList = []
     args = request.args.to_dict()
     title = args.get("title")
-    movieList = []
     Movie = tables["Movies"]
     if title:
         movies = db.session.query(Movie).filter(Movie.title.like(f"%{title}%")).all()
@@ -28,7 +28,7 @@ def list_movies():
     for movie in movies:
         movieList.append(movie.json())
 
-    return {"movies": movieList}
+    return jsonify({"movies": movieList})
 
 
 @app.route("/movies/<id>")
@@ -36,8 +36,7 @@ def get_movie_by_id(id):
     Movie = tables["Movies"]
     movie = db.session.query(Movie).filter(Movie.id == id).first()
 
-
-    return {"movie": movie.json()}
+    return jsonify({"movie": movie.json()})
 
 
 if __name__ == "__main__":
