@@ -1,12 +1,13 @@
 DROP TABLE IF EXISTS movies CASCADE; 
 
 CREATE TABLE movies(
-	id  INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+	id  VARCHAR(20) PRIMARY KEY,
 	title VARCHAR ( 255 ) NOT NULL,
 	country VARCHAR ( 150 ),
 	release_year VARCHAR ( 50 ),
 	duration VARCHAR(20),
-	description TEXT
+	description TEXT,
+	image TEXT
 );
 
 DROP TABLE IF EXISTS genres CASCADE;
@@ -27,7 +28,7 @@ CREATE TABLE platforms(
 DROP TABLE IF EXISTS movies_genres CASCADE;
 
 CREATE TABLE movies_genres(
-	movie_id INT REFERENCES movies(id),
+	movie_id VARCHAR REFERENCES movies(id),
 	genre_id INT REFERENCES genres(id),
 	PRIMARY KEY (movie_id, genre_id)
 );
@@ -35,7 +36,7 @@ CREATE TABLE movies_genres(
 DROP TABLE IF EXISTS movies_platforms CASCADE;
 
 CREATE TABLE movies_platforms(
-	movie_id INT REFERENCES movies(id),
+	movie_id VARCHAR REFERENCES movies(id),
 	platform_id INT REFERENCES platforms(id),
 	PRIMARY KEY (movie_id, platform_id)
 );

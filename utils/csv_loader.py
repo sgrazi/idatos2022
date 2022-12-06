@@ -1,9 +1,11 @@
+import json
+from datetime import datetime
+
 import pandas as pd
 from genre_mapper import GENRE_MAPPER
 from models.genre import Genre
 from models.movie import Movie
 from models.platform import Platform
-from datetime import datetime
 
 
 def load_csv(path):
@@ -33,35 +35,40 @@ def insert_genres(genres):
 def load_movies(df, platform):
     new_movies = 0
     updated_movies = 0
+    duplicated_ids = 0
     for index, row in df.iterrows():
         try:
-            genres = []
-            if not pd.isna(row["listed_in"]):
-                genres = insert_genres(row["listed_in"].split(", "))
+            if not pd.isna(row["id"]):
 
-            movie = Movie.get_by_title(row["title"])
+                genres = []
+                if not pd.isna(row["listed_in"]):
+                    genres = insert_genres(row["listed_in"].split(", "))
 
-            if movie is None:
-                movie = Movie(
-                    title=row["title"],
-                    country=row["country"],
-                    release_year=row["release_year"],
-                    duration=row["duration"],
-                    description=row["description"],
-                )
-                new_movies += 1
-                movie.save([platform], genres)
-            else:
-                updated_movies += 1
-                movie.update([platform], genres)
+                movie = Movie.get_by_id(row["id"])
+
+                if movie is None:
+                    movie = Movie(
+                        id=row["id"],
+                        title=row["title"],
+                        country=row["country"],
+                        release_year=row["release_year"],
+                        duration=row["duration"],
+                        description=row["description"],
+                        image=row["poster"],
+                    )
+                    movie.save([platform], genres)
+                    new_movies += 1
+                else:
+                    movie.update([platform], genres)
+                    updated_movies += 1
         except Exception as e:
+            duplicated_ids += 1
             print(e)
             print("Error adding movie: " + row["title"])
-        # if index >= 100:
-        #     break
 
     print("New movies: " + str(new_movies))
     print("Updated movies: " + str(updated_movies))
+    print("Duplicated ids: " + str(duplicated_ids))
 
 
 def load_amazon_csv(path):
@@ -115,162 +122,9 @@ def load_hbo_max_csv(path):
     df = df.query('type == "Movie"')
     load_movies(df, hbo_max)
 
-def equalize_genres(genres1, genres2):
-    genres1 = genres1.split(", ")
-    for genre in genres1:
-        if genre not in genres2:
-            genres2 += ", " + genre
 
-    return genres2
-
-def load_api_movies():
-    disneyplus = Platform.get_by_name("Disney+")
-    if disneyplus is None:
-        disneyplus = Platform()
-        disneyplus.name = "Disney+"
-        disneyplus.save()
-    paramount = Platform.get_by_name("Paramount+")
-    if paramount is None:
-        paramount = Platform()
-        paramount.name = "Paramount+"
-        paramount.save()
-    showtime = Platform.get_by_name("Showtime")
-    if showtime is None:
-        showtime = Platform()
-        showtime.name = "Showtime"
-        showtime.save()
-    zee5 = Platform.get_by_name("ZEE5")
-    if zee5 is None:
-        zee5 = Platform()
-        zee5.name = "ZEE5"
-        zee5.save()
-    peacock = Platform.get_by_name("Peacock")
-    if peacock is None:
-        peacock = Platform()
-        peacock.name = "Peacock"
-        peacock.save()
-    starz = Platform.get_by_name("Starz")
-    if starz is None:
-        starz = Platform()
-        starz.name = "Starz"
-        starz.save()
-    mubi = Platform.get_by_name("Mubi")
-    if mubi is None:
-        mubi = Platform()
-        mubi.name = "Mubi"
-        mubi.save()
-    itunes = Platform.get_by_name("iTunes")
-    if itunes is None:
-        itunes = Platform()
-        itunes.name = "iTunes"
-        itunes.save()   
-    apple = Platform.get_by_name("AppleTV+")
-    if apple is None:
-        apple = Platform()
-        apple.name = "AppleTV+"
-        apple.save()
-
-    stravdf = load_csv("../datasets/strav_dataset.csv")
-    stravdf.rename(columns = {'tmdbID':'id'}, inplace = True)
-    stravdf.drop(["overview"], axis=1, inplace=True)
-    stravdf.drop(["originalLanguage"], axis=1, inplace=True)
-    stravdf.drop(["year"], axis=1, inplace=True)
-
-    tmdbdf = load_csv("../datasets/tmdb_dataset.csv")
-    tmdbdf.drop(["title"], axis=1, inplace=True)
-    tmdbdf.drop(["vote_average"], axis=1, inplace=True)
-    tmdbdf.drop(["popularity"], axis=1, inplace=True)
-
-    df = pd.merge(stravdf, tmdbdf, on="id")
-
-    # unnecessary column
-    df.drop(["id"], axis=1, inplace=True)
-
-    # compare genres on both datasets
-    for i, row in df.iterrows():
-        if df.at[i,'genres'] != df.at[i,'genre_ids']:
-            df.at[i,'genres'] = equalize_genres(df.at[i,'genres'], df.at[i,'genre_ids'])
-    
-    df.drop(["genre_ids"], axis=1, inplace=True)
-
-    # now integrate utelly
-
-    utellydf = load_csv("../datasets/utelly_dataset.csv")
-    utellydf.drop(["name"], axis=1, inplace=True)
-
-    df.rename(columns = {'imdbID':'id'}, inplace = True)
-    df = pd.merge(df, utellydf, on="id")
-
-    # iterate, unify streaming services and rating
-    for i, row in df.iterrows():
-        if df.at[i,'streamingInfo.disney.us.added'] > 0:
-            if "Disney+" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Disney+"
-        if df.at[i,'streamingInfo.paramount.us.added'] > 0:
-            if "Paramount+" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Paramount+"
-        if df.at[i,'streamingInfo.showtime.us.added'] > 0:
-            if "Showtime" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Showtime"
-        if df.at[i,'streamingInfo.hulu.us.added'] > 0:
-            if "Hulu" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Hulu"
-        if df.at[i,'streamingInfo.hulu.us.added'] > 0:
-            if "Netflix" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Netflix"
-        if df.at[i,'streamingInfo.prime.us.added'] > 0:
-            if "Amazon Prime Video" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Amazon Prime Video"
-        if df.at[i,'streamingInfo.hbo.us.added'] > 0:
-            if "HBO Max" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", HBO Max"
-        if df.at[i,'streamingInfo.zee5.us.added'] > 0:
-            if "ZEE5" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", ZEE5"
-        if df.at[i,'streamingInfo.peacock.us.added'] > 0:
-            if "Peacock" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Peacock"
-        if df.at[i,'streamingInfo.starz.us.added'] > 0:
-            if "Starz" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Starz"
-        if df.at[i,'streamingInfo.mubi.us.added'] > 0:
-            if "Starz" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", Mubi"
-        if df.at[i,'streamingInfo.apple.us.added'] > 0:
-            if "AppleTV+" not in str(df.at[i,'streaming_services']):
-                df.at[i,'streaming_services'] = str(df.at[i,'streaming_services']) + ", AppleTV+"
-        df.at[i,'imdbRating'] = (df.at[i,'imdbRating'] + df.at[i,'tmdbRating'])/2
-    
-    df.drop(["streamingInfo.disney.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.paramount.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.showtime.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.hulu.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.netflix.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.prime.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.hbo.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.zee5.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.peacock.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.starz.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.mubi.us.added"], axis=1, inplace=True)
-    df.drop(["streamingInfo.apple.us.added"], axis=1, inplace=True)
-    
-    df.drop(["streamingInfo.disney.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.paramount.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.showtime.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.hulu.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.netflix.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.prime.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.hbo.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.zee5.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.peacock.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.starz.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.mubi.us.leaving"], axis=1, inplace=True)
-    df.drop(["streamingInfo.apple.us.leaving"], axis=1, inplace=True)
-    
-    df.rename(columns = {'posterURLs.original':'poster'}, inplace = True)
-    df.drop(["tmdbRating"], axis=1, inplace=True)
-    df.rename(columns = {'imdbRating':'rating'}, inplace = True)
-
+def load_api_movies(path):
+    df = load_csv(path)
     new_movies = 0
     updated_movies = 0
     for i, row in df.iterrows():
@@ -279,22 +133,30 @@ def load_api_movies():
             if not pd.isna(row["genres"]):
                 genres = insert_genres(row["genres"].split(", "))
 
-            movie = Movie.get_by_title(row["title"])
+            platforms = []
+            if not pd.isna(row["streaming_services"]):
+                for platform_name in row["streaming_services"].split(", "):
+                    platform = Platform.get_by_name(platform_name)
+                    if platform is not None:
+                        platforms.append(platform)
+
+            movie = Movie.get_by_id(row["id"])
 
             if movie is None:
                 movie = Movie(
+                    id=row["id"],
                     title=row["title"],
-                    country=row["countries"], # es un string de lista? formatear
-                    release_year=row["release_date"], # formatear
+                    country=row["countries"],  # es un string de lista? formatear
+                    release_year=row["release_year"],
                     duration=row["runtime"],
                     description=row["overview"],
-                    # rating=row["rating"]
+                    image=row["poster"],
                 )
                 new_movies += 1
-                movie.save(row["streaming_services"].split(", "), genres)
+                movie.save(platforms, genres)
             else:
                 updated_movies += 1
-                movie.update(row["streaming_services"].split(", "), genres)
+                movie.update(platforms, genres)
         except Exception as e:
             print(e)
             print("Error adding movie: " + row["title"])
@@ -302,19 +164,89 @@ def load_api_movies():
     print("New movies: " + str(new_movies))
     print("Updated movies: " + str(updated_movies))
 
+
+def load_movies_on_streaming_platforms(path):
+    df = load_csv(path)
+    new_movies = 0
+    updated_movies = 0
+    netflix = Platform.get_by_name("Netflix")
+    if not netflix:
+        netflix = Platform()
+        netflix.name = "Netflix"
+        netflix.save()
+
+    amazon = Platform.get_by_name("Amazon Prime Video")
+    if not amazon:
+        amazon = Platform()
+        amazon.name = "Amazon Prime Video"
+        amazon.save()
+
+    hulu = Platform.get_by_name("Hulu")
+    if not hulu:
+        hulu = Platform()
+        hulu.name = "Hulu"
+        hulu.save()
+    disney = Platform.get_by_name("Disney+")
+    if not disney:
+        disney = Platform()
+        disney.name = "Disney+"
+        disney.save()
+
+    for i, row in df.iterrows():
+
+        if pd.isna(row["id"]):
+            continue
+        list_of_platforms = []
+        if row["Netflix"] == 1:
+            list_of_platforms.append(netflix)
+
+        if row["Prime Video"] == 1:
+            list_of_platforms.append(amazon)
+
+        if row["Hulu"] == 1:
+            list_of_platforms.append(hulu)
+
+        if row["Disney+"] == 1:
+            list_of_platforms.append(disney)
+
+        movie = Movie.get_by_id(row["id"])
+        if movie is None:
+            movie = Movie(
+                id=row["id"],
+                title=row["title"],
+                image=row["poster"],
+                release_year=row["Year"],
+            )
+            new_movies += 1
+            movie.save(platforms=list_of_platforms, genres=[])
+        else:
+            updated_movies += 1
+            movie.update(platforms=list_of_platforms, genres=[])
+
+    print("New movies: " + str(new_movies))
+    print("Updated movies: " + str(updated_movies))
+
+
 if __name__ == "__main__":
     time = datetime.now()
-    load_amazon_csv("../datasets/amazon_prime_titles.csv")
+    load_amazon_csv("../datasets/amazon_prime_titles_updatedIDs_poster.csv")
     print("Amazon Prime Video: " + str(datetime.now() - time))
     time = datetime.now()
-    load_netflix_csv("../datasets/netflix_titles.csv")
+    load_netflix_csv("../datasets/netflix_titles_updatedIDs_poster.csv")
     print("Netflix: " + str(datetime.now() - time))
     time = datetime.now()
-    load_hulu_csv("../datasets/hulu_titles.csv")
+    load_hulu_csv("../datasets/hulu_titles_updatedIDs_poster.csv")
     print("Hulu: " + str(datetime.now() - time))
     time = datetime.now()
-    load_hbo_max_csv("../datasets/hbo_titles.csv")
+    load_hbo_max_csv("../datasets/hbo_titles_updatedIDs_poster.csv")
     print("HBO Max: " + str(datetime.now() - time))
     time = datetime.now()
-    load_api_movies()
+    load_api_movies("../datasets/api_titles_updatedIDs_poster.csv")
     print("APIs: " + str(datetime.now() - time))
+
+    time = datetime.now()
+    load_movies_on_streaming_platforms(
+        "../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv"
+    )
+    print("MoviesOnStreamingPlatforms: " + str(datetime.now() - time))
+    pass

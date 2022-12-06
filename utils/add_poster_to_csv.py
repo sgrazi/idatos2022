@@ -32,8 +32,8 @@ def load_csv_and_fill_ids(path):
     df = pd.read_csv(path)
     if path == "../datasets/amazon_prime_titles_updatedIDs.csv":
         for i, row in df.iterrows():
-            id = query_id(df.at[i,'id'])
-            df.at[i,'poster'] = id
+            id = query_id(df.at[i, "id"])
+            df.at[i, "poster"] = id
     elif path == "../datasets/hbo_titles_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "show_id"])
@@ -48,16 +48,16 @@ def load_csv_and_fill_ids(path):
             df.at[i, "poster"] = id
     elif path == "../datasets/netflix_titles_updatedIDs.csv":
         for i, row in df.iterrows():
-            id = query_id(df.at[i,'id'])
-            df.at[i,'poster'] = id
+            id = query_id(df.at[i, "id"])
+            df.at[i, "poster"] = id
     elif path == "../datasets/utelly_dataset.csv":
         for i, row in df.iterrows():
-            id = query_id(df.at[i,'id'])
-            df.at[i,'poster'] = id
+            id = query_id(df.at[i, "id"])
+            df.at[i, "poster"] = id
     return df
 
 
 if __name__ == "__main__":
     # para preprocesar un dataset
-    df = load_csv_and_fill_ids('../datasets/utelly_dataset.csv')
+    df = load_csv_and_fill_ids("../datasets/utelly_dataset.csv")
     df.to_csv("../datasets/utelly_dataset_poster.csv", index=False)

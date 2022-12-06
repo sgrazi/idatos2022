@@ -24,7 +24,9 @@ def list_movies():
         title = args.get("title")
         Movie = tables["Movies"]
         if title:
-            movies = db.session.query(Movie).filter(Movie.title.like(f"%{title}%")).all()
+            movies = (
+                db.session.query(Movie).filter(Movie.title.like(f"%{title}%")).all()
+            )
         else:
             movies = db.session.query(Movie).limit(20).all()
 
