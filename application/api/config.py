@@ -6,11 +6,11 @@ DEBUG = True
 # configuracion BD
 
 POSTGRES = {
-    "user": "admin",
-    "pw": "admin",
+    "user": "postgres",
+    "pw": "master",
     "db": "idatos2022",
     "host": "localhost",
     "port": "5432",
 }
 SQLALCHEMY_TRACK_MODIFICATIONS = False
-SQLALCHEMY_DATABASE_URI = "postgresql://admin:admin@localhost:5432/idatos2022"
+SQLALCHEMY_DATABASE_URI = "postgresql://postgres:master@localhost:5432/idatos2022"

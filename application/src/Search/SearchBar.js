@@ -23,7 +23,6 @@ const SearchBar = ({setMovies}) => {
       }
     })
       .then(response => {
-        console.log(response.data.movies)
         setMovies(response.data.movies)
       })
       .catch(err => console.log(err))

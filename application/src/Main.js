@@ -37,7 +37,11 @@ function Main() {
     ,[movies])
 
     return (
-      <div className="App">
+      <div style={{
+        margin: "auto",
+        paddingRight: 80,
+        paddingLeft: 80,
+      }}>
         <Search setMovies={setMovies}/>
         <TableContainer style={{
           width: "auto",
@@ -54,6 +58,7 @@ function Main() {
                 <TableCell>Descripcion</TableCell>
                 <TableCell align="right">Año</TableCell>
                 <TableCell align="right">Duración</TableCell>
+                <TableCell>Rating</TableCell>
                 <TableCell>Servicios</TableCell>
                 <TableCell>Género</TableCell>
               </TableRow>
@@ -61,15 +66,16 @@ function Main() {
             <TableBody>
               {rows.map((row) => (
                 <TableRow
-                  key={row.name}
+                  key={row.id}
                 >
-                  <TableCell> <img src="https://m.media-amazon.com/images/M/MV5BOGJlZGJiN2ItM2VlMi00NWQ5LWJkYzYtMWY2MmJhMTFlNGQ3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg" alt="" border="3" height="100" width="70"/></TableCell>
-                  <TableCell scope="row">{row.name}</TableCell>
+                  <TableCell> <img src={row.image} alt="" border="3" height="100" width="70"/></TableCell>
+                  <TableCell scope="row"><a href={"https://www.imdb.com/title/"+row.id}>{row.name}</a></TableCell>
                   <TableCell>{row.description}</TableCell>
                   <TableCell align="right">{row.release_year}</TableCell>
                   <TableCell align="right">{row.duration}</TableCell>
-                  <TableCell>{row.services}</TableCell>
-                  <TableCell>{row.genres}</TableCell>
+                  <TableCell>{row.rating}/100</TableCell>
+                  <TableCell>{row.services.toString()}</TableCell>
+                  <TableCell>{row.genres.toString()}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
