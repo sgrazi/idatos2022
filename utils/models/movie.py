@@ -1,5 +1,6 @@
 from db import SingletonDatabase
 from sqlalchemy.orm import relationship
+from datetime import datetime
 
 db = SingletonDatabase.get_instance()
 
@@ -82,6 +83,8 @@ class Movie(db.Base):
                     movie_genre.genre_id = genre.id
                     db.session.add(movie_genre)
 
+            self.updated_at = datetime.now()
+            # db.session.refresh()
             db.session.commit()
         except Exception as e:
             print(e)

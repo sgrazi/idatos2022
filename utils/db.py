@@ -4,6 +4,7 @@ from sqlalchemy.orm import sessionmaker
 
 POSTGRES_URL = "postgresql://admin:admin@localhost:5432/idatos2022"
 
+
 class SingletonDatabase:
     __instance = None
 

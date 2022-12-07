@@ -244,7 +244,9 @@ if __name__ == "__main__":
     load_api_movies("../datasets/api_titles_updatedIDs_poster.csv")
     print("APIs: " + str(datetime.now() - time))
     time = datetime.now()
-    load_movies_on_streaming_platforms("../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv")
+    load_movies_on_streaming_platforms(
+        "../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv"
+    )
     print("MoviesOnStreamingPlatforms: " + str(datetime.now() - time))
     print("TIEMPO TOTAL:" + str(time1 - datetime.now()))
     pass
