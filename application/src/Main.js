@@ -10,6 +10,7 @@ import { useEffect, useState } from 'react';
 
 function Main() {
     const [movies, setMovies] = useState([{
+      image: "https://m.media-amazon.com/images/M/MV5BMjMyMjBiOTMtZDhhNi00YzVhLWE5MWUtZGExZGNlMGM3Y2RhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
       country: "Canada",
       description: "A small fishing village must procure a local doctor to secure a lucrative business contract. When unlikely candidate and big city doctor Paul Lewis lands in their lap for a trial residence, the townsfolk rally together to charm him into staying. As the doctor's time in the village winds to a close, acting mayor Murray French has no choice but to pull out all the stops.",
       duration: "113 min",
@@ -17,7 +18,7 @@ function Main() {
         "COMEDY",
         "DRAMA"
       ],
-      id: 1,
+      id: "tt2319580",
       platforms: [
         "Amazon Prime Video"
       ],
@@ -30,7 +31,8 @@ function Main() {
     useEffect(() => {
       setRows(
         movies.map((movie) => {
-          return { name: movie.title, description: movie.description, release_year: movie.release_year, duration: movie.duration, services: movie.platforms, genres: movie.genres}
+          // console.log(movie)
+          return { image: movie.image, id: movie.id, name: movie.title, description: movie.description, release_year: movie.release_year, duration: movie.duration, services: movie.platforms, genres: movie.genres}
         })
       )
     }
@@ -41,6 +43,7 @@ function Main() {
         margin: "auto",
         paddingRight: 80,
         paddingLeft: 80,
+        paddingBottom: 80,
       }}>
         <Search setMovies={setMovies}/>
         <TableContainer style={{

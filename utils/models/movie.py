@@ -24,7 +24,7 @@ class Movie(db.Base):
     platforms = relationship("MoviePlatform")
 
     def __repr__(self):
-        return f"Movie(id={self.id}, title={self.title}, country={self.country}, release_year={self.release_year}, duration={self.duration}, description={self.description})"
+        return f"Movie(id={self.id}, title={self.title}, country={self.country}, release_year={self.release_year}, duration={self.duration}, description={self.description}, image={self.image})"
 
     @staticmethod
     def get_by_id(id):

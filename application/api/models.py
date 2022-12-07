@@ -39,6 +39,7 @@ def load_tables(base):
                 "description": self.description,
                 "genres": genres,
                 "platforms": pltaforms,
+                "image": self.image
             }
 
     tables = {
