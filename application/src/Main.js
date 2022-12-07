@@ -61,7 +61,6 @@ function Main() {
                 <TableCell>Descripcion</TableCell>
                 <TableCell align="right">Año</TableCell>
                 <TableCell align="right">Duración</TableCell>
-                <TableCell>Rating</TableCell>
                 <TableCell>Servicios</TableCell>
                 <TableCell>Género</TableCell>
               </TableRow>
@@ -76,7 +75,6 @@ function Main() {
                   <TableCell>{row.description}</TableCell>
                   <TableCell align="right">{row.release_year}</TableCell>
                   <TableCell align="right">{row.duration}</TableCell>
-                  <TableCell>{row.rating}/100</TableCell>
                   <TableCell>{row.services.toString()}</TableCell>
                   <TableCell>{row.genres.toString()}</TableCell>
                 </TableRow>
