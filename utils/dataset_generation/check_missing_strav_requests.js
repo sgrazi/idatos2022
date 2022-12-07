@@ -7,7 +7,7 @@ fs.readFile('imdbIDS.txt', 'utf8', (err, data) => {
         return;
     }
     SOURCES = data.split(',')
-    dirname = '../strav-jsons/'
+    dirname = '../../data/strav-jsons/'
     files = []
     fs.readdir(dirname, function(err, filenames) {
         if (err) {

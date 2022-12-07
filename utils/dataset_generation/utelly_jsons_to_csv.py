@@ -3,8 +3,8 @@ import pandas as pd
 from pathlib import Path
 
 dfs = []
-jsons_paths = os.path.join("../utelly-jsons/", "*.json")
-csv_path = Path("../datasets/utelly_dataset.csv")
+jsons_paths = os.path.join("../../data/utelly-jsons/", "*.json")
+csv_path = Path("../../datasets/data/utelly_dataset.csv")
 json_list = glob.glob(jsons_paths)
 for json_file in json_list:
     f = open(json_file)

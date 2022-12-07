@@ -25,8 +25,8 @@ genres = {
 }
 
 dfs = []
-jsons_paths = os.path.join("../strav-jsons/", "*.json")
-csv_path = Path("../datasets/strav_dataset.csv")
+jsons_paths = os.path.join("../../data/strav-jsons/", "*.json")
+csv_path = Path("../../datasets/strav_dataset.csv")
 json_list = glob.glob(jsons_paths)
 for json_file in json_list:
     f = open(json_file)

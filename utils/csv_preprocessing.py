@@ -11,7 +11,7 @@ def query_id(name):
         }
         page = requests.get(
             "https://www.imdb.com/find?q="
-            + name.replace(" ", "%20")
+            + name.replace(" ", "%20").replace("#", "%23")
             + "&s=tt&ref_=fn_al_tt_mr",
             headers=headers,
         )

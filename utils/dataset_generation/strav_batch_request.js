@@ -36,7 +36,7 @@ fs.readFile('imdbIDS.txt', 'utf8', (err, data) => {
   
       axios.request(options).then(function (response) {  
         var jsonContent = JSON.stringify(response.data,null,3);
-        fs.writeFile('../strav-jsons/'+SOURCE+'.json', jsonContent, 'utf8', function (err) {
+        fs.writeFile('../../data/strav-jsons/'+SOURCE+'.json', jsonContent, 'utf8', function (err) {
             if (err) {
                 console.log("An error occured while writing JSON Object to File.");
                 return console.log(err);

@@ -30,27 +30,27 @@ def query_id(movieid):
 def load_csv_and_fill_ids(path):
     # demora, mucho
     df = pd.read_csv(path)
-    if path == "../datasets/amazon_prime_titles_updatedIDs.csv":
+    if path == "../../datasets/amazon_prime_titles_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "id"])
             df.at[i, "poster"] = id
-    elif path == "../datasets/hbo_titles_updatedIDs.csv":
+    elif path == "../../datasets/hbo_titles_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "show_id"])
             df.at[i, "poster"] = id
-    elif path == "../datasets/hulu_titles_updatedIDs.csv":
+    elif path == "../../datasets/hulu_titles_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "id"])
             df.at[i, "poster"] = id
-    elif path == "../datasets/MoviesOnStreamingPlatforms_updatedIDs.csv":
+    elif path == "../../datasets/MoviesOnStreamingPlatforms_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "id"])
             df.at[i, "poster"] = id
-    elif path == "../datasets/netflix_titles_updatedIDs.csv":
+    elif path == "../../datasets/netflix_titles_updatedIDs.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "id"])
             df.at[i, "poster"] = id
-    elif path == "../datasets/utelly_dataset.csv":
+    elif path == "../../datasets/utelly_dataset.csv":
         for i, row in df.iterrows():
             id = query_id(df.at[i, "id"])
             df.at[i, "poster"] = id
@@ -59,5 +59,5 @@ def load_csv_and_fill_ids(path):
 
 if __name__ == "__main__":
     # para preprocesar un dataset
-    df = load_csv_and_fill_ids("../datasets/utelly_dataset.csv")
-    df.to_csv("../datasets/utelly_dataset_poster.csv", index=False)
+    df = load_csv_and_fill_ids("../../datasets/utelly_dataset.csv")
+    df.to_csv("../../datasets/utelly_dataset_poster.csv", index=False)

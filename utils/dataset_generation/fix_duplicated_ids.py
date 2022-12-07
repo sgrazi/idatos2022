@@ -42,13 +42,13 @@ def correct_ids(path):
 
 if __name__ == "__main__":
     # para preprocesar un dataset
-    # df = correct_ids('../datasets/amazon_prime_titles_updatedIDs_poster.csv')
-    # df.to_csv("../datasets/amazon_prime_titles_updatedIDs_poster2.csv", index=False)
-    # df = correct_ids('../datasets/hbo_titles_updatedIDs_poster.csv')
-    # df.to_csv("../datasets/hbo_titles_updatedIDs_poster2.csv", index=False)
-    # df = correct_ids('../datasets/hulu_titles_updatedIDs_poster.csv')
-    # df.to_csv("../datasets/hulu_titles_updatedIDs_poster2.csv", index=False)
-    # df = correct_ids('../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv')
-    # df.to_csv("../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster2.csv", index=False)
-    df = correct_ids("../datasets/netflix_titles_updatedIDs_poster.csv")
-    df.to_csv("../datasets/netflix_titles_updatedIDs_poster2.csv", index=False)
+    # df = correct_ids('../../datasets/amazon_prime_titles_updatedIDs_poster.csv')
+    # df.to_csv("../../datasets/amazon_prime_titles_updatedIDs_poster2.csv", index=False)
+    # df = correct_ids('../../datasets/hbo_titles_updatedIDs_poster.csv')
+    # df.to_csv("../../datasets/hbo_titles_updatedIDs_poster2.csv", index=False)
+    # df = correct_ids('../../datasets/hulu_titles_updatedIDs_poster.csv')
+    # df.to_csv("../../datasets/hulu_titles_updatedIDs_poster2.csv", index=False)
+    # df = correct_ids('../../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv')
+    # df.to_csv("../../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster2.csv", index=False)
+    df = correct_ids("../../datasets/netflix_titles_updatedIDs_poster.csv")
+    df.to_csv("../../datasets/netflix_titles_updatedIDs_poster2.csv", index=False)

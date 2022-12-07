@@ -228,9 +228,9 @@ def load_movies_on_streaming_platforms(path):
 
 
 if __name__ == "__main__":
-    time = datetime.now()
+    time1 = datetime.now()
     load_amazon_csv("../datasets/amazon_prime_titles_updatedIDs_poster.csv")
-    print("Amazon Prime Video: " + str(datetime.now() - time))
+    print("Amazon Prime Video: " + str(datetime.now() - time1))
     time = datetime.now()
     load_netflix_csv("../datasets/netflix_titles_updatedIDs_poster.csv")
     print("Netflix: " + str(datetime.now() - time))
@@ -243,10 +243,8 @@ if __name__ == "__main__":
     time = datetime.now()
     load_api_movies("../datasets/api_titles_updatedIDs_poster.csv")
     print("APIs: " + str(datetime.now() - time))
-
     time = datetime.now()
-    load_movies_on_streaming_platforms(
-        "../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv"
-    )
+    load_movies_on_streaming_platforms("../datasets/MoviesOnStreamingPlatforms_updatedIDs_poster.csv")
     print("MoviesOnStreamingPlatforms: " + str(datetime.now() - time))
+    print("TIEMPO TOTAL:" + str(time1 - datetime.now()))
     pass
